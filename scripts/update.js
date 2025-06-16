@@ -8,14 +8,12 @@ const afadUrl = `https://deprem.afad.gov.tr/apiv2/event/filter?start=${start}&en
 
 try {
   const response = await fetch(afadUrl);
-  if (!response.ok) {
-    throw new Error(`HTTP ${response.status}`);
-  }
-
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
   const afadData = await response.json();
+
   fs.writeFileSync("afad-depremler.json", JSON.stringify(afadData, null, 2));
   console.log("✅ AFAD verisi başarıyla yazıldı.");
 } catch (err) {
   console.error("❌ AFAD verisi alınamadı:", err.message);
-  process.exit(0);
+  process.exit(0); // hata olsa bile flow dursun
 }
