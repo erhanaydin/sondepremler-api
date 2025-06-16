@@ -1,7 +1,39 @@
 {
-  "lastUpdate": "2025-06-16T23:12:56.932Z",
+  "lastUpdate": "2025-06-16T23:30:08.116Z",
   "source": "AFAD",
   "data": [
+    {
+      "title": "ALTIEYLÜL-BALIKESIR",
+      "type": "İlksel",
+      "date": "2025-06-16 22:39:57",
+      "lat": 39.37417,
+      "lng": 27.91972,
+      "depth": "7.01",
+      "coordinates": [
+        27.91972,
+        39.37417
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.91972,
+            39.37417
+          ]
+        },
+        "properties": {
+          "place": "Altıeylül (Balıkesir)",
+          "time": "2025-06-16 22:39:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025-06-16",
+      "date_hour": "22:39:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAZIHAN-MALATYA",
       "type": "İlksel",
@@ -13793,70 +13825,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "İSTANBUL"
-    },
-    {
-      "title": "TOPRAKKALE-OSMANIYE",
-      "type": "İlksel",
-      "date": "2025-06-11 23:19:55",
-      "lat": 37.0225,
-      "lng": 36.12028,
-      "depth": "15.85",
-      "coordinates": [
-        36.12028,
-        37.0225
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.12028,
-            37.0225
-          ]
-        },
-        "properties": {
-          "place": "Toprakkale (Osmaniye)",
-          "time": "2025-06-11 23:19:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025-06-11",
-      "date_hour": "23:19:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "OSMANIYE"
-    },
-    {
-      "title": "SURUÇ-ŞANLIURFA",
-      "type": "İlksel",
-      "date": "2025-06-11 23:15:07",
-      "lat": 36.99333,
-      "lng": 38.49167,
-      "depth": "13.7",
-      "coordinates": [
-        38.49167,
-        36.99333
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.49167,
-            36.99333
-          ]
-        },
-        "properties": {
-          "place": "Suruç (Şanlıurfa)",
-          "time": "2025-06-11 23:15:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025-06-11",
-      "date_hour": "23:15:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ŞANLIURFA"
     }
   ]
 }

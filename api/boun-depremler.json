@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-16T23:13:07.143Z",
+  "lastUpdate": "2025-06-16T23:30:14.408Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KABAKDERE-(BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.06.17 02:07:10",
+      "lat": 39.6615,
+      "lng": 27.8325,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "7.4",
+      "coordinates": [
+        27.8325,
+        39.6615
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.8325,
+            39.6615
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KABAKDERE-(BALIKESIR)",
+          "time": "2025.06.17 02:07:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.17",
+      "date_hour": "02:07:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.06.10 13:53:17",
-      "lat": 35.8042,
-      "lng": 30.8892,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "10.5",
-      "coordinates": [
-        30.8892,
-        35.8042
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.8892,
-            35.8042
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "AKDENIZ",
-          "time": "2025.06.10 13:53:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.10",
-      "date_hour": "13:53:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
