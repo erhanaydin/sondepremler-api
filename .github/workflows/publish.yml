@@ -22,8 +22,11 @@ jobs:
       - name: Bağımlılıkları yükle
         run: npm install
 
-      - name: Veriyi çek ve yaz
+      - name: AFAD verisini çek ve yaz
         run: node scripts/update.js
+
+      - name: Boğaziçi verisini çek ve yaz
+        run: node scripts/boun.js
 
       - name: Public repo'yu klonla
         run: |
@@ -36,13 +39,16 @@ jobs:
       - name: Hedef klasörü oluştur
         run: mkdir -p out/api
 
-      - name: JSON dosyasını kopyala
+      - name: JSON dosyasını kopyala (AFAD)
         run: cp afad-depremler.json out/api/afad-depremler.json
+
+      - name: JSON dosyasını kopyala (Boğaziçi)
+        run: cp boun-depremler.json out/api/boun-depremler.json
 
       - name: Değişiklikleri commit & push et
         run: |
           cd out
-          git add api/afad-depremler.json
+          git add api/afad-depremler.json api/boun-depremler.json
           git commit -m "Veri güncellendi: $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
           git push https://$PUBLIC_REPO_TOKEN@github.com/erhanaydin/sondepremler-api.git main
         env:
