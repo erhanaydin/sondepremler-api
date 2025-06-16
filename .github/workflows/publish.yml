@@ -1,8 +1,9 @@
+# .github/workflows/publish.yml
 name: Günlük Deprem Verileri Güncellemesi
 
 on:
   schedule:
-    - cron: "*/3 * * * *"  # Her 3 dakikada bir çalışır
+    - cron: "*/3 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,8 +11,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Repo'yu klonla (çalışma repo)
+      - name: Repo'yu klonla (main branch)
         uses: actions/checkout@v3
+        with:
+          ref: main
 
       - name: Node.js kurulumu
         uses: actions/setup-node@v3
@@ -30,25 +33,19 @@ jobs:
       - name: USGS verisini al
         run: node scripts/usgs.js
 
-      - name: Geçici çıkış dizinini oluştur
-        run: mkdir -p out/api
+      - name: /api klasörünü oluştur
+        run: mkdir -p api
 
-      - name: JSON dosyalarını kopyala
+      - name: JSON dosyalarını taşı
         run: |
-          cp afad-depremler.json out/api/afad-depremler.json
-          cp boun-depremler.json out/api/boun-depremler.json
-          cp usgs-depremler.json out/api/usgs-depremler.json
+          mv afad-depremler.json api/afad-depremler.json
+          mv boun-depremler.json api/boun-depremler.json
+          mv usgs-depremler.json api/usgs-depremler.json
 
-      - name: Git ayarlarını yap
+      - name: Commit ve Push
         run: |
-          cd out
-          git init
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add .
-          git commit -m "Veri güncellendi: $(date '+%Y-%m-%d %H:%M:%S')"
-
-      - name: Public repo'ya pushla (gh-pages branch)
-        run: |
-          cd out
-          git push --force "https://x-access-token:${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/erhanaydin/sondepremler-api.git" main:gh-pages
+          git add api/*.json
+          git commit -m "🔄 JSON güncellendi: $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push
