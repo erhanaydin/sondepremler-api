@@ -3,6 +3,7 @@ import fs from 'fs';
 import { parse } from 'node-html-parser';
 
 const url = "http://www.koeri.boun.edu.tr/scripts/lst5.asp";
+const now = new Date().toISOString();
 
 try {
   const response = await fetch(url);
@@ -33,7 +34,13 @@ try {
       };
     });
 
-  fs.writeFileSync("boun-depremler.json", JSON.stringify(data, null, 2));
+  const payload = {
+    lastUpdate: now,
+    source: "Boğaziçi",
+    data
+  };
+
+  fs.writeFileSync("boun-depremler.json", JSON.stringify(payload, null, 2));
   console.log(`✅ ${data.length} satır verisi yazıldı.`);
 } catch (err) {
   console.error("❌ Boğaziçi verisi alınamadı:", err.message);
