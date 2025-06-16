@@ -1,49 +1,52 @@
-// scripts/usgs.js
 import fetch from 'node-fetch';
 import fs from 'fs';
 
-const url = `https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minlatitude=35&maxlatitude=43&minlongitude=25&maxlongitude=45&orderby=time&limit=200`;
+const url = 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson';
 
 try {
   const response = await fetch(url);
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
-  const json = await response.json();
-  const earthquakes = json.features.map((f) => {
-    const coords = f.geometry.coordinates;
-    const props = f.properties;
-    const date = new Date(props.time);
+  const data = await response.json();
 
-    return {
-      title: props.place || "Unknown",
-      type: props.status || "",
-      date: date.toISOString().replace("T", " ").split(".")[0],
-      lat: coords[1],
-      lng: coords[0],
-      md: "-.-",
-      ml: props.mag?.toFixed(1) || "-.-",
-      mw: "-.-",
-      depth: coords[2]?.toFixed(1) || "-.-",
-      coordinates: [coords[0], coords[1]],
-      geojson: f,
-      location_properties: "",
-      date_day: date.toISOString().slice(0, 10),
-      date_hour: date.toISOString().slice(11, 19),
-      timestamp: props.time,
-      location_tz: "",
-      city: props.place?.split("(")[1]?.replace(")", "") || ""
-    };
-  });
+  const payload = data.features
+    .map(eq => {
+      const props = eq.properties;
+      const coords = eq.geometry.coordinates;
 
-  const payload = {
-    lastUpdate: new Date().toISOString(),
-    source: "USGS",
-    data: earthquakes
-  };
+      // Türkiye çevresini hedefle (örnek: enlem 35-43, boylam 25-45)
+      const lat = coords[1];
+      const lng = coords[0];
+      if (lat < 35 || lat > 43 || lng < 25 || lng > 45) return null;
+
+      const dateObj = new Date(props.time);
+      const date = dateObj.toISOString().split('T')[0].replace(/-/g, '.');
+      const time = dateObj.toTimeString().split(' ')[0];
+
+      return {
+        title: props.place,
+        type: props.status === "reviewed" ? "Revize" : "İlksel",
+        date: `${date} ${time}`,
+        lat,
+        lng,
+        md: "-.-",
+        ml: "-.-",
+        mw: props.mag?.toString() || "-.-",
+        depth: coords[2]?.toFixed(1) || "-.-",
+        coordinates: [lat, lng],
+        geojson: eq.geometry,
+        location_properties: "",
+        date_day: date,
+        date_hour: time,
+        timestamp: false,
+        location_tz: "",
+        city: ""
+      };
+    })
+    .filter(Boolean);
 
   fs.writeFileSync("api/usgs-depremler.json", JSON.stringify(payload, null, 2));
-  console.log(`✅ USGS verisi yazıldı (${earthquakes.length} kayıt)`);
-
+  console.log(`✅ USGS verisi işlendi (${payload.length} kayıt).`);
 } catch (err) {
   console.error("❌ USGS verisi alınamadı:", err.message);
   process.exit(0);
