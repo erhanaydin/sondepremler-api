@@ -1,14 +1,15 @@
+---
+# .github/workflows/publish.yml
 name: Deprem Verilerini Yayınla
 
 on:
   schedule:
-    - cron: "*/2 * * * *" # 2 dakikada bir
+    - cron: "*/10 * * * *"  # Her 10 dakikada bir çalışır
   workflow_dispatch:
 
 jobs:
   publish:
     runs-on: ubuntu-latest
-
     steps:
       - name: Reposu klonla
         uses: actions/checkout@v4
@@ -18,19 +19,26 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Veriyi çek ve yaz
-        run: |
-          mkdir -p temp
-          node scripts/update.js
+      - name: Bağımlılıkları yükle
+        run: npm install
 
-      - name: Public repo'ya JSON yaz
+      - name: Veriyi çek ve yaz
+        run: node scripts/update.js
+
+      - name: Public repo'yu klonla
         run: |
-          git config --global user.name "Deprem Bot"
-          git config --global user.email "bot@deprem.com"
-          git clone https://x-access-token:${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/erhanaydin/sondepremler-api.git out
-          mkdir -p out/api
-          cp afad-depremler.json out/api/
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git clone --depth=1 --branch=main https://$PUBLIC_REPO_TOKEN@github.com/erhanaydin/sondepremler-api.git out
+
+      - name: JSON dosyasını kopyala
+        run: cp afad-depremler.json out/api/afad-depremler.json
+
+      - name: Değişiklikleri commit & push et
+        run: |
           cd out
-          git add api/
-          git commit -m "🔄 JSON güncellendi $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git add api/afad-depremler.json
+          git commit -m "Veri güncellendi: $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
           git push
+        env:
+          PUBLIC_REPO_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}
