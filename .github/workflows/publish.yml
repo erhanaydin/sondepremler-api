@@ -1,57 +1,54 @@
-# .github/workflows/publish.yml
-name: Güncelle ve Yayınla
+name: Günlük Deprem Verileri Güncellemesi
 
 on:
   schedule:
-    - cron: "*/3 * * * *" # Her 3 dakikada bir
-  push:
-    branches: [main]
+    - cron: "*/3 * * * *"  # Her 3 dakikada bir çalışır
+  workflow_dispatch:
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
-    env:
-      PUBLIC_REPO_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}
 
     steps:
-      - name: Repo'yu klonla
+      - name: Repo'yu klonla (çalışma repo)
         uses: actions/checkout@v3
 
-      - name: Node.js kur
+      - name: Node.js kurulumu
         uses: actions/setup-node@v3
         with:
-          node-version: '20'
+          node-version: 20
 
-      - name: Paketleri yükle
+      - name: Gerekli paketleri yükle
         run: npm install
 
-      - name: AFAD verisini güncelle
+      - name: AFAD verisini al
         run: node scripts/afad.js
 
-      - name: Boğaziçi verisini güncelle
+      - name: Boğaziçi verisini al
         run: node scripts/bogazici.js
 
-      - name: USGS verisini güncelle
+      - name: USGS verisini al
         run: node scripts/usgs.js
 
-      - name: Geçici klasörü hazırla
+      - name: Geçici çıkış dizinini oluştur
         run: mkdir -p out/api
 
-      - name: Dosyaları kopyala
+      - name: JSON dosyalarını kopyala
         run: |
           cp afad-depremler.json out/api/afad-depremler.json
           cp boun-depremler.json out/api/boun-depremler.json
           cp usgs-depremler.json out/api/usgs-depremler.json
 
-      - name: Yayın için yapılandır
+      - name: Git ayarlarını yap
         run: |
           cd out
           git init
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
           git add .
-          git commit -m "Veri güncellendi: $(date +'%Y-%m-%d %H:%M:%S')"
+          git commit -m "Veri güncellendi: $(date '+%Y-%m-%d %H:%M:%S')"
 
-      - name: Yayınla (GitHub Pages)
+      - name: Public repo'ya pushla (gh-pages branch)
         run: |
-          git push --force https://x-access-token:${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/erhanaydin/sondepremler-api.git main:gh-pages
+          cd out
+          git push --force "https://x-access-token:${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/erhanaydin/sondepremler-api.git" main:gh-pages
