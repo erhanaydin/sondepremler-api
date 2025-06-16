@@ -1,7 +1,71 @@
 {
-  "lastUpdate": "2025-06-16T22:29:02.111Z",
+  "lastUpdate": "2025-06-16T22:47:30.181Z",
   "source": "AFAD",
   "data": [
+    {
+      "title": "YAZIHAN-MALATYA",
+      "type": "İlksel",
+      "date": "2025-06-16 22:26:09",
+      "lat": 38.52194,
+      "lng": 38.01694,
+      "depth": "7.01",
+      "coordinates": [
+        38.01694,
+        38.52194
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.01694,
+            38.52194
+          ]
+        },
+        "properties": {
+          "place": "Yazıhan (Malatya)",
+          "time": "2025-06-16 22:26:09"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025-06-16",
+      "date_hour": "22:26:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
+      "title": "ŞARKÖY-TEKIRDAĞ",
+      "type": "İlksel",
+      "date": "2025-06-16 22:20:30",
+      "lat": 40.69111,
+      "lng": 27.21222,
+      "depth": "13.23",
+      "coordinates": [
+        27.21222,
+        40.69111
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.21222,
+            40.69111
+          ]
+        },
+        "properties": {
+          "place": "Şarköy (Tekirdağ)",
+          "time": "2025-06-16 22:20:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025-06-16",
+      "date_hour": "22:20:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "TEKIRDAĞ"
+    },
     {
       "title": "KIĞI-BINGÖL",
       "type": "İlksel",
@@ -13889,102 +13953,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KÜTAHYA"
-    },
-    {
-      "title": "DATÇA-MUĞLA",
-      "type": "İlksel",
-      "date": "2025-06-11 22:43:16",
-      "lat": 35.71306,
-      "lng": 26.15556,
-      "depth": "6.63",
-      "coordinates": [
-        26.15556,
-        35.71306
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.15556,
-            35.71306
-          ]
-        },
-        "properties": {
-          "place": "Ege Denizi - [159.22 km] Datça (Muğla)",
-          "time": "2025-06-11 22:43:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025-06-11",
-      "date_hour": "22:43:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUĞLA"
-    },
-    {
-      "title": "SIMAV-KÜTAHYA",
-      "type": "İlksel",
-      "date": "2025-06-11 22:37:23",
-      "lat": 39.25417,
-      "lng": 28.9675,
-      "depth": "4.78",
-      "coordinates": [
-        28.9675,
-        39.25417
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9675,
-            39.25417
-          ]
-        },
-        "properties": {
-          "place": "Simav (Kütahya)",
-          "time": "2025-06-11 22:37:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025-06-11",
-      "date_hour": "22:37:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KÜTAHYA"
-    },
-    {
-      "title": "BODRUM-MUĞLA",
-      "type": "İlksel",
-      "date": "2025-06-11 22:35:56",
-      "lat": 36.77556,
-      "lng": 25.95917,
-      "depth": "7",
-      "coordinates": [
-        25.95917,
-        36.77556
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.95917,
-            36.77556
-          ]
-        },
-        "properties": {
-          "place": "Ege Denizi",
-          "time": "2025-06-11 22:35:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025-06-11",
-      "date_hour": "22:35:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUĞLA"
     }
   ]
 }
