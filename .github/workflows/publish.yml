@@ -1,51 +1,55 @@
-# .github/workflows/publish.yml
-name: Günlük Deprem Verileri Güncellemesi
+name: Deprem Verilerini Güncelle
 
 on:
   schedule:
-    - cron: "*/3 * * * *"
+    - cron: "*/3 * * * *"  # Her 3 dakikada bir
   workflow_dispatch:
 
 jobs:
-  update:
+  update-data:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Repo'yu klonla (main branch)
-        uses: actions/checkout@v3
-        with:
-          ref: main
+      - name: Repo'yu klonla
+        uses: actions/checkout@v4
 
-      - name: Node.js kurulumu
-        uses: actions/setup-node@v3
+      - name: Node.js kurulum
+        uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Gerekli paketleri yükle
+      - name: Bağımlılıkları yükle
         run: npm install
 
-      - name: AFAD verisini al
-        run: node scripts/afad.js
+      - name: AFAD verisini güncelle
+        run: node scripts/afad.js || echo "AFAD verisi alınamadı"
 
-      - name: Boğaziçi verisini al
-        run: node scripts/bogazici.js
+      - name: Boğaziçi verisini güncelle
+        run: node scripts/bogazici.js || echo "Boğaziçi verisi alınamadı"
 
-      - name: USGS verisini al
-        run: node scripts/usgs.js
+      - name: USGS verisini güncelle
+        run: node scripts/usgs.js || echo "USGS verisi alınamadı"
 
       - name: /api klasörünü oluştur
         run: mkdir -p api
 
       - name: JSON dosyalarını taşı
         run: |
-          mv afad-depremler.json api/afad-depremler.json
-          mv boun-depremler.json api/boun-depremler.json
-          mv usgs-depremler.json api/usgs-depremler.json
+          mv afad-depremler.json api/afad-depremler.json || echo "AFAD JSON yok"
+          mv boun-depremler.json api/boun-depremler.json || echo "BOUN JSON yok"
+          mv usgs-depremler.json api/usgs-depremler.json || echo "USGS JSON yok"
 
-      - name: Commit ve Push
+      - name: README güncelleme (isteğe bağlı)
+        run: node scripts/update-readme.js || echo "README güncellemesi atlandı"
+
+      - name: Git ayarlarını yap
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add api/*.json
-          git commit -m "🔄 JSON güncellendi: $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
-          git push
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Değişiklikleri commit et
+        run: |
+          git add api/*.json README.md || echo "Dosya yok"
+          git commit -m "🔄 Veri güncellendi: $(date '+%Y-%m-%d %H:%M:%S')" || echo "Commit edilecek değişiklik yok"
+
+      - name: Değişiklikleri main branch'e gönder
+        run: git push origin main
