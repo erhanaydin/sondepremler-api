@@ -41,7 +41,7 @@ try {
     data: earthquakes
   };
 
-  fs.writeFileSync("usgs-depremler.json", JSON.stringify(payload, null, 2));
+  fs.writeFileSync("api/usgs-depremler.json", JSON.stringify(payload, null, 2));
   console.log(`✅ USGS verisi yazıldı (${earthquakes.length} kayıt)`);
 
 } catch (err) {
