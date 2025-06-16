@@ -1,19 +1,41 @@
-import fetch from 'node-fetch';
-import fs from 'fs';
+// scripts/update.js
+import fs from 'fs'
+import fetch from 'node-fetch'
 
-const now = new Date();
-const end = now.toISOString().split('.')[0];
-const start = new Date(now - 5 * 24 * 60 * 60 * 1000).toISOString().split('.')[0];
-const afadUrl = `https://deprem.afad.gov.tr/apiv2/event/filter?start=${start}&end=${end}&limit=500&orderby=timedesc`;
+const now = new Date().toISOString()
 
-try {
-  const response = await fetch(afadUrl);
-  if (!response.ok) throw new Error(`HTTP ${response.status}`);
-  const afadData = await response.json();
+async function fetchAndSave(url, path, label) {
+  try {
+    const res = await fetch(url)
+    if (!res.ok) throw new Error(`HTTP ${res.status}`)
+    const data = await res.json()
 
-  fs.writeFileSync("afad-depremler.json", JSON.stringify(afadData, null, 2));
-  console.log("✅ AFAD verisi başarıyla yazıldı.");
-} catch (err) {
-  console.error("❌ AFAD verisi alınamadı:", err.message);
-  process.exit(0); // hata olsa bile flow dursun
+    const payload = {
+      lastUpdate: now,
+      source: label,
+      data
+    }
+
+    fs.writeFileSync(path, JSON.stringify(payload, null, 2))
+    console.log(`✅ ${label} verisi yazıldı: ${path}`)
+  } catch (err) {
+    console.error(`❌ ${label} verisi alınamadı:`, err.message)
+  }
 }
+
+await fetchAndSave(
+  'https://deprem.afad.gov.tr/apiv2/event/filter?start=' +
+    new Date(Date.now() - 5 * 86400000).toISOString() +
+    '&end=' + now +
+    '&limit=500&orderby=timedesc',
+  'afad-depremler.json',
+  'AFAD'
+)
+
+await fetchAndSave(
+  'https://erhanaydin.github.io/sondepremler-api/api/boun-depremler.json',
+  'boun-depremler.json',
+  'Boğaziçi'
+) 
+
+console.log(`✅ Tüm veriler güncellendi. Zaman: ${now}`)
