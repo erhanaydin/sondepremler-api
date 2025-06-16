@@ -1,55 +1,57 @@
----
 # .github/workflows/publish.yml
-name: Deprem Verilerini Yayınla
+name: Güncelle ve Yayınla
 
 on:
   schedule:
-    - cron: "*/3 * * * *"  # Her 10 dakikada bir çalışır
-  workflow_dispatch:
+    - cron: "*/3 * * * *" # Her 3 dakikada bir
+  push:
+    branches: [main]
 
 jobs:
-  publish:
+  build:
     runs-on: ubuntu-latest
+    env:
+      PUBLIC_REPO_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}
+
     steps:
-      - name: Reposu klonla
-        uses: actions/checkout@v4
+      - name: Repo'yu klonla
+        uses: actions/checkout@v3
 
-      - name: Node.js ortamı kur
-        uses: actions/setup-node@v4
+      - name: Node.js kur
+        uses: actions/setup-node@v3
         with:
-          node-version: "20"
+          node-version: '20'
 
-      - name: Bağımlılıkları yükle
+      - name: Paketleri yükle
         run: npm install
 
-      - name: AFAD verisini çek ve yaz
-        run: node scripts/update.js
+      - name: AFAD verisini güncelle
+        run: node scripts/afad.js
 
-      - name: Boğaziçi verisini çek ve yaz
-        run: node scripts/boun.js
+      - name: Boğaziçi verisini güncelle
+        run: node scripts/bogazici.js
 
-      - name: Public repo'yu klonla
-        run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
-          git clone --depth=1 --branch=main https://$PUBLIC_REPO_TOKEN@github.com/erhanaydin/sondepremler-api.git out
-        env:
-          PUBLIC_REPO_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}
+      - name: USGS verisini güncelle
+        run: node scripts/usgs.js
 
-      - name: Hedef klasörü oluştur
+      - name: Geçici klasörü hazırla
         run: mkdir -p out/api
 
-      - name: JSON dosyasını kopyala (AFAD)
-        run: cp afad-depremler.json out/api/afad-depremler.json
+      - name: Dosyaları kopyala
+        run: |
+          cp afad-depremler.json out/api/afad-depremler.json
+          cp boun-depremler.json out/api/boun-depremler.json
+          cp usgs-depremler.json out/api/usgs-depremler.json
 
-      - name: JSON dosyasını kopyala (Boğaziçi)
-        run: cp boun-depremler.json out/api/boun-depremler.json
-
-      - name: Değişiklikleri commit & push et
+      - name: Yayın için yapılandır
         run: |
           cd out
-          git add api/afad-depremler.json api/boun-depremler.json
-          git commit -m "Veri güncellendi: $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
-          git push https://$PUBLIC_REPO_TOKEN@github.com/erhanaydin/sondepremler-api.git main
-        env:
-          PUBLIC_REPO_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}
+          git init
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+          git commit -m "Veri güncellendi: $(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: Yayınla (GitHub Pages)
+        run: |
+          git push --force https://x-access-token:${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/erhanaydin/sondepremler-api.git main:gh-pages
