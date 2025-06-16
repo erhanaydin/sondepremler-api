@@ -1,0 +1,36 @@
+name: Deprem Verilerini Yayınla
+
+on:
+  schedule:
+    - cron: "*/2 * * * *" # 2 dakikada bir
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Reposu klonla
+        uses: actions/checkout@v4
+
+      - name: Node.js ortamı kur
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Veriyi çek ve yaz
+        run: |
+          mkdir -p temp
+          node scripts/update.js
+
+      - name: Public repo'ya JSON yaz
+        run: |
+          git config --global user.name "Deprem Bot"
+          git config --global user.email "bot@deprem.com"
+          git clone https://x-access-token:${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/erhanaydin/sondepremler-api.git out
+          mkdir -p out/api
+          cp afad-depremler.json out/api/
+          cd out
+          git add api/
+          git commit -m "🔄 JSON güncellendi $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push
