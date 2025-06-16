@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-16T23:42:48.069Z",
+  "lastUpdate": "2025-06-16T23:51:13.652Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ERECEK-YAZIHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.06.17 02:44:43",
+      "lat": 38.6272,
+      "lng": 37.9505,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "12.0",
+      "coordinates": [
+        37.9505,
+        38.6272
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.9505,
+            38.6272
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ERECEK-YAZIHAN (MALATYA)",
+          "time": "2025.06.17 02:44:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.17",
+      "date_hour": "02:44:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "KABAKDERE-(BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.10 14:06:47",
-      "lat": 39.201,
-      "lng": 29.0228,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "11.5",
-      "coordinates": [
-        29.0228,
-        39.201
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0228,
-            39.201
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.06.10 14:06:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.10",
-      "date_hour": "14:06:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
