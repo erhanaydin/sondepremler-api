@@ -1,12 +1,23 @@
 const fs = require("fs");
 const https = require("https");
 
-function fetch(url) {
+function fetchJson(url) {
   return new Promise((resolve, reject) => {
     https.get(url, res => {
+      if (res.statusCode !== 200) {
+        reject(new Error(`HTTP ${res.statusCode}`));
+        return;
+      }
       let data = "";
       res.on("data", chunk => data += chunk);
-      res.on("end", () => resolve(data));
+      res.on("end", () => {
+        try {
+          const json = JSON.parse(data);
+          resolve(json);
+        } catch (e) {
+          reject(new Error("AFAD JSON geçersiz"));
+        }
+      });
     }).on("error", reject);
   });
 }
@@ -18,13 +29,12 @@ function fetch(url) {
   const afadUrl = `https://deprem.afad.gov.tr/apiv2/event/filter?start=${start}&end=${end}&limit=500&orderby=timedesc`;
 
   try {
-    const afadRaw = await fetch(afadUrl);
-    const afadParsed = JSON.parse(afadRaw);
-    fs.writeFileSync("afad-depremler.json", JSON.stringify(afadParsed, null, 2));
-    console.log("✅ AFAD verisi yazıldı.");
-  } catch (e) {
-    console.error("❌ AFAD verisi alınamadı", e);
+    const afadData = await fetchJson(afadUrl);
+    fs.writeFileSync("afad-depremler.json", JSON.stringify(afadData, null, 2));
+    console.log("✅ AFAD verisi başarıyla yazıldı.");
+  } catch (err) {
+    console.error("❌ AFAD verisi alınamadı:", err.message);
+    // Dosya yazılmasın, işlem burada dursun
+    process.exit(0); // kritik değilse 0, hata verecekse 1
   }
-
-  // Boğaziçi için istersen html parser ekleyelim
 })();
