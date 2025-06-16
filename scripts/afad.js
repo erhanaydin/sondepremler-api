@@ -58,7 +58,7 @@ try {
     data
   };
 
-  fs.writeFileSync("afad-depremler.json", JSON.stringify(payload, null, 2));
+  fs.writeFileSync("api/afad-depremler.json", JSON.stringify(payload, null, 2));
   console.log(`✅ ${data.length} satır verisi yazıldı.`);
 } catch (err) {
   console.error("❌ AFAD verisi alınamadı:", err.message);
