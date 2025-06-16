@@ -20,6 +20,9 @@ jobs:
       - name: Bağımlılıkları yükle
         run: npm install
 
+      - name: /api klasörünü oluştur
+        run: mkdir -p api
+
       - name: AFAD verisini güncelle
         run: node scripts/afad.js || echo "AFAD verisi alınamadı"
 
@@ -29,8 +32,7 @@ jobs:
       - name: USGS verisini güncelle
         run: node scripts/usgs.js || echo "USGS verisi alınamadı"
 
-      - name: /api klasörünü oluştur
-        run: mkdir -p api
+
 
       - name: JSON dosyalarını taşı
         run: |
