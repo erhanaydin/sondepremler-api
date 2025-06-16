@@ -5,6 +5,9 @@ on:
     - cron: "*/3 * * * *"  # Her 3 dakikada bir çalışır
   workflow_dispatch:
 
+permissions:
+  contents: write  # Push işlemleri için gerekli izin
+
 jobs:
   update-and-publish:
     runs-on: ubuntu-latest
@@ -26,15 +29,12 @@ jobs:
 
       - name: 🌍 AFAD verisini güncelle
         run: node scripts/afad.js
-        continue-on-error: true
 
       - name: 🏛️ Boğaziçi verisini güncelle
         run: node scripts/boun.js
-        continue-on-error: true
 
       - name: 🌐 USGS verisini güncelle
         run: node scripts/usgs.js
-        continue-on-error: true
 
       - name: 🔄 Git ayarları
         run: |
