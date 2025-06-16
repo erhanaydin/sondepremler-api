@@ -1,7 +1,71 @@
 {
-  "lastUpdate": "2025-06-16T23:30:08.116Z",
+  "lastUpdate": "2025-06-16T23:42:41.529Z",
   "source": "AFAD",
   "data": [
+    {
+      "title": "ALTIEYLÜL-BALIKESIR",
+      "type": "İlksel",
+      "date": "2025-06-16 23:07:09",
+      "lat": 39.63917,
+      "lng": 27.84194,
+      "depth": "12.67",
+      "coordinates": [
+        27.84194,
+        39.63917
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.84194,
+            39.63917
+          ]
+        },
+        "properties": {
+          "place": "Altıeylül (Balıkesir)",
+          "time": "2025-06-16 23:07:09"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025-06-16",
+      "date_hour": "23:07:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "BÜYÜKÇEKMECE-İSTANBUL",
+      "type": "İlksel",
+      "date": "2025-06-16 22:43:08",
+      "lat": 40.84944,
+      "lng": 28.39,
+      "depth": "7.72",
+      "coordinates": [
+        28.39,
+        40.84944
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.39,
+            40.84944
+          ]
+        },
+        "properties": {
+          "place": "Marmara Denizi - [19.98 km] Büyükçekmece (İstanbul)",
+          "time": "2025-06-16 22:43:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025-06-16",
+      "date_hour": "22:43:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "İSTANBUL"
+    },
     {
       "title": "ALTIEYLÜL-BALIKESIR",
       "type": "İlksel",
@@ -13793,38 +13857,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KÜTAHYA"
-    },
-    {
-      "title": "BÜYÜKÇEKMECE-İSTANBUL",
-      "type": "İlksel",
-      "date": "2025-06-11 23:33:42",
-      "lat": 40.84389,
-      "lng": 28.36361,
-      "depth": "8.36",
-      "coordinates": [
-        28.36361,
-        40.84389
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.36361,
-            40.84389
-          ]
-        },
-        "properties": {
-          "place": "Marmara Denizi - [21.55 km] Büyükçekmece (İstanbul)",
-          "time": "2025-06-11 23:33:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025-06-11",
-      "date_hour": "23:33:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "İSTANBUL"
     }
   ]
 }
