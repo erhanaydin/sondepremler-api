@@ -71,7 +71,7 @@ try {
     data
   };
 
-  fs.writeFileSync("boun-depremler.json", JSON.stringify(payload, null, 2));
+  fs.writeFileSync("api/boun-depremler.json", JSON.stringify(payload, null, 2));
   console.log(`✅ ${data.length} satır verisi yazıldı.`);
 } catch (err) {
   console.error("❌ Boğaziçi verisi alınamadı:", err.message);
