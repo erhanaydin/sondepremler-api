@@ -30,6 +30,8 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git clone --depth=1 --branch=main https://$PUBLIC_REPO_TOKEN@github.com/erhanaydin/sondepremler-api.git out
+        env:
+          PUBLIC_REPO_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}
 
       - name: Hedef klasörü oluştur
         run: mkdir -p out/api
@@ -42,6 +44,6 @@ jobs:
           cd out
           git add api/afad-depremler.json
           git commit -m "Veri güncellendi: $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
-          git push
+          git push https://$PUBLIC_REPO_TOKEN@github.com/erhanaydin/sondepremler-api.git main
         env:
           PUBLIC_REPO_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}
