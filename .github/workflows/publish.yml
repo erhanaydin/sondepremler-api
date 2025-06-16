@@ -44,7 +44,7 @@ jobs:
       - name: 💾 Değişiklikleri commit et
         run: |
           git add api/
-          git commit -m "📦 Veri güncellendi: $(date '+%Y-%m-%d %H:%M:%S')" || echo "🚫 Commit edilecek değişiklik yok"
+          git commit -m "📦 Veri güncellendi: $(date '+%Y-%m-%d %H:%M:%S')" || echo "Değişiklik yok"
 
       - name: 🚀 Push işlemi
-        run: git push origin main
+        run: git push https://erhanaydin:${{ secrets.GH_PAT }}@github.com/erhanaydin/sondepremler-api.git main
