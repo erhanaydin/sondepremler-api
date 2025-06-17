@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-17T08:44:51.566Z",
+  "lastUpdate": "2025-06-17T08:59:18.652Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YELKAYA-GENC (BINGOL)",
+      "type": "�lksel",
+      "date": "2025.06.17 11:42:33",
+      "lat": 38.5625,
+      "lng": 40.4147,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "12.1",
+      "coordinates": [
+        40.4147,
+        38.5625
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.4147,
+            38.5625
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "YELKAYA-GENC (BINGOL)",
+          "time": "2025.06.17 11:42:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.17",
+      "date_hour": "11:42:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGOL"
+    },
     {
       "title": "CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.11 00:37:39",
-      "lat": 39.244,
-      "lng": 28.9842,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "11.7",
-      "coordinates": [
-        28.9842,
-        39.244
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9842,
-            39.244
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.06.11 00:37:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.11",
-      "date_hour": "00:37:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
