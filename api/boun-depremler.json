@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-17T18:53:33.304Z",
+  "lastUpdate": "2025-06-17T19:08:37.855Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.06.17 21:54:41",
+      "lat": 40.2883,
+      "lng": 24.0767,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "16.0",
+      "coordinates": [
+        24.0767,
+        40.2883
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.0767,
+            40.2883
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "YUNANISTAN",
+          "time": "2025.06.17 21:54:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.17",
+      "date_hour": "21:54:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.11 04:57:46",
-      "lat": 39.229,
-      "lng": 29.0247,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "10.5",
-      "coordinates": [
-        29.0247,
-        39.229
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0247,
-            39.229
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.06.11 04:57:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.11",
-      "date_hour": "04:57:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
