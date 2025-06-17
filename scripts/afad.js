@@ -1,65 +1,51 @@
 import fetch from 'node-fetch';
 import fs from 'fs';
 
-const url = "https://deprem.afad.gov.tr/apiv2/event/filter?start=" + new Date(Date.now() - 1000 * 60 * 60 * 24 * 5).toISOString() + "&end=" + new Date().toISOString() + "&limit=500&orderby=timedesc";
-const now = new Date().toISOString();
+const start = new Date(Date.now() - 5 * 24 * 60 * 60 * 1000).toISOString().slice(0, 19);
+const end = new Date().toISOString().slice(0, 19);
+
+const url = `https://deprem.afad.gov.tr/apiv2/event/filter?start=${start}&end=${end}&limit=500&orderby=timedesc`;
 
 try {
   const response = await fetch(url);
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  const json = await response.json();
 
-  const raw = await response.text();
-  const json = JSON.parse(raw);
-
-  if (!Array.isArray(json)) throw new Error("AFAD JSON geçersiz.");
-
-  const data = json.map(item => {
-    const lat = parseFloat(item.latitude);
-    const lng = parseFloat(item.longitude);
-    const date = item.date.split("T")[0];
-    const time = item.date.split("T")[1];
-    const city = item.province?.toUpperCase() || "";
-
+  const data = json.map(event => {
     return {
-      title: `${item.district ? item.district.toUpperCase() + "-" : ""}${city}`.trim(),
-      type: item.isEventUpdate ? "Revize" : "İlksel",
-      date: `${date} ${time}`,
-      lat,
-      lng,
-      md: item.md,
-      ml: item.ml,
-      mw: item.mw,
-      depth: item.depth,
-      coordinates: [lng, lat],
+      title: `${event.location} (${event.province})`,
+      type: event.isEventUpdate ? "Güncellenmiş" : "İlksel",
+      date: `${event.date.split("T")[0]} ${event.date.split("T")[1]}`,
+      lat: parseFloat(event.latitude),
+      lng: parseFloat(event.longitude),
+      md: event.md || "-.-",
+      ml: event.ml || "-.-",
+      mw: event.mw || "-.-",
+      depth: parseFloat(event.depth),
+      coordinates: [parseFloat(event.longitude), parseFloat(event.latitude)],
       geojson: {
         type: "Feature",
         geometry: {
           type: "Point",
-          coordinates: [lng, lat]
+          coordinates: [parseFloat(event.longitude), parseFloat(event.latitude)]
         },
         properties: {
-          mag: item.ml,
-          place: item.location,
-          time: `${date} ${time}`
+          mag: parseFloat(event.ml) || 0,
+          place: `${event.location} (${event.province})`,
+          time: new Date(event.date).getTime(),
         }
       },
       location_properties: "",
-      date_day: date,
-      date_hour: time,
+      date_day: event.date.split("T")[0],
+      date_hour: event.date.split("T")[1],
       timestamp: false,
       location_tz: "",
-      city
-    }
+      city: event.province
+    };
   });
 
-  const payload = {
-    lastUpdate: now,
-    source: "AFAD",
-    data
-  };
-
-  fs.writeFileSync("api/afad-depremler.json", JSON.stringify(payload, null, 2));
-  console.log(`✅ ${data.length} satır verisi yazıldı.`);
+  fs.writeFileSync("api/afad-depremler.json", JSON.stringify(data, null, 2));
+  console.log(`✅ AFAD verisi yazıldı: ${data.length} kayıt.`);
 } catch (err) {
   console.error("❌ AFAD verisi alınamadı:", err.message);
   process.exit(0);
