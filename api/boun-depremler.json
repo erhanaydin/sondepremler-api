@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-17T19:24:56.745Z",
+  "lastUpdate": "2025-06-17T19:39:57.830Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TASBASI-DALAMAN (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.06.17 22:17:25",
+      "lat": 36.8867,
+      "lng": 29.0047,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "4.9",
+      "coordinates": [
+        29.0047,
+        36.8867
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0047,
+            36.8867
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "TASBASI-DALAMAN (MUGLA)",
+          "time": "2025.06.17 22:17:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.17",
+      "date_hour": "22:17:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "YUNANISTAN",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KORUCUK-TORBALI (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.06.11 05:13:17",
-      "lat": 38.2537,
-      "lng": 27.3982,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        27.3982,
-        38.2537
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.3982,
-            38.2537
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KORUCUK-TORBALI (IZMIR)",
-          "time": "2025.06.11 05:13:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.11",
-      "date_hour": "05:13:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
