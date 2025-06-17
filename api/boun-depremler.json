@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-17T11:54:54.105Z",
+  "lastUpdate": "2025-06-17T12:29:02.501Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -34,6 +34,42 @@
       "location_properties": "",
       "date_day": "2025.06.17",
       "date_hour": "14:14:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.17 14:02:00",
+      "lat": 35.8238,
+      "lng": 25.962,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "18.6",
+      "coordinates": [
+        25.962,
+        35.8238
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.962,
+            35.8238
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "EGE DENIZI",
+          "time": "2025.06.17 14:02:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.17",
+      "date_hour": "14:02:00",
       "timestamp": false,
       "location_tz": "",
       "city": ""
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DUZCE"
-    },
-    {
-      "title": "TOKAT-HISARCIK (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.11 03:00:58",
-      "lat": 39.1972,
-      "lng": 29.0792,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        29.0792,
-        39.1972
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0792,
-            39.1972
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "TOKAT-HISARCIK (KUTAHYA)",
-          "time": "2025.06.11 03:00:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.11",
-      "date_hour": "03:00:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
