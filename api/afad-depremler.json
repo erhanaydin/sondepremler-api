@@ -1,7 +1,135 @@
 {
-  "lastUpdate": "2025-06-17T04:59:38.895Z",
+  "lastUpdate": "2025-06-17T05:25:42.134Z",
   "source": "AFAD",
   "data": [
+    {
+      "title": "KIĞI-BINGÖL",
+      "type": "İlksel",
+      "date": "2025-06-17 05:10:58",
+      "lat": 39.18889,
+      "lng": 40.30611,
+      "depth": "12.75",
+      "coordinates": [
+        40.30611,
+        39.18889
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.30611,
+            39.18889
+          ]
+        },
+        "properties": {
+          "place": "Kiğı (Bingöl)",
+          "time": "2025-06-17 05:10:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025-06-17",
+      "date_hour": "05:10:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGÖL"
+    },
+    {
+      "title": "AYVACIK-ÇANAKKALE",
+      "type": "İlksel",
+      "date": "2025-06-17 05:06:38",
+      "lat": 39.59333,
+      "lng": 26.06778,
+      "depth": "8.93",
+      "coordinates": [
+        26.06778,
+        39.59333
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.06778,
+            39.59333
+          ]
+        },
+        "properties": {
+          "place": "Ege Denizi - [07.96 km] Ayvacık (Çanakkale)",
+          "time": "2025-06-17 05:06:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025-06-17",
+      "date_hour": "05:06:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ÇANAKKALE"
+    },
+    {
+      "title": "SIMAV-KÜTAHYA",
+      "type": "İlksel",
+      "date": "2025-06-17 04:51:58",
+      "lat": 39.22361,
+      "lng": 28.97417,
+      "depth": "6.02",
+      "coordinates": [
+        28.97417,
+        39.22361
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.97417,
+            39.22361
+          ]
+        },
+        "properties": {
+          "place": "Simav (Kütahya)",
+          "time": "2025-06-17 04:51:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025-06-17",
+      "date_hour": "04:51:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KÜTAHYA"
+    },
+    {
+      "title": "BODRUM-MUĞLA",
+      "type": "İlksel",
+      "date": "2025-06-17 04:51:16",
+      "lat": 36.69056,
+      "lng": 25.545,
+      "depth": "7",
+      "coordinates": [
+        25.545,
+        36.69056
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.545,
+            36.69056
+          ]
+        },
+        "properties": {
+          "place": "Ege Denizi",
+          "time": "2025-06-17 04:51:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025-06-17",
+      "date_hour": "04:51:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUĞLA"
+    },
     {
       "title": "PAZARCIK-KAHRAMANMARAŞ",
       "type": "İlksel",
@@ -13217,38 +13345,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "İSTANBUL"
-    },
-    {
-      "title": "PÜTÜRGE-MALATYA",
-      "type": "İlksel",
-      "date": "2025-06-12 05:20:26",
-      "lat": 38.27194,
-      "lng": 38.72056,
-      "depth": "10.28",
-      "coordinates": [
-        38.72056,
-        38.27194
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.72056,
-            38.27194
-          ]
-        },
-        "properties": {
-          "place": "Pütürge (Malatya)",
-          "time": "2025-06-12 05:20:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025-06-12",
-      "date_hour": "05:20:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
