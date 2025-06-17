@@ -1,7 +1,39 @@
 {
-  "lastUpdate": "2025-06-17T05:25:42.134Z",
+  "lastUpdate": "2025-06-17T05:42:47.528Z",
   "source": "AFAD",
   "data": [
+    {
+      "title": "GÖKSUN-KAHRAMANMARAŞ",
+      "type": "İlksel",
+      "date": "2025-06-17 05:25:45",
+      "lat": 38.01528,
+      "lng": 36.54778,
+      "depth": "7",
+      "coordinates": [
+        36.54778,
+        38.01528
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.54778,
+            38.01528
+          ]
+        },
+        "properties": {
+          "place": "Göksun (Kahramanmaraş)",
+          "time": "2025-06-17 05:25:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025-06-17",
+      "date_hour": "05:25:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAŞ"
+    },
     {
       "title": "KIĞI-BINGÖL",
       "type": "İlksel",
@@ -13281,70 +13313,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "ÇAMARDI-NIĞDE",
-      "type": "İlksel",
-      "date": "2025-06-12 05:33:02",
-      "lat": 37.73167,
-      "lng": 35.12389,
-      "depth": "5.06",
-      "coordinates": [
-        35.12389,
-        37.73167
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.12389,
-            37.73167
-          ]
-        },
-        "properties": {
-          "place": "Çamardı (Niğde)",
-          "time": "2025-06-12 05:33:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025-06-12",
-      "date_hour": "05:33:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "NIĞDE"
-    },
-    {
-      "title": "BÜYÜKÇEKMECE-İSTANBUL",
-      "type": "İlksel",
-      "date": "2025-06-12 05:31:14",
-      "lat": 40.85417,
-      "lng": 28.37,
-      "depth": "8.84",
-      "coordinates": [
-        28.37,
-        40.85417
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.37,
-            40.85417
-          ]
-        },
-        "properties": {
-          "place": "Marmara Denizi - [20.29 km] Büyükçekmece (İstanbul)",
-          "time": "2025-06-12 05:31:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025-06-12",
-      "date_hour": "05:31:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "İSTANBUL"
     }
   ]
 }
