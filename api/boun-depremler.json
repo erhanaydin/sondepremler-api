@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-17T07:34:28.748Z",
+  "lastUpdate": "2025-06-17T07:46:10.865Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -109,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
+    },
+    {
+      "title": "TURGUT-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.06.17 09:09:44",
+      "lat": 37.1158,
+      "lng": 28.7197,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "25.0",
+      "coordinates": [
+        28.7197,
+        37.1158
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.7197,
+            37.1158
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "TURGUT-ULA (MUGLA)",
+          "time": "2025.06.17 09:09:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.17",
+      "date_hour": "09:09:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
     },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DIYARBAKIR"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.11 00:05:44",
-      "lat": 39.2278,
-      "lng": 29.0285,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "2.4",
-      "coordinates": [
-        29.0285,
-        39.2278
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0285,
-            39.2278
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.06.11 00:05:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.11",
-      "date_hour": "00:05:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
