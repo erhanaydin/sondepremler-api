@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-17T04:31:13.701Z",
+  "lastUpdate": "2025-06-17T04:51:06.456Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKSU-SINCIK (ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2025.06.17 07:42:14",
+      "lat": 38.142,
+      "lng": 38.4737,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "4.8",
+      "coordinates": [
+        38.4737,
+        38.142
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.4737,
+            38.142
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "AKSU-SINCIK (ADIYAMAN)",
+          "time": "2025.06.17 07:42:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.17",
+      "date_hour": "07:42:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
+    },
     {
       "title": "KARGABUKU-AFSIN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "INCIRLI-NURDAGI (GAZIANTEP)",
-      "type": "�lksel",
-      "date": "2025.06.10 19:49:45",
-      "lat": 37.265,
-      "lng": 36.9845,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "6.6",
-      "coordinates": [
-        36.9845,
-        37.265
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.9845,
-            37.265
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "INCIRLI-NURDAGI (GAZIANTEP)",
-          "time": "2025.06.10 19:49:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.10",
-      "date_hour": "19:49:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "GAZIANTEP"
     }
   ]
 }

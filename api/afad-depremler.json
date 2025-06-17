@@ -1,7 +1,71 @@
 {
-  "lastUpdate": "2025-06-17T04:31:09.634Z",
+  "lastUpdate": "2025-06-17T04:51:02.773Z",
   "source": "AFAD",
   "data": [
+    {
+      "title": "YEŞILYURT-MALATYA",
+      "type": "İlksel",
+      "date": "2025-06-17 04:26:14",
+      "lat": 38.27056,
+      "lng": 38.28167,
+      "depth": "7",
+      "coordinates": [
+        38.28167,
+        38.27056
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.28167,
+            38.27056
+          ]
+        },
+        "properties": {
+          "place": "Yeşilyurt (Malatya)",
+          "time": "2025-06-17 04:26:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025-06-17",
+      "date_hour": "04:26:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
+      "title": "PÜTÜRGE-MALATYA",
+      "type": "İlksel",
+      "date": "2025-06-17 04:09:16",
+      "lat": 38.17611,
+      "lng": 38.68111,
+      "depth": "7",
+      "coordinates": [
+        38.68111,
+        38.17611
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.68111,
+            38.17611
+          ]
+        },
+        "properties": {
+          "place": "Pütürge (Malatya)",
+          "time": "2025-06-17 04:09:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025-06-17",
+      "date_hour": "04:09:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "BÜYÜKÇEKMECE-İSTANBUL",
       "type": "İlksel",
@@ -33,6 +97,38 @@
       "timestamp": false,
       "location_tz": "",
       "city": "İSTANBUL"
+    },
+    {
+      "title": "MERAM-KONYA",
+      "type": "İlksel",
+      "date": "2025-06-17 03:51:44",
+      "lat": 37.72083,
+      "lng": 32.14056,
+      "depth": "7",
+      "coordinates": [
+        32.14056,
+        37.72083
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.14056,
+            37.72083
+          ]
+        },
+        "properties": {
+          "place": "Meram (Konya)",
+          "time": "2025-06-17 03:51:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025-06-17",
+      "date_hour": "03:51:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KONYA"
     },
     {
       "title": "NALLIHAN-ANKARA",
@@ -13089,70 +13185,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "GÖKSUN-KAHRAMANMARAŞ",
-      "type": "İlksel",
-      "date": "2025-06-12 04:46:13",
-      "lat": 38.13417,
-      "lng": 36.45083,
-      "depth": "7",
-      "coordinates": [
-        36.45083,
-        38.13417
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.45083,
-            38.13417
-          ]
-        },
-        "properties": {
-          "place": "Göksun (Kahramanmaraş)",
-          "time": "2025-06-12 04:46:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025-06-12",
-      "date_hour": "04:46:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAŞ"
-    },
-    {
-      "title": "SIMAV-KÜTAHYA",
-      "type": "İlksel",
-      "date": "2025-06-12 04:31:32",
-      "lat": 39.23333,
-      "lng": 28.9975,
-      "depth": "7.02",
-      "coordinates": [
-        28.9975,
-        39.23333
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9975,
-            39.23333
-          ]
-        },
-        "properties": {
-          "place": "Simav (Kütahya)",
-          "time": "2025-06-12 04:31:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025-06-12",
-      "date_hour": "04:31:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KÜTAHYA"
     }
   ]
 }
