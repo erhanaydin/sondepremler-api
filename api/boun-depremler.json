@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-17T07:46:10.865Z",
+  "lastUpdate": "2025-06-17T07:54:34.676Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKSU-SINCIK (ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2025.06.17 10:50:02",
+      "lat": 38.1303,
+      "lng": 38.4948,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "19.4",
+      "coordinates": [
+        38.4948,
+        38.1303
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.4948,
+            38.1303
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "AKSU-SINCIK (ADIYAMAN)",
+          "time": "2025.06.17 10:50:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.17",
+      "date_hour": "10:50:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "BAYIRDUZU-HAZRO (DIYARBAKIR)",
-      "type": "�lksel",
-      "date": "2025.06.11 00:08:52",
-      "lat": 38.1843,
-      "lng": 40.8345,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "1.2",
-      "coordinates": [
-        40.8345,
-        38.1843
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.8345,
-            38.1843
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "BAYIRDUZU-HAZRO (DIYARBAKIR)",
-          "time": "2025.06.11 00:08:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.11",
-      "date_hour": "00:08:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DIYARBAKIR"
     }
   ]
 }
