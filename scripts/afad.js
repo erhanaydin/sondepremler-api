@@ -13,13 +13,13 @@ try {
 
   const data = json.map(event => {
     return {
-      title: `${event.location} (${event.province})`,
+      title: `${event.location}`,
       type: event.isEventUpdate ? "Güncellenmiş" : "İlksel",
       date: `${event.date.split("T")[0]} ${event.date.split("T")[1]}`,
       lat: parseFloat(event.latitude),
       lng: parseFloat(event.longitude),
       md: event.md || "-.-",
-      ml: event.ml || "-.-",
+      ml: event.magnitude || "-.-",
       mw: event.mw || "-.-",
       depth: parseFloat(event.depth),
       coordinates: [parseFloat(event.longitude), parseFloat(event.latitude)],
