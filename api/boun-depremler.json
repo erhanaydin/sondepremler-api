@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-17T03:20:47.337Z",
+  "lastUpdate": "2025-06-17T03:58:48.793Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARGABUKU-AFSIN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.06.17 06:28:36",
+      "lat": 38.1267,
+      "lng": 36.8285,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "2.8",
+      "coordinates": [
+        36.8285,
+        38.1267
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8285,
+            38.1267
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "KARGABUKU-AFSIN (KAHRAMANMARAS)",
+          "time": "2025.06.17 06:28:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.17",
+      "date_hour": "06:28:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AHLATLICESME-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.10 17:46:55",
-      "lat": 39.1482,
-      "lng": 29.0535,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "14.9",
-      "coordinates": [
-        29.0535,
-        39.1482
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0535,
-            39.1482
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "AHLATLICESME-SIMAV (KUTAHYA)",
-          "time": "2025.06.10 17:46:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.10",
-      "date_hour": "17:46:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
