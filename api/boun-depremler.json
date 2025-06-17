@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-06-17T06:56:00.794Z",
+  "lastUpdate": "2025-06-17T07:16:11.255Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.06.17 10:06:54",
+      "lat": 39.2433,
+      "lng": 28.9842,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "8.2",
+      "coordinates": [
+        28.9842,
+        39.2433
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9842,
+            39.2433
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.06.17 10:06:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.17",
+      "date_hour": "10:06:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "GEDELEK-ORHANGAZI (BURSA)",
+      "type": "�lksel",
+      "date": "2025.06.17 09:43:20",
+      "lat": 40.4347,
+      "lng": 29.2612,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        29.2612,
+        40.4347
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.2612,
+            40.4347
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "GEDELEK-ORHANGAZI (BURSA)",
+          "time": "2025.06.17 09:43:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.17",
+      "date_hour": "09:43:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "YESILBAHCE-CEYHAN (ADANA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.10 22:52:58",
-      "lat": 36.3168,
-      "lng": 27.831,
-      "md": "-.-",
-      "ml": "3.1",
-      "mw": "3.2",
-      "depth": "67.5",
-      "coordinates": [
-        27.831,
-        36.3168
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.831,
-            36.3168
-          ]
-        },
-        "properties": {
-          "mag": "3.1",
-          "place": "EGE DENIZI",
-          "time": "2025.06.10 22:52:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.10",
-      "date_hour": "22:52:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.10 21:24:44",
-      "lat": 39.2252,
-      "lng": 29.0023,
-      "md": "-.-",
-      "ml": "3.2",
-      "mw": "3.2",
-      "depth": "5.4",
-      "coordinates": [
-        29.0023,
-        39.2252
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0023,
-            39.2252
-          ]
-        },
-        "properties": {
-          "mag": "3.2",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.06.10 21:24:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.10",
-      "date_hour": "21:24:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
