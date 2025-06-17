@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-17T23:43:51.362Z",
+  "lastUpdate": "2025-06-17T23:52:01.453Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SOGUT-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.06.18 02:36:50",
+      "lat": 38.0795,
+      "lng": 37.7848,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        37.7848,
+        38.0795
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.7848,
+            38.0795
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "SOGUT-DOGANSEHIR (MALATYA)",
+          "time": "2025.06.18 02:36:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.18",
+      "date_hour": "02:36:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "YUREGIR (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "DEREKOY-SOMA (MANISA)",
-      "type": "�lksel",
-      "date": "2025.06.11 09:48:44",
-      "lat": 39.1,
-      "lng": 27.525,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        27.525,
-        39.1
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.525,
-            39.1
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "DEREKOY-SOMA (MANISA)",
-          "time": "2025.06.11 09:48:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.11",
-      "date_hour": "09:48:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
