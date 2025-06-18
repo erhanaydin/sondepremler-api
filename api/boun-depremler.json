@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-18T15:13:38.532Z",
+  "lastUpdate": "2025-06-18T15:35:53.616Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GEMLIK KORFEZI (MARMARA DENIZI)",
+      "type": "�lksel",
+      "date": "2025.06.18 18:22:31",
+      "lat": 40.4052,
+      "lng": 28.8918,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "8.8",
+      "coordinates": [
+        28.8918,
+        40.4052
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8918,
+            40.4052
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "GEMLIK KORFEZI (MARMARA DENIZI)",
+          "time": "2025.06.18 18:22:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.18",
+      "date_hour": "18:22:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARMARA DENIZI"
+    },
     {
       "title": "YOLCUPINARI-DIYADIN (AGRI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.12 02:48:17",
-      "lat": 35.7253,
-      "lng": 25.838,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "26.6",
-      "coordinates": [
-        25.838,
-        35.7253
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.838,
-            35.7253
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "EGE DENIZI",
-          "time": "2025.06.12 02:48:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.12",
-      "date_hour": "02:48:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
