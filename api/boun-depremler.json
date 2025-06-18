@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-18T13:48:27.726Z",
+  "lastUpdate": "2025-06-18T13:58:06.701Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.06.18 16:36:56",
+      "lat": 39.215,
+      "lng": 29.0462,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "7.8",
+      "coordinates": [
+        29.0462,
+        39.215
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0462,
+            39.215
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.06.18 16:36:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.18",
+      "date_hour": "16:36:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "MUGLA",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.12 02:33:41",
-      "lat": 40.8398,
-      "lng": 28.385,
-      "md": "-.-",
-      "ml": "3.7",
-      "mw": "3.4",
-      "depth": "7.4",
-      "coordinates": [
-        28.385,
-        40.8398
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.385,
-            40.8398
-          ]
-        },
-        "properties": {
-          "mag": "3.7",
-          "place": "MARMARA DENIZI",
-          "time": "2025.06.12 02:33:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.12",
-      "date_hour": "02:33:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
