@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-18T19:30:46.864Z",
+  "lastUpdate": "2025-06-18T19:41:03.260Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -147,6 +147,42 @@
       "city": "BOLU"
     },
     {
+      "title": "AKYURT-TIRE (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.06.18 20:18:33",
+      "lat": 38.0235,
+      "lng": 27.5945,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "7.7",
+      "coordinates": [
+        27.5945,
+        38.0235
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.5945,
+            38.0235
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "AKYURT-TIRE (IZMIR)",
+          "time": "2025.06.18 20:18:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.18",
+      "date_hour": "20:18:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
+    {
       "title": "SALKONAK-YESILYURT (MALATYA)",
       "type": "�lksel",
       "date": "2025.06.18 20:08:15",
@@ -253,6 +289,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
+    },
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.18 18:05:06",
+      "lat": 40.826,
+      "lng": 28.0873,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "12.8",
+      "coordinates": [
+        28.0873,
+        40.826
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0873,
+            40.826
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "MARMARA DENIZI",
+          "time": "2025.06.18 18:05:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.18",
+      "date_hour": "18:05:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "YOLCUPINARI-DIYADIN (AGRI)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.12 03:52:01",
-      "lat": 36.5162,
-      "lng": 26.7313,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "89.0",
-      "coordinates": [
-        26.7313,
-        36.5162
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.7313,
-            36.5162
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "EGE DENIZI",
-          "time": "2025.06.12 03:52:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.12",
-      "date_hour": "03:52:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "CAYKOY-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.06.12 03:30:48",
-      "lat": 38.2792,
-      "lng": 38.7008,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "24.8",
-      "coordinates": [
-        38.7008,
-        38.2792
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.7008,
-            38.2792
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "CAYKOY-PUTURGE (MALATYA)",
-          "time": "2025.06.12 03:30:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.12",
-      "date_hour": "03:30:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
