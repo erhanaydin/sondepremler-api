@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-18T13:58:06.701Z",
+  "lastUpdate": "2025-06-18T14:21:45.500Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YOLCUPINARI-DIYADIN (AGRI)",
+      "type": "�lksel",
+      "date": "2025.06.18 16:53:59",
+      "lat": 39.3777,
+      "lng": 43.6333,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "9.0",
+      "coordinates": [
+        43.6333,
+        39.3777
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.6333,
+            39.3777
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "YOLCUPINARI-DIYADIN (AGRI)",
+          "time": "2025.06.18 16:53:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.18",
+      "date_hour": "16:53:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AGRI"
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "BASKONAK-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.12 02:44:14",
-      "lat": 39.0827,
-      "lng": 29.2045,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        29.2045,
-        39.0827
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.2045,
-            39.0827
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "BASKONAK-SIMAV (KUTAHYA)",
-          "time": "2025.06.12 02:44:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.12",
-      "date_hour": "02:44:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
