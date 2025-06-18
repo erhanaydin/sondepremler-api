@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-18T19:41:03.260Z",
+  "lastUpdate": "2025-06-18T19:49:47.146Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -325,6 +325,78 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "BOLDAG-FINIKE (ANTALYA)",
+      "type": "�lksel",
+      "date": "2025.06.18 17:58:14",
+      "lat": 36.2787,
+      "lng": 30.1655,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "10.1",
+      "coordinates": [
+        30.1655,
+        36.2787
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1655,
+            36.2787
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "BOLDAG-FINIKE (ANTALYA)",
+          "time": "2025.06.18 17:58:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.18",
+      "date_hour": "17:58:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANTALYA"
+    },
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.06.18 17:02:15",
+      "lat": 39.2125,
+      "lng": 29.0213,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "10.8",
+      "coordinates": [
+        29.0213,
+        39.2125
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0213,
+            39.2125
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.06.18 17:02:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.18",
+      "date_hour": "17:02:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "YOLCUPINARI-DIYADIN (AGRI)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.06.12 04:07:47",
-      "lat": 36.0995,
-      "lng": 30.8237,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "23.7",
-      "coordinates": [
-        30.8237,
-        36.0995
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.8237,
-            36.0995
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "AKDENIZ",
-          "time": "2025.06.12 04:07:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.12",
-      "date_hour": "04:07:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.12 04:04:18",
-      "lat": 38.0848,
-      "lng": 26.0738,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "10.7",
-      "coordinates": [
-        26.0738,
-        38.0848
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.0738,
-            38.0848
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "EGE DENIZI",
-          "time": "2025.06.12 04:04:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.12",
-      "date_hour": "04:04:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
