@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-18T04:31:49.396Z",
+  "lastUpdate": "2025-06-18T04:52:24.539Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.06.18 07:36:40",
+      "lat": 39.1937,
+      "lng": 29.0078,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "16.7",
+      "coordinates": [
+        29.0078,
+        39.1937
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0078,
+            39.1937
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.06.18 07:36:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.18",
+      "date_hour": "07:36:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "CANDARLI KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "ORENLICE-ULAS (SIVAS)",
-      "type": "�lksel",
-      "date": "2025.06.11 16:47:12",
-      "lat": 39.4602,
-      "lng": 37.25,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "9.3",
-      "coordinates": [
-        37.25,
-        39.4602
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.25,
-            39.4602
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "ORENLICE-ULAS (SIVAS)",
-          "time": "2025.06.11 16:47:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.11",
-      "date_hour": "16:47:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
     }
   ]
 }
