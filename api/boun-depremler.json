@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-18T16:27:12.065Z",
+  "lastUpdate": "2025-06-18T16:50:30.397Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.06.18 19:37:18",
+      "lat": 40.2638,
+      "lng": 24.1363,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "3.7",
+      "coordinates": [
+        24.1363,
+        40.2638
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.1363,
+            40.2638
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "YUNANISTAN",
+          "time": "2025.06.18 19:37:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.18",
+      "date_hour": "19:37:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "GEMLIK KORFEZI (MARMARA DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "VAN"
-    },
-    {
-      "title": "KARACAOREN-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.12 02:50:05",
-      "lat": 39.2038,
-      "lng": 29.0485,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "11.5",
-      "coordinates": [
-        29.0485,
-        39.2038
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0485,
-            39.2038
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KARACAOREN-SIMAV (KUTAHYA)",
-          "time": "2025.06.12 02:50:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.12",
-      "date_hour": "02:50:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
