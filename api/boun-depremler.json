@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-19T05:39:29.143Z",
+  "lastUpdate": "2025-06-19T05:50:36.612Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SURIYE",
+      "type": "�lksel",
+      "date": "2025.06.19 08:38:46",
+      "lat": 34.9823,
+      "lng": 36.747,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "11.8",
+      "coordinates": [
+        36.747,
+        34.9823
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.747,
+            34.9823
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "SURIYE",
+          "time": "2025.06.19 08:38:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.19",
+      "date_hour": "08:38:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.06.12 09:44:46",
-      "lat": 40.3378,
-      "lng": 24.1328,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "3.0",
-      "depth": "12.7",
-      "coordinates": [
-        24.1328,
-        40.3378
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.1328,
-            40.3378
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "YUNANISTAN",
-          "time": "2025.06.12 09:44:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.12",
-      "date_hour": "09:44:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
