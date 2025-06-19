@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-19T18:32:30.200Z",
+  "lastUpdate": "2025-06-19T18:51:35.798Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BOZHUYUK-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.06.19 21:37:29",
+      "lat": 38.1492,
+      "lng": 36.5062,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        36.5062,
+        38.1492
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.5062,
+            38.1492
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "BOZHUYUK-GOKSUN (KAHRAMANMARAS)",
+          "time": "2025.06.19 21:37:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.19",
+      "date_hour": "21:37:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "ERMISLER (VAN)",
-      "type": "�lksel",
-      "date": "2025.06.12 14:25:54",
-      "lat": 38.8827,
-      "lng": 43.5267,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "18.6",
-      "coordinates": [
-        43.5267,
-        38.8827
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.5267,
-            38.8827
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "ERMISLER (VAN)",
-          "time": "2025.06.12 14:25:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.12",
-      "date_hour": "14:25:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "VAN"
     }
   ]
 }
