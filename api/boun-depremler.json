@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-19T19:18:30.867Z",
+  "lastUpdate": "2025-06-19T19:28:05.088Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "IRIAGAC-YAZIHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.06.19 22:16:34",
+      "lat": 38.5637,
+      "lng": 38.0055,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.0055,
+        38.5637
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.0055,
+            38.5637
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "IRIAGAC-YAZIHAN (MALATYA)",
+          "time": "2025.06.19 22:16:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.19",
+      "date_hour": "22:16:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "BALPINARI-PUTURGE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIVAS"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.06.12 14:50:20",
-      "lat": 36.1918,
-      "lng": 34.5533,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "19.8",
-      "coordinates": [
-        34.5533,
-        36.1918
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.5533,
-            36.1918
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "AKDENIZ",
-          "time": "2025.06.12 14:50:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.12",
-      "date_hour": "14:50:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
