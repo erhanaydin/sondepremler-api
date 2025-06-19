@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-19T16:44:53.126Z",
+  "lastUpdate": "2025-06-19T16:57:52.794Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TURKIYE-SURIYE SINIR BOLGESI",
+      "type": "�lksel",
+      "date": "2025.06.19 19:36:58",
+      "lat": 35.8182,
+      "lng": 36.1142,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "14.8",
+      "coordinates": [
+        36.1142,
+        35.8182
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.1142,
+            35.8182
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "TURKIYE-SURIYE SINIR BOLGESI",
+          "time": "2025.06.19 19:36:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.19",
+      "date_hour": "19:36:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.12 14:06:50",
-      "lat": 39.2347,
-      "lng": 29.0148,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        29.0148,
-        39.2347
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0148,
-            39.2347
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.06.12 14:06:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.12",
-      "date_hour": "14:06:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
