@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-19T20:57:39.672Z",
+  "lastUpdate": "2025-06-19T21:18:33.117Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TOPRAKTEPE-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.06.19 23:54:05",
+      "lat": 38.1005,
+      "lng": 37.8652,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "7.7",
+      "coordinates": [
+        37.8652,
+        38.1005
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.8652,
+            38.1005
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "TOPRAKTEPE-DOGANSEHIR (MALATYA)",
+          "time": "2025.06.19 23:54:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.19",
+      "date_hour": "23:54:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "BAYRAMDERE-KARACABEY (BURSA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "GOKCEYAZI-GURUN (SIVAS)",
-      "type": "�lksel",
-      "date": "2025.06.12 17:18:32",
-      "lat": 38.8573,
-      "lng": 37.2952,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        37.2952,
-        38.8573
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.2952,
-            38.8573
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "GOKCEYAZI-GURUN (SIVAS)",
-          "time": "2025.06.12 17:18:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.12",
-      "date_hour": "17:18:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
     }
   ]
 }

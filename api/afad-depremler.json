@@ -1,5 +1,41 @@
 [
   {
+    "title": "Doğanşehir (Malatya)",
+    "type": "İlksel",
+    "date": "2025-06-19 20:54:06",
+    "lat": 38.11278,
+    "lng": 37.86083,
+    "md": "-.-",
+    "ml": "2.5",
+    "mw": "-.-",
+    "depth": 8.66,
+    "coordinates": [
+      37.86083,
+      38.11278
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.86083,
+          38.11278
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Doğanşehir (Malatya) (Malatya)",
+        "time": 1750366446000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-06-19",
+    "date_hour": "20:54:06",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Malatya"
+  },
+  {
     "title": "Karacabey (Bursa)",
     "type": "İlksel",
     "date": "2025-06-19 20:27:23",
@@ -15370,77 +15406,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Adıyaman"
-  },
-  {
-    "title": "Genç (Bingöl)",
-    "type": "Güncellenmiş",
-    "date": "2025-06-14 21:03:19",
-    "lat": 38.50139,
-    "lng": 40.27389,
-    "md": "-.-",
-    "ml": "4",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      40.27389,
-      38.50139
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.27389,
-          38.50139
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Genç (Bingöl) (Bingöl)",
-        "time": 1749934999000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-14",
-    "date_hour": "21:03:19",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Bingöl"
-  },
-  {
-    "title": "Karamanlı (Burdur)",
-    "type": "İlksel",
-    "date": "2025-06-14 21:03:02",
-    "lat": 37.36889,
-    "lng": 29.7125,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      29.7125,
-      37.36889
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.7125,
-          37.36889
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Karamanlı (Burdur) (Burdur)",
-        "time": 1749934982000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-14",
-    "date_hour": "21:03:02",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Burdur"
   }
 ]
