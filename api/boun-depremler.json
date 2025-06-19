@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-19T19:38:23.786Z",
+  "lastUpdate": "2025-06-19T19:46:40.503Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.06.19 22:29:29",
+      "lat": 34.5587,
+      "lng": 23.812,
+      "md": "-.-",
+      "ml": "3.2",
+      "mw": "3.3",
+      "depth": "70.4",
+      "coordinates": [
+        23.812,
+        34.5587
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.812,
+            34.5587
+          ]
+        },
+        "properties": {
+          "mag": "3.2",
+          "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+          "time": "2025.06.19 22:29:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.19",
+      "date_hour": "22:29:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "IRIAGAC-YAZIHAN (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "ORENLICE-ULAS (SIVAS)",
-      "type": "�lksel",
-      "date": "2025.06.12 15:02:02",
-      "lat": 39.4418,
-      "lng": 37.286,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "8.8",
-      "coordinates": [
-        37.286,
-        39.4418
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.286,
-            39.4418
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ORENLICE-ULAS (SIVAS)",
-          "time": "2025.06.12 15:02:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.12",
-      "date_hour": "15:02:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
     }
   ]
 }
