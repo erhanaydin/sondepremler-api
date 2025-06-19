@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ege Denizi",
+    "type": "İlksel",
+    "date": "2025-06-19 10:54:46",
+    "lat": 40.14,
+    "lng": 24.60556,
+    "md": "-.-",
+    "ml": "3.7",
+    "mw": "-.-",
+    "depth": 15.5,
+    "coordinates": [
+      24.60556,
+      40.14
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60556,
+          40.14
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi (Çanakkale)",
+        "time": 1750330486000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-06-19",
+    "date_hour": "10:54:46",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Çanakkale"
+  },
+  {
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2025-06-19 10:10:02",
@@ -14902,41 +14938,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Antalya"
-  },
-  {
-    "title": "Pütürge (Malatya)",
-    "type": "İlksel",
-    "date": "2025-06-14 11:05:22",
-    "lat": 38.25444,
-    "lng": 38.83833,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 10.37,
-    "coordinates": [
-      38.83833,
-      38.25444
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.83833,
-          38.25444
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Pütürge (Malatya) (Malatya)",
-        "time": 1749899122000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-14",
-    "date_hour": "11:05:22",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
   }
 ]
