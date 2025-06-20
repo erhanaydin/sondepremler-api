@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-20T23:46:00.530Z",
+  "lastUpdate": "2025-06-20T23:54:07.643Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.21 02:35:44",
+      "lat": 40.7983,
+      "lng": 28.0892,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "10.2",
+      "coordinates": [
+        28.0892,
+        40.7983
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0892,
+            40.7983
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "MARMARA DENIZI",
+          "time": "2025.06.21 02:35:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.21",
+      "date_hour": "02:35:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "DEVEKORUSU-KELKIT (GUMUSHANE)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "BOZTAHTA-KOZAN (ADANA)",
-      "type": "�lksel",
-      "date": "2025.06.13 14:35:37",
-      "lat": 37.6267,
-      "lng": 35.9817,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "6.1",
-      "coordinates": [
-        35.9817,
-        37.6267
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.9817,
-            37.6267
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "BOZTAHTA-KOZAN (ADANA)",
-          "time": "2025.06.13 14:35:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.13",
-      "date_hour": "14:35:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
