@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-20T03:43:37.093Z",
+  "lastUpdate": "2025-06-20T04:04:18.332Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.20 06:19:37",
+      "lat": 36.696,
+      "lng": 25.5978,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "9.3",
+      "coordinates": [
+        25.5978,
+        36.696
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.5978,
+            36.696
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "EGE DENIZI",
+          "time": "2025.06.20 06:19:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.20",
+      "date_hour": "06:19:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "IRIAGAC-YAZIHAN (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.06.12 21:38:21",
-      "lat": 37.4873,
-      "lng": 37.1613,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "2.5",
-      "coordinates": [
-        37.1613,
-        37.4873
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.1613,
-            37.4873
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS)",
-          "time": "2025.06.12 21:38:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.12",
-      "date_hour": "21:38:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
