@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-20T21:57:26.644Z",
+  "lastUpdate": "2025-06-20T22:18:42.990Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.06.21 00:55:03",
+      "lat": 35.2897,
+      "lng": 26.9047,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "16.8",
+      "coordinates": [
+        26.9047,
+        35.2897
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.9047,
+            35.2897
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2025.06.21 00:55:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.21",
+      "date_hour": "00:55:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "SURIYE",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CAMLARCA-KOZAN (ADANA)",
-      "type": "�lksel",
-      "date": "2025.06.13 11:58:59",
-      "lat": 37.6523,
-      "lng": 35.9675,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "2.8",
-      "depth": "3.3",
-      "coordinates": [
-        35.9675,
-        37.6523
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.9675,
-            37.6523
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "CAMLARCA-KOZAN (ADANA)",
-          "time": "2025.06.13 11:58:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.13",
-      "date_hour": "11:58:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
