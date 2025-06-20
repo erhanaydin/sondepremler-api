@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-20T07:55:45.021Z",
+  "lastUpdate": "2025-06-20T08:21:16.901Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SOGUT-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.06.20 08:49:00",
+      "lat": 39.1525,
+      "lng": 29.0908,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "23.2",
+      "coordinates": [
+        29.0908,
+        39.1525
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0908,
+            39.1525
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "SOGUT-SIMAV (KUTAHYA)",
+          "time": "2025.06.20 08:49:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.20",
+      "date_hour": "08:49:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "BASCESME-BOZKURT (DENIZLI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
-    },
-    {
-      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.06.12 22:16:16",
-      "lat": 34.6618,
-      "lng": 26.485,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "23.6",
-      "coordinates": [
-        26.485,
-        34.6618
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.485,
-            34.6618
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-          "time": "2025.06.12 22:16:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.12",
-      "date_hour": "22:16:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
