@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-20T11:09:22.990Z",
+  "lastUpdate": "2025-06-20T11:26:37.142Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
+    },
+    {
+      "title": "SANDAL-KULA (MANISA)",
+      "type": "�lksel",
+      "date": "2025.06.20 12:12:03",
+      "lat": 38.5698,
+      "lng": 28.5648,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "10.3",
+      "coordinates": [
+        28.5648,
+        38.5698
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.5648,
+            38.5698
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "SANDAL-KULA (MANISA)",
+          "time": "2025.06.20 12:12:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.20",
+      "date_hour": "12:12:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
     },
     {
       "title": "KERTMEKARACAOREN-ULAS (SIVAS)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "GUZELYURT-CERKES (CANKIRI)",
-      "type": "�lksel",
-      "date": "2025.06.13 01:52:09",
-      "lat": 40.7298,
-      "lng": 32.9873,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        32.9873,
-        40.7298
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.9873,
-            40.7298
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "GUZELYURT-CERKES (CANKIRI)",
-          "time": "2025.06.13 01:52:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.13",
-      "date_hour": "01:52:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANKIRI"
     }
   ]
 }
