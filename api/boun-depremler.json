@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-20T23:19:12.537Z",
+  "lastUpdate": "2025-06-20T23:34:14.536Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEVEKORUSU-KELKIT (GUMUSHANE)",
+      "type": "�lksel",
+      "date": "2025.06.21 02:15:22",
+      "lat": 39.8917,
+      "lng": 39.6298,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "8.0",
+      "coordinates": [
+        39.6298,
+        39.8917
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.6298,
+            39.8917
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "DEVEKORUSU-KELKIT (GUMUSHANE)",
+          "time": "2025.06.21 02:15:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.21",
+      "date_hour": "02:15:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "GUMUSHANE"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
-    },
-    {
-      "title": "ESKIBALIKLI-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.06.13 14:34:08",
-      "lat": 40.3692,
-      "lng": 27.1045,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "11.1",
-      "coordinates": [
-        27.1045,
-        40.3692
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1045,
-            40.3692
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ESKIBALIKLI-BIGA (CANAKKALE)",
-          "time": "2025.06.13 14:34:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.13",
-      "date_hour": "14:34:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
