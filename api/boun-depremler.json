@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-20T16:19:17.821Z",
+  "lastUpdate": "2025-06-20T16:43:57.633Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.20 19:18:55",
+      "lat": 36.685,
+      "lng": 25.7502,
+      "md": "-.-",
+      "ml": "4.8",
+      "mw": "4.6",
+      "depth": "13.3",
+      "coordinates": [
+        25.7502,
+        36.685
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.7502,
+            36.685
+          ]
+        },
+        "properties": {
+          "mag": "4.8",
+          "place": "EGE DENIZI",
+          "time": "2025.06.20 19:18:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.20",
+      "date_hour": "19:18:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "KIRKKUYU-KULU (KONYA)",
-      "type": "�lksel",
-      "date": "2025.06.13 08:24:32",
-      "lat": 39.0558,
-      "lng": 33.2582,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.6",
-      "coordinates": [
-        33.2582,
-        39.0558
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.2582,
-            39.0558
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KIRKKUYU-KULU (KONYA)",
-          "time": "2025.06.13 08:24:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.13",
-      "date_hour": "08:24:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KONYA"
     }
   ]
 }
