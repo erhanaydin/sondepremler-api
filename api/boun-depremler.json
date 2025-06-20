@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-20T09:49:29.187Z",
+  "lastUpdate": "2025-06-20T09:57:43.931Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARACAOREN-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.06.20 11:36:40",
+      "lat": 39.1862,
+      "lng": 29.0498,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "22.4",
+      "coordinates": [
+        29.0498,
+        39.1862
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0498,
+            39.1862
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "KARACAOREN-SIMAV (KUTAHYA)",
+          "time": "2025.06.20 11:36:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.20",
+      "date_hour": "11:36:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "INLICE-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.12 23:10:37",
-      "lat": 39.1182,
-      "lng": 29.1687,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "3.5",
-      "coordinates": [
-        29.1687,
-        39.1182
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1687,
-            39.1182
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "INLICE-SIMAV (KUTAHYA)",
-          "time": "2025.06.12 23:10:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.12",
-      "date_hour": "23:10:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
