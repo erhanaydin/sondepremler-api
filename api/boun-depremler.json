@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-20T08:44:19.505Z",
+  "lastUpdate": "2025-06-20T08:57:48.617Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGNEZ-SOMA (MANISA)",
+      "type": "�lksel",
+      "date": "2025.06.20 10:14:04",
+      "lat": 39.0702,
+      "lng": 27.5328,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        27.5328,
+        39.0702
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.5328,
+            39.0702
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "EGNEZ-SOMA (MANISA)",
+          "time": "2025.06.20 10:14:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.20",
+      "date_hour": "10:14:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "SOGUT-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KARABUCAK-KOZAN (ADANA)",
-      "type": "�lksel",
-      "date": "2025.06.12 22:25:07",
-      "lat": 37.6042,
-      "lng": 35.8983,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "7.3",
-      "coordinates": [
-        35.8983,
-        37.6042
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.8983,
-            37.6042
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KARABUCAK-KOZAN (ADANA)",
-          "time": "2025.06.12 22:25:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.12",
-      "date_hour": "22:25:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
