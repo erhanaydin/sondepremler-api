@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-21T21:22:22.688Z",
+  "lastUpdate": "2025-06-21T21:34:32.766Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEDEYOLU-SIVRICE (ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.06.22 00:26:06",
+      "lat": 38.484,
+      "lng": 39.1878,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "6.4",
+      "coordinates": [
+        39.1878,
+        38.484
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.1878,
+            38.484
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "DEDEYOLU-SIVRICE (ELAZIG)",
+          "time": "2025.06.22 00:26:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.22",
+      "date_hour": "00:26:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "ASAGIKIRIKLAR-BERGAMA (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.06.14 07:41:34",
-      "lat": 39.0177,
-      "lng": 26.9982,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "12.7",
-      "coordinates": [
-        26.9982,
-        39.0177
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.9982,
-            39.0177
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ASAGIKIRIKLAR-BERGAMA (IZMIR)",
-          "time": "2025.06.14 07:41:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.14",
-      "date_hour": "07:41:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
