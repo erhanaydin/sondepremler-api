@@ -1,5 +1,41 @@
 [
   {
+    "title": "Bala (Ankara)",
+    "type": "İlksel",
+    "date": "2025-06-21 09:21:00",
+    "lat": 39.32167,
+    "lng": 33.40194,
+    "md": "-.-",
+    "ml": "1.1",
+    "mw": "-.-",
+    "depth": 6.83,
+    "coordinates": [
+      33.40194,
+      39.32167
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.40194,
+          39.32167
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Bala (Ankara) (Ankara)",
+        "time": 1750497660000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-06-21",
+    "date_hour": "09:21:00",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Ankara"
+  },
+  {
     "title": "Çiçekdağı (Kırşehir)",
     "type": "İlksel",
     "date": "2025-06-21 08:55:03",
@@ -15478,77 +15514,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Ege Denizi - Kuşadası Körfezi - [05.41 km] Menderes (İzmir)",
-    "type": "İlksel",
-    "date": "2025-06-16 09:43:15",
-    "lat": 37.97472,
-    "lng": 27.19583,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 7.07,
-    "coordinates": [
-      27.19583,
-      37.97472
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.19583,
-          37.97472
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi - Kuşadası Körfezi - [05.41 km] Menderes (İzmir) (İzmir)",
-        "time": 1750066995000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-16",
-    "date_hour": "09:43:15",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "İzmir"
-  },
-  {
-    "title": "Ege Denizi",
-    "type": "İlksel",
-    "date": "2025-06-16 09:37:03",
-    "lat": 36.71889,
-    "lng": 25.60972,
-    "md": "-.-",
-    "ml": "2.7",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      25.60972,
-      36.71889
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.60972,
-          36.71889
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi (Muğla)",
-        "time": 1750066623000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-16",
-    "date_hour": "09:37:03",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
   }
 ]
