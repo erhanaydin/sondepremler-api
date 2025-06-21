@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-21T21:44:12.371Z",
+  "lastUpdate": "2025-06-21T21:53:49.602Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BUYUKOBA-SAMANDAG (HATAY)",
+      "type": "�lksel",
+      "date": "2025.06.22 00:28:31",
+      "lat": 36.2542,
+      "lng": 35.887,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "4.1",
+      "coordinates": [
+        35.887,
+        36.2542
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.887,
+            36.2542
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "BUYUKOBA-SAMANDAG (HATAY)",
+          "time": "2025.06.22 00:28:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.22",
+      "date_hour": "00:28:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
     {
       "title": "DEDEYOLU-SIVRICE (ELAZIG)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "ATALAR-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.06.14 08:25:55",
-      "lat": 38.1803,
-      "lng": 38.1503,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "7.7",
-      "coordinates": [
-        38.1503,
-        38.1803
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.1503,
-            38.1803
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "ATALAR-YESILYURT (MALATYA)",
-          "time": "2025.06.14 08:25:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.14",
-      "date_hour": "08:25:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
