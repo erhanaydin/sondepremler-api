@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-21T20:51:50.769Z",
+  "lastUpdate": "2025-06-21T21:00:03.971Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.06.21 23:47:00",
+      "lat": 40.2047,
+      "lng": 31.7617,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "4.4",
+      "coordinates": [
+        31.7617,
+        40.2047
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.7617,
+            40.2047
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "HIRKATEPE-BEYPAZARI (ANKARA)",
+          "time": "2025.06.21 23:47:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.21",
+      "date_hour": "23:47:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
+    },
     {
       "title": "ATADAMI-DIYADIN (AGRI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
-    },
-    {
-      "title": "AKSU-SINCIK (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.06.14 07:21:35",
-      "lat": 38.1637,
-      "lng": 38.4555,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "15.9",
-      "coordinates": [
-        38.4555,
-        38.1637
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.4555,
-            38.1637
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "AKSU-SINCIK (ADIYAMAN)",
-          "time": "2025.06.14 07:21:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.14",
-      "date_hour": "07:21:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
