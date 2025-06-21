@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-21T04:56:56.212Z",
+  "lastUpdate": "2025-06-21T05:17:26.027Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKYARLAR-BODRUM (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.06.21 07:55:06",
+      "lat": 36.9572,
+      "lng": 27.3195,
+      "md": "-.-",
+      "ml": "3.5",
+      "mw": "3.5",
+      "depth": "14.1",
+      "coordinates": [
+        27.3195,
+        36.9572
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.3195,
+            36.9572
+          ]
+        },
+        "properties": {
+          "mag": "3.5",
+          "place": "AKYARLAR-BODRUM (MUGLA)",
+          "time": "2025.06.21 07:55:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.21",
+      "date_hour": "07:55:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "KADIRUSAGI-YESILYURT (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.13 18:05:49",
-      "lat": 39.2335,
-      "lng": 29.021,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "3.8",
-      "coordinates": [
-        29.021,
-        39.2335
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.021,
-            39.2335
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.06.13 18:05:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.13",
-      "date_hour": "18:05:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
