@@ -1,5 +1,41 @@
 [
   {
+    "title": "Karayazı (Erzurum)",
+    "type": "İlksel",
+    "date": "2025-06-21 03:56:56",
+    "lat": 39.52694,
+    "lng": 42.17167,
+    "md": "-.-",
+    "ml": "1.4",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      42.17167,
+      39.52694
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.17167,
+          39.52694
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Karayazı (Erzurum) (Erzurum)",
+        "time": 1750478216000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-06-21",
+    "date_hour": "03:56:56",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Erzurum"
+  },
+  {
     "title": "Ladik (Samsun)",
     "type": "İlksel",
     "date": "2025-06-21 03:50:43",
@@ -34,6 +70,42 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Samsun"
+  },
+  {
+    "title": "Pamukkale (Denizli)",
+    "type": "İlksel",
+    "date": "2025-06-21 03:47:47",
+    "lat": 38.05028,
+    "lng": 29.03444,
+    "md": "-.-",
+    "ml": "1.3",
+    "mw": "-.-",
+    "depth": 9.43,
+    "coordinates": [
+      29.03444,
+      38.05028
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.03444,
+          38.05028
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Pamukkale (Denizli) (Denizli)",
+        "time": 1750477667000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-06-21",
+    "date_hour": "03:47:47",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Denizli"
   },
   {
     "title": "Akdeniz - [07.25 km] Marmaris (Muğla)",
@@ -15262,41 +15334,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kütahya"
-  },
-  {
-    "title": "Doğanşehir (Malatya)",
-    "type": "İlksel",
-    "date": "2025-06-16 04:10:29",
-    "lat": 38.09694,
-    "lng": 37.80222,
-    "md": "-.-",
-    "ml": "1.3",
-    "mw": "-.-",
-    "depth": 7.27,
-    "coordinates": [
-      37.80222,
-      38.09694
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.80222,
-          38.09694
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Doğanşehir (Malatya) (Malatya)",
-        "time": 1750047029000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-16",
-    "date_hour": "04:10:29",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
   }
 ]

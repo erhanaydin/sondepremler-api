@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-06-21T03:59:10.038Z",
+  "lastUpdate": "2025-06-21T04:29:04.689Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TEPEBASI-DICLE (DIYARBAKIR)",
+      "type": "�lksel",
+      "date": "2025.06.21 07:01:17",
+      "lat": 38.3037,
+      "lng": 40.1727,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "14.4",
+      "coordinates": [
+        40.1727,
+        38.3037
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.1727,
+            38.3037
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "TEPEBASI-DICLE (DIYARBAKIR)",
+          "time": "2025.06.21 07:01:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.21",
+      "date_hour": "07:01:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DIYARBAKIR"
+    },
+    {
+      "title": "HAMITKOY-LADIK (SAMSUN)",
+      "type": "�lksel",
+      "date": "2025.06.21 06:50:43",
+      "lat": 40.8935,
+      "lng": 36.0058,
+      "md": "-.-",
+      "ml": "3.5",
+      "mw": "3.3",
+      "depth": "13.3",
+      "coordinates": [
+        36.0058,
+        40.8935
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.0058,
+            40.8935
+          ]
+        },
+        "properties": {
+          "mag": "3.5",
+          "place": "HAMITKOY-LADIK (SAMSUN)",
+          "time": "2025.06.21 06:50:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.21",
+      "date_hour": "06:50:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SAMSUN"
+    },
     {
       "title": "BOZBURUN ACIKLARI-MUGLA (AKDENIZ)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KARAKOCALI-ALANYA (ANTALYA)",
-      "type": "�lksel",
-      "date": "2025.06.13 17:32:32",
-      "lat": 36.5273,
-      "lng": 32.0798,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "8.0",
-      "coordinates": [
-        32.0798,
-        36.5273
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.0798,
-            36.5273
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KARAKOCALI-ALANYA (ANTALYA)",
-          "time": "2025.06.13 17:32:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.13",
-      "date_hour": "17:32:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANTALYA"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.06.13 16:52:19",
-      "lat": 35.385,
-      "lng": 35.5438,
-      "md": "-.-",
-      "ml": "3.2",
-      "mw": "3.2",
-      "depth": "11.4",
-      "coordinates": [
-        35.5438,
-        35.385
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.5438,
-            35.385
-          ]
-        },
-        "properties": {
-          "mag": "3.2",
-          "place": "AKDENIZ",
-          "time": "2025.06.13 16:52:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.13",
-      "date_hour": "16:52:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
