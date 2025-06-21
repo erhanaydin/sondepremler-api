@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-21T23:09:30.886Z",
+  "lastUpdate": "2025-06-21T23:28:06.629Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.06.22 02:00:22",
+      "lat": 35.6457,
+      "lng": 31.3503,
+      "md": "-.-",
+      "ml": "3.8",
+      "mw": "3.9",
+      "depth": "7.6",
+      "coordinates": [
+        31.3503,
+        35.6457
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.3503,
+            35.6457
+          ]
+        },
+        "properties": {
+          "mag": "3.8",
+          "place": "AKDENIZ",
+          "time": "2025.06.22 02:00:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.22",
+      "date_hour": "02:00:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.06.14 09:14:35",
-      "lat": 40.3152,
-      "lng": 24.127,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        24.127,
-        40.3152
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.127,
-            40.3152
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "YUNANISTAN",
-          "time": "2025.06.14 09:14:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.14",
-      "date_hour": "09:14:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
