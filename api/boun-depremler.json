@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-21T14:45:21.157Z",
+  "lastUpdate": "2025-06-21T14:53:45.513Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AYDINCIK ACIKLARI-MERSIN (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.06.21 17:04:28",
+      "lat": 36.0672,
+      "lng": 33.5507,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "4.6",
+      "coordinates": [
+        33.5507,
+        36.0672
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.5507,
+            36.0672
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "AYDINCIK ACIKLARI-MERSIN (AKDENIZ)",
+          "time": "2025.06.21 17:04:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.21",
+      "date_hour": "17:04:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "ORNEKKOY-PUTURGE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "VAN"
-    },
-    {
-      "title": "ZAFER-BUCA (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.06.14 03:39:49",
-      "lat": 38.3223,
-      "lng": 27.1998,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "10.5",
-      "coordinates": [
-        27.1998,
-        38.3223
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1998,
-            38.3223
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "ZAFER-BUCA (IZMIR)",
-          "time": "2025.06.14 03:39:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.14",
-      "date_hour": "03:39:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
