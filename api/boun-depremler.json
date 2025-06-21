@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-21T13:16:06.571Z",
+  "lastUpdate": "2025-06-21T13:38:31.767Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.21 16:12:49",
+      "lat": 36.6207,
+      "lng": 25.7595,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "5.8",
+      "coordinates": [
+        25.7595,
+        36.6207
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.7595,
+            36.6207
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "EGE DENIZI",
+          "time": "2025.06.21 16:12:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.21",
+      "date_hour": "16:12:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "DEMIRCILIK-ELBISTAN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.21 15:15:45",
+      "lat": 36.5727,
+      "lng": 25.8197,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        25.8197,
+        36.5727
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.8197,
+            36.5727
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "EGE DENIZI",
+          "time": "2025.06.21 15:15:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.21",
+      "date_hour": "15:15:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "GOCEK-FETHIYE (MUGLA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "ALINCIK-SIVRICE (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.06.14 02:51:28",
-      "lat": 38.4703,
-      "lng": 39.2198,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "7.9",
-      "coordinates": [
-        39.2198,
-        38.4703
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.2198,
-            38.4703
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "ALINCIK-SIVRICE (ELAZIG)",
-          "time": "2025.06.14 02:51:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.14",
-      "date_hour": "02:51:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
-    },
-    {
-      "title": "PAYAMBURNU-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.06.14 02:27:28",
-      "lat": 37.8348,
-      "lng": 36.2942,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "16.5",
-      "coordinates": [
-        36.2942,
-        37.8348
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.2942,
-            37.8348
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "PAYAMBURNU-GOKSUN (KAHRAMANMARAS)",
-          "time": "2025.06.14 02:27:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.14",
-      "date_hour": "02:27:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
