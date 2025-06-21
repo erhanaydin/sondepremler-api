@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-21T08:43:26.870Z",
+  "lastUpdate": "2025-06-21T08:54:47.806Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.21 11:26:49",
+      "lat": 35.818,
+      "lng": 25.684,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "8.2",
+      "coordinates": [
+        25.684,
+        35.818
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.684,
+            35.818
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "EGE DENIZI",
+          "time": "2025.06.21 11:26:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.21",
+      "date_hour": "11:26:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "DURU-LICE (DIYARBAKIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KEMER-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.06.13 21:49:36",
-      "lat": 40.4535,
-      "lng": 27.0325,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "15.0",
-      "coordinates": [
-        27.0325,
-        40.4535
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0325,
-            40.4535
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KEMER-BIGA (CANAKKALE)",
-          "time": "2025.06.13 21:49:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.13",
-      "date_hour": "21:49:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
