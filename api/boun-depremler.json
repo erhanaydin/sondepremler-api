@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-21T10:59:51.807Z",
+  "lastUpdate": "2025-06-21T11:21:41.779Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.06.21 14:01:30",
+      "lat": 39.2477,
+      "lng": 29.0057,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "11.7",
+      "coordinates": [
+        29.0057,
+        39.2477
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0057,
+            39.2477
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.06.21 14:01:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.21",
+      "date_hour": "14:01:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KIGI (BINGOL)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BINGOL"
-    },
-    {
-      "title": "SAGLIK-TORBALI (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.06.14 01:50:37",
-      "lat": 38.1247,
-      "lng": 27.4045,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "4.8",
-      "coordinates": [
-        27.4045,
-        38.1247
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.4045,
-            38.1247
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "SAGLIK-TORBALI (IZMIR)",
-          "time": "2025.06.14 01:50:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.14",
-      "date_hour": "01:50:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
