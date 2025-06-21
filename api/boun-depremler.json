@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-21T11:21:41.779Z",
+  "lastUpdate": "2025-06-21T11:33:23.803Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOCEK-FETHIYE (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.06.21 14:14:18",
+      "lat": 36.7328,
+      "lng": 28.9173,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "8.4",
+      "coordinates": [
+        28.9173,
+        36.7328
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9173,
+            36.7328
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "GOCEK-FETHIYE (MUGLA)",
+          "time": "2025.06.21 14:14:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.21",
+      "date_hour": "14:14:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "HASBAGLAR-ADAKLI (BINGOL)",
-      "type": "�lksel",
-      "date": "2025.06.14 02:00:35",
-      "lat": 39.1745,
-      "lng": 40.3708,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "17.9",
-      "coordinates": [
-        40.3708,
-        39.1745
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.3708,
-            39.1745
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "HASBAGLAR-ADAKLI (BINGOL)",
-          "time": "2025.06.14 02:00:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.14",
-      "date_hour": "02:00:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
