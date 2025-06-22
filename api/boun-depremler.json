@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-22T21:29:11.527Z",
+  "lastUpdate": "2025-06-22T21:41:08.830Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKSU-SINCIK (ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2025.06.23 00:30:01",
+      "lat": 38.1428,
+      "lng": 38.4692,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "8.5",
+      "coordinates": [
+        38.4692,
+        38.1428
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.4692,
+            38.1428
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "AKSU-SINCIK (ADIYAMAN)",
+          "time": "2025.06.23 00:30:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.23",
+      "date_hour": "00:30:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
+    },
     {
       "title": "YENIKOY-DARENDE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "SOGUT-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.17 05:30:20",
-      "lat": 39.1365,
-      "lng": 29.0747,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "17.3",
-      "coordinates": [
-        29.0747,
-        39.1365
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0747,
-            39.1365
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "SOGUT-SIMAV (KUTAHYA)",
-          "time": "2025.06.17 05:30:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.17",
-      "date_hour": "05:30:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
