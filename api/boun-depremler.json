@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-22T07:42:47.697Z",
+  "lastUpdate": "2025-06-22T07:51:01.996Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.22 10:07:15",
+      "lat": 36.669,
+      "lng": 25.687,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "6.4",
+      "coordinates": [
+        25.687,
+        36.669
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.687,
+            36.669
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "EGE DENIZI",
+          "time": "2025.06.22 10:07:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.22",
+      "date_hour": "10:07:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "BOZTAHTA-KOZAN (ADANA)",
-      "type": "�lksel",
-      "date": "2025.06.14 17:12:26",
-      "lat": 37.6572,
-      "lng": 36.004,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "2.9",
-      "coordinates": [
-        36.004,
-        37.6572
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.004,
-            37.6572
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "BOZTAHTA-KOZAN (ADANA)",
-          "time": "2025.06.14 17:12:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.14",
-      "date_hour": "17:12:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
