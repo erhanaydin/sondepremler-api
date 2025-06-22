@@ -1,5 +1,41 @@
 [
   {
+    "title": "Simav (Kütahya)",
+    "type": "İlksel",
+    "date": "2025-06-22 14:52:01",
+    "lat": 39.17028,
+    "lng": 28.93583,
+    "md": "-.-",
+    "ml": "2.3",
+    "mw": "-.-",
+    "depth": 13.01,
+    "coordinates": [
+      28.93583,
+      39.17028
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.93583,
+          39.17028
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Simav (Kütahya) (Kütahya)",
+        "time": 1750603921000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-06-22",
+    "date_hour": "14:52:01",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
+  },
+  {
     "title": "Keles (Bursa)",
     "type": "İlksel",
     "date": "2025-06-22 13:02:43",
@@ -15118,77 +15154,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Muğla"
-  },
-  {
-    "title": "Akdeniz",
-    "type": "İlksel",
-    "date": "2025-06-17 15:38:28",
-    "lat": 34.7675,
-    "lng": 24.65611,
-    "md": "-.-",
-    "ml": "4.4",
-    "mw": "-.-",
-    "depth": 5.67,
-    "coordinates": [
-      24.65611,
-      34.7675
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.65611,
-          34.7675
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akdeniz (Muğla)",
-        "time": 1750174708000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-17",
-    "date_hour": "15:38:28",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
-  },
-  {
-    "title": "Ege Denizi - [48.08 km] Çeşme (İzmir)",
-    "type": "İlksel",
-    "date": "2025-06-17 15:33:20",
-    "lat": 38.50139,
-    "lng": 25.76722,
-    "md": "-.-",
-    "ml": "2",
-    "mw": "-.-",
-    "depth": 7.22,
-    "coordinates": [
-      25.76722,
-      38.50139
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.76722,
-          38.50139
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi - [48.08 km] Çeşme (İzmir) (İzmir)",
-        "time": 1750174400000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-17",
-    "date_hour": "15:33:20",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "İzmir"
   }
 ]
