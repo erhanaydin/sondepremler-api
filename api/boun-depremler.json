@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-06-22T06:21:04.083Z",
+  "lastUpdate": "2025-06-22T06:45:12.817Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALAZI-(HATAY)",
+      "type": "�lksel",
+      "date": "2025.06.22 09:35:12",
+      "lat": 36.2998,
+      "lng": 36.1943,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "2.3",
+      "coordinates": [
+        36.1943,
+        36.2998
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.1943,
+            36.2998
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ALAZI-(HATAY)",
+          "time": "2025.06.22 09:35:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.22",
+      "date_hour": "09:35:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.22 09:13:24",
+      "lat": 36.0915,
+      "lng": 27.5762,
+      "md": "-.-",
+      "ml": "3.4",
+      "mw": "3.3",
+      "depth": "5.9",
+      "coordinates": [
+        27.5762,
+        36.0915
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.5762,
+            36.0915
+          ]
+        },
+        "properties": {
+          "mag": "3.4",
+          "place": "EGE DENIZI",
+          "time": "2025.06.22 09:13:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.22",
+      "date_hour": "09:13:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KOCABEY-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BINGOL"
-    },
-    {
-      "title": "SARIDERE-(USAK)",
-      "type": "�lksel",
-      "date": "2025.06.14 12:50:56",
-      "lat": 38.7723,
-      "lng": 29.305,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "16.6",
-      "coordinates": [
-        29.305,
-        38.7723
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.305,
-            38.7723
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "SARIDERE-(USAK)",
-          "time": "2025.06.14 12:50:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.14",
-      "date_hour": "12:50:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "USAK"
-    },
-    {
-      "title": "KOZAGAC-BEYPAZARI (ANKARA)",
-      "type": "�lksel",
-      "date": "2025.06.14 12:50:02",
-      "lat": 40.2107,
-      "lng": 31.7777,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "2.5",
-      "coordinates": [
-        31.7777,
-        40.2107
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.7777,
-            40.2107
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KOZAGAC-BEYPAZARI (ANKARA)",
-          "time": "2025.06.14 12:50:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.14",
-      "date_hour": "12:50:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
