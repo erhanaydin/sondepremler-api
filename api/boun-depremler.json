@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-22T07:59:24.741Z",
+  "lastUpdate": "2025-06-22T08:29:49.933Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DILEKLI-YUKSEKOVA (HAKKARI)",
+      "type": "�lksel",
+      "date": "2025.06.22 10:53:05",
+      "lat": 37.321,
+      "lng": 43.9127,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        43.9127,
+        37.321
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.9127,
+            37.321
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "DILEKLI-YUKSEKOVA (HAKKARI)",
+          "time": "2025.06.22 10:53:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.22",
+      "date_hour": "10:53:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HAKKARI"
+    },
     {
       "title": "GAZIKOY-DARENDE (MALATYA)",
       "type": "�lksel",
@@ -34,6 +70,42 @@
       "location_properties": "",
       "date_day": "2025.06.22",
       "date_hour": "10:51:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
+      "title": "ULUKOY-(MALATYA)",
+      "type": "�lksel",
+      "date": "2025.06.22 10:47:45",
+      "lat": 38.1573,
+      "lng": 38.572,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "10.4",
+      "coordinates": [
+        38.572,
+        38.1573
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.572,
+            38.1573
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "ULUKOY-(MALATYA)",
+          "time": "2025.06.22 10:47:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.22",
+      "date_hour": "10:47:45",
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
@@ -78,23 +150,23 @@
       "title": "EGE DENIZI",
       "type": "�lksel",
       "date": "2025.06.22 09:50:38",
-      "lat": 36.1533,
-      "lng": 27.6077,
+      "lat": 36.154,
+      "lng": 27.6063,
       "md": "-.-",
       "ml": "2.4",
-      "mw": "2.4",
+      "mw": "-.-",
       "depth": "5.4",
       "coordinates": [
-        27.6077,
-        36.1533
+        27.6063,
+        36.154
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            27.6077,
-            36.1533
+            27.6063,
+            36.154
           ]
         },
         "properties": {
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KUYUBELI-KOZAN (ADANA)",
-      "type": "�lksel",
-      "date": "2025.06.14 17:17:49",
-      "lat": 37.6825,
-      "lng": 35.9947,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "15.9",
-      "coordinates": [
-        35.9947,
-        37.6825
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.9947,
-            37.6825
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KUYUBELI-KOZAN (ADANA)",
-          "time": "2025.06.14 17:17:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.14",
-      "date_hour": "17:17:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.14 17:14:46",
-      "lat": 39.2215,
-      "lng": 29.0265,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.6",
-      "coordinates": [
-        29.0265,
-        39.2215
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0265,
-            39.2215
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.06.14 17:14:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.14",
-      "date_hour": "17:14:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
