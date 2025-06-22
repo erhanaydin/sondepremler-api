@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-22T14:56:42.585Z",
+  "lastUpdate": "2025-06-22T15:17:05.273Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.06.22 17:52:00",
+      "lat": 39.2292,
+      "lng": 28.9852,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "4.7",
+      "coordinates": [
+        28.9852,
+        39.2292
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9852,
+            39.2292
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.06.22 17:52:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.22",
+      "date_hour": "17:52:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "SARIOT-DOMANIC (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BINGOL"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.06.16 23:46:33",
-      "lat": 40.224,
-      "lng": 24.0797,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "6.5",
-      "coordinates": [
-        24.0797,
-        40.224
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.0797,
-            40.224
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YUNANISTAN",
-          "time": "2025.06.16 23:46:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.16",
-      "date_hour": "23:46:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
