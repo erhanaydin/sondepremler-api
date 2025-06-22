@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-06-22T23:44:12.880Z",
+  "lastUpdate": "2025-06-22T23:52:43.477Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "A. DAMLAPINAR-SELIM (KARS)",
+      "type": "�lksel",
+      "date": "2025.06.23 02:38:22",
+      "lat": 40.3248,
+      "lng": 42.796,
+      "md": "-.-",
+      "ml": "3.7",
+      "mw": "3.8",
+      "depth": "5.0",
+      "coordinates": [
+        42.796,
+        40.3248
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            42.796,
+            40.3248
+          ]
+        },
+        "properties": {
+          "mag": "3.7",
+          "place": "A. DAMLAPINAR-SELIM (KARS)",
+          "time": "2025.06.23 02:38:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.23",
+      "date_hour": "02:38:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KARS"
+    },
+    {
+      "title": "SALKONAK-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.06.23 02:29:23",
+      "lat": 38.1355,
+      "lng": 38.3677,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.6",
+      "coordinates": [
+        38.3677,
+        38.1355
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.3677,
+            38.1355
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "SALKONAK-YESILYURT (MALATYA)",
+          "time": "2025.06.23 02:29:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.23",
+      "date_hour": "02:29:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
-    },
-    {
-      "title": "TURGUT-ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.06.17 09:09:44",
-      "lat": 37.1163,
-      "lng": 28.7193,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "24.9",
-      "coordinates": [
-        28.7193,
-        37.1163
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7193,
-            37.1163
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "TURGUT-ULA (MUGLA)",
-          "time": "2025.06.17 09:09:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.17",
-      "date_hour": "09:09:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.17 08:31:07",
-      "lat": 39.2427,
-      "lng": 28.9932,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "7.3",
-      "coordinates": [
-        28.9932,
-        39.2427
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9932,
-            39.2427
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.06.17 08:31:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.17",
-      "date_hour": "08:31:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
