@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-22T11:45:21.084Z",
+  "lastUpdate": "2025-06-22T11:53:54.466Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
+    },
+    {
+      "title": "GURLEYIK-HONAZ (DENIZLI)",
+      "type": "�lksel",
+      "date": "2025.06.22 14:24:47",
+      "lat": 37.8595,
+      "lng": 29.2785,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "13.8",
+      "coordinates": [
+        29.2785,
+        37.8595
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.2785,
+            37.8595
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "GURLEYIK-HONAZ (DENIZLI)",
+          "time": "2025.06.22 14:24:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.22",
+      "date_hour": "14:24:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
     },
     {
       "title": "AKDENIZ",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "CAPAKLI-SALIHLI (MANISA)",
-      "type": "�lksel",
-      "date": "2025.06.16 21:17:24",
-      "lat": 38.5582,
-      "lng": 28.2265,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        28.2265,
-        38.5582
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2265,
-            38.5582
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "CAPAKLI-SALIHLI (MANISA)",
-          "time": "2025.06.16 21:17:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.16",
-      "date_hour": "21:17:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
