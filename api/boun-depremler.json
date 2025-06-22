@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-22T11:11:15.108Z",
+  "lastUpdate": "2025-06-22T11:26:12.098Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ABAS-EMET (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.06.22 13:42:25",
+      "lat": 39.2248,
+      "lng": 29.5157,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "3.4",
+      "coordinates": [
+        29.5157,
+        39.2248
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.5157,
+            39.2248
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ABAS-EMET (KUTAHYA)",
+          "time": "2025.06.22 13:42:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.22",
+      "date_hour": "13:42:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "TURKOGLU-MERZIFON (AMASYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "KUYUBELI-KOZAN (ADANA)",
-      "type": "�lksel",
-      "date": "2025.06.14 22:27:03",
-      "lat": 37.6737,
-      "lng": 35.9663,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "1.9",
-      "coordinates": [
-        35.9663,
-        37.6737
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.9663,
-            37.6737
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "KUYUBELI-KOZAN (ADANA)",
-          "time": "2025.06.14 22:27:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.14",
-      "date_hour": "22:27:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
