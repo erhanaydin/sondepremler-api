@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-06-22T15:59:28.478Z",
+  "lastUpdate": "2025-06-22T16:28:21.460Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HARMANDALI-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2025.06.22 19:10:19",
+      "lat": 38.8527,
+      "lng": 27.9098,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "6.3",
+      "coordinates": [
+        27.9098,
+        38.8527
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9098,
+            38.8527
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "HARMANDALI-AKHISAR (MANISA)",
+          "time": "2025.06.22 19:10:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.22",
+      "date_hour": "19:10:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
+    {
+      "title": "BADEMLI-DIKILI (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.06.22 18:23:24",
+      "lat": 39.0115,
+      "lng": 26.8023,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "13.5",
+      "coordinates": [
+        26.8023,
+        39.0115
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.8023,
+            39.0115
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "BADEMLI-DIKILI (IZMIR)",
+          "time": "2025.06.22 18:23:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.22",
+      "date_hour": "18:23:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
     {
       "title": "SENKOY-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -42,27 +114,27 @@
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
       "date": "2025.06.22 17:52:00",
-      "lat": 39.2333,
-      "lng": 28.9873,
+      "lat": 39.2452,
+      "lng": 28.9842,
       "md": "-.-",
-      "ml": "2.4",
+      "ml": "2.3",
       "mw": "-.-",
-      "depth": "9.5",
+      "depth": "5.0",
       "coordinates": [
-        28.9873,
-        39.2333
+        28.9842,
+        39.2452
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            28.9873,
-            39.2333
+            28.9842,
+            39.2452
           ]
         },
         "properties": {
-          "mag": "2.4",
+          "mag": "2.3",
           "place": "YEMISLI-SIMAV (KUTAHYA)",
           "time": "2025.06.22 17:52:00"
         }
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "YAYAKOY-SARKOY (TEKIRDAG)",
-      "type": "�lksel",
-      "date": "2025.06.17 01:20:29",
-      "lat": 40.704,
-      "lng": 27.2167,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "16.4",
-      "coordinates": [
-        27.2167,
-        40.704
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.2167,
-            40.704
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "YAYAKOY-SARKOY (TEKIRDAG)",
-          "time": "2025.06.17 01:20:29"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.17",
-      "date_hour": "01:20:29",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TEKIRDAG"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.17 00:38:52",
-      "lat": 39.2168,
-      "lng": 29.0398,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "10.8",
-      "coordinates": [
-        29.0398,
-        39.2168
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0398,
-            39.2168
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.06.17 00:38:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.17",
-      "date_hour": "00:38:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
