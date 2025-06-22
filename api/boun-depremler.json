@@ -1,32 +1,68 @@
 {
-  "lastUpdate": "2025-06-22T15:17:05.273Z",
+  "lastUpdate": "2025-06-22T15:32:50.359Z",
   "source": "Boğaziçi",
   "data": [
     {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "title": "SENKOY-SIMAV (KUTAHYA)",
       "type": "�lksel",
-      "date": "2025.06.22 17:52:00",
-      "lat": 39.2292,
-      "lng": 28.9852,
+      "date": "2025.06.22 17:52:39",
+      "lat": 39.0958,
+      "lng": 29.1107,
       "md": "-.-",
-      "ml": "2.5",
+      "ml": "1.6",
       "mw": "-.-",
-      "depth": "4.7",
+      "depth": "18.5",
       "coordinates": [
-        28.9852,
-        39.2292
+        29.1107,
+        39.0958
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            28.9852,
-            39.2292
+            29.1107,
+            39.0958
           ]
         },
         "properties": {
-          "mag": "2.5",
+          "mag": "1.6",
+          "place": "SENKOY-SIMAV (KUTAHYA)",
+          "time": "2025.06.22 17:52:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.22",
+      "date_hour": "17:52:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.06.22 17:52:00",
+      "lat": 39.2333,
+      "lng": 28.9873,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "9.5",
+      "coordinates": [
+        28.9873,
+        39.2333
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9873,
+            39.2333
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
           "place": "YEMISLI-SIMAV (KUTAHYA)",
           "time": "2025.06.22 17:52:00"
         }
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KUSCIMENI-ADAKLI (BINGOL)",
-      "type": "�lksel",
-      "date": "2025.06.17 00:20:14",
-      "lat": 39.2015,
-      "lng": 40.3405,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "21.5",
-      "coordinates": [
-        40.3405,
-        39.2015
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.3405,
-            39.2015
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "KUSCIMENI-ADAKLI (BINGOL)",
-          "time": "2025.06.17 00:20:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.17",
-      "date_hour": "00:20:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
