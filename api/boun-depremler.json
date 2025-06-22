@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-22T11:53:54.466Z",
+  "lastUpdate": "2025-06-22T12:20:34.396Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YOGUNPELIT-YIGILCA (DUZCE)",
+      "type": "�lksel",
+      "date": "2025.06.22 15:05:32",
+      "lat": 40.9415,
+      "lng": 31.6438,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        31.6438,
+        40.9415
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.6438,
+            40.9415
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "YOGUNPELIT-YIGILCA (DUZCE)",
+          "time": "2025.06.22 15:05:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.22",
+      "date_hour": "15:05:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DUZCE"
+    },
     {
       "title": "YUREKKAYA-SIVRICE (ELAZIG)",
       "type": "�lksel",
@@ -289,6 +325,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
+    },
+    {
+      "title": "SAYLAK-KIRIKHAN (HATAY)",
+      "type": "�lksel",
+      "date": "2025.06.22 12:54:01",
+      "lat": 36.612,
+      "lng": 36.403,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "3.6",
+      "coordinates": [
+        36.403,
+        36.612
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.403,
+            36.612
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "SAYLAK-KIRIKHAN (HATAY)",
+          "time": "2025.06.22 12:54:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.22",
+      "date_hour": "12:54:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
     },
     {
       "title": "HACIILYASLI-MUT (MERSIN)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "GOKOVA KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.06.16 21:49:08",
-      "lat": 36.9775,
-      "lng": 28.0527,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "8.1",
-      "coordinates": [
-        28.0527,
-        36.9775
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0527,
-            36.9775
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "GOKOVA KORFEZI (EGE DENIZI)",
-          "time": "2025.06.16 21:49:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.16",
-      "date_hour": "21:49:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.06.16 21:18:25",
-      "lat": 40.3102,
-      "lng": 24.1773,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "6.7",
-      "coordinates": [
-        24.1773,
-        40.3102
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.1773,
-            40.3102
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "YUNANISTAN",
-          "time": "2025.06.16 21:18:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.16",
-      "date_hour": "21:18:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
