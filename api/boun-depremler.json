@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-06-22T10:33:31.222Z",
+  "lastUpdate": "2025-06-22T10:46:41.126Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISIKLAR-BIGADIC (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.06.22 13:00:17",
+      "lat": 39.428,
+      "lng": 28.1432,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        28.1432,
+        39.428
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1432,
+            39.428
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "ISIKLAR-BIGADIC (BALIKESIR)",
+          "time": "2025.06.22 13:00:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.22",
+      "date_hour": "13:00:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.22 12:39:14",
+      "lat": 35.7403,
+      "lng": 25.9105,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "22.7",
+      "coordinates": [
+        25.9105,
+        35.7403
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.9105,
+            35.7403
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "EGE DENIZI",
+          "time": "2025.06.22 12:39:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.22",
+      "date_hour": "12:39:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "TUTENOCAK-BAYKAN (SIIRT)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "OSMANIYE"
-    },
-    {
-      "title": "HACIYERI-YIGILCA (DUZCE)",
-      "type": "�lksel",
-      "date": "2025.06.14 19:01:28",
-      "lat": 40.9182,
-      "lng": 31.4678,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "6.1",
-      "coordinates": [
-        31.4678,
-        40.9182
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.4678,
-            40.9182
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "HACIYERI-YIGILCA (DUZCE)",
-          "time": "2025.06.14 19:01:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.14",
-      "date_hour": "19:01:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DUZCE"
-    },
-    {
-      "title": "CAMLARCA-KOZAN (ADANA)",
-      "type": "�lksel",
-      "date": "2025.06.14 18:58:54",
-      "lat": 37.6362,
-      "lng": 35.9668,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "15.6",
-      "coordinates": [
-        35.9668,
-        37.6362
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.9668,
-            37.6362
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "CAMLARCA-KOZAN (ADANA)",
-          "time": "2025.06.14 18:58:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.14",
-      "date_hour": "18:58:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
