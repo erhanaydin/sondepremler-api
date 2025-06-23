@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-23T14:55:31.089Z",
+  "lastUpdate": "2025-06-23T15:17:09.667Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARACAOREN-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.06.23 17:39:42",
+      "lat": 39.1795,
+      "lng": 29.021,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "9.8",
+      "coordinates": [
+        29.021,
+        39.1795
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.021,
+            39.1795
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KARACAOREN-SIMAV (KUTAHYA)",
+          "time": "2025.06.23 17:39:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.23",
+      "date_hour": "17:39:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ORDU"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.06.17 17:27:02",
-      "lat": 40.2968,
-      "lng": 24.0927,
-      "md": "-.-",
-      "ml": "3.3",
-      "mw": "3.3",
-      "depth": "15.4",
-      "coordinates": [
-        24.0927,
-        40.2968
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.0927,
-            40.2968
-          ]
-        },
-        "properties": {
-          "mag": "3.3",
-          "place": "YUNANISTAN",
-          "time": "2025.06.17 17:27:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.17",
-      "date_hour": "17:27:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
