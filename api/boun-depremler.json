@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-23T14:44:50.587Z",
+  "lastUpdate": "2025-06-23T14:55:31.089Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.06.23 17:21:38",
+      "lat": 39.2132,
+      "lng": 29.0472,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "11.1",
+      "coordinates": [
+        29.0472,
+        39.2132
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0472,
+            39.2132
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.06.23 17:21:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.23",
+      "date_hour": "17:21:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "AKSU-SINCIK (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.06.17 17:15:25",
-      "lat": 38.1327,
-      "lng": 38.4558,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "7.9",
-      "coordinates": [
-        38.4558,
-        38.1327
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.4558,
-            38.1327
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "AKSU-SINCIK (ADIYAMAN)",
-          "time": "2025.06.17 17:15:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.17",
-      "date_hour": "17:15:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
