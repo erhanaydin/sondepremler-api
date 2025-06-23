@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-06-23T21:00:45.702Z",
+  "lastUpdate": "2025-06-23T21:25:46.720Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DARKOPRU-KIGI (BINGOL)",
+      "type": "�lksel",
+      "date": "2025.06.24 00:08:21",
+      "lat": 39.2,
+      "lng": 40.2497,
+      "md": "-.-",
+      "ml": "3.6",
+      "mw": "3.8",
+      "depth": "5.0",
+      "coordinates": [
+        40.2497,
+        39.2
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.2497,
+            39.2
+          ]
+        },
+        "properties": {
+          "mag": "3.6",
+          "place": "DARKOPRU-KIGI (BINGOL)",
+          "time": "2025.06.24 00:08:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.24",
+      "date_hour": "00:08:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGOL"
+    },
+    {
+      "title": "KARACAOREN-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.06.23 23:56:56",
+      "lat": 39.1968,
+      "lng": 29.0607,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "9.8",
+      "coordinates": [
+        29.0607,
+        39.1968
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0607,
+            39.1968
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KARACAOREN-SIMAV (KUTAHYA)",
+          "time": "2025.06.23 23:56:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.23",
+      "date_hour": "23:56:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "SATIRHUYUK-NURDAGI (GAZIANTEP)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.17 21:11:56",
-      "lat": 36.628,
-      "lng": 25.5907,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "1.4",
-      "coordinates": [
-        25.5907,
-        36.628
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.5907,
-            36.628
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "EGE DENIZI",
-          "time": "2025.06.17 21:11:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.17",
-      "date_hour": "21:11:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.17 21:08:40",
-      "lat": 39.2493,
-      "lng": 28.9807,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "11.3",
-      "coordinates": [
-        28.9807,
-        39.2493
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9807,
-            39.2493
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.06.17 21:08:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.17",
-      "date_hour": "21:08:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
