@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-23T00:51:08.583Z",
+  "lastUpdate": "2025-06-23T02:47:39.885Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GUNEYKOY-SIVRICE (ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.06.23 04:06:44",
+      "lat": 38.5243,
+      "lng": 39.3247,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "6.2",
+      "coordinates": [
+        39.3247,
+        38.5243
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.3247,
+            38.5243
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "GUNEYKOY-SIVRICE (ELAZIG)",
+          "time": "2025.06.23 04:06:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.23",
+      "date_hour": "04:06:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "A. DAMLAPINAR-SELIM (KARS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "YESILBAHCE-CEYHAN (ADANA)",
-      "type": "�lksel",
-      "date": "2025.06.17 09:11:24",
-      "lat": 37.1572,
-      "lng": 35.8142,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "21.0",
-      "coordinates": [
-        35.8142,
-        37.1572
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.8142,
-            37.1572
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "YESILBAHCE-CEYHAN (ADANA)",
-          "time": "2025.06.17 09:11:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.17",
-      "date_hour": "09:11:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
