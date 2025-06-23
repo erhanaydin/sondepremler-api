@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-23T18:59:14.242Z",
+  "lastUpdate": "2025-06-23T19:19:18.837Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SOGUTCUK-KORKUTELI (ANTALYA)",
+      "type": "�lksel",
+      "date": "2025.06.23 21:58:27",
+      "lat": 36.968,
+      "lng": 30.4415,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "4.6",
+      "coordinates": [
+        30.4415,
+        36.968
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4415,
+            36.968
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "SOGUTCUK-KORKUTELI (ANTALYA)",
+          "time": "2025.06.23 21:58:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.23",
+      "date_hour": "21:58:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANTALYA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "KARACAOREN-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.17 19:08:04",
-      "lat": 39.187,
-      "lng": 29.0472,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "3.7",
-      "coordinates": [
-        29.0472,
-        39.187
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0472,
-            39.187
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "KARACAOREN-SIMAV (KUTAHYA)",
-          "time": "2025.06.17 19:08:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.17",
-      "date_hour": "19:08:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
