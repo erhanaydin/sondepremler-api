@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-23T08:48:08.848Z",
+  "lastUpdate": "2025-06-23T09:00:37.816Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "PINAR-KOYCEGIZ (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.06.23 11:27:37",
+      "lat": 36.9698,
+      "lng": 28.8013,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "6.0",
+      "coordinates": [
+        28.8013,
+        36.9698
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8013,
+            36.9698
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "PINAR-KOYCEGIZ (MUGLA)",
+          "time": "2025.06.23 11:27:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.23",
+      "date_hour": "11:27:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "KARAPINAR-AKCADAG (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.06.17 12:27:17",
-      "lat": 38.2902,
-      "lng": 38.0832,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "25.7",
-      "coordinates": [
-        38.0832,
-        38.2902
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.0832,
-            38.2902
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KARAPINAR-AKCADAG (MALATYA)",
-          "time": "2025.06.17 12:27:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.17",
-      "date_hour": "12:27:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
