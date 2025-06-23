@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-23T08:24:31.877Z",
+  "lastUpdate": "2025-06-23T08:48:08.848Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.06.23 10:16:08",
+      "lat": 36.422,
+      "lng": 28.6772,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "31.3",
+      "coordinates": [
+        28.6772,
+        36.422
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.6772,
+            36.422
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "AKDENIZ",
+          "time": "2025.06.23 10:16:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.23",
+      "date_hour": "10:16:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KIYIGOREN-ALTINOZU (HATAY)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "KUMKUYU-ERDEMLI (MERSIN)",
-      "type": "�lksel",
-      "date": "2025.06.17 12:16:10",
-      "lat": 36.5138,
-      "lng": 34.2055,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        34.2055,
-        36.5138
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.2055,
-            36.5138
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KUMKUYU-ERDEMLI (MERSIN)",
-          "time": "2025.06.17 12:16:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.17",
-      "date_hour": "12:16:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
     }
   ]
 }
