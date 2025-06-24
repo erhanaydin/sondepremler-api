@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-24T11:28:01.920Z",
+  "lastUpdate": "2025-06-24T11:40:18.547Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SOGUT-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.06.24 14:25:00",
+      "lat": 39.1427,
+      "lng": 29.1232,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "19.8",
+      "coordinates": [
+        29.1232,
+        39.1427
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1232,
+            39.1427
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "SOGUT-SIMAV (KUTAHYA)",
+          "time": "2025.06.24 14:25:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.24",
+      "date_hour": "14:25:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "BUYUKECELI-GULNAR (MERSIN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.18 04:18:18",
-      "lat": 36.643,
-      "lng": 25.7083,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "3.4",
-      "coordinates": [
-        25.7083,
-        36.643
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.7083,
-            36.643
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "EGE DENIZI",
-          "time": "2025.06.18 04:18:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.18",
-      "date_hour": "04:18:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
