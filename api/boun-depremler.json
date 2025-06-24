@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-24T17:01:33.028Z",
+  "lastUpdate": "2025-06-24T17:27:32.585Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUMURTALIK (ADANA)",
+      "type": "�lksel",
+      "date": "2025.06.24 20:10:47",
+      "lat": 36.7905,
+      "lng": 35.8127,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        35.8127,
+        36.7905
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.8127,
+            36.7905
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "YUMURTALIK (ADANA)",
+          "time": "2025.06.24 20:10:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.24",
+      "date_hour": "20:10:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "KERTMEKARACAOREN-ULAS (SIVAS)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIVAS"
+    },
+    {
+      "title": "SURIYE",
+      "type": "�lksel",
+      "date": "2025.06.24 18:25:26",
+      "lat": 36.6648,
+      "lng": 38.445,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "9.4",
+      "coordinates": [
+        38.445,
+        36.6648
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.445,
+            36.6648
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "SURIYE",
+          "time": "2025.06.24 18:25:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.24",
+      "date_hour": "18:25:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "SOGUTLU-PUTURGE (MALATYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.18 07:36:40",
-      "lat": 39.243,
-      "lng": 28.9882,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "11.0",
-      "coordinates": [
-        28.9882,
-        39.243
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9882,
-            39.243
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.06.18 07:36:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.18",
-      "date_hour": "07:36:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.18 06:57:51",
-      "lat": 38.7987,
-      "lng": 26.637,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "13.0",
-      "coordinates": [
-        26.637,
-        38.7987
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.637,
-            38.7987
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "EGE DENIZI",
-          "time": "2025.06.18 06:57:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.18",
-      "date_hour": "06:57:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
