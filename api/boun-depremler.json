@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-24T13:20:56.317Z",
+  "lastUpdate": "2025-06-24T13:47:53.313Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SOGUTLU-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.06.24 16:12:12",
+      "lat": 38.2222,
+      "lng": 38.5777,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.5777,
+        38.2222
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.5777,
+            38.2222
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "SOGUTLU-PUTURGE (MALATYA)",
+          "time": "2025.06.24 16:12:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.24",
+      "date_hour": "16:12:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "ESKIKARAHISAR-ULAS (SIVAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURDUR"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.18 05:37:49",
-      "lat": 36.6615,
-      "lng": 25.819,
-      "md": "-.-",
-      "ml": "2.9",
-      "mw": "-.-",
-      "depth": "15.4",
-      "coordinates": [
-        25.819,
-        36.6615
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.819,
-            36.6615
-          ]
-        },
-        "properties": {
-          "mag": "2.9",
-          "place": "EGE DENIZI",
-          "time": "2025.06.18 05:37:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.18",
-      "date_hour": "05:37:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
