@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-24T12:39:29.910Z",
+  "lastUpdate": "2025-06-24T13:20:56.317Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ESKIKARAHISAR-ULAS (SIVAS)",
+      "type": "�lksel",
+      "date": "2025.06.24 15:21:14",
+      "lat": 39.4145,
+      "lng": 37.24,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "5.9",
+      "coordinates": [
+        37.24,
+        39.4145
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.24,
+            39.4145
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "ESKIKARAHISAR-ULAS (SIVAS)",
+          "time": "2025.06.24 15:21:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.24",
+      "date_hour": "15:21:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SIVAS"
+    },
     {
       "title": "ALIBEYCAGILI-KIRIKHAN (HATAY)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "HALILBEYLI-SAIMBEYLI (ADANA)",
-      "type": "�lksel",
-      "date": "2025.06.18 05:28:57",
-      "lat": 37.7915,
-      "lng": 36.1743,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "6.3",
-      "coordinates": [
-        36.1743,
-        37.7915
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.1743,
-            37.7915
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "HALILBEYLI-SAIMBEYLI (ADANA)",
-          "time": "2025.06.18 05:28:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.18",
-      "date_hour": "05:28:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
