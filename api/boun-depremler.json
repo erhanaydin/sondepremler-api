@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-24T19:57:09.429Z",
+  "lastUpdate": "2025-06-24T20:21:50.838Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ARIKLIKAS-BAHCE (OSMANIYE)",
+      "type": "�lksel",
+      "date": "2025.06.24 22:44:51",
+      "lat": 37.1563,
+      "lng": 36.5027,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "15.2",
+      "coordinates": [
+        36.5027,
+        37.1563
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.5027,
+            37.1563
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ARIKLIKAS-BAHCE (OSMANIYE)",
+          "time": "2025.06.24 22:44:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.24",
+      "date_hour": "22:44:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "OSMANIYE"
+    },
     {
       "title": "SARIBALTA-CEMISGEZEK (TUNCELI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.18 09:16:21",
-      "lat": 39.2405,
-      "lng": 29.003,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        29.003,
-        39.2405
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.003,
-            39.2405
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.06.18 09:16:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.18",
-      "date_hour": "09:16:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
