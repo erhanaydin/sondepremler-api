@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-24T16:49:24.413Z",
+  "lastUpdate": "2025-06-24T17:01:33.028Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KERTMEKARACAOREN-ULAS (SIVAS)",
+      "type": "�lksel",
+      "date": "2025.06.24 18:36:29",
+      "lat": 39.396,
+      "lng": 37.3142,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        37.3142,
+        39.396
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.3142,
+            39.396
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KERTMEKARACAOREN-ULAS (SIVAS)",
+          "time": "2025.06.24 18:36:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.24",
+      "date_hour": "18:36:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SIVAS"
+    },
     {
       "title": "SOGUTLU-PUTURGE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "MURSITPINAR-SURUC (SANLIURFA)",
-      "type": "�lksel",
-      "date": "2025.06.18 06:56:56",
-      "lat": 36.8742,
-      "lng": 38.372,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "10.5",
-      "coordinates": [
-        38.372,
-        36.8742
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.372,
-            36.8742
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "MURSITPINAR-SURUC (SANLIURFA)",
-          "time": "2025.06.18 06:56:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.18",
-      "date_hour": "06:56:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SANLIURFA"
     }
   ]
 }
