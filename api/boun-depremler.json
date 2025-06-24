@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-24T15:34:06.099Z",
+  "lastUpdate": "2025-06-24T15:48:33.327Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SOGUTLU-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.06.24 18:22:49",
+      "lat": 38.2082,
+      "lng": 38.5885,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "4.5",
+      "coordinates": [
+        38.5885,
+        38.2082
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.5885,
+            38.2082
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "SOGUTLU-PUTURGE (MALATYA)",
+          "time": "2025.06.24 18:22:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.24",
+      "date_hour": "18:22:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "KAYNAR-(KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SANLIURFA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.18 06:32:56",
-      "lat": 36.6215,
-      "lng": 25.9563,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "6.7",
-      "coordinates": [
-        25.9563,
-        36.6215
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.9563,
-            36.6215
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "EGE DENIZI",
-          "time": "2025.06.18 06:32:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.18",
-      "date_hour": "06:32:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
