@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-25T08:47:22.837Z",
+  "lastUpdate": "2025-06-25T09:00:33.938Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.25 11:24:06",
+      "lat": 40.8533,
+      "lng": 28.3978,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "16.6",
+      "coordinates": [
+        28.3978,
+        40.8533
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3978,
+            40.8533
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "MARMARA DENIZI",
+          "time": "2025.06.25 11:24:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.25",
+      "date_hour": "11:24:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "GULVEREN-SENKAYA (ERZURUM)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZURUM"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.06.18 15:10:40",
-      "lat": 40.3013,
-      "lng": 24.1367,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "15.6",
-      "coordinates": [
-        24.1367,
-        40.3013
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.1367,
-            40.3013
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YUNANISTAN",
-          "time": "2025.06.18 15:10:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.18",
-      "date_hour": "15:10:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
