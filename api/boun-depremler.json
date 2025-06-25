@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-25T16:43:23.022Z",
+  "lastUpdate": "2025-06-25T16:58:18.054Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SURIYE",
+      "type": "�lksel",
+      "date": "2025.06.25 19:38:50",
+      "lat": 35.669,
+      "lng": 35.91,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "8.7",
+      "coordinates": [
+        35.91,
+        35.669
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.91,
+            35.669
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "SURIYE",
+          "time": "2025.06.25 19:38:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.25",
+      "date_hour": "19:38:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "UYANIK-KALE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.18 17:02:14",
-      "lat": 39.2443,
-      "lng": 28.9837,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "10.7",
-      "coordinates": [
-        28.9837,
-        39.2443
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9837,
-            39.2443
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.06.18 17:02:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.18",
-      "date_hour": "17:02:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
