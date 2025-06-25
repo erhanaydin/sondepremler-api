@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-25T19:08:27.249Z",
+  "lastUpdate": "2025-06-25T19:23:47.759Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -361,6 +361,78 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURDUR"
+    },
+    {
+      "title": "ARPASEKI-KINIK (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.06.25 18:12:16",
+      "lat": 39.0803,
+      "lng": 27.5127,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "9.1",
+      "coordinates": [
+        27.5127,
+        39.0803
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.5127,
+            39.0803
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ARPASEKI-KINIK (IZMIR)",
+          "time": "2025.06.25 18:12:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.25",
+      "date_hour": "18:12:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
+    {
+      "title": "CITME-DIVRIGI (SIVAS)",
+      "type": "�lksel",
+      "date": "2025.06.25 18:04:04",
+      "lat": 39.5393,
+      "lng": 38.2195,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.2195,
+        39.5393
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.2195,
+            39.5393
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "CITME-DIVRIGI (SIVAS)",
+          "time": "2025.06.25 18:04:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.25",
+      "date_hour": "18:04:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SIVAS"
     },
     {
       "title": "UYANIK-KALE (MALATYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BOLU"
-    },
-    {
-      "title": "HIDIRBEYLI-GERMENCIK (AYDIN)",
-      "type": "�lksel",
-      "date": "2025.06.18 20:18:33",
-      "lat": 37.904,
-      "lng": 27.5763,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "11.6",
-      "coordinates": [
-        27.5763,
-        37.904
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.5763,
-            37.904
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "HIDIRBEYLI-GERMENCIK (AYDIN)",
-          "time": "2025.06.18 20:18:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.18",
-      "date_hour": "20:18:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AYDIN"
-    },
-    {
-      "title": "TASDAMLAR-CELIKHAN (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.06.18 20:08:15",
-      "lat": 38.1107,
-      "lng": 38.3397,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        38.3397,
-        38.1107
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.3397,
-            38.1107
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "TASDAMLAR-CELIKHAN (ADIYAMAN)",
-          "time": "2025.06.18 20:08:15"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.18",
-      "date_hour": "20:08:15",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
