@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-25T06:56:58.449Z",
+  "lastUpdate": "2025-06-25T07:19:23.287Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.06.25 09:53:54",
+      "lat": 39.2423,
+      "lng": 29.0177,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.9",
+      "coordinates": [
+        29.0177,
+        39.2423
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0177,
+            39.2423
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.06.25 09:53:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.25",
+      "date_hour": "09:53:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KAYAPINAR-ULAS (SIVAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.06.18 14:39:12",
-      "lat": 40.2688,
-      "lng": 24.1767,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "8.3",
-      "coordinates": [
-        24.1767,
-        40.2688
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.1767,
-            40.2688
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YUNANISTAN",
-          "time": "2025.06.18 14:39:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.18",
-      "date_hour": "14:39:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
