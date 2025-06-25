@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-25T15:40:55.649Z",
+  "lastUpdate": "2025-06-25T15:53:07.965Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "UYANIK-KALE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.06.25 16:57:31",
+      "lat": 38.3325,
+      "lng": 38.858,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "17.2",
+      "coordinates": [
+        38.858,
+        38.3325
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.858,
+            38.3325
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "UYANIK-KALE (MALATYA)",
+          "time": "2025.06.25 16:57:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.25",
+      "date_hour": "16:57:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "ORTAKOY-AKCADAG (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "GOZUPEK-DIYADIN (AGRI)",
-      "type": "�lksel",
-      "date": "2025.06.18 16:53:58",
-      "lat": 39.4172,
-      "lng": 43.6593,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "5.6",
-      "coordinates": [
-        43.6593,
-        39.4172
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.6593,
-            39.4172
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "GOZUPEK-DIYADIN (AGRI)",
-          "time": "2025.06.18 16:53:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.18",
-      "date_hour": "16:53:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AGRI"
     }
   ]
 }
