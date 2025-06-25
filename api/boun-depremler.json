@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-25T22:43:05.470Z",
+  "lastUpdate": "2025-06-25T22:52:07.143Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ASAGIYOLDUZU-(AGRI)",
+      "type": "�lksel",
+      "date": "2025.06.26 01:37:51",
+      "lat": 39.7833,
+      "lng": 43.0587,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "23.4",
+      "coordinates": [
+        43.0587,
+        39.7833
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.0587,
+            39.7833
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ASAGIYOLDUZU-(AGRI)",
+          "time": "2025.06.26 01:37:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.26",
+      "date_hour": "01:37:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AGRI"
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "KARAKIRAN-SARAYKOY (DENIZLI)",
-      "type": "�lksel",
-      "date": "2025.06.19 00:16:59",
-      "lat": 37.9243,
-      "lng": 28.8205,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "17.3",
-      "coordinates": [
-        28.8205,
-        37.9243
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.8205,
-            37.9243
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KARAKIRAN-SARAYKOY (DENIZLI)",
-          "time": "2025.06.19 00:16:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.19",
-      "date_hour": "00:16:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
