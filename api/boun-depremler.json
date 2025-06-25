@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-25T19:33:38.802Z",
+  "lastUpdate": "2025-06-25T19:42:40.177Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "IZMIR KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.06.25 22:33:11",
+      "lat": 38.572,
+      "lng": 26.7788,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "7.8",
+      "coordinates": [
+        26.7788,
+        38.572
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.7788,
+            38.572
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "IZMIR KORFEZI (EGE DENIZI)",
+          "time": "2025.06.25 22:33:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.25",
+      "date_hour": "22:33:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "TASDAMLAR-CELIKHAN (ADIYAMAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "CUKUROREN (BOLU)",
-      "type": "�lksel",
-      "date": "2025.06.18 20:21:54",
-      "lat": 40.851,
-      "lng": 31.6353,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "7.7",
-      "coordinates": [
-        31.6353,
-        40.851
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.6353,
-            40.851
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "CUKUROREN (BOLU)",
-          "time": "2025.06.18 20:21:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.18",
-      "date_hour": "20:21:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BOLU"
     }
   ]
 }
