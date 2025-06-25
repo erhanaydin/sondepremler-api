@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-06-25T09:00:33.938Z",
+  "lastUpdate": "2025-06-25T09:31:10.329Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ADIL-SOMA (MANISA)",
+      "type": "�lksel",
+      "date": "2025.06.25 12:12:30",
+      "lat": 39.1017,
+      "lng": 27.6258,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        27.6258,
+        39.1017
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.6258,
+            39.1017
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "ADIL-SOMA (MANISA)",
+          "time": "2025.06.25 12:12:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.25",
+      "date_hour": "12:12:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
+    {
+      "title": "AKDERE-SILIFKE (MERSIN)",
+      "type": "�lksel",
+      "date": "2025.06.25 12:02:52",
+      "lat": 36.2293,
+      "lng": 33.7917,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        33.7917,
+        36.2293
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.7917,
+            36.2293
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "AKDERE-SILIFKE (MERSIN)",
+          "time": "2025.06.25 12:02:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.25",
+      "date_hour": "12:02:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MERSIN"
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.18 15:22:16",
-      "lat": 39.2425,
-      "lng": 28.9993,
-      "md": "-.-",
-      "ml": "3.8",
-      "mw": "3.7",
-      "depth": "7.5",
-      "coordinates": [
-        28.9993,
-        39.2425
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9993,
-            39.2425
-          ]
-        },
-        "properties": {
-          "mag": "3.8",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.06.18 15:22:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.18",
-      "date_hour": "15:22:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "KUCUKGECIT-ASKALE (ERZURUM)",
-      "type": "�lksel",
-      "date": "2025.06.18 15:18:27",
-      "lat": 39.9253,
-      "lng": 40.7682,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "8.3",
-      "coordinates": [
-        40.7682,
-        39.9253
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.7682,
-            39.9253
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "KUCUKGECIT-ASKALE (ERZURUM)",
-          "time": "2025.06.18 15:18:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.18",
-      "date_hour": "15:18:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZURUM"
     }
   ]
 }
