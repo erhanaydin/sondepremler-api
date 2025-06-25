@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-25T21:13:08.319Z",
+  "lastUpdate": "2025-06-25T21:30:49.659Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "OLUKOZU-AKDAGMADENI (YOZGAT)",
+      "type": "�lksel",
+      "date": "2025.06.25 23:30:00",
+      "lat": 39.7022,
+      "lng": 35.764,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "10.7",
+      "coordinates": [
+        35.764,
+        39.7022
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.764,
+            39.7022
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "OLUKOZU-AKDAGMADENI (YOZGAT)",
+          "time": "2025.06.25 23:30:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.25",
+      "date_hour": "23:30:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "YOZGAT"
     },
     {
       "title": "MARMARA DENIZI",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.18 23:35:20",
-      "lat": 39.2435,
-      "lng": 29.0257,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "10.9",
-      "coordinates": [
-        29.0257,
-        39.2435
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0257,
-            39.2435
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.06.18 23:35:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.18",
-      "date_hour": "23:35:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
