@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-26T18:59:34.686Z",
+  "lastUpdate": "2025-06-26T19:20:05.197Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAZGUNU-KIGI (BINGOL)",
+      "type": "�lksel",
+      "date": "2025.06.26 21:59:35",
+      "lat": 39.27,
+      "lng": 40.2397,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "3.2",
+      "depth": "8.8",
+      "coordinates": [
+        40.2397,
+        39.27
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.2397,
+            39.27
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "YAZGUNU-KIGI (BINGOL)",
+          "time": "2025.06.26 21:59:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.26",
+      "date_hour": "21:59:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGOL"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.19 08:52:27",
-      "lat": 38.8008,
-      "lng": 26.6315,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "11.7",
-      "coordinates": [
-        26.6315,
-        38.8008
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.6315,
-            38.8008
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "EGE DENIZI",
-          "time": "2025.06.19 08:52:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.19",
-      "date_hour": "08:52:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
