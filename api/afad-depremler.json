@@ -1,5 +1,41 @@
 [
   {
+    "title": "Simav (Kütahya)",
+    "type": "İlksel",
+    "date": "2025-06-26 09:42:55",
+    "lat": 39.24944,
+    "lng": 28.98,
+    "md": "-.-",
+    "ml": "2.2",
+    "mw": "-.-",
+    "depth": 7.28,
+    "coordinates": [
+      28.98,
+      39.24944
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.98,
+          39.24944
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Simav (Kütahya) (Kütahya)",
+        "time": 1750930975000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-06-26",
+    "date_hour": "09:42:55",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
+  },
+  {
     "title": "Çubuk (Ankara)",
     "type": "İlksel",
     "date": "2025-06-26 09:19:06",
@@ -34,6 +70,42 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Ankara"
+  },
+  {
+    "title": "Köyceğiz (Muğla)",
+    "type": "İlksel",
+    "date": "2025-06-26 08:54:28",
+    "lat": 36.95528,
+    "lng": 28.85222,
+    "md": "-.-",
+    "ml": "1",
+    "mw": "-.-",
+    "depth": 7.13,
+    "coordinates": [
+      28.85222,
+      36.95528
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.85222,
+          36.95528
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Köyceğiz (Muğla) (Muğla)",
+        "time": 1750928068000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-06-26",
+    "date_hour": "08:54:28",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Muğla"
   },
   {
     "title": "Simav (Kütahya)",
@@ -15226,41 +15298,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Elazığ"
-  },
-  {
-    "title": "Kiğı (Bingöl)",
-    "type": "İlksel",
-    "date": "2025-06-21 09:59:39",
-    "lat": 39.34361,
-    "lng": 40.36694,
-    "md": "-.-",
-    "ml": "2.7",
-    "mw": "-.-",
-    "depth": 10.89,
-    "coordinates": [
-      40.36694,
-      39.34361
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.36694,
-          39.34361
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Kiğı (Bingöl) (Bingöl)",
-        "time": 1750499979000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-21",
-    "date_hour": "09:59:39",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Bingöl"
   }
 ]
