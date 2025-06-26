@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-26T08:25:11.032Z",
+  "lastUpdate": "2025-06-26T08:48:07.813Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.06.26 11:08:56",
+      "lat": 39.2115,
+      "lng": 29.008,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "12.7",
+      "coordinates": [
+        29.008,
+        39.2115
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.008,
+            39.2115
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.06.26 11:08:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.26",
+      "date_hour": "11:08:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "SENKOY-DURSUNBEY (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "YESILYAYLA-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.19 05:50:45",
-      "lat": 39.1317,
-      "lng": 29.2283,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "20.6",
-      "coordinates": [
-        29.2283,
-        39.1317
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.2283,
-            39.1317
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YESILYAYLA-SIMAV (KUTAHYA)",
-          "time": "2025.06.19 05:50:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.19",
-      "date_hour": "05:50:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
