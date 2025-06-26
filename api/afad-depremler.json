@@ -36,6 +36,42 @@
     "city": "Kahramanmaraş"
   },
   {
+    "title": "Merkez (Bolu)",
+    "type": "İlksel",
+    "date": "2025-06-26 17:41:08",
+    "lat": 40.7525,
+    "lng": 31.72861,
+    "md": "-.-",
+    "ml": "1.2",
+    "mw": "-.-",
+    "depth": 11.21,
+    "coordinates": [
+      31.72861,
+      40.7525
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.72861,
+          40.7525
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Merkez (Bolu) (Bolu)",
+        "time": 1750959668000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-06-26",
+    "date_hour": "17:41:08",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Bolu"
+  },
+  {
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2025-06-26 17:36:23",
@@ -15478,41 +15514,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kahramanmaraş"
-  },
-  {
-    "title": "Yeşilyurt (Malatya)",
-    "type": "İlksel",
-    "date": "2025-06-21 18:50:17",
-    "lat": 38.27111,
-    "lng": 38.17833,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      38.17833,
-      38.27111
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.17833,
-          38.27111
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Yeşilyurt (Malatya) (Malatya)",
-        "time": 1750531817000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-21",
-    "date_hour": "18:50:17",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
   }
 ]
