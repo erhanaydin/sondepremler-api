@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kırıkhan (Hatay)",
+    "type": "İlksel",
+    "date": "2025-06-26 12:15:44",
+    "lat": 36.62278,
+    "lng": 36.40861,
+    "md": "-.-",
+    "ml": "1.9",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      36.40861,
+      36.62278
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.40861,
+          36.62278
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Kırıkhan (Hatay) (Hatay)",
+        "time": 1750940144000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-06-26",
+    "date_hour": "12:15:44",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Hatay"
+  },
+  {
     "title": "Sivrice (Elazığ)",
     "type": "İlksel",
     "date": "2025-06-26 11:50:22",
@@ -15298,77 +15334,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Muğla"
-  },
-  {
-    "title": "Pütürge (Malatya)",
-    "type": "İlksel",
-    "date": "2025-06-21 13:12:52",
-    "lat": 38.30917,
-    "lng": 38.91972,
-    "md": "-.-",
-    "ml": "1.6",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      38.91972,
-      38.30917
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.91972,
-          38.30917
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Pütürge (Malatya) (Malatya)",
-        "time": 1750511572000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-21",
-    "date_hour": "13:12:52",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
-  },
-  {
-    "title": "Sarayköy (Denizli)",
-    "type": "İlksel",
-    "date": "2025-06-21 12:43:32",
-    "lat": 37.93806,
-    "lng": 28.83,
-    "md": "-.-",
-    "ml": "0.9",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.83,
-      37.93806
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.83,
-          37.93806
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sarayköy (Denizli) (Denizli)",
-        "time": 1750509812000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-21",
-    "date_hour": "12:43:32",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Denizli"
   }
 ]
