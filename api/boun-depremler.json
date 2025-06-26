@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-26T14:40:15.447Z",
+  "lastUpdate": "2025-06-26T14:52:27.706Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOMURKOY-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.06.26 17:43:35",
+      "lat": 38.1428,
+      "lng": 36.5893,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "18.9",
+      "coordinates": [
+        36.5893,
+        38.1428
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.5893,
+            38.1428
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KOMURKOY-GOKSUN (KAHRAMANMARAS)",
+          "time": "2025.06.26 17:43:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.26",
+      "date_hour": "17:43:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "ORENLICE-ULAS (SIVAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.19 07:12:39",
-      "lat": 36.1568,
-      "lng": 27.5945,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "6.9",
-      "coordinates": [
-        27.5945,
-        36.1568
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.5945,
-            36.1568
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "EGE DENIZI",
-          "time": "2025.06.19 07:12:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.19",
-      "date_hour": "07:12:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
