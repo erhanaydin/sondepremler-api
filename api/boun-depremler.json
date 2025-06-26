@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-26T04:50:09.552Z",
+  "lastUpdate": "2025-06-26T05:00:38.794Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEGIRMENSUYU-BULANIK (MUS)",
+      "type": "�lksel",
+      "date": "2025.06.26 06:37:31",
+      "lat": 39.162,
+      "lng": 42.1215,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "18.4",
+      "coordinates": [
+        42.1215,
+        39.162
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            42.1215,
+            39.162
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "DEGIRMENSUYU-BULANIK (MUS)",
+          "time": "2025.06.26 06:37:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.26",
+      "date_hour": "06:37:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUS"
+    },
     {
       "title": "TAVAKLI-EZINE (CANAKKALE)",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.26 05:31:13",
+      "lat": 38.7715,
+      "lng": 26.4358,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "6.7",
+      "coordinates": [
+        26.4358,
+        38.7715
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.4358,
+            38.7715
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "EGE DENIZI",
+          "time": "2025.06.26 05:31:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.26",
+      "date_hour": "05:31:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "KARAOMER-GOKSUN (KAHRAMANMARAS)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "CAMDERE-KOZAN (ADANA)",
-      "type": "�lksel",
-      "date": "2025.06.19 03:06:12",
-      "lat": 37.6195,
-      "lng": 35.8245,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "8.7",
-      "coordinates": [
-        35.8245,
-        37.6195
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.8245,
-            37.6195
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "CAMDERE-KOZAN (ADANA)",
-          "time": "2025.06.19 03:06:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.19",
-      "date_hour": "03:06:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
-    },
-    {
-      "title": "SOGUTLUOZ-KIRIKHAN (HATAY)",
-      "type": "�lksel",
-      "date": "2025.06.19 02:45:28",
-      "lat": 36.6078,
-      "lng": 36.4258,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "4.7",
-      "coordinates": [
-        36.4258,
-        36.6078
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.4258,
-            36.6078
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "SOGUTLUOZ-KIRIKHAN (HATAY)",
-          "time": "2025.06.19 02:45:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.19",
-      "date_hour": "02:45:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
