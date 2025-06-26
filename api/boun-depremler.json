@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-26T19:58:13.435Z",
+  "lastUpdate": "2025-06-26T20:24:43.792Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.06.26 23:04:38",
+      "lat": 39.2207,
+      "lng": 29.0292,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "3.6",
+      "coordinates": [
+        29.0292,
+        39.2207
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0292,
+            39.2207
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.06.26 23:04:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.26",
+      "date_hour": "23:04:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YAZGUNU-KIGI (BINGOL)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "EGNEZ-SOMA (MANISA)",
-      "type": "�lksel",
-      "date": "2025.06.19 09:14:22",
-      "lat": 39.0882,
-      "lng": 27.5308,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        27.5308,
-        39.0882
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.5308,
-            39.0882
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "EGNEZ-SOMA (MANISA)",
-          "time": "2025.06.19 09:14:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.19",
-      "date_hour": "09:14:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
