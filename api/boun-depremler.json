@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-26T21:25:38.984Z",
+  "lastUpdate": "2025-06-26T21:38:37.847Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KORME-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.06.27 00:25:52",
+      "lat": 38.1803,
+      "lng": 38.6967,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.6967,
+        38.1803
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.6967,
+            38.1803
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "KORME-PUTURGE (MALATYA)",
+          "time": "2025.06.27 00:25:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.27",
+      "date_hour": "00:25:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "MIDILLI ADASI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "YESILYURT-KEMALPASA (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.06.19 11:35:52",
-      "lat": 38.4327,
-      "lng": 27.677,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "9.1",
-      "coordinates": [
-        27.677,
-        38.4327
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.677,
-            38.4327
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YESILYURT-KEMALPASA (IZMIR)",
-          "time": "2025.06.19 11:35:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.19",
-      "date_hour": "11:35:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
