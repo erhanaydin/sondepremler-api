@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-26T03:10:42.874Z",
+  "lastUpdate": "2025-06-26T03:56:27.356Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -217,6 +217,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "SAHILCEYLAN-FETHIYE (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.06.26 04:33:48",
+      "lat": 36.7032,
+      "lng": 29.3918,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.1",
+      "coordinates": [
+        29.3918,
+        36.7032
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.3918,
+            36.7032
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "SAHILCEYLAN-FETHIYE (MUGLA)",
+          "time": "2025.06.26 04:33:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.26",
+      "date_hour": "04:33:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
     },
     {
       "title": "TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.19 02:40:14",
-      "lat": 39.2262,
-      "lng": 28.9918,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "12.1",
-      "coordinates": [
-        28.9918,
-        39.2262
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9918,
-            39.2262
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.06.19 02:40:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.19",
-      "date_hour": "02:40:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
