@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-26T17:40:05.798Z",
+  "lastUpdate": "2025-06-26T17:49:17.934Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.06.26 20:36:20",
+      "lat": 39.2435,
+      "lng": 28.9785,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "6.7",
+      "coordinates": [
+        28.9785,
+        39.2435
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9785,
+            39.2435
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.06.26 20:36:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.26",
+      "date_hour": "20:36:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YENIYAPAN-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KUYUCAK (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.06.19 08:36:27",
-      "lat": 37.06,
-      "lng": 28.2963,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        28.2963,
-        37.06
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2963,
-            37.06
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "KUYUCAK (MUGLA)",
-          "time": "2025.06.19 08:36:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.19",
-      "date_hour": "08:36:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
