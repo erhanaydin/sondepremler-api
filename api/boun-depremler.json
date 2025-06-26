@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-26T10:12:06.879Z",
+  "lastUpdate": "2025-06-26T10:39:00.846Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+      "type": "�lksel",
+      "date": "2025.06.26 13:10:53",
+      "lat": 40.837,
+      "lng": 28.2683,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "22.7",
+      "coordinates": [
+        28.2683,
+        40.837
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2683,
+            40.837
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+          "time": "2025.06.26 13:10:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.26",
+      "date_hour": "13:10:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARMARA DENIZI"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "ORUCLU-KOZAN (ADANA)",
-      "type": "�lksel",
-      "date": "2025.06.19 05:52:30",
-      "lat": 37.503,
-      "lng": 35.773,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        35.773,
-        37.503
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.773,
-            37.503
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ORUCLU-KOZAN (ADANA)",
-          "time": "2025.06.19 05:52:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.19",
-      "date_hour": "05:52:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
