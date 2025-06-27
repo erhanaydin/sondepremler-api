@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-06-26T23:52:59.823Z",
+  "lastUpdate": "2025-06-27T00:50:27.563Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.27 03:41:10",
+      "lat": 40.8065,
+      "lng": 28.0992,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "9.7",
+      "coordinates": [
+        28.0992,
+        40.8065
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0992,
+            40.8065
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "MARMARA DENIZI",
+          "time": "2025.06.27 03:41:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.27",
+      "date_hour": "03:41:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "GUNEYKOY-SIVRICE (ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.06.27 03:11:13",
+      "lat": 38.5057,
+      "lng": 39.3152,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "4.1",
+      "coordinates": [
+        39.3152,
+        38.5057
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.3152,
+            38.5057
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "GUNEYKOY-SIVRICE (ELAZIG)",
+          "time": "2025.06.27 03:11:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.27",
+      "date_hour": "03:11:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "KEKLIKPINARI-AKCADAG (MALATYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.19 13:10:02",
-      "lat": 39.2532,
-      "lng": 28.9842,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.7",
-      "coordinates": [
-        28.9842,
-        39.2532
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9842,
-            39.2532
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.06.19 13:10:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.19",
-      "date_hour": "13:10:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "KADIKOY-BIGADIC (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.06.19 13:02:29",
-      "lat": 39.4532,
-      "lng": 28.121,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        28.121,
-        39.4532
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.121,
-            39.4532
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KADIKOY-BIGADIC (BALIKESIR)",
-          "time": "2025.06.19 13:02:29"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.19",
-      "date_hour": "13:02:29",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
