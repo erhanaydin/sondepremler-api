@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-27T05:16:37.805Z",
+  "lastUpdate": "2025-06-27T05:40:20.988Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "RODOS ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.06.27 07:58:52",
+      "lat": 36.2145,
+      "lng": 27.7665,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "31.1",
+      "coordinates": [
+        27.7665,
+        36.2145
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.7665,
+            36.2145
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "RODOS ADASI (AKDENIZ)",
+          "time": "2025.06.27 07:58:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.27",
+      "date_hour": "07:58:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KADIIBRAHIM-AKCADAG (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.06.19 15:04:52",
-      "lat": 38.5142,
-      "lng": 37.9928,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "2.4",
-      "coordinates": [
-        37.9928,
-        38.5142
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.9928,
-            38.5142
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "KADIIBRAHIM-AKCADAG (MALATYA)",
-          "time": "2025.06.19 15:04:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.19",
-      "date_hour": "15:04:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
