@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-27T11:27:59.062Z",
+  "lastUpdate": "2025-06-27T11:39:30.493Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -325,6 +325,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.27 10:32:03",
+      "lat": 36.141,
+      "lng": 27.6467,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "6.9",
+      "coordinates": [
+        27.6467,
+        36.141
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.6467,
+            36.141
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "EGE DENIZI",
+          "time": "2025.06.27 10:32:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.27",
+      "date_hour": "10:32:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "RODOS ADASI (AKDENIZ)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2025.06.19 19:37:22",
-      "lat": 40.8843,
-      "lng": 28.6787,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        28.6787,
-        40.8843
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.6787,
-            40.8843
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-          "time": "2025.06.19 19:37:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.19",
-      "date_hour": "19:37:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
     }
   ]
 }
