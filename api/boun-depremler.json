@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-27T23:46:46.109Z",
+  "lastUpdate": "2025-06-27T23:55:06.996Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.06.28 02:38:48",
+      "lat": 40.2992,
+      "lng": 24.0767,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "9.1",
+      "coordinates": [
+        24.0767,
+        40.2992
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.0767,
+            40.2992
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "YUNANISTAN",
+          "time": "2025.06.28 02:38:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.28",
+      "date_hour": "02:38:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "ERMENISTAN",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "ESKIKARAHISAR-ULAS (SIVAS)",
-      "type": "�lksel",
-      "date": "2025.06.20 04:42:06",
-      "lat": 39.4108,
-      "lng": 37.2635,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        37.2635,
-        39.4108
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.2635,
-            39.4108
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "ESKIKARAHISAR-ULAS (SIVAS)",
-          "time": "2025.06.20 04:42:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.20",
-      "date_hour": "04:42:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
     }
   ]
 }
