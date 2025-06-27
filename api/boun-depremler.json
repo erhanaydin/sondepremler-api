@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-27T21:10:02.944Z",
+  "lastUpdate": "2025-06-27T21:28:23.548Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BOLU"
+    },
+    {
+      "title": "KUSLUCA-BEYSEHIR (KONYA)",
+      "type": "�lksel",
+      "date": "2025.06.27 23:26:18",
+      "lat": 37.7978,
+      "lng": 31.505,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "9.8",
+      "coordinates": [
+        31.505,
+        37.7978
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.505,
+            37.7978
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KUSLUCA-BEYSEHIR (KONYA)",
+          "time": "2025.06.27 23:26:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.27",
+      "date_hour": "23:26:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KONYA"
     },
     {
       "title": "SIGIRLIHACI-CUBUK (ANKARA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIVAS"
-    },
-    {
-      "title": "KARATAS-SERIK (ANTALYA)",
-      "type": "�lksel",
-      "date": "2025.06.20 04:24:21",
-      "lat": 37.0897,
-      "lng": 31.1347,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "25.8",
-      "coordinates": [
-        31.1347,
-        37.0897
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.1347,
-            37.0897
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KARATAS-SERIK (ANTALYA)",
-          "time": "2025.06.20 04:24:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.20",
-      "date_hour": "04:24:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANTALYA"
     }
   ]
 }
