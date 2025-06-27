@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-27T16:25:38.061Z",
+  "lastUpdate": "2025-06-27T16:45:29.026Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "COMLEKCI-BIGADIC (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.06.27 18:05:00",
+      "lat": 39.4813,
+      "lng": 28.049,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "10.3",
+      "coordinates": [
+        28.049,
+        39.4813
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.049,
+            39.4813
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "COMLEKCI-BIGADIC (BALIKESIR)",
+          "time": "2025.06.27 18:05:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.27",
+      "date_hour": "18:05:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "TERME ACIKLARI-SAMSUN (KARADENIZ)",
-      "type": "�lksel",
-      "date": "2025.06.20 00:48:51",
-      "lat": 41.3007,
-      "lng": 37.216,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "19.2",
-      "coordinates": [
-        37.216,
-        41.3007
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.216,
-            41.3007
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "TERME ACIKLARI-SAMSUN (KARADENIZ)",
-          "time": "2025.06.20 00:48:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.20",
-      "date_hour": "00:48:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KARADENIZ"
     }
   ]
 }
