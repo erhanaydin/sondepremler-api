@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-27T22:18:11.559Z",
+  "lastUpdate": "2025-06-27T22:39:33.775Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "GUNLUCE ACIKLARI-MUGLA (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.06.28 00:20:15",
+      "lat": 36.674,
+      "lng": 28.3723,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "49.2",
+      "coordinates": [
+        28.3723,
+        36.674
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3723,
+            36.674
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "GUNLUCE ACIKLARI-MUGLA (AKDENIZ)",
+          "time": "2025.06.28 00:20:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.28",
+      "date_hour": "00:20:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
     },
     {
       "title": "KIZILAGIL-(BOLU)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIVAS"
-    },
-    {
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.06.20 04:33:56",
-      "lat": 37.8688,
-      "lng": 27.1095,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        27.1095,
-        37.8688
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1095,
-            37.8688
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KUSADASI KORFEZI (EGE DENIZI)",
-          "time": "2025.06.20 04:33:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.20",
-      "date_hour": "04:33:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
