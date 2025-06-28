@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-28T15:58:45.644Z",
+  "lastUpdate": "2025-06-28T16:27:02.842Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
+    },
+    {
+      "title": "DOGANCAM-BIGADIC (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.06.28 18:09:55",
+      "lat": 39.5265,
+      "lng": 28.2185,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "17.4",
+      "coordinates": [
+        28.2185,
+        39.5265
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2185,
+            39.5265
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "DOGANCAM-BIGADIC (BALIKESIR)",
+          "time": "2025.06.28 18:09:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.28",
+      "date_hour": "18:09:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "YUKARIULUPINAR-DARENDE (MALATYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "SANDAL-KULA (MANISA)",
-      "type": "�lksel",
-      "date": "2025.06.20 12:12:03",
-      "lat": 38.5698,
-      "lng": 28.5648,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "10.3",
-      "coordinates": [
-        28.5648,
-        38.5698
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.5648,
-            38.5698
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "SANDAL-KULA (MANISA)",
-          "time": "2025.06.20 12:12:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.20",
-      "date_hour": "12:12:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
