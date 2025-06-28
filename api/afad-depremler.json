@@ -1,5 +1,41 @@
 [
   {
+    "title": "Merkez (Isparta)",
+    "type": "İlksel",
+    "date": "2025-06-28 21:14:23",
+    "lat": 37.83167,
+    "lng": 30.56167,
+    "md": "-.-",
+    "ml": "1.6",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      30.56167,
+      37.83167
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.56167,
+          37.83167
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Merkez (Isparta) (Isparta)",
+        "time": 1751145263000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-06-28",
+    "date_hour": "21:14:23",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Isparta"
+  },
+  {
     "title": "Doğanşehir (Malatya)",
     "type": "İlksel",
     "date": "2025-06-28 20:21:54",
@@ -15082,77 +15118,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Adıyaman"
-  },
-  {
-    "title": "Marmara Denizi - [19.60 km] Silivri (İstanbul)",
-    "type": "İlksel",
-    "date": "2025-06-23 21:44:44",
-    "lat": 40.88861,
-    "lng": 28.30444,
-    "md": "-.-",
-    "ml": "0.9",
-    "mw": "-.-",
-    "depth": 6.81,
-    "coordinates": [
-      28.30444,
-      40.88861
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.30444,
-          40.88861
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Marmara Denizi - [19.60 km] Silivri (İstanbul) (İstanbul)",
-        "time": 1750715084000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-23",
-    "date_hour": "21:44:44",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "İstanbul"
-  },
-  {
-    "title": "Kemalpaşa (İzmir)",
-    "type": "İlksel",
-    "date": "2025-06-23 21:41:54",
-    "lat": 38.42722,
-    "lng": 27.58889,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      27.58889,
-      38.42722
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.58889,
-          38.42722
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Kemalpaşa (İzmir) (İzmir)",
-        "time": 1750714914000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-23",
-    "date_hour": "21:41:54",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "İzmir"
   }
 ]
