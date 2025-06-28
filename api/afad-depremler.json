@@ -1,5 +1,41 @@
 [
   {
+    "title": "Onikişubat (Kahramanmaraş)",
+    "type": "İlksel",
+    "date": "2025-06-28 11:52:36",
+    "lat": 37.88333,
+    "lng": 36.69361,
+    "md": "-.-",
+    "ml": "1.8",
+    "mw": "-.-",
+    "depth": 6.99,
+    "coordinates": [
+      36.69361,
+      37.88333
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.69361,
+          37.88333
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Onikişubat (Kahramanmaraş) (Kahramanmaraş)",
+        "time": 1751111556000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-06-28",
+    "date_hour": "11:52:36",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kahramanmaraş"
+  },
+  {
     "title": "Çubuk (Ankara)",
     "type": "İlksel",
     "date": "2025-06-28 11:27:34",
@@ -15406,77 +15442,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Manisa"
-  },
-  {
-    "title": "Çekerek (Yozgat)",
-    "type": "İlksel",
-    "date": "2025-06-23 12:15:17",
-    "lat": 40.01083,
-    "lng": 35.49306,
-    "md": "-.-",
-    "ml": "3",
-    "mw": "-.-",
-    "depth": 10.91,
-    "coordinates": [
-      35.49306,
-      40.01083
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.49306,
-          40.01083
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Çekerek (Yozgat) (Yozgat)",
-        "time": 1750680917000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-23",
-    "date_hour": "12:15:17",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Yozgat"
-  },
-  {
-    "title": "Düziçi (Osmaniye)",
-    "type": "İlksel",
-    "date": "2025-06-23 11:56:22",
-    "lat": 37.42222,
-    "lng": 36.5,
-    "md": "-.-",
-    "ml": "2.9",
-    "mw": "-.-",
-    "depth": 7.07,
-    "coordinates": [
-      36.5,
-      37.42222
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.5,
-          37.42222
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Düziçi (Osmaniye) (Osmaniye)",
-        "time": 1750679782000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-23",
-    "date_hour": "11:56:22",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Osmaniye"
   }
 ]
