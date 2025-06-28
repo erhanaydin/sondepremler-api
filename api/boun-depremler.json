@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-28T18:50:27.248Z",
+  "lastUpdate": "2025-06-28T18:58:46.186Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "KARADENIZ",
+      "type": "�lksel",
+      "date": "2025.06.28 20:02:44",
+      "lat": 42.2873,
+      "lng": 36.3372,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "6.1",
+      "coordinates": [
+        36.3372,
+        42.2873
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.3372,
+            42.2873
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "KARADENIZ",
+          "time": "2025.06.28 20:02:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.28",
+      "date_hour": "20:02:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.20 12:50:30",
-      "lat": 36.6427,
-      "lng": 25.7312,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        25.7312,
-        36.6427
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.7312,
-            36.6427
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "EGE DENIZI",
-          "time": "2025.06.20 12:50:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.20",
-      "date_hour": "12:50:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
