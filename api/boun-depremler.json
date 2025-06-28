@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-28T21:56:41.725Z",
+  "lastUpdate": "2025-06-28T22:16:07.090Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GULPINAR-AYVACIK (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2025.06.29 00:19:55",
+      "lat": 39.5437,
+      "lng": 26.0572,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "11.0",
+      "coordinates": [
+        26.0572,
+        39.5437
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.0572,
+            39.5437
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "GULPINAR-AYVACIK (CANAKKALE)",
+          "time": "2025.06.29 00:19:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.29",
+      "date_hour": "00:19:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
     {
       "title": "YAZISOGUT-(ISPARTA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MERSIN"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.20 13:57:52",
-      "lat": 39.2385,
-      "lng": 28.9747,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "6.1",
-      "coordinates": [
-        28.9747,
-        39.2385
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9747,
-            39.2385
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.06.20 13:57:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.20",
-      "date_hour": "13:57:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
