@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ege Denizi",
+    "type": "İlksel",
+    "date": "2025-06-28 14:38:32",
+    "lat": 36.62389,
+    "lng": 25.67361,
+    "md": "-.-",
+    "ml": "3.2",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      25.67361,
+      36.62389
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.67361,
+          36.62389
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi (Muğla)",
+        "time": 1751121512000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-06-28",
+    "date_hour": "14:38:32",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Muğla"
+  },
+  {
     "title": "Meram (Konya)",
     "type": "İlksel",
     "date": "2025-06-28 14:12:41",
@@ -15262,77 +15298,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Afrin, Halep (Suriye) - [23.19 km] Merkez (Kilis)",
-    "type": "İlksel",
-    "date": "2025-06-23 14:57:13",
-    "lat": 36.47833,
-    "lng": 36.9575,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      36.9575,
-      36.47833
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.9575,
-          36.47833
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Afrin, Halep (Suriye) - [23.19 km] Merkez (Kilis) (Kilis)",
-        "time": 1750690633000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-23",
-    "date_hour": "14:57:13",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kilis"
-  },
-  {
-    "title": "Refahiye (Erzincan)",
-    "type": "İlksel",
-    "date": "2025-06-23 14:53:41",
-    "lat": 39.96222,
-    "lng": 38.77028,
-    "md": "-.-",
-    "ml": "1.8",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      38.77028,
-      39.96222
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.77028,
-          39.96222
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Refahiye (Erzincan) (Erzincan)",
-        "time": 1750690421000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-23",
-    "date_hour": "14:53:41",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Erzincan"
   }
 ]
