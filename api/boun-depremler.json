@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-29T21:55:53.982Z",
+  "lastUpdate": "2025-06-29T22:14:58.204Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CEYLANDERE-SAMANDAG (HATAY)",
+      "type": "�lksel",
+      "date": "2025.06.30 01:05:38",
+      "lat": 36.2602,
+      "lng": 35.9737,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        35.9737,
+        36.2602
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.9737,
+            36.2602
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "CEYLANDERE-SAMANDAG (HATAY)",
+          "time": "2025.06.30 01:05:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "01:05:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
     {
       "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "ISKENDERUN (HATAY)",
-      "type": "�lksel",
-      "date": "2025.06.21 05:52:02",
-      "lat": 36.6027,
-      "lng": 36.199,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "17.2",
-      "coordinates": [
-        36.199,
-        36.6027
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.199,
-            36.6027
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "ISKENDERUN (HATAY)",
-          "time": "2025.06.21 05:52:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "05:52:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
