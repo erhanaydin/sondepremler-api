@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-29T11:59:28.739Z",
+  "lastUpdate": "2025-06-29T12:48:33.378Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -217,6 +217,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "ASAGITIRTAR-YALVAC (ISPARTA)",
+      "type": "�lksel",
+      "date": "2025.06.29 12:48:23",
+      "lat": 38.2165,
+      "lng": 30.9455,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "1.5",
+      "coordinates": [
+        30.9455,
+        38.2165
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.9455,
+            38.2165
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "ASAGITIRTAR-YALVAC (ISPARTA)",
+          "time": "2025.06.29 12:48:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.29",
+      "date_hour": "12:48:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ISPARTA"
     },
     {
       "title": "ERTUGRUL-GUNEY (DENIZLI)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "DERINKUYU (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.06.21 02:41:59",
-      "lat": 37.0873,
-      "lng": 28.216,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "6.7",
-      "coordinates": [
-        28.216,
-        37.0873
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.216,
-            37.0873
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "DERINKUYU (MUGLA)",
-          "time": "2025.06.21 02:41:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "02:41:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
