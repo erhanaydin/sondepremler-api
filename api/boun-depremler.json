@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-29T21:47:27.847Z",
+  "lastUpdate": "2025-06-29T21:55:53.982Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+      "type": "�lksel",
+      "date": "2025.06.30 00:44:07",
+      "lat": 40.8035,
+      "lng": 28.29,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "11.4",
+      "coordinates": [
+        28.29,
+        40.8035
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.29,
+            40.8035
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+          "time": "2025.06.30 00:44:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "00:44:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARMARA DENIZI"
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
-    },
-    {
-      "title": "YAZIKOY-AFSIN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.06.21 05:48:53",
-      "lat": 38.1895,
-      "lng": 36.7503,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "14.8",
-      "coordinates": [
-        36.7503,
-        38.1895
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.7503,
-            38.1895
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YAZIKOY-AFSIN (KAHRAMANMARAS)",
-          "time": "2025.06.21 05:48:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "05:48:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
