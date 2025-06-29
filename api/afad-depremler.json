@@ -36,6 +36,42 @@
     "city": "Denizli"
   },
   {
+    "title": "Onikişubat (Kahramanmaraş)",
+    "type": "İlksel",
+    "date": "2025-06-29 11:16:50",
+    "lat": 37.47222,
+    "lng": 36.62083,
+    "md": "-.-",
+    "ml": "1.6",
+    "mw": "-.-",
+    "depth": 6.86,
+    "coordinates": [
+      36.62083,
+      37.47222
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.62083,
+          37.47222
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Onikişubat (Kahramanmaraş) (Kahramanmaraş)",
+        "time": 1751195810000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-06-29",
+    "date_hour": "11:16:50",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kahramanmaraş"
+  },
+  {
     "title": "Sarayönü (Konya)",
     "type": "İlksel",
     "date": "2025-06-29 10:43:08",
@@ -14398,77 +14434,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "İstanbul"
-  },
-  {
-    "title": "Mesudiye (Ordu)",
-    "type": "İlksel",
-    "date": "2025-06-24 11:56:03",
-    "lat": 40.35667,
-    "lng": 37.845,
-    "md": "-.-",
-    "ml": "1.3",
-    "mw": "-.-",
-    "depth": 6.78,
-    "coordinates": [
-      37.845,
-      40.35667
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.845,
-          40.35667
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Mesudiye (Ordu) (Ordu)",
-        "time": 1750766163000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-24",
-    "date_hour": "11:56:03",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Ordu"
-  },
-  {
-    "title": "Kalecik (Ankara)",
-    "type": "İlksel",
-    "date": "2025-06-24 11:53:42",
-    "lat": 40.3425,
-    "lng": 33.33972,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      33.33972,
-      40.3425
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.33972,
-          40.3425
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Kalecik (Ankara) (Ankara)",
-        "time": 1750766022000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-24",
-    "date_hour": "11:53:42",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Ankara"
   }
 ]
