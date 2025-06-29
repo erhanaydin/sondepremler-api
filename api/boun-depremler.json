@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-06-28T23:59:20.650Z",
+  "lastUpdate": "2025-06-29T02:11:39.128Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.06.29 04:37:40",
+      "lat": 35.244,
+      "lng": 27.9118,
+      "md": "-.-",
+      "ml": "3.9",
+      "mw": "3.9",
+      "depth": "63.5",
+      "coordinates": [
+        27.9118,
+        35.244
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9118,
+            35.244
+          ]
+        },
+        "properties": {
+          "mag": "3.9",
+          "place": "AKDENIZ",
+          "time": "2025.06.29 04:37:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.29",
+      "date_hour": "04:37:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.29 03:41:52",
+      "lat": 36.2957,
+      "lng": 26.8528,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "-.-",
+      "depth": "112.7",
+      "coordinates": [
+        26.8528,
+        36.2957
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.8528,
+            36.2957
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "EGE DENIZI",
+          "time": "2025.06.29 03:41:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.29",
+      "date_hour": "03:41:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "IKIZPINAR-ELBISTAN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.06.20 16:01:39",
-      "lat": 38.2615,
-      "lng": 37.4687,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "1.0",
-      "coordinates": [
-        37.4687,
-        38.2615
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.4687,
-            38.2615
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "IKIZPINAR-ELBISTAN (KAHRAMANMARAS)",
-          "time": "2025.06.20 16:01:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.20",
-      "date_hour": "16:01:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "SAROS KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.06.20 15:31:29",
-      "lat": 40.4375,
-      "lng": 26.2478,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "5.5",
-      "coordinates": [
-        26.2478,
-        40.4375
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.2478,
-            40.4375
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "SAROS KORFEZI (EGE DENIZI)",
-          "time": "2025.06.20 15:31:29"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.20",
-      "date_hour": "15:31:29",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
