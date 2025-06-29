@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-06-29T17:07:22.673Z",
+  "lastUpdate": "2025-06-29T17:28:57.856Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.06.29 20:05:40",
+      "lat": 33.1907,
+      "lng": 33.1313,
+      "md": "-.-",
+      "ml": "4.1",
+      "mw": "3.8",
+      "depth": "67.6",
+      "coordinates": [
+        33.1313,
+        33.1907
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.1313,
+            33.1907
+          ]
+        },
+        "properties": {
+          "mag": "4.1",
+          "place": "AKDENIZ",
+          "time": "2025.06.29 20:05:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.29",
+      "date_hour": "20:05:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.06.29 20:02:16",
+      "lat": 38.0662,
+      "lng": 37.4817,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "6.9",
+      "coordinates": [
+        37.4817,
+        38.0662
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.4817,
+            38.0662
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
+          "time": "2025.06.29 20:02:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.29",
+      "date_hour": "20:02:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "KABAAGAC-AFSIN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIVAS"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.21 03:45:51",
-      "lat": 35.7743,
-      "lng": 25.5512,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "12.2",
-      "coordinates": [
-        25.5512,
-        35.7743
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.5512,
-            35.7743
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "EGE DENIZI",
-          "time": "2025.06.21 03:45:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "03:45:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.21 03:04:02",
-      "lat": 37.8363,
-      "lng": 26.7643,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        26.7643,
-        37.8363
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.7643,
-            37.8363
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "EGE DENIZI",
-          "time": "2025.06.21 03:04:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "03:04:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
