@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-06-29T23:30:17.708Z",
+  "lastUpdate": "2025-06-29T23:43:24.681Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AVSA-MARMARA (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.06.30 02:23:44",
+      "lat": 40.5018,
+      "lng": 27.4668,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "13.4",
+      "coordinates": [
+        27.4668,
+        40.5018
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.4668,
+            40.5018
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "AVSA-MARMARA (BALIKESIR)",
+          "time": "2025.06.30 02:23:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "02:23:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.30 02:21:29",
+      "lat": 36.3735,
+      "lng": 27.7272,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        27.7272,
+        36.3735
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.7272,
+            36.3735
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "EGE DENIZI",
+          "time": "2025.06.30 02:21:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "02:21:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DIYARBAKIR"
-    },
-    {
-      "title": "HAMITKOY-LADIK (SAMSUN)",
-      "type": "�lksel",
-      "date": "2025.06.21 06:50:43",
-      "lat": 40.8935,
-      "lng": 36.0058,
-      "md": "-.-",
-      "ml": "3.5",
-      "mw": "3.3",
-      "depth": "13.3",
-      "coordinates": [
-        36.0058,
-        40.8935
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.0058,
-            40.8935
-          ]
-        },
-        "properties": {
-          "mag": "3.5",
-          "place": "HAMITKOY-LADIK (SAMSUN)",
-          "time": "2025.06.21 06:50:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "06:50:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SAMSUN"
-    },
-    {
-      "title": "ERTUGRUL-GUNEY (DENIZLI)",
-      "type": "�lksel",
-      "date": "2025.06.21 06:47:47",
-      "lat": 38.066,
-      "lng": 29.0417,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        29.0417,
-        38.066
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0417,
-            38.066
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "ERTUGRUL-GUNEY (DENIZLI)",
-          "time": "2025.06.21 06:47:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "06:47:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
