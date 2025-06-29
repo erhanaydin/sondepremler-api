@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-29T22:35:09.564Z",
+  "lastUpdate": "2025-06-29T22:46:55.658Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.06.30 01:28:14",
+      "lat": 36.1105,
+      "lng": 28.759,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "7.8",
+      "coordinates": [
+        28.759,
+        36.1105
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.759,
+            36.1105
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "AKDENIZ",
+          "time": "2025.06.30 01:28:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "01:28:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "CEYLANDERE-SAMANDAG (HATAY)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "BOZBURUN ACIKLARI-MUGLA (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.06.21 06:04:44",
-      "lat": 36.6292,
-      "lng": 28.2267,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "77.0",
-      "coordinates": [
-        28.2267,
-        36.6292
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2267,
-            36.6292
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BOZBURUN ACIKLARI-MUGLA (AKDENIZ)",
-          "time": "2025.06.21 06:04:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "06:04:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
