@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-30T15:56:13.412Z",
+  "lastUpdate": "2025-06-30T16:21:44.672Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,78 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BINGOL"
+    },
+    {
+      "title": "ARISU-(VAN)",
+      "type": "�lksel",
+      "date": "2025.06.30 17:50:55",
+      "lat": 38.6377,
+      "lng": 43.2107,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "28.3",
+      "coordinates": [
+        43.2107,
+        38.6377
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.2107,
+            38.6377
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "ARISU-(VAN)",
+          "time": "2025.06.30 17:50:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "17:50:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "VAN"
+    },
+    {
+      "title": "PURSAKLAR (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.06.30 16:58:08",
+      "lat": 40.1197,
+      "lng": 32.8818,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "8.8",
+      "coordinates": [
+        32.8818,
+        40.1197
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.8818,
+            40.1197
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "PURSAKLAR (ANKARA)",
+          "time": "2025.06.30 16:58:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "16:58:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
     },
     {
       "title": "YENIKOY-DARENDE (MALATYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.21 16:12:49",
-      "lat": 36.6207,
-      "lng": 25.7595,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.8",
-      "coordinates": [
-        25.7595,
-        36.6207
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.7595,
-            36.6207
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "EGE DENIZI",
-          "time": "2025.06.21 16:12:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "16:12:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "YEDIPINAR-SIVRICE (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.06.21 16:12:49",
-      "lat": 38.4307,
-      "lng": 39.1992,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "45.0",
-      "coordinates": [
-        39.1992,
-        38.4307
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.1992,
-            38.4307
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YEDIPINAR-SIVRICE (ELAZIG)",
-          "time": "2025.06.21 16:12:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "16:12:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
