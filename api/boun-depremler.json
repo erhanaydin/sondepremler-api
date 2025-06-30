@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-30T20:19:53.464Z",
+  "lastUpdate": "2025-06-30T20:37:57.294Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.30 23:22:38",
+      "lat": 38.7292,
+      "lng": 25.5093,
+      "md": "-.-",
+      "ml": "3.2",
+      "mw": "3.3",
+      "depth": "8.8",
+      "coordinates": [
+        25.5093,
+        38.7292
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.5093,
+            38.7292
+          ]
+        },
+        "properties": {
+          "mag": "3.2",
+          "place": "EGE DENIZI",
+          "time": "2025.06.30 23:22:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "23:22:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "COMLEKCI-BIGA (CANAKKALE)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AGRI"
-    },
-    {
-      "title": "DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.06.21 22:10:02",
-      "lat": 37.46,
-      "lng": 37.162,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "8.1",
-      "coordinates": [
-        37.162,
-        37.46
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.162,
-            37.46
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS)",
-          "time": "2025.06.21 22:10:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "22:10:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
