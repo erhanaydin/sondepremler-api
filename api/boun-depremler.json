@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-30T12:47:41.991Z",
+  "lastUpdate": "2025-06-30T13:23:43.071Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "OZYURT-(VAN)",
+      "type": "�lksel",
+      "date": "2025.06.30 16:04:30",
+      "lat": 38.7265,
+      "lng": 43.1998,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "8.1",
+      "coordinates": [
+        43.1998,
+        38.7265
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.1998,
+            38.7265
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "OZYURT-(VAN)",
+          "time": "2025.06.30 16:04:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "16:04:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "VAN"
+    },
     {
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "ASAGIDEMIRTAS (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.06.21 13:15:56",
-      "lat": 38.6032,
-      "lng": 39.1163,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "11.0",
-      "coordinates": [
-        39.1163,
-        38.6032
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.1163,
-            38.6032
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "ASAGIDEMIRTAS (ELAZIG)",
-          "time": "2025.06.21 13:15:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "13:15:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
