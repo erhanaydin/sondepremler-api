@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-30T11:28:15.219Z",
+  "lastUpdate": "2025-06-30T11:42:01.093Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -289,6 +289,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZINCAN"
+    },
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.06.30 09:34:28",
+      "lat": 35.2653,
+      "lng": 23.593,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "37.5",
+      "coordinates": [
+        23.593,
+        35.2653
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.593,
+            35.2653
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2025.06.30 09:34:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "09:34:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
     },
     {
       "title": "DALLICA-KIGI (BINGOL)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YENIYAPAN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.06.21 12:24:33",
-      "lat": 37.6225,
-      "lng": 36.6547,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "13.9",
-      "coordinates": [
-        36.6547,
-        37.6225
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.6547,
-            37.6225
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YENIYAPAN (KAHRAMANMARAS)",
-          "time": "2025.06.21 12:24:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "12:24:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
