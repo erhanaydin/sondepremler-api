@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-30T19:39:47.009Z",
+  "lastUpdate": "2025-06-30T19:48:31.841Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "COMLEKCI-BIGA (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2025.06.30 21:56:46",
+      "lat": 40.2145,
+      "lng": 27.0037,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "2.6",
+      "coordinates": [
+        27.0037,
+        40.2145
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.0037,
+            40.2145
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "COMLEKCI-BIGA (CANAKKALE)",
+          "time": "2025.06.30 21:56:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "21:56:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
     {
       "title": "BUDAKLI-(KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "AKSU-SINCIK (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.06.21 21:03:10",
-      "lat": 38.1507,
-      "lng": 38.4727,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "8.7",
-      "coordinates": [
-        38.4727,
-        38.1507
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.4727,
-            38.1507
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "AKSU-SINCIK (ADIYAMAN)",
-          "time": "2025.06.21 21:03:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "21:03:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
