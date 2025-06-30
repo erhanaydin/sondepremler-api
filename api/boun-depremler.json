@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-30T17:20:26.535Z",
+  "lastUpdate": "2025-06-30T17:37:54.642Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTARLI-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.06.30 20:20:12",
+      "lat": 38.269,
+      "lng": 38.826,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.826,
+        38.269
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.826,
+            38.269
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "AKTARLI-PUTURGE (MALATYA)",
+          "time": "2025.06.30 20:20:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "20:20:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "GELISEN-SEMDINLI (HAKKARI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ISPARTA"
-    },
-    {
-      "title": "DARIYERI-DALAMAN (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.06.21 17:35:24",
-      "lat": 36.8297,
-      "lng": 29.101,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        29.101,
-        36.8297
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.101,
-            36.8297
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "DARIYERI-DALAMAN (MUGLA)",
-          "time": "2025.06.21 17:35:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "17:35:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
