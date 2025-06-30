@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-29T23:51:43.764Z",
+  "lastUpdate": "2025-06-30T00:00:03.218Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNOREN-IMRANLI (SIVAS)",
+      "type": "�lksel",
+      "date": "2025.06.30 02:33:40",
+      "lat": 39.6757,
+      "lng": 38.141,
+      "md": "-.-",
+      "ml": "3.2",
+      "mw": "3.2",
+      "depth": "6.2",
+      "coordinates": [
+        38.141,
+        39.6757
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.141,
+            39.6757
+          ]
+        },
+        "properties": {
+          "mag": "3.2",
+          "place": "YUNOREN-IMRANLI (SIVAS)",
+          "time": "2025.06.30 02:33:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "02:33:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SIVAS"
+    },
     {
       "title": "AVSA-MARMARA (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "TUNCELI"
-    },
-    {
-      "title": "TEPEBASI-DICLE (DIYARBAKIR)",
-      "type": "�lksel",
-      "date": "2025.06.21 07:01:17",
-      "lat": 38.3037,
-      "lng": 40.1727,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "14.4",
-      "coordinates": [
-        40.1727,
-        38.3037
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.1727,
-            38.3037
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "TEPEBASI-DICLE (DIYARBAKIR)",
-          "time": "2025.06.21 07:01:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "07:01:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DIYARBAKIR"
     }
   ]
 }
