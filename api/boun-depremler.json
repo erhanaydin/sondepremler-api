@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-30T21:18:58.410Z",
+  "lastUpdate": "2025-06-30T21:34:04.574Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -34,6 +34,78 @@
       "location_properties": "",
       "date_day": "2025.06.30",
       "date_hour": "23:22:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.30 22:02:03",
+      "lat": 40.7543,
+      "lng": 28.6233,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "10.7",
+      "coordinates": [
+        28.6233,
+        40.7543
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.6233,
+            40.7543
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "MARMARA DENIZI",
+          "time": "2025.06.30 22:02:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "22:02:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.30 22:00:13",
+      "lat": 40.805,
+      "lng": 28.355,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        28.355,
+        40.805
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.355,
+            40.805
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "MARMARA DENIZI",
+          "time": "2025.06.30 22:00:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "22:00:13",
       "timestamp": false,
       "location_tz": "",
       "city": ""
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
-      "type": "�lksel",
-      "date": "2025.06.21 23:47:00",
-      "lat": 40.2047,
-      "lng": 31.7617,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "4.4",
-      "coordinates": [
-        31.7617,
-        40.2047
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.7617,
-            40.2047
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "HIRKATEPE-BEYPAZARI (ANKARA)",
-          "time": "2025.06.21 23:47:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "23:47:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
-    },
-    {
-      "title": "ATADAMI-DIYADIN (AGRI)",
-      "type": "�lksel",
-      "date": "2025.06.21 22:30:48",
-      "lat": 39.2977,
-      "lng": 43.7225,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "12.7",
-      "coordinates": [
-        43.7225,
-        39.2977
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.7225,
-            39.2977
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "ATADAMI-DIYADIN (AGRI)",
-          "time": "2025.06.21 22:30:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "22:30:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AGRI"
     }
   ]
 }
