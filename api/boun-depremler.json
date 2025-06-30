@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-30T06:52:59.879Z",
+  "lastUpdate": "2025-06-30T07:12:39.119Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.06.30 09:53:42",
+      "lat": 34.8967,
+      "lng": 33.5388,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "53.6",
+      "coordinates": [
+        33.5388,
+        34.8967
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.5388,
+            34.8967
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "AKDENIZ",
+          "time": "2025.06.30 09:53:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "09:53:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "CAMDERE-KOZAN (ADANA)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
+    },
+    {
+      "title": "CAYLI-ILIC (ERZINCAN)",
+      "type": "�lksel",
+      "date": "2025.06.30 09:37:26",
+      "lat": 39.646,
+      "lng": 38.3543,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "9.0",
+      "coordinates": [
+        38.3543,
+        39.646
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.3543,
+            39.646
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "CAYLI-ILIC (ERZINCAN)",
+          "time": "2025.06.30 09:37:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "09:37:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZINCAN"
     },
     {
       "title": "DALLICA-KIGI (BINGOL)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "DURU-LICE (DIYARBAKIR)",
-      "type": "�lksel",
-      "date": "2025.06.21 11:18:45",
-      "lat": 38.4548,
-      "lng": 40.499,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.5",
-      "coordinates": [
-        40.499,
-        38.4548
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.499,
-            38.4548
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "DURU-LICE (DIYARBAKIR)",
-          "time": "2025.06.21 11:18:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "11:18:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DIYARBAKIR"
-    },
-    {
-      "title": "KUCUKLU-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.06.21 10:48:13",
-      "lat": 38.0167,
-      "lng": 37.6903,
-      "md": "-.-",
-      "ml": "3.5",
-      "mw": "3.5",
-      "depth": "6.5",
-      "coordinates": [
-        37.6903,
-        38.0167
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.6903,
-            38.0167
-          ]
-        },
-        "properties": {
-          "mag": "3.5",
-          "place": "KUCUKLU-DOGANSEHIR (MALATYA)",
-          "time": "2025.06.21 10:48:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "10:48:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
