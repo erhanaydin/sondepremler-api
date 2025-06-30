@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-30T09:55:31.122Z",
+  "lastUpdate": "2025-06-30T10:17:47.724Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOVANLIK-DOSEMEALTI (ANTALYA)",
+      "type": "�lksel",
+      "date": "2025.06.30 13:06:17",
+      "lat": 37.1403,
+      "lng": 30.5593,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "1.3",
+      "coordinates": [
+        30.5593,
+        37.1403
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5593,
+            37.1403
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KOVANLIK-DOSEMEALTI (ANTALYA)",
+          "time": "2025.06.30 13:06:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "13:06:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANTALYA"
+    },
     {
       "title": "FINDIKKOY-DOGANSEHIR (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZINCAN"
-    },
-    {
-      "title": "HARMANPINAR-CICEKDAGI (KIRSEHIR)",
-      "type": "�lksel",
-      "date": "2025.06.21 11:55:02",
-      "lat": 39.5952,
-      "lng": 34.3657,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "27.6",
-      "coordinates": [
-        34.3657,
-        39.5952
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.3657,
-            39.5952
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "HARMANPINAR-CICEKDAGI (KIRSEHIR)",
-          "time": "2025.06.21 11:55:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "11:55:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KIRSEHIR"
     }
   ]
 }
