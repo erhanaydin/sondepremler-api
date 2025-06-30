@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-30T13:48:21.518Z",
+  "lastUpdate": "2025-06-30T13:58:06.434Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YENIKOY-DARENDE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.06.30 16:46:38",
+      "lat": 38.4758,
+      "lng": 37.3232,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "4.5",
+      "coordinates": [
+        37.3232,
+        38.4758
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.3232,
+            38.4758
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "YENIKOY-DARENDE (MALATYA)",
+          "time": "2025.06.30 16:46:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "16:46:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "CIVRIL-YAZIHAN (MALATYA)",
       "type": "�lksel",
@@ -145,6 +181,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ISPARTA"
+    },
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.06.30 15:08:40",
+      "lat": 40.818,
+      "lng": 28.32,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "12.0",
+      "coordinates": [
+        28.32,
+        40.818
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.32,
+            40.818
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "MARMARA DENIZI",
+          "time": "2025.06.30 15:08:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "15:08:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "YESILBELDE-MARMARIS (MUGLA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "DEMIRCILIK-ELBISTAN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.06.21 15:32:48",
-      "lat": 38.2075,
-      "lng": 37.3697,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        37.3697,
-        38.2075
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.3697,
-            38.2075
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "DEMIRCILIK-ELBISTAN (KAHRAMANMARAS)",
-          "time": "2025.06.21 15:32:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "15:32:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.21 15:15:45",
-      "lat": 36.5727,
-      "lng": 25.8197,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        25.8197,
-        36.5727
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.8197,
-            36.5727
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "EGE DENIZI",
-          "time": "2025.06.21 15:15:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "15:15:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
