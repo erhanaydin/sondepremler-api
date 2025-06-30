@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-30T10:54:26.154Z",
+  "lastUpdate": "2025-06-30T11:11:52.637Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "OGUZ-BULDAN (DENIZLI)",
+      "type": "�lksel",
+      "date": "2025.06.30 13:42:08",
+      "lat": 38.0722,
+      "lng": 28.9162,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "9.0",
+      "coordinates": [
+        28.9162,
+        38.0722
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9162,
+            38.0722
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "OGUZ-BULDAN (DENIZLI)",
+          "time": "2025.06.30 13:42:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.06.30",
+      "date_hour": "13:42:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "BUGUZ-KAMAN (KIRSEHIR)",
-      "type": "�lksel",
-      "date": "2025.06.21 12:21:00",
-      "lat": 39.3783,
-      "lng": 33.3848,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.3",
-      "coordinates": [
-        33.3848,
-        39.3783
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.3848,
-            39.3783
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "BUGUZ-KAMAN (KIRSEHIR)",
-          "time": "2025.06.21 12:21:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.21",
-      "date_hour": "12:21:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KIRSEHIR"
     }
   ]
 }
