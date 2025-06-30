@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-06-30T23:44:45.691Z",
+  "lastUpdate": "2025-06-30T23:53:26.386Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "UCGOZE-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.01 02:31:06",
+      "lat": 38.2225,
+      "lng": 38.4045,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.4045,
+        38.2225
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.4045,
+            38.2225
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "UCGOZE-YESILYURT (MALATYA)",
+          "time": "2025.07.01 02:31:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.01",
+      "date_hour": "02:31:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "OREN-ASLANAPA (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKSARAY"
-    },
-    {
-      "title": "KAVAKTEPE (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.06.22 01:09:03",
-      "lat": 38.5235,
-      "lng": 39.2093,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "7.6",
-      "coordinates": [
-        39.2093,
-        38.5235
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.2093,
-            38.5235
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KAVAKTEPE (ELAZIG)",
-          "time": "2025.06.22 01:09:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "01:09:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
