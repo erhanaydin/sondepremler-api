@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-01T11:28:36.746Z",
+  "lastUpdate": "2025-07-01T11:40:58.803Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -219,6 +219,42 @@
       "city": "BURSA"
     },
     {
+      "title": "FAKILI-ERDEMLI (MERSIN)",
+      "type": "�lksel",
+      "date": "2025.07.01 12:22:05",
+      "lat": 36.7263,
+      "lng": 34.2022,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "10.8",
+      "coordinates": [
+        34.2022,
+        36.7263
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.2022,
+            36.7263
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "FAKILI-ERDEMLI (MERSIN)",
+          "time": "2025.07.01 12:22:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.01",
+      "date_hour": "12:22:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MERSIN"
+    },
+    {
       "title": "ORTAKOY-AKCADAG (MALATYA)",
       "type": "�lksel",
       "date": "2025.07.01 12:04:52",
@@ -253,6 +289,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "CAMLIBELEN-MILAS (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.07.01 12:03:37",
+      "lat": 37.2582,
+      "lng": 27.8923,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "11.7",
+      "coordinates": [
+        27.8923,
+        37.2582
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.8923,
+            37.2582
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "CAMLIBELEN-MILAS (MUGLA)",
+          "time": "2025.07.01 12:03:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.01",
+      "date_hour": "12:03:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
     },
     {
       "title": "SAHINYURDU-GEMLIK (BURSA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIIRT"
-    },
-    {
-      "title": "TANISIK (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.06.22 12:04:46",
-      "lat": 38.257,
-      "lng": 38.5793,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        38.5793,
-        38.257
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.5793,
-            38.257
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "TANISIK (MALATYA)",
-          "time": "2025.06.22 12:04:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "12:04:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "AKARCA-ELBISTAN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.06.22 11:52:26",
-      "lat": 38.4718,
-      "lng": 37.29,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "11.1",
-      "coordinates": [
-        37.29,
-        38.4718
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.29,
-            38.4718
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "AKARCA-ELBISTAN (KAHRAMANMARAS)",
-          "time": "2025.06.22 11:52:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "11:52:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
