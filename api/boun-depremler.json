@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-01T22:33:14.290Z",
+  "lastUpdate": "2025-07-01T22:47:18.662Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CAMLI-MARMARIS (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.07.02 01:36:46",
+      "lat": 36.9783,
+      "lng": 28.2873,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "1.9",
+      "coordinates": [
+        28.2873,
+        36.9783
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2873,
+            36.9783
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "CAMLI-MARMARIS (MUGLA)",
+          "time": "2025.07.02 01:36:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.02",
+      "date_hour": "01:36:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
+    {
+      "title": "SAHINYURDU-GEMLIK (BURSA)",
+      "type": "�lksel",
+      "date": "2025.07.02 01:32:52",
+      "lat": 40.4723,
+      "lng": 29.2093,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "10.6",
+      "coordinates": [
+        29.2093,
+        40.4723
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.2093,
+            40.4723
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "SAHINYURDU-GEMLIK (BURSA)",
+          "time": "2025.07.02 01:32:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.02",
+      "date_hour": "01:32:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "ALICLIBUCAK-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.22 21:20:09",
-      "lat": 39.226,
-      "lng": 29.0238,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.1",
-      "coordinates": [
-        29.0238,
-        39.226
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0238,
-            39.226
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.06.22 21:20:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "21:20:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.06.22 20:15:28",
-      "lat": 39.996,
-      "lng": 23.2188,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "-.-",
-      "depth": "8.1",
-      "coordinates": [
-        23.2188,
-        39.996
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            23.2188,
-            39.996
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "YUNANISTAN",
-          "time": "2025.06.22 20:15:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "20:15:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
