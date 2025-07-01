@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-01T19:43:41.878Z",
+  "lastUpdate": "2025-07-01T19:52:07.785Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.07.01 22:39:55",
+      "lat": 40.3445,
+      "lng": 24.0967,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "4.8",
+      "coordinates": [
+        24.0967,
+        40.3445
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.0967,
+            40.3445
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "YUNANISTAN",
+          "time": "2025.07.01 22:39:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.01",
+      "date_hour": "22:39:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "AVCIPINARI-SAIMBEYLI (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.22 15:43:50",
-      "lat": 37.8297,
-      "lng": 26.7893,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        26.7893,
-        37.8297
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.7893,
-            37.8297
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "EGE DENIZI",
-          "time": "2025.06.22 15:43:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "15:43:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
