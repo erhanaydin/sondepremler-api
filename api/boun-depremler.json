@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-01T13:57:44.134Z",
+  "lastUpdate": "2025-07-01T14:20:06.737Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.01 16:47:16",
+      "lat": 39.2312,
+      "lng": 28.9888,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "8.6",
+      "coordinates": [
+        28.9888,
+        39.2312
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9888,
+            39.2312
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.07.01 16:47:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.01",
+      "date_hour": "16:47:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "TURKOGLU-MERZIFON (AMASYA)",
-      "type": "�lksel",
-      "date": "2025.06.22 13:10:40",
-      "lat": 40.7415,
-      "lng": 35.3823,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        35.3823,
-        40.7415
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.3823,
-            40.7415
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "TURKOGLU-MERZIFON (AMASYA)",
-          "time": "2025.06.22 13:10:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "13:10:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AMASYA"
     }
   ]
 }
