@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-01T04:46:12.924Z",
+  "lastUpdate": "2025-07-01T05:03:05.312Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TEVEKKELLI-(KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.01 07:14:16",
+      "lat": 37.4452,
+      "lng": 37.0047,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        37.0047,
+        37.4452
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.0047,
+            37.4452
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "TEVEKKELLI-(KAHRAMANMARAS)",
+          "time": "2025.07.01 07:14:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.01",
+      "date_hour": "07:14:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "KORKUYU-CEYHAN (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.06.22 06:07:32",
-      "lat": 37.8165,
-      "lng": 27.0377,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "7.4",
-      "coordinates": [
-        27.0377,
-        37.8165
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0377,
-            37.8165
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KUSADASI KORFEZI (EGE DENIZI)",
-          "time": "2025.06.22 06:07:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "06:07:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
