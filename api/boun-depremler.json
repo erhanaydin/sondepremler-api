@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-01T12:43:09.515Z",
+  "lastUpdate": "2025-07-01T13:22:03.301Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.01 14:59:40",
+      "lat": 35.9907,
+      "lng": 27.291,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "9.7",
+      "coordinates": [
+        27.291,
+        35.9907
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.291,
+            35.9907
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "EGE DENIZI",
+          "time": "2025.07.01 14:59:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.01",
+      "date_hour": "14:59:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "MARMARA EREGLISI ACIKLARI-TEKIRDAG (MARMARA",
       "type": "DENIZI�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "YOZGAT"
+    },
+    {
+      "title": "AKSU-SINCIK (ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2025.07.01 14:03:58",
+      "lat": 38.1662,
+      "lng": 38.491,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "11.8",
+      "coordinates": [
+        38.491,
+        38.1662
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.491,
+            38.1662
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "AKSU-SINCIK (ADIYAMAN)",
+          "time": "2025.07.01 14:03:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.01",
+      "date_hour": "14:03:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
     },
     {
       "title": "MARMARA DENIZI",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AMASYA"
-    },
-    {
-      "title": "ISIKLAR-BIGADIC (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.06.22 13:00:17",
-      "lat": 39.428,
-      "lng": 28.1432,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        28.1432,
-        39.428
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1432,
-            39.428
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "ISIKLAR-BIGADIC (BALIKESIR)",
-          "time": "2025.06.22 13:00:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "13:00:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.06.22 12:59:09",
-      "lat": 38.0522,
-      "lng": 27.0682,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        27.0682,
-        38.0522
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0682,
-            38.0522
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KUSADASI KORFEZI (EGE DENIZI)",
-          "time": "2025.06.22 12:59:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "12:59:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
