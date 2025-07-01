@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-01T15:27:23.191Z",
+  "lastUpdate": "2025-07-01T15:43:04.342Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
+    },
+    {
+      "title": "BURDUR",
+      "type": "�lksel",
+      "date": "2025.07.01 17:13:52",
+      "lat": 37.7027,
+      "lng": 30.2743,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "20.0",
+      "coordinates": [
+        30.2743,
+        37.7027
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2743,
+            37.7027
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "BURDUR",
+          "time": "2025.07.01 17:13:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.01",
+      "date_hour": "17:13:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.06.22 13:46:34",
-      "lat": 36.493,
-      "lng": 28.2828,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "54.0",
-      "coordinates": [
-        28.2828,
-        36.493
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2828,
-            36.493
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "AKDENIZ",
-          "time": "2025.06.22 13:46:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "13:46:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
