@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-01T21:12:17.223Z",
+  "lastUpdate": "2025-07-01T21:30:29.503Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.02 00:01:58",
+      "lat": 38.0822,
+      "lng": 37.4735,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "6.7",
+      "coordinates": [
+        37.4735,
+        38.0822
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.4735,
+            38.0822
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
+          "time": "2025.07.02 00:01:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.02",
+      "date_hour": "00:01:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "AZGANLIK-ISKENDERUN (HATAY)",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.01 22:26:38",
+      "lat": 37.8043,
+      "lng": 26.9997,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "12.8",
+      "coordinates": [
+        26.9997,
+        37.8043
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.9997,
+            37.8043
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2025.07.01 22:26:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.01",
+      "date_hour": "22:26:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
     },
     {
       "title": "AVCIPINARI-SAIMBEYLI (ADANA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "BADEMLI-DIKILI (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.06.22 18:23:24",
-      "lat": 39.0115,
-      "lng": 26.8023,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "13.5",
-      "coordinates": [
-        26.8023,
-        39.0115
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.8023,
-            39.0115
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BADEMLI-DIKILI (IZMIR)",
-          "time": "2025.06.22 18:23:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "18:23:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
-    },
-    {
-      "title": "SENKOY-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.22 17:52:39",
-      "lat": 39.0958,
-      "lng": 29.1107,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "18.5",
-      "coordinates": [
-        29.1107,
-        39.0958
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1107,
-            39.0958
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "SENKOY-SIMAV (KUTAHYA)",
-          "time": "2025.06.22 17:52:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "17:52:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
