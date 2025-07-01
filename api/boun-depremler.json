@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-01T05:57:38.806Z",
+  "lastUpdate": "2025-07-01T06:31:15.327Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SAHINYURDU-GEMLIK (BURSA)",
+      "type": "�lksel",
+      "date": "2025.07.01 09:15:40",
+      "lat": 40.4582,
+      "lng": 29.1935,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "13.8",
+      "coordinates": [
+        29.1935,
+        40.4582
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1935,
+            40.4582
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "SAHINYURDU-GEMLIK (BURSA)",
+          "time": "2025.07.01 09:15:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.01",
+      "date_hour": "09:15:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "BAGOZU-KAHTA (ADIYAMAN)",
       "type": "�lksel",
@@ -1767,8 +1803,8 @@
       "city": "MALATYA"
     },
     {
-      "title": "TURKIYE-IRAN SINIR BOLGESI",
-      "type": "�lksel",
+      "title": "TURKIYE-IRAN SINIR BOLGESI REVIZE01 (2025.06.30",
+      "type": "11:53:06)",
       "date": "2025.06.30 11:53:06",
       "lat": 39.5615,
       "lng": 44.4845,
@@ -1791,7 +1827,7 @@
         },
         "properties": {
           "mag": "3.5",
-          "place": "TURKIYE-IRAN SINIR BOLGESI",
+          "place": "TURKIYE-IRAN SINIR BOLGESI REVIZE01 (2025.06.30",
           "time": "2025.06.30 11:53:06"
         }
       },
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KOCABEY-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.06.22 08:23:28",
-      "lat": 39.361,
-      "lng": 28.196,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "7.0",
-      "coordinates": [
-        28.196,
-        39.361
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.196,
-            39.361
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KOCABEY-SINDIRGI (BALIKESIR)",
-          "time": "2025.06.22 08:23:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "08:23:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
