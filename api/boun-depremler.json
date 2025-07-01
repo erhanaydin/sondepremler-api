@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-01T06:31:15.327Z",
+  "lastUpdate": "2025-07-01T06:54:50.737Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
+    },
+    {
+      "title": "YENIKOY-YESILYURT (TOKAT)",
+      "type": "�lksel",
+      "date": "2025.07.01 09:10:27",
+      "lat": 39.9525,
+      "lng": 36.1483,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "28.3",
+      "coordinates": [
+        36.1483,
+        39.9525
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.1483,
+            39.9525
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YENIKOY-YESILYURT (TOKAT)",
+          "time": "2025.07.01 09:10:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.01",
+      "date_hour": "09:10:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "TOKAT"
     },
     {
       "title": "BAGOZU-KAHTA (ADIYAMAN)",
@@ -17962,42 +17998,6 @@
       "location_properties": "",
       "date_day": "2025.06.22",
       "date_hour": "09:13:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.22 09:12:11",
-      "lat": 36.1372,
-      "lng": 27.6353,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "10.7",
-      "coordinates": [
-        27.6353,
-        36.1372
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.6353,
-            36.1372
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "EGE DENIZI",
-          "time": "2025.06.22 09:12:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "09:12:11",
       "timestamp": false,
       "location_tz": "",
       "city": ""
