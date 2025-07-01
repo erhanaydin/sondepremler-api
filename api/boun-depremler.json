@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-01T08:23:33.323Z",
+  "lastUpdate": "2025-07-01T08:47:27.196Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.01 11:20:18",
+      "lat": 37.898,
+      "lng": 26.8997,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        26.8997,
+        37.898
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.8997,
+            37.898
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2025.07.01 11:20:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.01",
+      "date_hour": "11:20:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "CEBRAIL-GEDIZ (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "ALAZI (HATAY)",
-      "type": "�lksel",
-      "date": "2025.06.22 09:35:12",
-      "lat": 36.2998,
-      "lng": 36.1943,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "2.3",
-      "coordinates": [
-        36.1943,
-        36.2998
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.1943,
-            36.2998
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ALAZI (HATAY)",
-          "time": "2025.06.22 09:35:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "09:35:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
