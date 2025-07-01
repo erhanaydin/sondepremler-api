@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-01T19:35:15.939Z",
+  "lastUpdate": "2025-07-01T19:43:41.878Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -181,6 +181,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "GULENKOY-KALE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.01 18:41:54",
+      "lat": 38.4158,
+      "lng": 38.8163,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "17.0",
+      "coordinates": [
+        38.8163,
+        38.4158
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.8163,
+            38.4158
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "GULENKOY-KALE (MALATYA)",
+          "time": "2025.07.01 18:41:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.01",
+      "date_hour": "18:41:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "CULLUUSAGI-KOZAN (ADANA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.06.22 15:31:44",
-      "lat": 35.7362,
-      "lng": 23.281,
-      "md": "-.-",
-      "ml": "3.1",
-      "mw": "-.-",
-      "depth": "7.1",
-      "coordinates": [
-        23.281,
-        35.7362
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            23.281,
-            35.7362
-          ]
-        },
-        "properties": {
-          "mag": "3.1",
-          "place": "GIRIT ADASI (AKDENIZ)",
-          "time": "2025.06.22 15:31:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "15:31:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
