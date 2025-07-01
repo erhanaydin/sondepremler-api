@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-01T10:17:24.445Z",
+  "lastUpdate": "2025-07-01T10:30:41.157Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SAHINYURDU-GEMLIK (BURSA)",
+      "type": "�lksel",
+      "date": "2025.07.01 12:57:34",
+      "lat": 40.4637,
+      "lng": 29.185,
+      "md": "-.-",
+      "ml": "4.4",
+      "mw": "-.-",
+      "depth": "4.8",
+      "coordinates": [
+        29.185,
+        40.4637
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.185,
+            40.4637
+          ]
+        },
+        "properties": {
+          "mag": "4.4",
+          "place": "SAHINYURDU-GEMLIK (BURSA)",
+          "time": "2025.07.01 12:57:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.01",
+      "date_hour": "12:57:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "ORTAKOY-AKCADAG (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.22 10:07:15",
-      "lat": 36.669,
-      "lng": 25.687,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "6.4",
-      "coordinates": [
-        25.687,
-        36.669
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.687,
-            36.669
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "EGE DENIZI",
-          "time": "2025.06.22 10:07:15"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "10:07:15",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
