@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-01T07:56:05.844Z",
+  "lastUpdate": "2025-07-01T08:23:33.323Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CEBRAIL-GEDIZ (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.01 10:13:32",
+      "lat": 39.0592,
+      "lng": 29.6595,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "6.2",
+      "coordinates": [
+        29.6595,
+        39.0592
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.6595,
+            39.0592
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "CEBRAIL-GEDIZ (KUTAHYA)",
+          "time": "2025.07.01 10:13:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.01",
+      "date_hour": "10:13:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "COMAKLI-DEVELI (KAYSERI)",
+      "type": "�lksel",
+      "date": "2025.07.01 10:08:03",
+      "lat": 38.5298,
+      "lng": 35.514,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "16.1",
+      "coordinates": [
+        35.514,
+        38.5298
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.514,
+            38.5298
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "COMAKLI-DEVELI (KAYSERI)",
+          "time": "2025.07.01 10:08:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.01",
+      "date_hour": "10:08:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAYSERI"
+    },
     {
       "title": "SAHINYURDU-GEMLIK (BURSA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
-    },
-    {
-      "title": "KAVAKLI-GENC (BINGOL)",
-      "type": "�lksel",
-      "date": "2025.06.22 09:30:06",
-      "lat": 38.6378,
-      "lng": 40.3557,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        40.3557,
-        38.6378
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.3557,
-            38.6378
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KAVAKLI-GENC (BINGOL)",
-          "time": "2025.06.22 09:30:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "09:30:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.22 09:13:24",
-      "lat": 36.0915,
-      "lng": 27.5762,
-      "md": "-.-",
-      "ml": "3.4",
-      "mw": "3.3",
-      "depth": "5.9",
-      "coordinates": [
-        27.5762,
-        36.0915
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.5762,
-            36.0915
-          ]
-        },
-        "properties": {
-          "mag": "3.4",
-          "place": "EGE DENIZI",
-          "time": "2025.06.22 09:13:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "09:13:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
