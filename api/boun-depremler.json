@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-01T19:24:59.420Z",
+  "lastUpdate": "2025-07-01T19:35:15.939Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AVCIPINARI-SAIMBEYLI (ADANA)",
+      "type": "�lksel",
+      "date": "2025.07.01 22:07:28",
+      "lat": 38.0843,
+      "lng": 36.1302,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "25.7",
+      "coordinates": [
+        36.1302,
+        38.0843
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.1302,
+            38.0843
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "AVCIPINARI-SAIMBEYLI (ADANA)",
+          "time": "2025.07.01 22:07:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.01",
+      "date_hour": "22:07:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "ARICILAR-(BINGOL)",
-      "type": "�lksel",
-      "date": "2025.06.22 15:28:06",
-      "lat": 39.0517,
-      "lng": 40.3002,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "21.9",
-      "coordinates": [
-        40.3002,
-        39.0517
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.3002,
-            39.0517
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "ARICILAR-(BINGOL)",
-          "time": "2025.06.22 15:28:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.22",
-      "date_hour": "15:28:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
