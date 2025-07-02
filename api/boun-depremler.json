@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-02T22:25:30.387Z",
+  "lastUpdate": "2025-07-02T22:42:02.995Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TOPCU-KOPRUKOY (ERZURUM)",
+      "type": "�lksel",
+      "date": "2025.07.03 01:23:54",
+      "lat": 39.7743,
+      "lng": 41.9215,
+      "md": "-.-",
+      "ml": "3.8",
+      "mw": "4.0",
+      "depth": "1.6",
+      "coordinates": [
+        41.9215,
+        39.7743
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.9215,
+            39.7743
+          ]
+        },
+        "properties": {
+          "mag": "3.8",
+          "place": "TOPCU-KOPRUKOY (ERZURUM)",
+          "time": "2025.07.03 01:23:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.03",
+      "date_hour": "01:23:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZURUM"
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
-    },
-    {
-      "title": "SOGUTCUK-KORKUTELI (ANTALYA)",
-      "type": "�lksel",
-      "date": "2025.06.23 21:58:27",
-      "lat": 36.968,
-      "lng": 30.4415,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "4.6",
-      "coordinates": [
-        30.4415,
-        36.968
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.4415,
-            36.968
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "SOGUTCUK-KORKUTELI (ANTALYA)",
-          "time": "2025.06.23 21:58:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.23",
-      "date_hour": "21:58:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANTALYA"
     }
   ]
 }
