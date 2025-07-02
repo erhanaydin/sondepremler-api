@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-02T13:55:58.349Z",
+  "lastUpdate": "2025-07-02T14:16:18.279Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TOPCU-KOPRUKOY (ERZURUM)",
+      "type": "�lksel",
+      "date": "2025.07.02 16:58:56",
+      "lat": 39.7735,
+      "lng": 41.9388,
+      "md": "-.-",
+      "ml": "4.1",
+      "mw": "4.1",
+      "depth": "5.0",
+      "coordinates": [
+        41.9388,
+        39.7735
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.9388,
+            39.7735
+          ]
+        },
+        "properties": {
+          "mag": "4.1",
+          "place": "TOPCU-KOPRUKOY (ERZURUM)",
+          "time": "2025.07.02 16:58:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.02",
+      "date_hour": "16:58:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZURUM"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "BAKIR-KIRKAGAC (MANISA)",
-      "type": "�lksel",
-      "date": "2025.06.23 15:35:23",
-      "lat": 39.1025,
-      "lng": 27.7142,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "17.1",
-      "coordinates": [
-        27.7142,
-        39.1025
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7142,
-            39.1025
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "BAKIR-KIRKAGAC (MANISA)",
-          "time": "2025.06.23 15:35:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.23",
-      "date_hour": "15:35:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
