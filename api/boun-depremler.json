@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-02T23:00:00.950Z",
+  "lastUpdate": "2025-07-02T23:26:13.133Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GEMLIK KORFEZI (MARMARA DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.03 01:50:14",
+      "lat": 40.425,
+      "lng": 28.915,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "3.9",
+      "coordinates": [
+        28.915,
+        40.425
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.915,
+            40.425
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "GEMLIK KORFEZI (MARMARA DENIZI)",
+          "time": "2025.07.03 01:50:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.03",
+      "date_hour": "01:50:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARMARA DENIZI"
+    },
     {
       "title": "TOPCU-KOPRUKOY (ERZURUM)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZURUM"
+    },
+    {
+      "title": "CAMLIYAYLA-SAMANDAG (HATAY)",
+      "type": "�lksel",
+      "date": "2025.07.03 01:23:24",
+      "lat": 36.2152,
+      "lng": 35.9473,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.9",
+      "coordinates": [
+        35.9473,
+        36.2152
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.9473,
+            36.2152
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "CAMLIYAYLA-SAMANDAG (HATAY)",
+          "time": "2025.07.03 01:23:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.03",
+      "date_hour": "01:23:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
     },
     {
       "title": "AKDENIZ",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "GAZIANTEP"
-    },
-    {
-      "title": "SOGUTLU-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.06.23 23:23:22",
-      "lat": 38.226,
-      "lng": 38.6202,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "6.5",
-      "coordinates": [
-        38.6202,
-        38.226
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.6202,
-            38.226
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "SOGUTLU-PUTURGE (MALATYA)",
-          "time": "2025.06.23 23:23:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.23",
-      "date_hour": "23:23:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "BATIAYAZ-SAMANDAG (HATAY)",
-      "type": "�lksel",
-      "date": "2025.06.23 22:50:50",
-      "lat": 36.1853,
-      "lng": 35.9795,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        35.9795,
-        36.1853
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.9795,
-            36.1853
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "BATIAYAZ-SAMANDAG (HATAY)",
-          "time": "2025.06.23 22:50:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.23",
-      "date_hour": "22:50:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
