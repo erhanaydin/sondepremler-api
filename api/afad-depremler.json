@@ -36,6 +36,42 @@
     "city": "Muğla"
   },
   {
+    "title": "Göksun (Kahramanmaraş)",
+    "type": "İlksel",
+    "date": "2025-07-02 22:50:26",
+    "lat": 38.02528,
+    "lng": 36.60139,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      36.60139,
+      38.02528
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.60139,
+          38.02528
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Göksun (Kahramanmaraş) (Kahramanmaraş)",
+        "time": 1751496626000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-02",
+    "date_hour": "22:50:26",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kahramanmaraş"
+  },
+  {
     "title": "Köprüköy (Erzurum)",
     "type": "İlksel",
     "date": "2025-07-02 22:23:55",
@@ -13318,41 +13354,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Sivas"
-  },
-  {
-    "title": "Darende (Malatya)",
-    "type": "İlksel",
-    "date": "2025-06-27 23:44:34",
-    "lat": 38.48472,
-    "lng": 37.39028,
-    "md": "-.-",
-    "ml": "1.9",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      37.39028,
-      38.48472
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.39028,
-          38.48472
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Darende (Malatya) (Malatya)",
-        "time": 1751067874000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-27",
-    "date_hour": "23:44:34",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
   }
 ]
