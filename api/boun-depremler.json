@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-02T14:40:05.204Z",
+  "lastUpdate": "2025-07-02T14:52:55.135Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIRKISRAK-SARIZ (KAYSERI)",
+      "type": "�lksel",
+      "date": "2025.07.02 17:28:37",
+      "lat": 38.4197,
+      "lng": 36.676,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "27.5",
+      "coordinates": [
+        36.676,
+        38.4197
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.676,
+            38.4197
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KIRKISRAK-SARIZ (KAYSERI)",
+          "time": "2025.07.02 17:28:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.02",
+      "date_hour": "17:28:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAYSERI"
+    },
     {
       "title": "TOPCU-KOPRUKOY (ERZURUM)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "AKDENIZ REVIZE01 (2025.06.23",
-      "type": "15:37:42)",
-      "date": "2025.06.23 15:37:43",
-      "lat": 34.707,
-      "lng": 34.1843,
-      "md": "-.-",
-      "ml": "4.2",
-      "mw": "4.2",
-      "depth": "7.6",
-      "coordinates": [
-        34.1843,
-        34.707
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.1843,
-            34.707
-          ]
-        },
-        "properties": {
-          "mag": "4.2",
-          "place": "AKDENIZ REVIZE01 (2025.06.23",
-          "time": "2025.06.23 15:37:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.23",
-      "date_hour": "15:37:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
