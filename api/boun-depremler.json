@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-02T21:43:23.197Z",
+  "lastUpdate": "2025-07-02T21:51:35.341Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAKIR-KIRKAGAC (MANISA)",
+      "type": "�lksel",
+      "date": "2025.07.03 00:40:42",
+      "lat": 39.1105,
+      "lng": 27.738,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.1",
+      "coordinates": [
+        27.738,
+        39.1105
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.738,
+            39.1105
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "BAKIR-KIRKAGAC (MANISA)",
+          "time": "2025.07.03 00:40:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.03",
+      "date_hour": "00:40:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "YENIKOY-DARENDE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.23 21:02:44",
-      "lat": 39.2428,
-      "lng": 29.0138,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "10.5",
-      "coordinates": [
-        29.0138,
-        39.2428
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0138,
-            39.2428
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.06.23 21:02:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.23",
-      "date_hour": "21:02:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
