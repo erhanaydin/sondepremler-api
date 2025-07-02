@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-02T09:10:48.732Z",
+  "lastUpdate": "2025-07-02T09:35:25.707Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.02 11:18:47",
+      "lat": 39.5555,
+      "lng": 25.3943,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "8.6",
+      "coordinates": [
+        25.3943,
+        39.5555
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.3943,
+            39.5555
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "EGE DENIZI",
+          "time": "2025.07.02 11:18:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.02",
+      "date_hour": "11:18:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.02 10:48:11",
+      "lat": 39.2392,
+      "lng": 29.0112,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "2.3",
+      "coordinates": [
+        29.0112,
+        39.2392
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0112,
+            39.2392
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.07.02 10:48:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.02",
+      "date_hour": "10:48:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YOGUNSOGUT-ELBISTAN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KARS"
-    },
-    {
-      "title": "LETAFET-ORHANELI (BURSA)",
-      "type": "�lksel",
-      "date": "2025.06.23 09:35:54",
-      "lat": 39.9075,
-      "lng": 28.7658,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        28.7658,
-        39.9075
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7658,
-            39.9075
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "LETAFET-ORHANELI (BURSA)",
-          "time": "2025.06.23 09:35:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.23",
-      "date_hour": "09:35:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.23 07:10:56",
-      "lat": 37.426,
-      "lng": 26.9585,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "8.1",
-      "coordinates": [
-        26.9585,
-        37.426
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.9585,
-            37.426
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "EGE DENIZI",
-          "time": "2025.06.23 07:10:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.23",
-      "date_hour": "07:10:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
