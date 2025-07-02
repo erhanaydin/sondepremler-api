@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-02T21:51:35.341Z",
+  "lastUpdate": "2025-07-02T22:00:02.002Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.07.03 00:45:29",
+      "lat": 36.5548,
+      "lng": 28.4075,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "29.9",
+      "coordinates": [
+        28.4075,
+        36.5548
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.4075,
+            36.5548
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "AKDENIZ",
+          "time": "2025.07.03 00:45:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.03",
+      "date_hour": "00:45:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "BAKIR-KIRKAGAC (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANTALYA"
-    },
-    {
-      "title": "SALIHPASALAR-(MUGLA)",
-      "type": "�lksel",
-      "date": "2025.06.23 21:38:01",
-      "lat": 37.2402,
-      "lng": 28.2352,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        28.2352,
-        37.2402
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2352,
-            37.2402
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "SALIHPASALAR-(MUGLA)",
-          "time": "2025.06.23 21:38:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.23",
-      "date_hour": "21:38:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
