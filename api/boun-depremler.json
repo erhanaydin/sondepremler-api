@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-02T17:00:50.994Z",
+  "lastUpdate": "2025-07-02T17:25:40.924Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -147,6 +147,42 @@
       "city": "AKDENIZ"
     },
     {
+      "title": "ESNEMEZ-INONU (ESKISEHIR)",
+      "type": "�lksel",
+      "date": "2025.07.02 17:34:23",
+      "lat": 39.7673,
+      "lng": 30.1162,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        30.1162,
+        39.7673
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1162,
+            39.7673
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ESNEMEZ-INONU (ESKISEHIR)",
+          "time": "2025.07.02 17:34:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.02",
+      "date_hour": "17:34:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ESKISEHIR"
+    },
+    {
       "title": "KIRKISRAK-SARIZ (KAYSERI)",
       "type": "�lksel",
       "date": "2025.07.02 17:28:37",
@@ -217,6 +253,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "SAHINYURDU-GEMLIK (BURSA)",
+      "type": "�lksel",
+      "date": "2025.07.02 17:07:06",
+      "lat": 40.4933,
+      "lng": 29.2295,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        29.2295,
+        40.4933
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.2295,
+            40.4933
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "SAHINYURDU-GEMLIK (BURSA)",
+          "time": "2025.07.02 17:07:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.02",
+      "date_hour": "17:07:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
     },
     {
       "title": "TOPCU-KOPRUKOY (ERZURUM)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KARACAOREN-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.23 17:39:42",
-      "lat": 39.1795,
-      "lng": 29.021,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.8",
-      "coordinates": [
-        29.021,
-        39.1795
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.021,
-            39.1795
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KARACAOREN-SIMAV (KUTAHYA)",
-          "time": "2025.06.23 17:39:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.23",
-      "date_hour": "17:39:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.23 17:21:38",
-      "lat": 39.2132,
-      "lng": 29.0472,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "11.1",
-      "coordinates": [
-        29.0472,
-        39.2132
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0472,
-            39.2132
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.06.23 17:21:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.23",
-      "date_hour": "17:21:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
