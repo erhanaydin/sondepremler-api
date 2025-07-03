@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-03T22:55:20.161Z",
+  "lastUpdate": "2025-07-03T23:14:34.385Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "PEKMEZCI-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2025.07.04 01:45:15",
+      "lat": 39.0035,
+      "lng": 28.0413,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "9.5",
+      "coordinates": [
+        28.0413,
+        39.0035
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0413,
+            39.0035
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "PEKMEZCI-AKHISAR (MANISA)",
+          "time": "2025.07.04 01:45:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.04",
+      "date_hour": "01:45:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.04 01:44:34",
+      "lat": 39.2503,
+      "lng": 28.9933,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "7.4",
+      "coordinates": [
+        28.9933,
+        39.2503
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9933,
+            39.2503
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.07.04 01:44:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.04",
+      "date_hour": "01:44:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "DALLICA-KIGI (BINGOL)",
-      "type": "�lksel",
-      "date": "2025.06.25 01:28:24",
-      "lat": 39.222,
-      "lng": 40.275,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "7.9",
-      "coordinates": [
-        40.275,
-        39.222
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.275,
-            39.222
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "DALLICA-KIGI (BINGOL)",
-          "time": "2025.06.25 01:28:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.25",
-      "date_hour": "01:28:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
-    },
-    {
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.06.25 01:10:58",
-      "lat": 37.876,
-      "lng": 26.9578,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        26.9578,
-        37.876
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.9578,
-            37.876
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "KUSADASI KORFEZI (EGE DENIZI)",
-          "time": "2025.06.25 01:10:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.25",
-      "date_hour": "01:10:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
