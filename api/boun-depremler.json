@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-03T19:48:44.530Z",
+  "lastUpdate": "2025-07-03T19:57:14.812Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CAYOZU-DIVRIGI (SIVAS)",
+      "type": "�lksel",
+      "date": "2025.07.03 22:29:18",
+      "lat": 39.6202,
+      "lng": 38.2013,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "11.1",
+      "coordinates": [
+        38.2013,
+        39.6202
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.2013,
+            39.6202
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "CAYOZU-DIVRIGI (SIVAS)",
+          "time": "2025.07.03 22:29:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.03",
+      "date_hour": "22:29:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SIVAS"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -42,23 +78,23 @@
       "title": "DAVAZLAR-DEMRE (ANTALYA)",
       "type": "�lksel",
       "date": "2025.07.03 22:23:51",
-      "lat": 36.3047,
-      "lng": 29.8945,
+      "lat": 36.2958,
+      "lng": 29.8937,
       "md": "-.-",
       "ml": "1.7",
       "mw": "-.-",
-      "depth": "12.2",
+      "depth": "12.9",
       "coordinates": [
-        29.8945,
-        36.3047
+        29.8937,
+        36.2958
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            29.8945,
-            36.3047
+            29.8937,
+            36.2958
           ]
         },
         "properties": {
@@ -17962,42 +17998,6 @@
       "location_properties": "",
       "date_day": "2025.06.24",
       "date_hour": "21:37:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.24 21:36:31",
-      "lat": 39.2202,
-      "lng": 29.027,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "8.4",
-      "coordinates": [
-        29.027,
-        39.2202
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.027,
-            39.2202
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.06.24 21:36:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.24",
-      "date_hour": "21:36:31",
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
