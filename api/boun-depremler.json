@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-03T23:14:34.385Z",
+  "lastUpdate": "2025-07-03T23:31:23.513Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "PEKMEZCI-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2025.07.04 01:21:42",
+      "lat": 39.0088,
+      "lng": 28.0453,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "7.9",
+      "coordinates": [
+        28.0453,
+        39.0088
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0453,
+            39.0088
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "PEKMEZCI-AKHISAR (MANISA)",
+          "time": "2025.07.04 01:21:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.04",
+      "date_hour": "01:21:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
     },
     {
       "title": "EGE DENIZI",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "KARACAOREN-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.25 01:48:22",
-      "lat": 39.2038,
-      "lng": 29.0382,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "14.0",
-      "coordinates": [
-        29.0382,
-        39.2038
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0382,
-            39.2038
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KARACAOREN-SIMAV (KUTAHYA)",
-          "time": "2025.06.25 01:48:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.25",
-      "date_hour": "01:48:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
