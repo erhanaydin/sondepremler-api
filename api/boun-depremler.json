@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-03T08:00:11.644Z",
+  "lastUpdate": "2025-07-03T08:35:07.696Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MUSTAFABEYLI-CEYHAN (ADANA)",
+      "type": "�lksel",
+      "date": "2025.07.03 11:14:53",
+      "lat": 37.0715,
+      "lng": 36.057,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "7.7",
+      "coordinates": [
+        36.057,
+        37.0715
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.057,
+            37.0715
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "MUSTAFABEYLI-CEYHAN (ADANA)",
+          "time": "2025.07.03 11:14:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.03",
+      "date_hour": "11:14:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "HAMZALI-ORHANGAZI (BURSA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURDUR"
-    },
-    {
-      "title": "DOGUCA-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.06.24 09:56:58",
-      "lat": 38.9105,
-      "lng": 27.8043,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "6.1",
-      "coordinates": [
-        27.8043,
-        38.9105
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.8043,
-            38.9105
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "DOGUCA-AKHISAR (MANISA)",
-          "time": "2025.06.24 09:56:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.24",
-      "date_hour": "09:56:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
