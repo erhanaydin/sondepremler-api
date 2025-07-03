@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-03T09:13:45.512Z",
+  "lastUpdate": "2025-07-03T09:36:10.152Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.07.03 12:20:35",
+      "lat": 40.1807,
+      "lng": 31.7493,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "9.0",
+      "coordinates": [
+        31.7493,
+        40.1807
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.7493,
+            40.1807
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "HIRKATEPE-BEYPAZARI (ANKARA)",
+          "time": "2025.07.03 12:20:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.03",
+      "date_hour": "12:20:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
+    },
     {
       "title": "SEYITUSAGI-YESILYURT (MALATYA)",
       "type": "�lksel",
@@ -253,6 +289,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.07.03 09:01:19",
+      "lat": 35.353,
+      "lng": 26.231,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "6.9",
+      "coordinates": [
+        26.231,
+        35.353
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.231,
+            35.353
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2025.07.03 09:01:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.03",
+      "date_hour": "09:01:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
     },
     {
       "title": "LALEGOLU-TOPRAKKALE (OSMANIYE)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "ALATEPE-MILAS (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.06.24 11:52:21",
-      "lat": 37.0383,
-      "lng": 27.9933,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "25.3",
-      "coordinates": [
-        27.9933,
-        37.0383
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9933,
-            37.0383
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "ALATEPE-MILAS (MUGLA)",
-          "time": "2025.06.24 11:52:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.24",
-      "date_hour": "11:52:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
-    },
-    {
-      "title": "YESILYURT-KEMALPASA (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.06.24 11:20:03",
-      "lat": 38.4295,
-      "lng": 27.679,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "19.9",
-      "coordinates": [
-        27.679,
-        38.4295
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.679,
-            38.4295
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YESILYURT-KEMALPASA (IZMIR)",
-          "time": "2025.06.24 11:20:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.24",
-      "date_hour": "11:20:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
