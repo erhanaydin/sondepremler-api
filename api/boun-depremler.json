@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-03T19:57:14.812Z",
+  "lastUpdate": "2025-07-03T20:20:47.176Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOVDELI-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.03 22:44:51",
+      "lat": 38.0395,
+      "lng": 37.5878,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "6.4",
+      "coordinates": [
+        37.5878,
+        38.0395
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.5878,
+            38.0395
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "GOVDELI-DOGANSEHIR (MALATYA)",
+          "time": "2025.07.03 22:44:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.03",
+      "date_hour": "22:44:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "CAYOZU-DIVRIGI (SIVAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIVAS"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.24 21:37:49",
-      "lat": 39.2407,
-      "lng": 29.0533,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "2.7",
-      "coordinates": [
-        29.0533,
-        39.2407
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0533,
-            39.2407
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.06.24 21:37:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.24",
-      "date_hour": "21:37:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
