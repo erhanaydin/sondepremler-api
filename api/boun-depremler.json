@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-03T15:44:14.320Z",
+  "lastUpdate": "2025-07-03T15:54:17.374Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KONYA"
+    },
+    {
+      "title": "KADILI-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.03 18:01:09",
+      "lat": 38.05,
+      "lng": 37.7965,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "24.8",
+      "coordinates": [
+        37.7965,
+        38.05
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.7965,
+            38.05
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KADILI-DOGANSEHIR (MALATYA)",
+          "time": "2025.07.03 18:01:09"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.03",
+      "date_hour": "18:01:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "GUZELBURC-(HATAY)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "YURTYENICE-KALECIK (ANKARA)",
-      "type": "�lksel",
-      "date": "2025.06.24 17:24:31",
-      "lat": 40.3092,
-      "lng": 33.4422,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "2.5",
-      "coordinates": [
-        33.4422,
-        40.3092
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.4422,
-            40.3092
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "YURTYENICE-KALECIK (ANKARA)",
-          "time": "2025.06.24 17:24:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.24",
-      "date_hour": "17:24:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
