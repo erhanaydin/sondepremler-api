@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-03T15:54:17.374Z",
+  "lastUpdate": "2025-07-03T16:15:50.914Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,78 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "PIRALI-KADINHANI (KONYA)",
+      "type": "�lksel",
+      "date": "2025.07.03 17:38:49",
+      "lat": 38.1592,
+      "lng": 32.1855,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "4.0",
+      "coordinates": [
+        32.1855,
+        38.1592
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.1855,
+            38.1592
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "PIRALI-KADINHANI (KONYA)",
+          "time": "2025.07.03 17:38:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.03",
+      "date_hour": "17:38:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KONYA"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.07.03 17:33:06",
+      "lat": 35.4783,
+      "lng": 29.508,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "8.3",
+      "coordinates": [
+        29.508,
+        35.4783
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.508,
+            35.4783
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "AKDENIZ",
+          "time": "2025.07.03 17:33:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.03",
+      "date_hour": "17:33:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "GUZELBURC-(HATAY)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "SOGUTLU-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.06.24 18:22:49",
-      "lat": 38.2082,
-      "lng": 38.5885,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "4.5",
-      "coordinates": [
-        38.5885,
-        38.2082
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.5885,
-            38.2082
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "SOGUTLU-PUTURGE (MALATYA)",
-          "time": "2025.06.24 18:22:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.24",
-      "date_hour": "18:22:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "KAYNAR-(KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.06.24 18:13:27",
-      "lat": 37.8135,
-      "lng": 36.5442,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "8.0",
-      "coordinates": [
-        36.5442,
-        37.8135
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.5442,
-            37.8135
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KAYNAR-(KAHRAMANMARAS)",
-          "time": "2025.06.24 18:13:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.24",
-      "date_hour": "18:13:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
