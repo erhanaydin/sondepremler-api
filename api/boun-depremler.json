@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-03T05:26:55.461Z",
+  "lastUpdate": "2025-07-03T05:46:41.730Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "LALEGOLU-TOPRAKKALE (OSMANIYE)",
+      "type": "�lksel",
+      "date": "2025.07.03 08:36:08",
+      "lat": 37.0602,
+      "lng": 36.066,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "13.5",
+      "coordinates": [
+        36.066,
+        37.0602
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.066,
+            37.0602
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "LALEGOLU-TOPRAKKALE (OSMANIYE)",
+          "time": "2025.07.03 08:36:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.03",
+      "date_hour": "08:36:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "OSMANIYE"
+    },
     {
       "title": "AZIZLI-CEYHAN (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ISTANBUL"
-    },
-    {
-      "title": "BILEK-(MUS)",
-      "type": "�lksel",
-      "date": "2025.06.24 09:00:26",
-      "lat": 38.9982,
-      "lng": 41.1972,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "8.9",
-      "coordinates": [
-        41.1972,
-        38.9982
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            41.1972,
-            38.9982
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "BILEK-(MUS)",
-          "time": "2025.06.24 09:00:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.24",
-      "date_hour": "09:00:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUS"
     }
   ]
 }
