@@ -1,5 +1,41 @@
 [
   {
+    "title": "Antakya (Hatay)",
+    "type": "İlksel",
+    "date": "2025-07-03 13:27:20",
+    "lat": 36.27444,
+    "lng": 36.20083,
+    "md": "-.-",
+    "ml": "1.7",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      36.20083,
+      36.27444
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.20083,
+          36.27444
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Antakya (Hatay) (Hatay)",
+        "time": 1751549240000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-03",
+    "date_hour": "13:27:20",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Hatay"
+  },
+  {
     "title": "Kale (Malatya)",
     "type": "İlksel",
     "date": "2025-07-03 12:32:32",
@@ -14074,41 +14110,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Çanakkale"
-  },
-  {
-    "title": "Bolvadin (Afyonkarahisar)",
-    "type": "İlksel",
-    "date": "2025-06-28 13:30:58",
-    "lat": 38.70444,
-    "lng": 31.15333,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7.07,
-    "coordinates": [
-      31.15333,
-      38.70444
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.15333,
-          38.70444
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Bolvadin (Afyonkarahisar) (Afyonkarahisar)",
-        "time": 1751117458000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-28",
-    "date_hour": "13:30:58",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Afyonkarahisar"
   }
 ]
