@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-03T20:58:18.319Z",
+  "lastUpdate": "2025-07-03T21:20:19.351Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.07.03 23:04:41",
+      "lat": 36.1783,
+      "lng": 28.761,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "27.1",
+      "coordinates": [
+        28.761,
+        36.1783
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.761,
+            36.1783
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "AKDENIZ",
+          "time": "2025.07.03 23:04:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.03",
+      "date_hour": "23:04:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "GOVDELI-DOGANSEHIR (MALATYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "TUNCELI"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.24 21:55:18",
-      "lat": 39.2315,
-      "lng": 29.024,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        29.024,
-        39.2315
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.024,
-            39.2315
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.06.24 21:55:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.24",
-      "date_hour": "21:55:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
