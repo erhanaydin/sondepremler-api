@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-03T15:28:55.705Z",
+  "lastUpdate": "2025-07-03T15:44:14.320Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DAMLAPINAR-BEYSEHIR (KONYA)",
+      "type": "�lksel",
+      "date": "2025.07.03 18:33:00",
+      "lat": 37.8515,
+      "lng": 31.9773,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        31.9773,
+        37.8515
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.9773,
+            37.8515
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "DAMLAPINAR-BEYSEHIR (KONYA)",
+          "time": "2025.07.03 18:33:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.03",
+      "date_hour": "18:33:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KONYA"
+    },
     {
       "title": "GUZELBURC-(HATAY)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.24 16:50:47",
-      "lat": 40.8368,
-      "lng": 28.3997,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "12.7",
-      "coordinates": [
-        28.3997,
-        40.8368
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3997,
-            40.8368
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "MARMARA DENIZI",
-          "time": "2025.06.24 16:50:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.24",
-      "date_hour": "16:50:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
