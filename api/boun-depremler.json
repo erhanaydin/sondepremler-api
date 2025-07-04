@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-04T19:13:10.586Z",
+  "lastUpdate": "2025-07-04T19:26:56.128Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "IMRAN-CEYHAN (ADANA)",
+      "type": "�lksel",
+      "date": "2025.07.04 22:03:53",
+      "lat": 37.0258,
+      "lng": 35.9848,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "16.8",
+      "coordinates": [
+        35.9848,
+        37.0258
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.9848,
+            37.0258
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "IMRAN-CEYHAN (ADANA)",
+          "time": "2025.07.04 22:03:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.04",
+      "date_hour": "22:03:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "HORHOR-ELBISTAN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AGRI"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.26 01:23:14",
-      "lat": 39.3348,
-      "lng": 25.6443,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        25.6443,
-        39.3348
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.6443,
-            39.3348
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "EGE DENIZI",
-          "time": "2025.06.26 01:23:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.26",
-      "date_hour": "01:23:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
