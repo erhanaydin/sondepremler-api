@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-04T17:54:30.733Z",
+  "lastUpdate": "2025-07-04T18:17:48.178Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "COTURTEPE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.07.04 21:10:00",
+      "lat": 39.2937,
+      "lng": 28.2677,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "10.1",
+      "coordinates": [
+        28.2677,
+        39.2937
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2677,
+            39.2937
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "COTURTEPE-SINDIRGI (BALIKESIR)",
+          "time": "2025.07.04 21:10:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.04",
+      "date_hour": "21:10:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "YOZGAT"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.25 23:25:30",
-      "lat": 40.837,
-      "lng": 28.4128,
-      "md": "-.-",
-      "ml": "3.4",
-      "mw": "3.1",
-      "depth": "9.8",
-      "coordinates": [
-        28.4128,
-        40.837
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.4128,
-            40.837
-          ]
-        },
-        "properties": {
-          "mag": "3.4",
-          "place": "MARMARA DENIZI",
-          "time": "2025.06.25 23:25:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.25",
-      "date_hour": "23:25:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
