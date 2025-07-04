@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-04T08:52:45.181Z",
+  "lastUpdate": "2025-07-04T09:10:42.352Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -109,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "YUKARIBAG-(ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.07.04 09:21:22",
+      "lat": 38.6105,
+      "lng": 39.5973,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "28.7",
+      "coordinates": [
+        39.5973,
+        38.6105
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.5973,
+            38.6105
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "YUKARIBAG-(ELAZIG)",
+          "time": "2025.07.04 09:21:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.04",
+      "date_hour": "09:21:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
     },
     {
       "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "SELVI-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.06.25 13:12:48",
-      "lat": 40.2908,
-      "lng": 27.0662,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "23.3",
-      "coordinates": [
-        27.0662,
-        40.2908
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0662,
-            40.2908
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "SELVI-BIGA (CANAKKALE)",
-          "time": "2025.06.25 13:12:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.25",
-      "date_hour": "13:12:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
