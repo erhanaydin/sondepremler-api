@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-04T19:53:17.682Z",
+  "lastUpdate": "2025-07-04T20:11:29.115Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.04 22:30:55",
+      "lat": 36.8477,
+      "lng": 27.3962,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "15.0",
+      "coordinates": [
+        27.3962,
+        36.8477
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.3962,
+            36.8477
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "GOKOVA KORFEZI (EGE DENIZI)",
+          "time": "2025.07.04 22:30:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.04",
+      "date_hour": "22:30:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "IMRAN-CEYHAN (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ASAGIYOLDUZU-(AGRI)",
-      "type": "�lksel",
-      "date": "2025.06.26 01:37:51",
-      "lat": 39.7833,
-      "lng": 43.0587,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "23.4",
-      "coordinates": [
-        43.0587,
-        39.7833
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.0587,
-            39.7833
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "ASAGIYOLDUZU-(AGRI)",
-          "time": "2025.06.26 01:37:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.26",
-      "date_hour": "01:37:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AGRI"
     }
   ]
 }
