@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-04T14:32:28.274Z",
+  "lastUpdate": "2025-07-04T14:47:37.858Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.07.04 17:09:17",
+      "lat": 41.0748,
+      "lng": 23.509,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        23.509,
+        41.0748
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.509,
+            41.0748
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "YUNANISTAN",
+          "time": "2025.07.04 17:09:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.04",
+      "date_hour": "17:09:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "CANAKCI-KIGI (BINGOL)",
-      "type": "�lksel",
-      "date": "2025.06.25 22:11:46",
-      "lat": 39.1727,
-      "lng": 40.3033,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "14.3",
-      "coordinates": [
-        40.3033,
-        39.1727
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.3033,
-            39.1727
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "CANAKCI-KIGI (BINGOL)",
-          "time": "2025.06.25 22:11:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.25",
-      "date_hour": "22:11:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
