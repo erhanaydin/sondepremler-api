@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-04T07:28:39.134Z",
+  "lastUpdate": "2025-07-04T07:42:12.966Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -145,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
+    },
+    {
+      "title": "ESMEDERE-KALECIK (ANKARA) REVIZE01 (2025.07.04",
+      "type": "08:33:36)",
+      "date": "2025.07.04 08:33:36",
+      "lat": 40.2855,
+      "lng": 33.2713,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        33.2713,
+        40.2855
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.2713,
+            40.2855
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ESMEDERE-KALECIK (ANKARA) REVIZE01 (2025.07.04",
+          "time": "2025.07.04 08:33:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.04",
+      "date_hour": "08:33:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
     },
     {
       "title": "EGE DENIZI",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "AKDERE-SILIFKE (MERSIN)",
-      "type": "�lksel",
-      "date": "2025.06.25 12:02:52",
-      "lat": 36.2293,
-      "lng": 33.7917,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        33.7917,
-        36.2293
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.7917,
-            36.2293
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "AKDERE-SILIFKE (MERSIN)",
-          "time": "2025.06.25 12:02:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.25",
-      "date_hour": "12:02:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
     }
   ]
 }
