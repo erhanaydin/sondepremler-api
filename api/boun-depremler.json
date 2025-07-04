@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-04T09:55:15.871Z",
+  "lastUpdate": "2025-07-04T10:16:12.935Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KONURTAY-DOGANYOL (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.04 12:30:52",
+      "lat": 38.2655,
+      "lng": 39.1488,
+      "md": "-.-",
+      "ml": "3.2",
+      "mw": "3.3",
+      "depth": "7.2",
+      "coordinates": [
+        39.1488,
+        38.2655
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.1488,
+            38.2655
+          ]
+        },
+        "properties": {
+          "mag": "3.2",
+          "place": "KONURTAY-DOGANYOL (MALATYA)",
+          "time": "2025.07.04 12:30:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.04",
+      "date_hour": "12:30:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "TATARLI-CEYHAN (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "CIGIRLI-PUTURGE (MALATYA) REVIZE01 (2025.06.25",
-      "type": "15:13:39)",
-      "date": "2025.06.25 15:13:39",
-      "lat": 38.3197,
-      "lng": 38.8775,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "7.2",
-      "coordinates": [
-        38.8775,
-        38.3197
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.8775,
-            38.3197
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "CIGIRLI-PUTURGE (MALATYA) REVIZE01 (2025.06.25",
-          "time": "2025.06.25 15:13:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.25",
-      "date_hour": "15:13:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
