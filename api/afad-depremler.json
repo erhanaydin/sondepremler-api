@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ceyhan (Adana)",
+    "type": "İlksel",
+    "date": "2025-07-04 07:02:10",
+    "lat": 37.11056,
+    "lng": 36.05139,
+    "md": "-.-",
+    "ml": "2.3",
+    "mw": "-.-",
+    "depth": 14.9,
+    "coordinates": [
+      36.05139,
+      37.11056
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.05139,
+          37.11056
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ceyhan (Adana) (Adana)",
+        "time": 1751612530000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-04",
+    "date_hour": "07:02:10",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Adana"
+  },
+  {
     "title": "Yazıhan (Malatya)",
     "type": "İlksel",
     "date": "2025-07-04 06:31:32",
@@ -13966,77 +14002,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kahramanmaraş"
-  },
-  {
-    "title": "Simav (Kütahya)",
-    "type": "İlksel",
-    "date": "2025-06-29 07:09:08",
-    "lat": 39.25306,
-    "lng": 28.9425,
-    "md": "-.-",
-    "ml": "2.5",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.9425,
-      39.25306
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.9425,
-          39.25306
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Simav (Kütahya) (Kütahya)",
-        "time": 1751180948000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-29",
-    "date_hour": "07:09:08",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kütahya"
-  },
-  {
-    "title": "Pamukkale (Denizli)",
-    "type": "İlksel",
-    "date": "2025-06-29 07:03:35",
-    "lat": 38.04944,
-    "lng": 29.11806,
-    "md": "-.-",
-    "ml": "1.6",
-    "mw": "-.-",
-    "depth": 7.11,
-    "coordinates": [
-      29.11806,
-      38.04944
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.11806,
-          38.04944
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Pamukkale (Denizli) (Denizli)",
-        "time": 1751180615000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-29",
-    "date_hour": "07:03:35",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Denizli"
   }
 ]
