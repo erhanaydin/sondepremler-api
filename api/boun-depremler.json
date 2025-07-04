@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-04T11:47:11.536Z",
+  "lastUpdate": "2025-07-04T11:55:18.593Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YARIS-EMET (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.04 13:06:05",
+      "lat": 39.3143,
+      "lng": 29.3813,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        29.3813,
+        39.3143
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.3813,
+            39.3143
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YARIS-EMET (KUTAHYA)",
+          "time": "2025.07.04 13:06:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.04",
+      "date_hour": "13:06:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KONURTAY-DOGANYOL (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "COBANDAGI-VARTO (MUS)",
-      "type": "�lksel",
-      "date": "2025.06.25 16:31:24",
-      "lat": 39.2463,
-      "lng": 41.4638,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "3.9",
-      "coordinates": [
-        41.4638,
-        39.2463
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            41.4638,
-            39.2463
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "COBANDAGI-VARTO (MUS)",
-          "time": "2025.06.25 16:31:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.25",
-      "date_hour": "16:31:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUS"
     }
   ]
 }
