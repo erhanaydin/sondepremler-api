@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-04T22:50:25.933Z",
+  "lastUpdate": "2025-07-04T22:58:42.607Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.05 01:32:59",
+      "lat": 36.838,
+      "lng": 27.3912,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "7.1",
+      "coordinates": [
+        27.3912,
+        36.838
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.3912,
+            36.838
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "GOKOVA KORFEZI (EGE DENIZI)",
+          "time": "2025.07.05 01:32:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.05",
+      "date_hour": "01:32:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "KERTMEKARACAOREN-ULAS (SIVAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "MUGLA (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.06.26 05:18:01",
-      "lat": 37.237,
-      "lng": 28.3672,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "3.7",
-      "coordinates": [
-        28.3672,
-        37.237
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3672,
-            37.237
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "MUGLA (MUGLA)",
-          "time": "2025.06.26 05:18:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.26",
-      "date_hour": "05:18:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
