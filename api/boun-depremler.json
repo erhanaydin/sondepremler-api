@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-05T09:43:42.126Z",
+  "lastUpdate": "2025-07-05T09:52:04.582Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARLISU-(HATAY)",
+      "type": "�lksel",
+      "date": "2025.07.05 12:03:55",
+      "lat": 36.2707,
+      "lng": 36.1185,
+      "md": "-.-",
+      "ml": "3.2",
+      "mw": "3.1",
+      "depth": "8.1",
+      "coordinates": [
+        36.1185,
+        36.2707
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.1185,
+            36.2707
+          ]
+        },
+        "properties": {
+          "mag": "3.2",
+          "place": "KARLISU-(HATAY)",
+          "time": "2025.07.05 12:03:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.05",
+      "date_hour": "12:03:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
     {
       "title": "KARACAOREN-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.26 20:36:20",
-      "lat": 39.2435,
-      "lng": 28.9785,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "6.7",
-      "coordinates": [
-        28.9785,
-        39.2435
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9785,
-            39.2435
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.06.26 20:36:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.26",
-      "date_hour": "20:36:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
