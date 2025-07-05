@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-05T05:23:52.290Z",
+  "lastUpdate": "2025-07-05T05:40:25.434Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SURGU-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.05 08:23:31",
+      "lat": 38.0003,
+      "lng": 37.9873,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "9.6",
+      "coordinates": [
+        37.9873,
+        38.0003
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.9873,
+            38.0003
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "SURGU-DOGANSEHIR (MALATYA)",
+          "time": "2025.07.05 08:23:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.05",
+      "date_hour": "08:23:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "DEREKOY-SOMA (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.26 11:02:27",
-      "lat": 39.2482,
-      "lng": 28.9622,
-      "md": "-.-",
-      "ml": "3.1",
-      "mw": "3.3",
-      "depth": "5.0",
-      "coordinates": [
-        28.9622,
-        39.2482
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9622,
-            39.2482
-          ]
-        },
-        "properties": {
-          "mag": "3.1",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.06.26 11:02:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.26",
-      "date_hour": "11:02:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
