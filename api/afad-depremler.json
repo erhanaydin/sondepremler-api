@@ -1,5 +1,41 @@
 [
   {
+    "title": "Gölova (Sivas)",
+    "type": "İlksel",
+    "date": "2025-07-05 22:39:20",
+    "lat": 40.01778,
+    "lng": 38.60639,
+    "md": "-.-",
+    "ml": "2",
+    "mw": "-.-",
+    "depth": 6.96,
+    "coordinates": [
+      38.60639,
+      40.01778
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.60639,
+          40.01778
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Gölova (Sivas) (Sivas)",
+        "time": 1751755160000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-05",
+    "date_hour": "22:39:20",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Sivas"
+  },
+  {
     "title": "Pütürge (Malatya)",
     "type": "İlksel",
     "date": "2025-07-05 22:25:23",
@@ -106,6 +142,42 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Elazığ"
+  },
+  {
+    "title": "Soma (Manisa)",
+    "type": "İlksel",
+    "date": "2025-07-05 22:00:35",
+    "lat": 39.30444,
+    "lng": 27.76111,
+    "md": "-.-",
+    "ml": "0.9",
+    "mw": "-.-",
+    "depth": 11.04,
+    "coordinates": [
+      27.76111,
+      39.30444
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.76111,
+          39.30444
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Soma (Manisa) (Manisa)",
+        "time": 1751752835000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-05",
+    "date_hour": "22:00:35",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Manisa"
   },
   {
     "title": "Yeşilyurt (Malatya)",
@@ -14146,41 +14218,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Malatya"
-  },
-  {
-    "title": "Ege Denizi - [52.19 km] Ayvacık (Çanakkale)",
-    "type": "İlksel",
-    "date": "2025-06-30 23:12:13",
-    "lat": 39.27,
-    "lng": 25.52361,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 13.55,
-    "coordinates": [
-      25.52361,
-      39.27
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.52361,
-          39.27
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi - [52.19 km] Ayvacık (Çanakkale) (Çanakkale)",
-        "time": 1751325133000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-30",
-    "date_hour": "23:12:13",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Çanakkale"
   }
 ]
