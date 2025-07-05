@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-05T11:24:36.283Z",
+  "lastUpdate": "2025-07-05T11:33:30.348Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.05 14:24:20",
+      "lat": 40.8022,
+      "lng": 28.285,
+      "md": "-.-",
+      "ml": "4.1",
+      "mw": "-.-",
+      "depth": "13.3",
+      "coordinates": [
+        28.285,
+        40.8022
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.285,
+            40.8022
+          ]
+        },
+        "properties": {
+          "mag": "4.1",
+          "place": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+          "time": "2025.07.05 14:24:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.05",
+      "date_hour": "14:24:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARMARA DENIZI"
+    },
     {
       "title": "EKINCI-(HATAY)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.26 23:04:38",
-      "lat": 39.2207,
-      "lng": 29.0292,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "3.6",
-      "coordinates": [
-        29.0292,
-        39.2207
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0292,
-            39.2207
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.06.26 23:04:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.26",
-      "date_hour": "23:04:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
