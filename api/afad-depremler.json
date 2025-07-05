@@ -1,5 +1,41 @@
 [
   {
+    "title": "Yazıhan (Malatya)",
+    "type": "İlksel",
+    "date": "2025-07-05 04:44:56",
+    "lat": 38.59083,
+    "lng": 38.005,
+    "md": "-.-",
+    "ml": "1.4",
+    "mw": "-.-",
+    "depth": 6.81,
+    "coordinates": [
+      38.005,
+      38.59083
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.005,
+          38.59083
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Yazıhan (Malatya) (Malatya)",
+        "time": 1751690696000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-05",
+    "date_hour": "04:44:56",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Malatya"
+  },
+  {
     "title": "Muratlı (Tekirdağ)",
     "type": "İlksel",
     "date": "2025-07-05 03:51:18",
@@ -14290,77 +14326,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Malatya"
-  },
-  {
-    "title": "Lice (Diyarbakır)",
-    "type": "İlksel",
-    "date": "2025-06-30 05:01:49",
-    "lat": 38.49111,
-    "lng": 40.56806,
-    "md": "-.-",
-    "ml": "2.1",
-    "mw": "-.-",
-    "depth": 7.06,
-    "coordinates": [
-      40.56806,
-      38.49111
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.56806,
-          38.49111
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Lice (Diyarbakır) (Diyarbakır)",
-        "time": 1751259709000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-30",
-    "date_hour": "05:01:49",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Diyarbakır"
-  },
-  {
-    "title": "Marmara Denizi - [20.27 km] Marmaraereğlisi (Tekirdağ)",
-    "type": "İlksel",
-    "date": "2025-06-30 05:01:02",
-    "lat": 40.84972,
-    "lng": 28.14361,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7.06,
-    "coordinates": [
-      28.14361,
-      40.84972
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.14361,
-          40.84972
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Marmara Denizi - [20.27 km] Marmaraereğlisi (Tekirdağ) (Tekirdağ)",
-        "time": 1751259662000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-06-30",
-    "date_hour": "05:01:02",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Tekirdağ"
   }
 ]
