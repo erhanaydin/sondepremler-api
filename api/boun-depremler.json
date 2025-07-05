@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-05T16:50:22.252Z",
+  "lastUpdate": "2025-07-05T16:58:28.915Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DALKILIC-ELESKIRT (AGRI)",
+      "type": "�lksel",
+      "date": "2025.07.05 19:42:29",
+      "lat": 39.8762,
+      "lng": 42.7803,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "8.0",
+      "coordinates": [
+        42.7803,
+        39.8762
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            42.7803,
+            39.8762
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "DALKILIC-ELESKIRT (AGRI)",
+          "time": "2025.07.05 19:42:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.05",
+      "date_hour": "19:42:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AGRI"
+    },
     {
       "title": "KAPIDERE-DOGANSEHIR (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BINGOL"
-    },
-    {
-      "title": "FIRANLAR-DOMANIC (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.27 04:38:23",
-      "lat": 39.785,
-      "lng": 29.4633,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "21.8",
-      "coordinates": [
-        29.4633,
-        39.785
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.4633,
-            39.785
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "FIRANLAR-DOMANIC (KUTAHYA)",
-          "time": "2025.06.27 04:38:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.27",
-      "date_hour": "04:38:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
