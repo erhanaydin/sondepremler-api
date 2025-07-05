@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-05T05:58:13.523Z",
+  "lastUpdate": "2025-07-05T06:30:14.795Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.07.05 09:22:07",
+      "lat": 35.2282,
+      "lng": 27.0288,
+      "md": "-.-",
+      "ml": "3.6",
+      "mw": "3.8",
+      "depth": "12.4",
+      "coordinates": [
+        27.0288,
+        35.2282
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.0288,
+            35.2282
+          ]
+        },
+        "properties": {
+          "mag": "3.6",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2025.07.05 09:22:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.05",
+      "date_hour": "09:22:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
+    {
+      "title": "DEMIRKANAT-KIGI (BINGOL)",
+      "type": "�lksel",
+      "date": "2025.07.05 08:26:11",
+      "lat": 39.2153,
+      "lng": 40.3477,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "10.3",
+      "coordinates": [
+        40.3477,
+        39.2153
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.3477,
+            39.2153
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "DEMIRKANAT-KIGI (BINGOL)",
+          "time": "2025.07.05 08:26:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.05",
+      "date_hour": "08:26:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGOL"
+    },
     {
       "title": "SURGU-DOGANSEHIR (MALATYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.26 11:08:56",
-      "lat": 39.2115,
-      "lng": 29.008,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "12.7",
-      "coordinates": [
-        29.008,
-        39.2115
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.008,
-            39.2115
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.06.26 11:08:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.26",
-      "date_hour": "11:08:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "SENKOY-DURSUNBEY (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.06.26 11:07:36",
-      "lat": 39.4107,
-      "lng": 28.9425,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "20.9",
-      "coordinates": [
-        28.9425,
-        39.4107
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9425,
-            39.4107
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "SENKOY-DURSUNBEY (BALIKESIR)",
-          "time": "2025.06.26 11:07:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.26",
-      "date_hour": "11:07:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
