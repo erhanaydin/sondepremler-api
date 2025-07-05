@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-05T06:30:14.795Z",
+  "lastUpdate": "2025-07-05T06:50:15.376Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
+    },
+    {
+      "title": "OZLU-ORTA (CANKIRI)",
+      "type": "�lksel",
+      "date": "2025.07.05 08:48:19",
+      "lat": 40.5253,
+      "lng": 33.0217,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "6.3",
+      "coordinates": [
+        33.0217,
+        40.5253
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.0217,
+            40.5253
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "OZLU-ORTA (CANKIRI)",
+          "time": "2025.07.05 08:48:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.05",
+      "date_hour": "08:48:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANKIRI"
     },
     {
       "title": "DEMIRKANAT-KIGI (BINGOL)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.26 12:42:55",
-      "lat": 39.257,
-      "lng": 28.9743,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "7.6",
-      "coordinates": [
-        28.9743,
-        39.257
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9743,
-            39.257
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.06.26 12:42:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.26",
-      "date_hour": "12:42:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
