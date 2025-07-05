@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-05T10:00:31.061Z",
+  "lastUpdate": "2025-07-05T10:26:51.411Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EKINCI-(HATAY)",
+      "type": "�lksel",
+      "date": "2025.07.05 12:10:16",
+      "lat": 36.2568,
+      "lng": 36.1442,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        36.1442,
+        36.2568
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.1442,
+            36.2568
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "EKINCI-(HATAY)",
+          "time": "2025.07.05 12:10:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.05",
+      "date_hour": "12:10:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
+    {
+      "title": "AKCAKAYA-MILAS (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.07.05 12:09:00",
+      "lat": 37.0827,
+      "lng": 27.8292,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        27.8292,
+        37.0827
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.8292,
+            37.0827
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "AKCAKAYA-MILAS (MUGLA)",
+          "time": "2025.07.05 12:09:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.05",
+      "date_hour": "12:09:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "KARLISU-(HATAY)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YAZGUNU-KIGI (BINGOL)",
-      "type": "�lksel",
-      "date": "2025.06.26 21:59:35",
-      "lat": 39.27,
-      "lng": 40.2397,
-      "md": "-.-",
-      "ml": "3.1",
-      "mw": "3.2",
-      "depth": "8.8",
-      "coordinates": [
-        40.2397,
-        39.27
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.2397,
-            39.27
-          ]
-        },
-        "properties": {
-          "mag": "3.1",
-          "place": "YAZGUNU-KIGI (BINGOL)",
-          "time": "2025.06.26 21:59:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.26",
-      "date_hour": "21:59:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.26 21:44:47",
-      "lat": 38.722,
-      "lng": 26.4938,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "15.7",
-      "coordinates": [
-        26.4938,
-        38.722
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.4938,
-            38.722
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "EGE DENIZI",
-          "time": "2025.06.26 21:44:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.26",
-      "date_hour": "21:44:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
