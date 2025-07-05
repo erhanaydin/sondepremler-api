@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-05T06:58:15.181Z",
+  "lastUpdate": "2025-07-05T07:19:52.320Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.05 10:00:25",
+      "lat": 39.2362,
+      "lng": 28.9885,
+      "md": "-.-",
+      "ml": "3.3",
+      "mw": "3.1",
+      "depth": "6.7",
+      "coordinates": [
+        28.9885,
+        39.2362
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9885,
+            39.2362
+          ]
+        },
+        "properties": {
+          "mag": "3.3",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.07.05 10:00:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.05",
+      "date_hour": "10:00:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "GIRIT ADASI (AKDENIZ)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2025.06.26 13:10:53",
-      "lat": 40.837,
-      "lng": 28.2683,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "22.7",
-      "coordinates": [
-        28.2683,
-        40.837
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2683,
-            40.837
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-          "time": "2025.06.26 13:10:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.26",
-      "date_hour": "13:10:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
     }
   ]
 }
