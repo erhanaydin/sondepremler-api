@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-05T21:56:55.324Z",
+  "lastUpdate": "2025-07-05T22:16:42.707Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "IKIZCE-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.06 00:58:07",
+      "lat": 38.324,
+      "lng": 38.2015,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.2015,
+        38.324
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.2015,
+            38.324
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "IKIZCE-YESILYURT (MALATYA)",
+          "time": "2025.07.06 00:58:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.06",
+      "date_hour": "00:58:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "HARUNUSAGI-AKCADAG (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KABAYEL-YEDISU (BINGOL)",
-      "type": "�lksel",
-      "date": "2025.06.27 11:05:36",
-      "lat": 39.4883,
-      "lng": 40.2937,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "6.6",
-      "coordinates": [
-        40.2937,
-        39.4883
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.2937,
-            39.4883
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KABAYEL-YEDISU (BINGOL)",
-          "time": "2025.06.27 11:05:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.27",
-      "date_hour": "11:05:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
