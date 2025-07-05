@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-05T17:34:26.547Z",
+  "lastUpdate": "2025-07-05T17:44:07.158Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "INKAYA-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.05 20:25:04",
+      "lat": 39.3848,
+      "lng": 28.8988,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "12.6",
+      "coordinates": [
+        28.8988,
+        39.3848
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8988,
+            39.3848
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "INKAYA-SIMAV (KUTAHYA)",
+          "time": "2025.07.05 20:25:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.05",
+      "date_hour": "20:25:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "DALKILIC-ELESKIRT (AGRI)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AGRI"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.05 19:40:40",
+      "lat": 36.0933,
+      "lng": 26.9375,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "9.4",
+      "coordinates": [
+        26.9375,
+        36.0933
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.9375,
+            36.0933
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "EGE DENIZI",
+          "time": "2025.07.05 19:40:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.05",
+      "date_hour": "19:40:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "EGE DENIZI",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BINGOL"
-    },
-    {
-      "title": "AKDAG-GELENDOST (ISPARTA)",
-      "type": "�lksel",
-      "date": "2025.06.27 05:47:42",
-      "lat": 38.1518,
-      "lng": 30.9095,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        30.9095,
-        38.1518
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.9095,
-            38.1518
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "AKDAG-GELENDOST (ISPARTA)",
-          "time": "2025.06.27 05:47:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.27",
-      "date_hour": "05:47:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ISPARTA"
-    },
-    {
-      "title": "FETHIYE KORFEZI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.06.27 05:24:49",
-      "lat": 36.5612,
-      "lng": 28.8778,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "17.7",
-      "coordinates": [
-        28.8778,
-        36.5612
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.8778,
-            36.5612
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "FETHIYE KORFEZI (AKDENIZ)",
-          "time": "2025.06.27 05:24:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.27",
-      "date_hour": "05:24:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
