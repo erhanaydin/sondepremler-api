@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-06T17:53:23.992Z",
+  "lastUpdate": "2025-07-06T18:13:38.537Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "PAYAS-DORTYOL (HATAY)",
+      "type": "�lksel",
+      "date": "2025.07.06 21:01:38",
+      "lat": 36.7362,
+      "lng": 36.0717,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "3.6",
+      "coordinates": [
+        36.0717,
+        36.7362
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.0717,
+            36.7362
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "PAYAS-DORTYOL (HATAY)",
+          "time": "2025.07.06 21:01:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.06",
+      "date_hour": "21:01:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
     {
       "title": "DUZBAHCE-SIVRICE (ELAZIG)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "ASAGIOBRUK-CUBUK (ANKARA)",
-      "type": "�lksel",
-      "date": "2025.06.28 14:27:33",
-      "lat": 40.2153,
-      "lng": 32.9172,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "2.1",
-      "coordinates": [
-        32.9172,
-        40.2153
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.9172,
-            40.2153
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "ASAGIOBRUK-CUBUK (ANKARA)",
-          "time": "2025.06.28 14:27:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.28",
-      "date_hour": "14:27:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
