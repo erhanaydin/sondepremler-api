@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-06T14:19:23.674Z",
+  "lastUpdate": "2025-07-06T14:36:36.273Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.06 17:15:02",
+      "lat": 39.2485,
+      "lng": 28.9772,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "3.4",
+      "coordinates": [
+        28.9772,
+        39.2485
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9772,
+            39.2485
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.07.06 17:15:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.06",
+      "date_hour": "17:15:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "YOZGAT"
-    },
-    {
-      "title": "TAHTALI-YAZIHAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.06.28 06:33:56",
-      "lat": 38.6182,
-      "lng": 37.9555,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "8.9",
-      "coordinates": [
-        37.9555,
-        38.6182
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.9555,
-            38.6182
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "TAHTALI-YAZIHAN (MALATYA)",
-          "time": "2025.06.28 06:33:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.28",
-      "date_hour": "06:33:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
