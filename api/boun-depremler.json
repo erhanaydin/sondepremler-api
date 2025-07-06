@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-06T15:31:21.586Z",
+  "lastUpdate": "2025-07-06T15:43:30.959Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BINGOL"
+    },
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.07.06 17:57:38",
+      "lat": 39.9953,
+      "lng": 24.4017,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "9.4",
+      "coordinates": [
+        24.4017,
+        39.9953
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.4017,
+            39.9953
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "YUNANISTAN",
+          "time": "2025.07.06 17:57:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.06",
+      "date_hour": "17:57:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "YESILDERE-HORASAN (ERZURUM)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
-    },
-    {
-      "title": "SARAYBAHCE-KOVANCILAR (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.06.28 10:02:19",
-      "lat": 38.7345,
-      "lng": 39.92,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "7.6",
-      "coordinates": [
-        39.92,
-        38.7345
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.92,
-            38.7345
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "SARAYBAHCE-KOVANCILAR (ELAZIG)",
-          "time": "2025.06.28 10:02:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.28",
-      "date_hour": "10:02:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
