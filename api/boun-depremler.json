@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-06T17:18:21.724Z",
+  "lastUpdate": "2025-07-06T17:34:48.249Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DUZBAHCE-SIVRICE (ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.07.06 20:20:10",
+      "lat": 38.444,
+      "lng": 39.2638,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "9.4",
+      "coordinates": [
+        39.2638,
+        38.444
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.2638,
+            38.444
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "DUZBAHCE-SIVRICE (ELAZIG)",
+          "time": "2025.07.06 20:20:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.06",
+      "date_hour": "20:20:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ESKISEHIR"
-    },
-    {
-      "title": "YUKARIBALI-MUSTAFAKEMALPASA (BURSA)",
-      "type": "�lksel",
-      "date": "2025.06.28 12:35:30",
-      "lat": 39.8363,
-      "lng": 28.7457,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        28.7457,
-        39.8363
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7457,
-            39.8363
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "YUKARIBALI-MUSTAFAKEMALPASA (BURSA)",
-          "time": "2025.06.28 12:35:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.28",
-      "date_hour": "12:35:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
     }
   ]
 }
