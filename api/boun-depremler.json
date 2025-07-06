@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-06T15:59:59.790Z",
+  "lastUpdate": "2025-07-06T16:30:31.569Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.06 19:01:21",
+      "lat": 36.641,
+      "lng": 25.6417,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        25.6417,
+        36.641
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.6417,
+            36.641
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "EGE DENIZI",
+          "time": "2025.07.06 19:01:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.06",
+      "date_hour": "19:01:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "SALMANLI-BIGADIC (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.07.06 18:40:10",
+      "lat": 39.4218,
+      "lng": 28.1648,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        28.1648,
+        39.4218
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1648,
+            39.4218
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "SALMANLI-BIGADIC (BALIKESIR)",
+          "time": "2025.07.06 18:40:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.06",
+      "date_hour": "18:40:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "TABANLAR-SOMA (MANISA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "BOZLAR-CAGLAYANCERIT (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.06.28 11:05:22",
-      "lat": 37.7198,
-      "lng": 37.4435,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "3.8",
-      "coordinates": [
-        37.4435,
-        37.7198
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.4435,
-            37.7198
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BOZLAR-CAGLAYANCERIT (KAHRAMANMARAS)",
-          "time": "2025.06.28 11:05:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.28",
-      "date_hour": "11:05:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "CERCIKAYA-BELEN (HATAY)",
-      "type": "�lksel",
-      "date": "2025.06.28 10:18:41",
-      "lat": 36.3582,
-      "lng": 36.1028,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "7.2",
-      "coordinates": [
-        36.1028,
-        36.3582
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.1028,
-            36.3582
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "CERCIKAYA-BELEN (HATAY)",
-          "time": "2025.06.28 10:18:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.28",
-      "date_hour": "10:18:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
