@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-06T11:42:37.279Z",
+  "lastUpdate": "2025-07-06T11:50:50.734Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "KEDEK-KEMAH (ERZINCAN)",
+      "type": "�lksel",
+      "date": "2025.07.06 13:38:38",
+      "lat": 39.8582,
+      "lng": 39.0198,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "9.6",
+      "coordinates": [
+        39.0198,
+        39.8582
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.0198,
+            39.8582
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KEDEK-KEMAH (ERZINCAN)",
+          "time": "2025.07.06 13:38:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.06",
+      "date_hour": "13:38:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZINCAN"
     },
     {
       "title": "YENIKOY-BIGADIC (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ISPARTA"
-    },
-    {
-      "title": "AKARCA-ELBISTAN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.06.28 02:44:31",
-      "lat": 38.473,
-      "lng": 37.2863,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        37.2863,
-        38.473
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.2863,
-            38.473
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "AKARCA-ELBISTAN (KAHRAMANMARAS)",
-          "time": "2025.06.28 02:44:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.28",
-      "date_hour": "02:44:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
