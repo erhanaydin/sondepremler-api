@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-06T19:51:37.026Z",
+  "lastUpdate": "2025-07-06T19:59:57.688Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.07.06 22:45:34",
+      "lat": 36.4997,
+      "lng": 28.6128,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "27.4",
+      "coordinates": [
+        28.6128,
+        36.4997
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.6128,
+            36.4997
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "AKDENIZ",
+          "time": "2025.07.06 22:45:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.06",
+      "date_hour": "22:45:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YAZGUNU-KIGI (BINGOL)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "YENIKOY-BIGADIC (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.06.28 18:12:40",
-      "lat": 39.5262,
-      "lng": 28.131,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "14.6",
-      "coordinates": [
-        28.131,
-        39.5262
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.131,
-            39.5262
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YENIKOY-BIGADIC (BALIKESIR)",
-          "time": "2025.06.28 18:12:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.28",
-      "date_hour": "18:12:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
