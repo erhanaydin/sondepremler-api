@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-06T17:34:48.249Z",
+  "lastUpdate": "2025-07-06T17:45:00.234Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.07.06 19:38:41",
+      "lat": 40.2303,
+      "lng": 31.7338,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "12.1",
+      "coordinates": [
+        31.7338,
+        40.2303
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.7338,
+            40.2303
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "HIRKATEPE-BEYPAZARI (ANKARA)",
+          "time": "2025.07.06 19:38:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.06",
+      "date_hour": "19:38:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
     },
     {
       "title": "KURKKOY-SIVRICE (ELAZIG)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "BULDUKPINAR-TEPEBASI (ESKISEHIR)",
-      "type": "�lksel",
-      "date": "2025.06.28 12:49:18",
-      "lat": 39.8717,
-      "lng": 30.4268,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        30.4268,
-        39.8717
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.4268,
-            39.8717
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "BULDUKPINAR-TEPEBASI (ESKISEHIR)",
-          "time": "2025.06.28 12:49:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.28",
-      "date_hour": "12:49:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ESKISEHIR"
     }
   ]
 }
