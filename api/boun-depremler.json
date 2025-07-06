@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-06T14:36:36.273Z",
+  "lastUpdate": "2025-07-06T14:46:44.317Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TURKPIYALA-SOMA (MANISA)",
+      "type": "�lksel",
+      "date": "2025.07.06 17:37:39",
+      "lat": 39.3193,
+      "lng": 27.7158,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "10.9",
+      "coordinates": [
+        27.7158,
+        39.3193
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.7158,
+            39.3193
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "TURKPIYALA-SOMA (MANISA)",
+          "time": "2025.07.06 17:37:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.06",
+      "date_hour": "17:37:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "ASAGIKIZILOZ-KADISEHRI (YOZGAT)",
-      "type": "�lksel",
-      "date": "2025.06.28 06:55:31",
-      "lat": 40.0432,
-      "lng": 35.9375,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        35.9375,
-        40.0432
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.9375,
-            40.0432
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "ASAGIKIZILOZ-KADISEHRI (YOZGAT)",
-          "time": "2025.06.28 06:55:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.28",
-      "date_hour": "06:55:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "YOZGAT"
     }
   ]
 }
