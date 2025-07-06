@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-06T22:48:20.945Z",
+  "lastUpdate": "2025-07-06T22:56:23.884Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BARIS-NURHAK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.07 01:39:41",
+      "lat": 38.0205,
+      "lng": 37.3887,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        37.3887,
+        38.0205
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.3887,
+            38.0205
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "BARIS-NURHAK (KAHRAMANMARAS)",
+          "time": "2025.07.07 01:39:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "01:39:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "CESMECIK-KADINHANI (KONYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ISPARTA"
-    },
-    {
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.06.28 22:27:48",
-      "lat": 37.9972,
-      "lng": 27.123,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        27.123,
-        37.9972
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.123,
-            37.9972
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KUSADASI KORFEZI (EGE DENIZI)",
-          "time": "2025.06.28 22:27:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.28",
-      "date_hour": "22:27:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
