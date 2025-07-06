@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-06T11:20:15.732Z",
+  "lastUpdate": "2025-07-06T11:31:02.175Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.06 14:14:51",
+      "lat": 39.2072,
+      "lng": 29.0273,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "6.4",
+      "coordinates": [
+        29.0273,
+        39.2072
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0273,
+            39.2072
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.07.06 14:14:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.06",
+      "date_hour": "14:14:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.06.28 02:38:48",
-      "lat": 40.2992,
-      "lng": 24.0767,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "9.1",
-      "coordinates": [
-        24.0767,
-        40.2992
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.0767,
-            40.2992
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "YUNANISTAN",
-          "time": "2025.06.28 02:38:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.28",
-      "date_hour": "02:38:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
