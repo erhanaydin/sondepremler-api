@@ -1,28 +1,64 @@
 {
-  "lastUpdate": "2025-07-06T23:45:33.559Z",
+  "lastUpdate": "2025-07-06T23:53:48.622Z",
   "source": "Boğaziçi",
   "data": [
     {
-      "title": "KISAC-CERKES (CANKIRI)",
+      "title": "AKIN-SEREFLIKOCHISAR (ANKARA)",
       "type": "�lksel",
-      "date": "2025.07.07 02:11:42",
-      "lat": 40.7078,
-      "lng": 32.8205,
+      "date": "2025.07.07 02:38:16",
+      "lat": 39.1363,
+      "lng": 33.2403,
       "md": "-.-",
-      "ml": "1.7",
+      "ml": "2.0",
       "mw": "-.-",
-      "depth": "5.5",
+      "depth": "5.0",
       "coordinates": [
-        32.8205,
-        40.7078
+        33.2403,
+        39.1363
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            32.8205,
-            40.7078
+            33.2403,
+            39.1363
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "AKIN-SEREFLIKOCHISAR (ANKARA)",
+          "time": "2025.07.07 02:38:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "02:38:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
+    },
+    {
+      "title": "KISAC-CERKES (CANKIRI)",
+      "type": "�lksel",
+      "date": "2025.07.07 02:11:42",
+      "lat": 40.7065,
+      "lng": 32.8122,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "6.0",
+      "coordinates": [
+        32.8122,
+        40.7065
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.8122,
+            40.7065
           ]
         },
         "properties": {
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AFYONKARAHISAR"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.29 01:55:34",
-      "lat": 36.6715,
-      "lng": 25.7225,
-      "md": "-.-",
-      "ml": "3.3",
-      "mw": "3.3",
-      "depth": "6.9",
-      "coordinates": [
-        25.7225,
-        36.6715
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.7225,
-            36.6715
-          ]
-        },
-        "properties": {
-          "mag": "3.3",
-          "place": "EGE DENIZI",
-          "time": "2025.06.29 01:55:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.29",
-      "date_hour": "01:55:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
