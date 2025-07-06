@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-06T21:38:40.965Z",
+  "lastUpdate": "2025-07-06T21:47:05.010Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.07 00:32:08",
+      "lat": 40.8292,
+      "lng": 28.3363,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "11.8",
+      "coordinates": [
+        28.3363,
+        40.8292
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3363,
+            40.8292
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "MARMARA DENIZI",
+          "time": "2025.07.07 00:32:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "00:32:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "KARADENIZ",
-      "type": "�lksel",
-      "date": "2025.06.28 20:02:44",
-      "lat": 42.2873,
-      "lng": 36.3372,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "6.1",
-      "coordinates": [
-        36.3372,
-        42.2873
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.3372,
-            42.2873
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "KARADENIZ",
-          "time": "2025.06.28 20:02:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.28",
-      "date_hour": "20:02:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
