@@ -1,5 +1,41 @@
 [
   {
+    "title": "Soma (Manisa)",
+    "type": "İlksel",
+    "date": "2025-07-06 08:34:40",
+    "lat": 39.30722,
+    "lng": 27.73722,
+    "md": "-.-",
+    "ml": "1.2",
+    "mw": "-.-",
+    "depth": 7.06,
+    "coordinates": [
+      27.73722,
+      39.30722
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.73722,
+          39.30722
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Soma (Manisa) (Manisa)",
+        "time": 1751790880000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-06",
+    "date_hour": "08:34:40",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Manisa"
+  },
+  {
     "title": "Doğanşehir (Malatya)",
     "type": "İlksel",
     "date": "2025-07-06 08:22:52",
@@ -14254,77 +14290,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kütahya"
-  },
-  {
-    "title": "Karatay (Konya)",
-    "type": "İlksel",
-    "date": "2025-07-01 09:28:57",
-    "lat": 38.03667,
-    "lng": 32.88417,
-    "md": "-.-",
-    "ml": "1.1",
-    "mw": "-.-",
-    "depth": 6.98,
-    "coordinates": [
-      32.88417,
-      38.03667
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.88417,
-          38.03667
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Karatay (Konya) (Konya)",
-        "time": 1751362137000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-01",
-    "date_hour": "09:28:57",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Konya"
-  },
-  {
-    "title": "Akdeniz - Mersin Körfezi - [00.58 km] Erdemli (Mersin)",
-    "type": "İlksel",
-    "date": "2025-07-01 09:22:09",
-    "lat": 36.54167,
-    "lng": 34.23917,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      34.23917,
-      36.54167
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.23917,
-          36.54167
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akdeniz - Mersin Körfezi - [00.58 km] Erdemli (Mersin) (Mersin)",
-        "time": 1751361729000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-01",
-    "date_hour": "09:22:09",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Mersin"
   }
 ]
