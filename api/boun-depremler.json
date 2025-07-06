@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-06T16:49:16.732Z",
+  "lastUpdate": "2025-07-06T16:58:03.567Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KURKKOY-SIVRICE (ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.07.06 19:38:18",
+      "lat": 38.4312,
+      "lng": 39.2378,
+      "md": "-.-",
+      "ml": "3.4",
+      "mw": "3.4",
+      "depth": "5.4",
+      "coordinates": [
+        39.2378,
+        38.4312
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.2378,
+            38.4312
+          ]
+        },
+        "properties": {
+          "mag": "3.4",
+          "place": "KURKKOY-SIVRICE (ELAZIG)",
+          "time": "2025.07.06 19:38:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.06",
+      "date_hour": "19:38:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KONYA"
-    },
-    {
-      "title": "SEKKOY-MILAS (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.06.28 11:47:43",
-      "lat": 37.1207,
-      "lng": 27.9138,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        27.9138,
-        37.1207
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9138,
-            37.1207
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "SEKKOY-MILAS (MUGLA)",
-          "time": "2025.06.28 11:47:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.28",
-      "date_hour": "11:47:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
