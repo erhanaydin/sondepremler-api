@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-06T23:32:07.278Z",
+  "lastUpdate": "2025-07-06T23:45:33.559Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KISAC-CERKES (CANKIRI)",
+      "type": "�lksel",
+      "date": "2025.07.07 02:11:42",
+      "lat": 40.7078,
+      "lng": 32.8205,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.5",
+      "coordinates": [
+        32.8205,
+        40.7078
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.8205,
+            40.7078
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KISAC-CERKES (CANKIRI)",
+          "time": "2025.07.07 02:11:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "02:11:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANKIRI"
+    },
+    {
+      "title": "YAKASINEK-SULTANDAGI (AFYONKARAHISAR)",
+      "type": "�lksel",
+      "date": "2025.07.07 02:10:46",
+      "lat": 38.5778,
+      "lng": 31.1768,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "9.5",
+      "coordinates": [
+        31.1768,
+        38.5778
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.1768,
+            38.5778
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "YAKASINEK-SULTANDAGI (AFYONKARAHISAR)",
+          "time": "2025.07.07 02:10:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "02:10:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AFYONKARAHISAR"
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "CUKUROZ-BAYAT (CORUM)",
-      "type": "�lksel",
-      "date": "2025.06.29 01:49:07",
-      "lat": 40.7958,
-      "lng": 34.1155,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "7.4",
-      "coordinates": [
-        34.1155,
-        40.7958
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.1155,
-            40.7958
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "CUKUROZ-BAYAT (CORUM)",
-          "time": "2025.06.29 01:49:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.29",
-      "date_hour": "01:49:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CORUM"
-    },
-    {
-      "title": "KARAGOL-ULAS (SIVAS)",
-      "type": "�lksel",
-      "date": "2025.06.29 01:20:53",
-      "lat": 39.4447,
-      "lng": 37.3572,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.6",
-      "coordinates": [
-        37.3572,
-        39.4447
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.3572,
-            39.4447
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KARAGOL-ULAS (SIVAS)",
-          "time": "2025.06.29 01:20:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.29",
-      "date_hour": "01:20:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
     }
   ]
 }
