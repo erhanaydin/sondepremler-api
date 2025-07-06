@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-06T21:06:59.579Z",
+  "lastUpdate": "2025-07-06T21:26:40.347Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.07 00:03:35",
+      "lat": 35.7793,
+      "lng": 25.5062,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "20.0",
+      "coordinates": [
+        25.5062,
+        35.7793
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.5062,
+            35.7793
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "EGE DENIZI",
+          "time": "2025.07.07 00:03:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "00:03:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YENIKOY-SAIMBEYLI (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.06.28 19:44:26",
-      "lat": 39.2273,
-      "lng": 29.043,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "12.8",
-      "coordinates": [
-        29.043,
-        39.2273
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.043,
-            39.2273
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.06.28 19:44:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.28",
-      "date_hour": "19:44:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
