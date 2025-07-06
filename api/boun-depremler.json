@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-06T16:58:03.567Z",
+  "lastUpdate": "2025-07-06T17:18:21.724Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.07.06 19:59:25",
+      "lat": 35.91,
+      "lng": 30.3962,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "11.1",
+      "coordinates": [
+        30.3962,
+        35.91
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3962,
+            35.91
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "AKDENIZ",
+          "time": "2025.07.06 19:59:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.06",
+      "date_hour": "19:59:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KURKKOY-SIVRICE (ELAZIG)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.06 19:29:19",
+      "lat": 36.6603,
+      "lng": 25.7748,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "14.1",
+      "coordinates": [
+        25.7748,
+        36.6603
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.7748,
+            36.6603
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "EGE DENIZI",
+          "time": "2025.07.06 19:29:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.06",
+      "date_hour": "19:29:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "EGE DENIZI",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "ERDEMLI ACIKLARI-MERSIN (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.06.28 12:34:35",
-      "lat": 36.5008,
-      "lng": 34.3157,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "6.9",
-      "coordinates": [
-        34.3157,
-        36.5008
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.3157,
-            36.5008
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ERDEMLI ACIKLARI-MERSIN (AKDENIZ)",
-          "time": "2025.06.28 12:34:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.28",
-      "date_hour": "12:34:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
-    },
-    {
-      "title": "GUVENC-SELCUKLU (KONYA)",
-      "type": "�lksel",
-      "date": "2025.06.28 12:25:15",
-      "lat": 38.1577,
-      "lng": 32.6567,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        32.6567,
-        38.1577
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.6567,
-            38.1577
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "GUVENC-SELCUKLU (KONYA)",
-          "time": "2025.06.28 12:25:15"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.28",
-      "date_hour": "12:25:15",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KONYA"
     }
   ]
 }
