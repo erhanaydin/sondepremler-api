@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-06T23:16:25.534Z",
+  "lastUpdate": "2025-07-06T23:32:07.278Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.07.07 01:54:43",
+      "lat": 36.033,
+      "lng": 28.0997,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "5.8",
+      "coordinates": [
+        28.0997,
+        36.033
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0997,
+            36.033
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "AKDENIZ",
+          "time": "2025.07.07 01:54:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "01:54:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "BARIS-NURHAK (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "KOMURLER-NURDAGI (GAZIANTEP)",
+      "type": "�lksel",
+      "date": "2025.07.07 01:32:44",
+      "lat": 37.1765,
+      "lng": 36.7805,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "5.8",
+      "coordinates": [
+        36.7805,
+        37.1765
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.7805,
+            37.1765
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "KOMURLER-NURDAGI (GAZIANTEP)",
+          "time": "2025.07.07 01:32:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "01:32:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "GAZIANTEP"
     },
     {
       "title": "CESMECIK-KADINHANI (KONYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIVAS"
-    },
-    {
-      "title": "GULPINAR-AYVACIK (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.06.29 00:19:55",
-      "lat": 39.5437,
-      "lng": 26.0572,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "11.0",
-      "coordinates": [
-        26.0572,
-        39.5437
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.0572,
-            39.5437
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "GULPINAR-AYVACIK (CANAKKALE)",
-          "time": "2025.06.29 00:19:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.29",
-      "date_hour": "00:19:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
-    },
-    {
-      "title": "YAZISOGUT-(ISPARTA)",
-      "type": "�lksel",
-      "date": "2025.06.29 00:14:22",
-      "lat": 37.7982,
-      "lng": 30.5843,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        30.5843,
-        37.7982
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.5843,
-            37.7982
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YAZISOGUT-(ISPARTA)",
-          "time": "2025.06.29 00:14:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.29",
-      "date_hour": "00:14:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ISPARTA"
     }
   ]
 }
