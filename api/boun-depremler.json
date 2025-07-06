@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-06T04:21:17.539Z",
+  "lastUpdate": "2025-07-06T04:48:43.347Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.07.06 07:38:24",
+      "lat": 36.1045,
+      "lng": 31.1198,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "11.5",
+      "coordinates": [
+        31.1198,
+        36.1045
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.1198,
+            36.1045
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "AKDENIZ",
+          "time": "2025.07.06 07:38:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.06",
+      "date_hour": "07:38:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "BOZARMUT-SOMA (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "KAVAKLIDERE-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.06.27 17:32:52",
-      "lat": 38.2602,
-      "lng": 38.647,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "16.9",
-      "coordinates": [
-        38.647,
-        38.2602
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.647,
-            38.2602
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KAVAKLIDERE-PUTURGE (MALATYA)",
-          "time": "2025.06.27 17:32:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.27",
-      "date_hour": "17:32:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
