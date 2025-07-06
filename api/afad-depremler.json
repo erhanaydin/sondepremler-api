@@ -1,5 +1,41 @@
 [
   {
+    "title": "Horasan (Erzurum)",
+    "type": "İlksel",
+    "date": "2025-07-06 14:49:51",
+    "lat": 40.1775,
+    "lng": 42.01444,
+    "md": "-.-",
+    "ml": "2",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      42.01444,
+      40.1775
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.01444,
+          40.1775
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Horasan (Erzurum) (Erzurum)",
+        "time": 1751813391000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-06",
+    "date_hour": "14:49:51",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Erzurum"
+  },
+  {
     "title": "Soma (Manisa)",
     "type": "İlksel",
     "date": "2025-07-06 14:37:40",
@@ -14218,77 +14254,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Adana"
-  },
-  {
-    "title": "Yeşilyurt (Malatya)",
-    "type": "İlksel",
-    "date": "2025-07-01 15:20:43",
-    "lat": 38.31889,
-    "lng": 38.16583,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      38.16583,
-      38.31889
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.16583,
-          38.31889
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Yeşilyurt (Malatya) (Malatya)",
-        "time": 1751383243000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-01",
-    "date_hour": "15:20:43",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
-  },
-  {
-    "title": "Bigadiç (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-07-01 15:18:31",
-    "lat": 39.51611,
-    "lng": 28.125,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.125,
-      39.51611
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.125,
-          39.51611
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Bigadiç (Balıkesir) (Balıkesir)",
-        "time": 1751383111000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-01",
-    "date_hour": "15:18:31",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
