@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-07T11:18:49.598Z",
+  "lastUpdate": "2025-07-07T11:32:08.398Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,78 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIVAS"
+    },
+    {
+      "title": "SAROS KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.07 13:25:44",
+      "lat": 40.3965,
+      "lng": 26.081,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "10.0",
+      "coordinates": [
+        26.081,
+        40.3965
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.081,
+            40.3965
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "SAROS KORFEZI (EGE DENIZI)",
+          "time": "2025.07.07 13:25:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "13:25:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
+    {
+      "title": "KURUCAOLUK-BURHANIYE (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.07.07 13:21:18",
+      "lat": 39.4078,
+      "lng": 27.0802,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "12.2",
+      "coordinates": [
+        27.0802,
+        39.4078
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.0802,
+            39.4078
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "KURUCAOLUK-BURHANIYE (BALIKESIR)",
+          "time": "2025.07.07 13:21:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "13:21:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "SAROS KORFEZI (EGE DENIZI)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2025.06.29 23:35:39",
-      "lat": 40.8147,
-      "lng": 28.1393,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "7.9",
-      "coordinates": [
-        28.1393,
-        40.8147
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1393,
-            40.8147
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "MARMARA DENIZI",
-          "time": "2025.06.29 23:35:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.29",
-      "date_hour": "23:35:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "YAGCILI-SOMA (MANISA)",
-      "type": "�lksel",
-      "date": "2025.06.29 22:40:10",
-      "lat": 39.337,
-      "lng": 27.662,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "8.8",
-      "coordinates": [
-        27.662,
-        39.337
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.662,
-            39.337
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YAGCILI-SOMA (MANISA)",
-          "time": "2025.06.29 22:40:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.29",
-      "date_hour": "22:40:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
