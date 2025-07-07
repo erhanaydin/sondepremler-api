@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-07T23:00:22.260Z",
+  "lastUpdate": "2025-07-07T23:25:25.517Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.08 01:53:55",
+      "lat": 40.8497,
+      "lng": 28.4,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        28.4,
+        40.8497
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.4,
+            40.8497
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "MARMARA DENIZI",
+          "time": "2025.07.08 01:53:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.08",
+      "date_hour": "01:53:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "OZYURT-(VAN)",
-      "type": "�lksel",
-      "date": "2025.06.30 16:04:30",
-      "lat": 38.7265,
-      "lng": 43.1998,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "8.1",
-      "coordinates": [
-        43.1998,
-        38.7265
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.1998,
-            38.7265
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "OZYURT-(VAN)",
-          "time": "2025.06.30 16:04:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.30",
-      "date_hour": "16:04:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "VAN"
     }
   ]
 }
