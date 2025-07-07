@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-07T17:50:46.516Z",
+  "lastUpdate": "2025-07-07T17:58:56.841Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.07.07 20:46:06",
+      "lat": 35.1132,
+      "lng": 26.6273,
+      "md": "-.-",
+      "ml": "5.1",
+      "mw": "4.9",
+      "depth": "13.0",
+      "coordinates": [
+        26.6273,
+        35.1132
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.6273,
+            35.1132
+          ]
+        },
+        "properties": {
+          "mag": "5.1",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2025.07.07 20:46:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "20:46:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "ESKIKARAHISAR-ULAS (SIVAS)",
-      "type": "�lksel",
-      "date": "2025.06.30 04:32:57",
-      "lat": 39.4225,
-      "lng": 37.2257,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "6.6",
-      "coordinates": [
-        37.2257,
-        39.4225
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.2257,
-            39.4225
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ESKIKARAHISAR-ULAS (SIVAS)",
-          "time": "2025.06.30 04:32:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.30",
-      "date_hour": "04:32:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
     }
   ]
 }
