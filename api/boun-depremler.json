@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-07T08:34:50.608Z",
+  "lastUpdate": "2025-07-07T08:55:13.062Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.07 10:17:20",
+      "lat": 38.068,
+      "lng": 27.061,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "15.8",
+      "coordinates": [
+        27.061,
+        38.068
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.061,
+            38.068
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2025.07.07 10:17:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "10:17:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "GOVDELI-DOGANSEHIR (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KONYA"
-    },
-    {
-      "title": "ONIKI ADALAR (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.06.29 13:23:26",
-      "lat": 37.0093,
-      "lng": 26.525,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "17.9",
-      "coordinates": [
-        26.525,
-        37.0093
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.525,
-            37.0093
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "ONIKI ADALAR (EGE DENIZI)",
-          "time": "2025.06.29 13:23:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.29",
-      "date_hour": "13:23:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
