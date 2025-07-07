@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-07T06:48:18.698Z",
+  "lastUpdate": "2025-07-07T07:00:46.328Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.07.07 09:20:39",
+      "lat": 37.6545,
+      "lng": 19.7945,
+      "md": "-.-",
+      "ml": "4.0",
+      "mw": "4.2",
+      "depth": "4.6",
+      "coordinates": [
+        19.7945,
+        37.6545
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            19.7945,
+            37.6545
+          ]
+        },
+        "properties": {
+          "mag": "4.0",
+          "place": "YUNANISTAN",
+          "time": "2025.07.07 09:20:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "09:20:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ISPARTA"
-    },
-    {
-      "title": "ERTUGRUL-GUNEY (DENIZLI)",
-      "type": "�lksel",
-      "date": "2025.06.29 12:28:45",
-      "lat": 38.0748,
-      "lng": 29.0477,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        29.0477,
-        38.0748
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0477,
-            38.0748
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ERTUGRUL-GUNEY (DENIZLI)",
-          "time": "2025.06.29 12:28:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.29",
-      "date_hour": "12:28:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
