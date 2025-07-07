@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-07T11:43:22.038Z",
+  "lastUpdate": "2025-07-07T11:51:46.254Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GUNDUZBEY-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.07 14:06:54",
+      "lat": 38.2632,
+      "lng": 38.2677,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.2677,
+        38.2632
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.2677,
+            38.2632
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "GUNDUZBEY-YESILYURT (MALATYA)",
+          "time": "2025.07.07 14:06:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "14:06:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "CEYLANDERE-SAMANDAG (HATAY)",
-      "type": "�lksel",
-      "date": "2025.06.30 01:05:38",
-      "lat": 36.2602,
-      "lng": 35.9737,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        35.9737,
-        36.2602
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.9737,
-            36.2602
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "CEYLANDERE-SAMANDAG (HATAY)",
-          "time": "2025.06.30 01:05:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.30",
-      "date_hour": "01:05:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
