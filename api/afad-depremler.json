@@ -1,5 +1,41 @@
 [
   {
+    "title": "Simav (Kütahya)",
+    "type": "İlksel",
+    "date": "2025-07-07 17:59:34",
+    "lat": 39.2,
+    "lng": 29.02,
+    "md": "-.-",
+    "ml": "1.9",
+    "mw": "-.-",
+    "depth": 9.45,
+    "coordinates": [
+      29.02,
+      39.2
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.02,
+          39.2
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Simav (Kütahya) (Kütahya)",
+        "time": 1751911174000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-07",
+    "date_hour": "17:59:34",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
+  },
+  {
     "title": "Akdeniz - [188.73 km] Datça (Muğla)",
     "type": "İlksel",
     "date": "2025-07-07 17:46:07",
@@ -15046,77 +15082,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kütahya"
-  },
-  {
-    "title": "Kaş (Antalya)",
-    "type": "İlksel",
-    "date": "2025-07-02 18:29:30",
-    "lat": 36.29444,
-    "lng": 29.32361,
-    "md": "-.-",
-    "ml": "1.9",
-    "mw": "-.-",
-    "depth": 27,
-    "coordinates": [
-      29.32361,
-      36.29444
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.32361,
-          36.29444
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Kaş (Antalya) (Antalya)",
-        "time": 1751480970000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-02",
-    "date_hour": "18:29:30",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Antalya"
-  },
-  {
-    "title": "Ulaş (Sivas)",
-    "type": "İlksel",
-    "date": "2025-07-02 18:23:04",
-    "lat": 39.435,
-    "lng": 37.3075,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7.27,
-    "coordinates": [
-      37.3075,
-      39.435
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.3075,
-          39.435
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ulaş (Sivas) (Sivas)",
-        "time": 1751480584000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-02",
-    "date_hour": "18:23:04",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Sivas"
   }
 ]
