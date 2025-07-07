@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-07T20:58:08.334Z",
+  "lastUpdate": "2025-07-07T21:20:22.812Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "IZMIR KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.08 00:01:32",
+      "lat": 38.5673,
+      "lng": 26.7483,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "13.4",
+      "coordinates": [
+        26.7483,
+        38.5673
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.7483,
+            38.5673
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "IZMIR KORFEZI (EGE DENIZI)",
+          "time": "2025.07.08 00:01:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.08",
+      "date_hour": "00:01:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
+    {
+      "title": "KAYRAKALTI-SOMA (MANISA)",
+      "type": "�lksel",
+      "date": "2025.07.07 23:50:50",
+      "lat": 39.3185,
+      "lng": 27.7695,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "8.8",
+      "coordinates": [
+        27.7695,
+        39.3185
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.7695,
+            39.3185
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KAYRAKALTI-SOMA (MANISA)",
+          "time": "2025.07.07 23:50:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "23:50:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANTALYA"
-    },
-    {
-      "title": "FINDIKKOY-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.06.30 12:23:24",
-      "lat": 38.1105,
-      "lng": 37.7732,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        37.7732,
-        38.1105
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.7732,
-            38.1105
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "FINDIKKOY-DOGANSEHIR (MALATYA)",
-          "time": "2025.06.30 12:23:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.30",
-      "date_hour": "12:23:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "TURKIYE-IRAN SINIR BOLGESI REVIZE01 (2025.06.30",
-      "type": "11:53:06)",
-      "date": "2025.06.30 11:53:06",
-      "lat": 39.5615,
-      "lng": 44.4845,
-      "md": "-.-",
-      "ml": "3.5",
-      "mw": "-.-",
-      "depth": "1.5",
-      "coordinates": [
-        44.4845,
-        39.5615
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            44.4845,
-            39.5615
-          ]
-        },
-        "properties": {
-          "mag": "3.5",
-          "place": "TURKIYE-IRAN SINIR BOLGESI REVIZE01 (2025.06.30",
-          "time": "2025.06.30 11:53:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.30",
-      "date_hour": "11:53:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
