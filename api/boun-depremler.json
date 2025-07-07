@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-07T09:40:19.839Z",
+  "lastUpdate": "2025-07-07T09:52:13.720Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ICMELER-GOLYAKA (DUZCE)",
+      "type": "�lksel",
+      "date": "2025.07.07 12:12:48",
+      "lat": 40.7895,
+      "lng": 31.0425,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "6.6",
+      "coordinates": [
+        31.0425,
+        40.7895
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.0425,
+            40.7895
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "ICMELER-GOLYAKA (DUZCE)",
+          "time": "2025.07.07 12:12:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "12:12:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DUZCE"
+    },
     {
       "title": "ISKELE-BIGADIC (BALIKESIR)",
       "type": "�lksel",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
+    },
+    {
+      "title": "CIKILGAN-KARAYAZI (ERZURUM)",
+      "type": "�lksel",
+      "date": "2025.07.07 10:27:35",
+      "lat": 39.6948,
+      "lng": 41.8567,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "9.6",
+      "coordinates": [
+        41.8567,
+        39.6948
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.8567,
+            39.6948
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "CIKILGAN-KARAYAZI (ERZURUM)",
+          "time": "2025.07.07 10:27:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "10:27:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZURUM"
     },
     {
       "title": "CAMONU-MENDERES (IZMIR) REVIZE01 (2025.07.07",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.06.29 16:30:36",
-      "lat": 36.4268,
-      "lng": 28.9508,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "14.0",
-      "coordinates": [
-        28.9508,
-        36.4268
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9508,
-            36.4268
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)",
-          "time": "2025.06.29 16:30:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.29",
-      "date_hour": "16:30:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
-    },
-    {
-      "title": "GORGU-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.06.29 15:12:38",
-      "lat": 38.2763,
-      "lng": 38.0988,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "29.7",
-      "coordinates": [
-        38.0988,
-        38.2763
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.0988,
-            38.2763
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "GORGU-YESILYURT (MALATYA)",
-          "time": "2025.06.29 15:12:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.29",
-      "date_hour": "15:12:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
