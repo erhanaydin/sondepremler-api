@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-07T16:59:08.105Z",
+  "lastUpdate": "2025-07-07T17:21:55.962Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ULUKOY-(MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.07 19:29:11",
+      "lat": 38.1885,
+      "lng": 38.5268,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "4.7",
+      "coordinates": [
+        38.5268,
+        38.1885
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.5268,
+            38.1885
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "ULUKOY-(MALATYA)",
+          "time": "2025.07.07 19:29:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "19:29:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIVAS"
-    },
-    {
-      "title": "KALE-ARSUZ (HATAY)",
-      "type": "�lksel",
-      "date": "2025.06.30 03:13:09",
-      "lat": 36.2562,
-      "lng": 35.7588,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "2.1",
-      "coordinates": [
-        35.7588,
-        36.2562
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.7588,
-            36.2562
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "KALE-ARSUZ (HATAY)",
-          "time": "2025.06.30 03:13:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.30",
-      "date_hour": "03:13:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
