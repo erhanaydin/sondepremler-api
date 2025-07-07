@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-07T09:18:30.249Z",
+  "lastUpdate": "2025-07-07T09:40:19.839Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISKELE-BIGADIC (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.07.07 12:06:42",
+      "lat": 39.4843,
+      "lng": 28.1387,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "5.8",
+      "coordinates": [
+        28.1387,
+        39.4843
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1387,
+            39.4843
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "ISKELE-BIGADIC (BALIKESIR)",
+          "time": "2025.07.07 12:06:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "12:06:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAZIBASI-ARGUVAN (MALATYA)",
       "type": "�lksel",
@@ -39,31 +75,67 @@
       "city": "MALATYA"
     },
     {
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "title": "DAVUTLAR-(MANISA)",
       "type": "�lksel",
-      "date": "2025.07.07 10:17:20",
-      "lat": 38.068,
-      "lng": 27.061,
+      "date": "2025.07.07 10:43:42",
+      "lat": 38.808,
+      "lng": 27.3635,
       "md": "-.-",
-      "ml": "2.3",
+      "ml": "1.5",
       "mw": "-.-",
-      "depth": "15.8",
+      "depth": "6.7",
       "coordinates": [
-        27.061,
-        38.068
+        27.3635,
+        38.808
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            27.061,
-            38.068
+            27.3635,
+            38.808
           ]
         },
         "properties": {
-          "mag": "2.3",
-          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "mag": "1.5",
+          "place": "DAVUTLAR-(MANISA)",
+          "time": "2025.07.07 10:43:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "10:43:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
+    {
+      "title": "CAMONU-MENDERES (IZMIR) REVIZE01 (2025.07.07",
+      "type": "10:17:20)",
+      "date": "2025.07.07 10:17:20",
+      "lat": 38.1095,
+      "lng": 27.099,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "8.0",
+      "coordinates": [
+        27.099,
+        38.1095
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.099,
+            38.1095
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "CAMONU-MENDERES (IZMIR) REVIZE01 (2025.07.07",
           "time": "2025.07.07 10:17:20"
         }
       },
@@ -72,7 +144,7 @@
       "date_hour": "10:17:20",
       "timestamp": false,
       "location_tz": "",
-      "city": "EGE DENIZI"
+      "city": "IZMIR"
     },
     {
       "title": "GOVDELI-DOGANSEHIR (MALATYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "TIRKAZ-SARAYKOY (DENIZLI)",
-      "type": "�lksel",
-      "date": "2025.06.29 14:24:10",
-      "lat": 37.8692,
-      "lng": 28.7803,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "9.0",
-      "coordinates": [
-        28.7803,
-        37.8692
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7803,
-            37.8692
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "TIRKAZ-SARAYKOY (DENIZLI)",
-          "time": "2025.06.29 14:24:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.29",
-      "date_hour": "14:24:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
-    },
-    {
-      "title": "CAKIROGLU-TURKOGLU (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.06.29 14:16:49",
-      "lat": 37.3478,
-      "lng": 36.636,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "6.8",
-      "coordinates": [
-        36.636,
-        37.3478
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.636,
-            37.3478
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "CAKIROGLU-TURKOGLU (KAHRAMANMARAS)",
-          "time": "2025.06.29 14:16:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.29",
-      "date_hour": "14:16:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
