@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-07T07:42:15.749Z",
+  "lastUpdate": "2025-07-07T07:50:59.582Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEDEYAZI-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.07 09:57:00",
+      "lat": 38.2448,
+      "lng": 37.8755,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "10.5",
+      "coordinates": [
+        37.8755,
+        38.2448
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.8755,
+            38.2448
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "DEDEYAZI-DOGANSEHIR (MALATYA)",
+          "time": "2025.07.07 09:57:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "09:57:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "YUNANISTAN",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "ASAGITIRTAR-YALVAC (ISPARTA)",
-      "type": "�lksel",
-      "date": "2025.06.29 12:48:23",
-      "lat": 38.2165,
-      "lng": 30.9455,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "1.5",
-      "coordinates": [
-        30.9455,
-        38.2165
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.9455,
-            38.2165
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ASAGITIRTAR-YALVAC (ISPARTA)",
-          "time": "2025.06.29 12:48:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.29",
-      "date_hour": "12:48:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ISPARTA"
     }
   ]
 }
