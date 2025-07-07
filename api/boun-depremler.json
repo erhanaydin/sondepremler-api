@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-07T13:29:23.603Z",
+  "lastUpdate": "2025-07-07T13:51:19.962Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -34,6 +34,42 @@
       "location_properties": "",
       "date_day": "2025.07.07",
       "date_hour": "15:38:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.07 14:27:06",
+      "lat": 36.546,
+      "lng": 25.4025,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        25.4025,
+        36.546
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.4025,
+            36.546
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "EGE DENIZI",
+          "time": "2025.07.07 14:27:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "14:27:06",
       "timestamp": false,
       "location_tz": "",
       "city": ""
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "BOZTEPE (KIRSEHIR)",
-      "type": "�lksel",
-      "date": "2025.06.30 01:32:55",
-      "lat": 39.2682,
-      "lng": 34.2532,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        34.2532,
-        39.2682
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.2532,
-            39.2682
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "BOZTEPE (KIRSEHIR)",
-          "time": "2025.06.30 01:32:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.30",
-      "date_hour": "01:32:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KIRSEHIR"
     }
   ]
 }
