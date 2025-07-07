@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-07T15:55:28.002Z",
+  "lastUpdate": "2025-07-07T16:19:47.824Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARACAOREN-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.07 18:51:52",
+      "lat": 39.2003,
+      "lng": 29.0575,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "15.7",
+      "coordinates": [
+        29.0575,
+        39.2003
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0575,
+            39.2003
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KARACAOREN-SIMAV (KUTAHYA)",
+          "time": "2025.07.07 18:51:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "18:51:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "SAHINYURDU-GEMLIK (BURSA)",
+      "type": "�lksel",
+      "date": "2025.07.07 18:37:07",
+      "lat": 40.4808,
+      "lng": 29.2083,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "9.9",
+      "coordinates": [
+        29.2083,
+        40.4808
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.2083,
+            40.4808
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "SAHINYURDU-GEMLIK (BURSA)",
+          "time": "2025.07.07 18:37:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "18:37:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "DIKILI-HEKIMHAN (MALATYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "YUNOREN-IMRANLI (SIVAS)",
-      "type": "�lksel",
-      "date": "2025.06.30 02:33:40",
-      "lat": 39.6757,
-      "lng": 38.141,
-      "md": "-.-",
-      "ml": "3.2",
-      "mw": "3.2",
-      "depth": "6.2",
-      "coordinates": [
-        38.141,
-        39.6757
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.141,
-            39.6757
-          ]
-        },
-        "properties": {
-          "mag": "3.2",
-          "place": "YUNOREN-IMRANLI (SIVAS)",
-          "time": "2025.06.30 02:33:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.30",
-      "date_hour": "02:33:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
-    },
-    {
-      "title": "AVSA-MARMARA (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.06.30 02:23:44",
-      "lat": 40.5018,
-      "lng": 27.4668,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "13.4",
-      "coordinates": [
-        27.4668,
-        40.5018
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.4668,
-            40.5018
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "AVSA-MARMARA (BALIKESIR)",
-          "time": "2025.06.30 02:23:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.30",
-      "date_hour": "02:23:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
