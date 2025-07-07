@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-07T23:48:18.362Z",
+  "lastUpdate": "2025-07-07T23:56:31.177Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.08 02:22:42",
+      "lat": 37.9825,
+      "lng": 27.0967,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        27.0967,
+        37.9825
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.0967,
+            37.9825
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2025.07.08 02:22:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.08",
+      "date_hour": "02:22:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "AKPINAR-EKINOZU (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "YENIKOY-DARENDE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.06.30 16:46:38",
-      "lat": 38.4758,
-      "lng": 37.3232,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "4.5",
-      "coordinates": [
-        37.3232,
-        38.4758
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.3232,
-            38.4758
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "YENIKOY-DARENDE (MALATYA)",
-          "time": "2025.06.30 16:46:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.30",
-      "date_hour": "16:46:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
