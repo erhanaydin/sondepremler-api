@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-07T11:32:08.398Z",
+  "lastUpdate": "2025-07-07T11:43:22.038Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.07.07 13:54:26",
+      "lat": 36.3658,
+      "lng": 28.5653,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "18.0",
+      "coordinates": [
+        28.5653,
+        36.3658
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.5653,
+            36.3658
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "AKDENIZ",
+          "time": "2025.07.07 13:54:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.07",
+      "date_hour": "13:54:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "ESKIKARAHISAR-ULAS (SIVAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
-    },
-    {
-      "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2025.06.30 00:44:07",
-      "lat": 40.8035,
-      "lng": 28.29,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "11.4",
-      "coordinates": [
-        28.29,
-        40.8035
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.29,
-            40.8035
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-          "time": "2025.06.30 00:44:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.06.30",
-      "date_hour": "00:44:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
     }
   ]
 }
