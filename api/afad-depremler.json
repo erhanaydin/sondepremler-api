@@ -1,5 +1,41 @@
 [
   {
+    "title": "Gölbaşı (Adıyaman)",
+    "type": "İlksel",
+    "date": "2025-07-07 04:46:24",
+    "lat": 37.78444,
+    "lng": 37.69806,
+    "md": "-.-",
+    "ml": "2",
+    "mw": "-.-",
+    "depth": 6.78,
+    "coordinates": [
+      37.69806,
+      37.78444
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.69806,
+          37.78444
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Gölbaşı (Adıyaman) (Adıyaman)",
+        "time": 1751863584000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-07",
+    "date_hour": "04:46:24",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Adıyaman"
+  },
+  {
     "title": "Saimbeyli (Adana)",
     "type": "İlksel",
     "date": "2025-07-07 04:42:42",
@@ -14470,77 +14506,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Antalya"
-  },
-  {
-    "title": "Ege Denizi",
-    "type": "İlksel",
-    "date": "2025-07-02 05:14:17",
-    "lat": 40.56167,
-    "lng": 24.23944,
-    "md": "-.-",
-    "ml": "2.2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      24.23944,
-      40.56167
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.23944,
-          40.56167
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi (Çanakkale)",
-        "time": 1751433257000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-02",
-    "date_hour": "05:14:17",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Çanakkale"
-  },
-  {
-    "title": "Akyazı (Sakarya)",
-    "type": "İlksel",
-    "date": "2025-07-02 05:02:37",
-    "lat": 40.71917,
-    "lng": 30.65056,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      30.65056,
-      40.71917
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.65056,
-          40.71917
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akyazı (Sakarya) (Sakarya)",
-        "time": 1751432557000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-02",
-    "date_hour": "05:02:37",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Sakarya"
   }
 ]
