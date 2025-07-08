@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-08T04:51:40.571Z",
+  "lastUpdate": "2025-07-08T05:10:37.411Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TASDAMLAR-CELIKHAN (ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2025.07.08 07:44:19",
+      "lat": 38.1002,
+      "lng": 38.3632,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "15.4",
+      "coordinates": [
+        38.3632,
+        38.1002
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.3632,
+            38.1002
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "TASDAMLAR-CELIKHAN (ADIYAMAN)",
+          "time": "2025.07.08 07:44:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.08",
+      "date_hour": "07:44:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "OTMANLAR-KOYCEGIZ (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.07.01 04:52:43",
-      "lat": 37.0808,
-      "lng": 28.8545,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "14.7",
-      "coordinates": [
-        28.8545,
-        37.0808
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.8545,
-            37.0808
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "OTMANLAR-KOYCEGIZ (MUGLA)",
-          "time": "2025.07.01 04:52:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.01",
-      "date_hour": "04:52:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
