@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-08T10:16:20.823Z",
+  "lastUpdate": "2025-07-08T10:41:45.190Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIZILAGIL-(BOLU)",
+      "type": "�lksel",
+      "date": "2025.07.08 13:21:14",
+      "lat": 40.8112,
+      "lng": 31.4908,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        31.4908,
+        40.8112
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.4908,
+            40.8112
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KIZILAGIL-(BOLU)",
+          "time": "2025.07.08 13:21:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.08",
+      "date_hour": "13:21:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BOLU"
+    },
     {
       "title": "YENIDANISMENT-ORHANELI (BURSA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KONYA"
-    },
-    {
-      "title": "FAKILI-ERDEMLI (MERSIN)",
-      "type": "�lksel",
-      "date": "2025.07.01 12:22:05",
-      "lat": 36.7263,
-      "lng": 34.2022,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "10.8",
-      "coordinates": [
-        34.2022,
-        36.7263
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.2022,
-            36.7263
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "FAKILI-ERDEMLI (MERSIN)",
-          "time": "2025.07.01 12:22:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.01",
-      "date_hour": "12:22:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
     }
   ]
 }
