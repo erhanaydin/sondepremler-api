@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-08T16:29:25.397Z",
+  "lastUpdate": "2025-07-08T16:51:21.066Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "BALLI-MUT (MERSIN)",
+      "type": "�lksel",
+      "date": "2025.07.08 18:30:55",
+      "lat": 36.9177,
+      "lng": 33.6455,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "24.4",
+      "coordinates": [
+        33.6455,
+        36.9177
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.6455,
+            36.9177
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "BALLI-MUT (MERSIN)",
+          "time": "2025.07.08 18:30:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.08",
+      "date_hour": "18:30:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MERSIN"
     },
     {
       "title": "CALCAAGIL-EMET (KUTAHYA)",
@@ -17962,42 +17998,6 @@
       "location_properties": "",
       "date_day": "2025.07.01",
       "date_hour": "13:14:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
-    },
-    {
-      "title": "SAHINYURDU-GEMLIK (BURSA)",
-      "type": "�lksel",
-      "date": "2025.07.01 13:03:23",
-      "lat": 40.473,
-      "lng": 29.2023,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "10.1",
-      "coordinates": [
-        29.2023,
-        40.473
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.2023,
-            40.473
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "SAHINYURDU-GEMLIK (BURSA)",
-          "time": "2025.07.01 13:03:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.01",
-      "date_hour": "13:03:23",
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
