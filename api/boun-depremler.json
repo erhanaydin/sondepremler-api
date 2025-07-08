@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-08T09:46:01.520Z",
+  "lastUpdate": "2025-07-08T09:55:10.318Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -145,6 +145,78 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.08 11:47:31",
+      "lat": 36.0698,
+      "lng": 27.0487,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "9.3",
+      "coordinates": [
+        27.0487,
+        36.0698
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.0487,
+            36.0698
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "EGE DENIZI",
+          "time": "2025.07.08 11:47:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.08",
+      "date_hour": "11:47:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "SAROS KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.08 11:38:18",
+      "lat": 40.4087,
+      "lng": 26.0947,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "13.1",
+      "coordinates": [
+        26.0947,
+        40.4087
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.0947,
+            40.4087
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "SAROS KORFEZI (EGE DENIZI)",
+          "time": "2025.07.08 11:38:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.08",
+      "date_hour": "11:38:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
     },
     {
       "title": "KAGITHANE (ISTANBUL)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.07.01 11:20:18",
-      "lat": 37.898,
-      "lng": 26.8997,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        26.8997,
-        37.898
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.8997,
-            37.898
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KUSADASI KORFEZI (EGE DENIZI)",
-          "time": "2025.07.01 11:20:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.01",
-      "date_hour": "11:20:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
-    },
-    {
-      "title": "CEBRAIL-GEDIZ (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.07.01 10:13:32",
-      "lat": 39.0592,
-      "lng": 29.6595,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "6.2",
-      "coordinates": [
-        29.6595,
-        39.0592
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.6595,
-            39.0592
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "CEBRAIL-GEDIZ (KUTAHYA)",
-          "time": "2025.07.01 10:13:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.01",
-      "date_hour": "10:13:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
