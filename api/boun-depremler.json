@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-08T21:08:49.963Z",
+  "lastUpdate": "2025-07-08T21:29:40.046Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOZLUOREN-SOMA (MANISA)",
+      "type": "�lksel",
+      "date": "2025.07.08 23:47:58",
+      "lat": 39.2832,
+      "lng": 27.7447,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "9.0",
+      "coordinates": [
+        27.7447,
+        39.2832
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.7447,
+            39.2832
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KOZLUOREN-SOMA (MANISA)",
+          "time": "2025.07.08 23:47:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.08",
+      "date_hour": "23:47:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "MEYDAN-SAMANDAG (HATAY)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
-    },
-    {
-      "title": "DEGIRMENLI-BIGADIC (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.07.01 18:18:30",
-      "lat": 39.5005,
-      "lng": 28.1183,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "1.9",
-      "depth": "5.0",
-      "coordinates": [
-        28.1183,
-        39.5005
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1183,
-            39.5005
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "DEGIRMENLI-BIGADIC (BALIKESIR)",
-          "time": "2025.07.01 18:18:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.01",
-      "date_hour": "18:18:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
