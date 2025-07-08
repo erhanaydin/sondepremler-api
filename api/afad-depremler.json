@@ -1,5 +1,41 @@
 [
   {
+    "title": "Yazıhan (Malatya)",
+    "type": "İlksel",
+    "date": "2025-07-08 13:02:25",
+    "lat": 38.57833,
+    "lng": 38.01889,
+    "md": "-.-",
+    "ml": "1.4",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      38.01889,
+      38.57833
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.01889,
+          38.57833
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Yazıhan (Malatya) (Malatya)",
+        "time": 1751979745000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-08",
+    "date_hour": "13:02:25",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Malatya"
+  },
+  {
     "title": "Kovancılar (Elazığ)",
     "type": "İlksel",
     "date": "2025-07-08 12:03:57",
@@ -34,6 +70,42 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Elazığ"
+  },
+  {
+    "title": "Ulubey (Uşak)",
+    "type": "İlksel",
+    "date": "2025-07-08 11:58:45",
+    "lat": 38.40722,
+    "lng": 29.18139,
+    "md": "-.-",
+    "ml": "1.2",
+    "mw": "-.-",
+    "depth": 7.14,
+    "coordinates": [
+      29.18139,
+      38.40722
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.18139,
+          38.40722
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ulubey (Uşak) (Uşak)",
+        "time": 1751975925000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-08",
+    "date_hour": "11:58:45",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Uşak"
   },
   {
     "title": "Selçuk (İzmir)",
@@ -15982,41 +16054,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Antalya"
-  },
-  {
-    "title": "Antakya (Hatay)",
-    "type": "İlksel",
-    "date": "2025-07-03 13:27:20",
-    "lat": 36.27444,
-    "lng": 36.20083,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      36.20083,
-      36.27444
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.20083,
-          36.27444
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Antakya (Hatay) (Hatay)",
-        "time": 1751549240000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-03",
-    "date_hour": "13:27:20",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Hatay"
   }
 ]
