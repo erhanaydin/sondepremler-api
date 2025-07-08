@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-08T05:10:37.411Z",
+  "lastUpdate": "2025-07-08T05:35:34.579Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CEVREPINAR-(KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.08 08:21:50",
+      "lat": 37.8397,
+      "lng": 36.5932,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "23.6",
+      "coordinates": [
+        36.5932,
+        37.8397
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.5932,
+            37.8397
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "CEVREPINAR-(KAHRAMANMARAS)",
+          "time": "2025.07.08 08:21:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.08",
+      "date_hour": "08:21:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "TASDAMLAR-CELIKHAN (ADIYAMAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "BASCESME-BOZKURT (DENIZLI)",
-      "type": "�lksel",
-      "date": "2025.07.01 05:23:31",
-      "lat": 37.829,
-      "lng": 29.5745,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.0",
-      "coordinates": [
-        29.5745,
-        37.829
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.5745,
-            37.829
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "BASCESME-BOZKURT (DENIZLI)",
-          "time": "2025.07.01 05:23:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.01",
-      "date_hour": "05:23:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
