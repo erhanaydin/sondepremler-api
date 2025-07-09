@@ -1,5 +1,41 @@
 [
   {
+    "title": "Karadeniz",
+    "type": "İlksel",
+    "date": "2025-07-09 11:08:25",
+    "lat": 42.50389,
+    "lng": 27.47722,
+    "md": "-.-",
+    "ml": "1.7",
+    "mw": "-.-",
+    "depth": 7.08,
+    "coordinates": [
+      27.47722,
+      42.50389
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.47722,
+          42.50389
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Karadeniz (Kırklareli)",
+        "time": 1752059305000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-09",
+    "date_hour": "11:08:25",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kırklareli"
+  },
+  {
     "title": "Emet (Kütahya)",
     "type": "İlksel",
     "date": "2025-07-09 09:57:34",
@@ -15370,41 +15406,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Konya"
-  },
-  {
-    "title": "Sungurlu (Çorum)",
-    "type": "İlksel",
-    "date": "2025-07-04 11:52:18",
-    "lat": 40.155,
-    "lng": 34.55333,
-    "md": "-.-",
-    "ml": "1.1",
-    "mw": "-.-",
-    "depth": 6.98,
-    "coordinates": [
-      34.55333,
-      40.155
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.55333,
-          40.155
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sungurlu (Çorum) (Çorum)",
-        "time": 1751629938000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-04",
-    "date_hour": "11:52:18",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Çorum"
   }
 ]
