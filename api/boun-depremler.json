@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-09T12:18:54.496Z",
+  "lastUpdate": "2025-07-09T13:04:23.113Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TEKOREN-SIVRIHISAR (ESKISEHIR)",
+      "type": "�lksel",
+      "date": "2025.07.09 15:53:42",
+      "lat": 39.4073,
+      "lng": 31.584,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        31.584,
+        39.4073
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.584,
+            39.4073
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "TEKOREN-SIVRIHISAR (ESKISEHIR)",
+          "time": "2025.07.09 15:53:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.09",
+      "date_hour": "15:53:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ESKISEHIR"
+    },
     {
       "title": "POYRACIK-KINIK (IZMIR)",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.07.09 12:55:01",
+      "lat": 38.1635,
+      "lng": 24.137,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "2.7",
+      "coordinates": [
+        24.137,
+        38.1635
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.137,
+            38.1635
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "YUNANISTAN",
+          "time": "2025.07.09 12:55:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.09",
+      "date_hour": "12:55:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "CILVEGOZU-REYHANLI (HATAY)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "AKBAYIR-ELBISTAN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.02 04:37:59",
-      "lat": 38.1455,
-      "lng": 37.3675,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "20.4",
-      "coordinates": [
-        37.3675,
-        38.1455
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.3675,
-            38.1455
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "AKBAYIR-ELBISTAN (KAHRAMANMARAS)",
-          "time": "2025.07.02 04:37:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.02",
-      "date_hour": "04:37:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "TAHTALI-GONEN (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.07.02 04:01:17",
-      "lat": 40.1612,
-      "lng": 27.4252,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "16.4",
-      "coordinates": [
-        27.4252,
-        40.1612
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.4252,
-            40.1612
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "TAHTALI-GONEN (BALIKESIR)",
-          "time": "2025.07.02 04:01:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.02",
-      "date_hour": "04:01:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
