@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-09T19:42:11.221Z",
+  "lastUpdate": "2025-07-09T19:50:19.283Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.09 22:02:56",
+      "lat": 39.2143,
+      "lng": 28.9707,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "6.0",
+      "coordinates": [
+        28.9707,
+        39.2143
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9707,
+            39.2143
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.07.09 22:02:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.09",
+      "date_hour": "22:02:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "CAMDERE-KOZAN (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "YUNOREN-IMRANLI (SIVAS)",
-      "type": "�lksel",
-      "date": "2025.07.02 08:52:46",
-      "lat": 39.682,
-      "lng": 38.1463,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "6.3",
-      "coordinates": [
-        38.1463,
-        39.682
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.1463,
-            39.682
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "YUNOREN-IMRANLI (SIVAS)",
-          "time": "2025.07.02 08:52:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.02",
-      "date_hour": "08:52:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
     }
   ]
 }
