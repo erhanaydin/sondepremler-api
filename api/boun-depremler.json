@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-09T08:22:14.154Z",
+  "lastUpdate": "2025-07-09T08:46:02.661Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.07.09 11:15:19",
+      "lat": 35.3045,
+      "lng": 27.076,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "2.2",
+      "coordinates": [
+        27.076,
+        35.3045
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.076,
+            35.3045
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "AKDENIZ",
+          "time": "2025.07.09 11:15:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.09",
+      "date_hour": "11:15:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "CAMDERE-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "SAHINYURDU-GEMLIK (BURSA)",
-      "type": "�lksel",
-      "date": "2025.07.02 01:59:39",
-      "lat": 40.4788,
-      "lng": 29.201,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "6.2",
-      "coordinates": [
-        29.201,
-        40.4788
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.201,
-            40.4788
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "SAHINYURDU-GEMLIK (BURSA)",
-          "time": "2025.07.02 01:59:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.02",
-      "date_hour": "01:59:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
     }
   ]
 }
