@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-09T16:20:53.970Z",
+  "lastUpdate": "2025-07-09T16:47:05.031Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MOLLAALI-SIVRICE (ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.07.09 19:11:59",
+      "lat": 38.4875,
+      "lng": 39.093,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "15.1",
+      "coordinates": [
+        39.093,
+        38.4875
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.093,
+            38.4875
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "MOLLAALI-SIVRICE (ELAZIG)",
+          "time": "2025.07.09 19:11:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.09",
+      "date_hour": "19:11:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "GIRIT ADASI ACIKLARI (AKDENIZ) REVIZE01 (2025.07.09",
       "type": "17:50:41)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "GEMEREK (SIVAS)",
-      "type": "�lksel",
-      "date": "2025.07.02 06:50:26",
-      "lat": 39.1522,
-      "lng": 36.0202,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "4.4",
-      "coordinates": [
-        36.0202,
-        39.1522
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.0202,
-            39.1522
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "GEMEREK (SIVAS)",
-          "time": "2025.07.02 06:50:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.02",
-      "date_hour": "06:50:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
     }
   ]
 }
