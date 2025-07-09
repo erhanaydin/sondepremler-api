@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-09T20:52:37.167Z",
+  "lastUpdate": "2025-07-09T21:08:40.710Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AYDIN"
+    },
+    {
+      "title": "KIRKDONUM-AHLAT (BITLIS)",
+      "type": "�lksel",
+      "date": "2025.07.09 22:32:00",
+      "lat": 38.8705,
+      "lng": 42.4828,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "26.2",
+      "coordinates": [
+        42.4828,
+        38.8705
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            42.4828,
+            38.8705
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KIRKDONUM-AHLAT (BITLIS)",
+          "time": "2025.07.09 22:32:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.09",
+      "date_hour": "22:32:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BITLIS"
     },
     {
       "title": "YAZGUNU-KIGI (BINGOL)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "SARIKUSAK-KARLIOVA (BINGOL)",
-      "type": "�lksel",
-      "date": "2025.07.02 12:03:21",
-      "lat": 39.4053,
-      "lng": 40.7842,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "19.3",
-      "coordinates": [
-        40.7842,
-        39.4053
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.7842,
-            39.4053
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "SARIKUSAK-KARLIOVA (BINGOL)",
-          "time": "2025.07.02 12:03:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.02",
-      "date_hour": "12:03:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
