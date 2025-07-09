@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-09T11:52:53.128Z",
+  "lastUpdate": "2025-07-09T12:18:54.496Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -109,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
+    },
+    {
+      "title": "BALCIKHISAR-CUMRA (KONYA)",
+      "type": "�lksel",
+      "date": "2025.07.09 12:50:53",
+      "lat": 37.4287,
+      "lng": 32.7115,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        32.7115,
+        37.4287
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.7115,
+            37.4287
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "BALCIKHISAR-CUMRA (KONYA)",
+          "time": "2025.07.09 12:50:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.09",
+      "date_hour": "12:50:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KONYA"
     },
     {
       "title": "ELMALI (ANTALYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "GECITLI-SINCIK (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.07.02 03:52:44",
-      "lat": 38.1195,
-      "lng": 38.5422,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "19.6",
-      "coordinates": [
-        38.5422,
-        38.1195
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.5422,
-            38.1195
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "GECITLI-SINCIK (ADIYAMAN)",
-          "time": "2025.07.02 03:52:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.02",
-      "date_hour": "03:52:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }

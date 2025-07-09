@@ -36,6 +36,42 @@
     "city": "Kırklareli"
   },
   {
+    "title": "Orhaneli (Bursa)",
+    "type": "İlksel",
+    "date": "2025-07-09 11:05:58",
+    "lat": 39.94361,
+    "lng": 28.8225,
+    "md": "-.-",
+    "ml": "1.6",
+    "mw": "-.-",
+    "depth": 7.03,
+    "coordinates": [
+      28.8225,
+      39.94361
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8225,
+          39.94361
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Orhaneli (Bursa) (Bursa)",
+        "time": 1752059158000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-09",
+    "date_hour": "11:05:58",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Bursa"
+  },
+  {
     "title": "Emet (Kütahya)",
     "type": "İlksel",
     "date": "2025-07-09 09:57:34",
@@ -15370,41 +15406,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Isparta"
-  },
-  {
-    "title": "Yunak (Konya)",
-    "type": "İlksel",
-    "date": "2025-07-04 11:55:29",
-    "lat": 38.71694,
-    "lng": 31.57,
-    "md": "-.-",
-    "ml": "1.6",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      31.57,
-      38.71694
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.57,
-          38.71694
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Yunak (Konya) (Konya)",
-        "time": 1751630129000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-04",
-    "date_hour": "11:55:29",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Konya"
   }
 ]
