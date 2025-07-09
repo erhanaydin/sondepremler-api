@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ege Denizi",
+    "type": "İlksel",
+    "date": "2025-07-09 22:54:02",
+    "lat": 36.60889,
+    "lng": 25.43333,
+    "md": "-.-",
+    "ml": "4.6",
+    "mw": "-.-",
+    "depth": 11.1,
+    "coordinates": [
+      25.43333,
+      36.60889
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.43333,
+          36.60889
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi (Muğla)",
+        "time": 1752101642000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-09",
+    "date_hour": "22:54:02",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Muğla"
+  },
+  {
     "title": "Yazıhan (Malatya)",
     "type": "İlksel",
     "date": "2025-07-09 22:02:19",
@@ -15514,41 +15550,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kütahya"
-  },
-  {
-    "title": "Soma (Manisa)",
-    "type": "İlksel",
-    "date": "2025-07-04 23:17:36",
-    "lat": 39.31139,
-    "lng": 27.74028,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 8.64,
-    "coordinates": [
-      27.74028,
-      39.31139
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.74028,
-          39.31139
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Soma (Manisa) (Manisa)",
-        "time": 1751671056000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-04",
-    "date_hour": "23:17:36",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Manisa"
   }
 ]
