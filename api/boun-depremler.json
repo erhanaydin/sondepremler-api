@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-09T23:25:49.414Z",
+  "lastUpdate": "2025-07-09T23:39:57.070Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SALMANKOY-SUNGURLU (CORUM)",
+      "type": "�lksel",
+      "date": "2025.07.10 02:21:38",
+      "lat": 40.1445,
+      "lng": 34.5188,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        34.5188,
+        40.1445
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.5188,
+            40.1445
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "SALMANKOY-SUNGURLU (CORUM)",
+          "time": "2025.07.10 02:21:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.10",
+      "date_hour": "02:21:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CORUM"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "TOPCU-KOPRUKOY (ERZURUM)",
-      "type": "�lksel",
-      "date": "2025.07.02 16:58:56",
-      "lat": 39.7735,
-      "lng": 41.9388,
-      "md": "-.-",
-      "ml": "4.1",
-      "mw": "4.1",
-      "depth": "5.0",
-      "coordinates": [
-        41.9388,
-        39.7735
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            41.9388,
-            39.7735
-          ]
-        },
-        "properties": {
-          "mag": "4.1",
-          "place": "TOPCU-KOPRUKOY (ERZURUM)",
-          "time": "2025.07.02 16:58:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.02",
-      "date_hour": "16:58:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZURUM"
     }
   ]
 }
