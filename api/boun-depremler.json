@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-09T21:42:47.256Z",
+  "lastUpdate": "2025-07-09T21:51:10.231Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CIVRIL-YAZIHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.10 00:29:13",
+      "lat": 38.5405,
+      "lng": 38.0177,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.0177,
+        38.5405
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.0177,
+            38.5405
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "CIVRIL-YAZIHAN (MALATYA)",
+          "time": "2025.07.10 00:29:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.10",
+      "date_hour": "00:29:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "KARAPINAR-AKCADAG (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "SAHINYURDU-GEMLIK (BURSA)",
-      "type": "�lksel",
-      "date": "2025.07.02 13:57:42",
-      "lat": 40.4597,
-      "lng": 29.1982,
-      "md": "-.-",
-      "ml": "4.4",
-      "mw": "-.-",
-      "depth": "7.5",
-      "coordinates": [
-        29.1982,
-        40.4597
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1982,
-            40.4597
-          ]
-        },
-        "properties": {
-          "mag": "4.4",
-          "place": "SAHINYURDU-GEMLIK (BURSA)",
-          "time": "2025.07.02 13:57:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.02",
-      "date_hour": "13:57:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
     }
   ]
 }
