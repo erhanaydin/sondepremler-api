@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-10T19:58:51.971Z",
+  "lastUpdate": "2025-07-10T20:26:36.618Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MOLLAKASIM-(VAN)",
+      "type": "�lksel",
+      "date": "2025.07.10 22:38:54",
+      "lat": 38.696,
+      "lng": 43.1183,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "8.5",
+      "coordinates": [
+        43.1183,
+        38.696
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.1183,
+            38.696
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "MOLLAKASIM-(VAN)",
+          "time": "2025.07.10 22:38:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.10",
+      "date_hour": "22:38:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "VAN"
+    },
     {
       "title": "YEDIGOZE-(ELAZIG)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
-    },
-    {
-      "title": "BAGLARPINARI-ADAKLI (BINGOL)",
-      "type": "�lksel",
-      "date": "2025.07.03 10:51:19",
-      "lat": 39.2222,
-      "lng": 40.3668,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "15.7",
-      "coordinates": [
-        40.3668,
-        39.2222
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.3668,
-            39.2222
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BAGLARPINARI-ADAKLI (BINGOL)",
-          "time": "2025.07.03 10:51:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.03",
-      "date_hour": "10:51:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
