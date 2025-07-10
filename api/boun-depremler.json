@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-10T10:54:41.632Z",
+  "lastUpdate": "2025-07-10T11:12:55.802Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.10 13:50:54",
+      "lat": 40.611,
+      "lng": 28.5837,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "15.6",
+      "coordinates": [
+        28.5837,
+        40.611
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.5837,
+            40.611
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "MARMARA DENIZI",
+          "time": "2025.07.10 13:50:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.10",
+      "date_hour": "13:50:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "AYDINCIK ACIKLARI-MERSIN (AKDENIZ)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "CANDARLI KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.07.03 05:11:12",
-      "lat": 38.8358,
-      "lng": 26.8253,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "14.8",
-      "coordinates": [
-        26.8253,
-        38.8358
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.8253,
-            38.8358
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "CANDARLI KORFEZI (EGE DENIZI)",
-          "time": "2025.07.03 05:11:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.03",
-      "date_hour": "05:11:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
