@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-10T05:27:24.895Z",
+  "lastUpdate": "2025-07-10T05:46:46.749Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AGCASAR-NURHAK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.10 08:24:33",
+      "lat": 38.0585,
+      "lng": 37.4068,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "1.2",
+      "coordinates": [
+        37.4068,
+        38.0585
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.4068,
+            38.0585
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "AGCASAR-NURHAK (KAHRAMANMARAS)",
+          "time": "2025.07.10 08:24:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.10",
+      "date_hour": "08:24:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "CIVRIL-YAZIHAN (MALATYA)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "KOZLUCA-(VAN)",
+      "type": "�lksel",
+      "date": "2025.07.10 07:04:18",
+      "lat": 38.6732,
+      "lng": 43.528,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "9.6",
+      "coordinates": [
+        43.528,
+        38.6732
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.528,
+            38.6732
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KOZLUCA-(VAN)",
+          "time": "2025.07.10 07:04:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.10",
+      "date_hour": "07:04:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "VAN"
     },
     {
       "title": "AKDENIZ",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "TOPCU-KOPRUKOY (ERZURUM)",
-      "type": "�lksel",
-      "date": "2025.07.03 01:23:54",
-      "lat": 39.7743,
-      "lng": 41.9215,
-      "md": "-.-",
-      "ml": "3.8",
-      "mw": "4.0",
-      "depth": "1.6",
-      "coordinates": [
-        41.9215,
-        39.7743
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            41.9215,
-            39.7743
-          ]
-        },
-        "properties": {
-          "mag": "3.8",
-          "place": "TOPCU-KOPRUKOY (ERZURUM)",
-          "time": "2025.07.03 01:23:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.03",
-      "date_hour": "01:23:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZURUM"
-    },
-    {
-      "title": "CAMLIYAYLA-SAMANDAG (HATAY)",
-      "type": "�lksel",
-      "date": "2025.07.03 01:23:24",
-      "lat": 36.2152,
-      "lng": 35.9473,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "7.9",
-      "coordinates": [
-        35.9473,
-        36.2152
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.9473,
-            36.2152
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "CAMLIYAYLA-SAMANDAG (HATAY)",
-          "time": "2025.07.03 01:23:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.03",
-      "date_hour": "01:23:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
