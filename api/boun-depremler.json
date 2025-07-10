@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-10T10:19:00.299Z",
+  "lastUpdate": "2025-07-10T10:43:20.600Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CICEKLI-EDREMIT (VAN)",
+      "type": "�lksel",
+      "date": "2025.07.10 13:13:59",
+      "lat": 38.363,
+      "lng": 43.197,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "49.4",
+      "coordinates": [
+        43.197,
+        38.363
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.197,
+            38.363
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "CICEKLI-EDREMIT (VAN)",
+          "time": "2025.07.10 13:13:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.10",
+      "date_hour": "13:13:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "VAN"
+    },
     {
       "title": "KAPUZBASI-YAHYALI (KAYSERI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADIYAMAN"
-    },
-    {
-      "title": "YENIKOY-MANYAS (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.07.03 04:46:47",
-      "lat": 40.0935,
-      "lng": 28.0957,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "10.3",
-      "coordinates": [
-        28.0957,
-        40.0935
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0957,
-            40.0935
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "YENIKOY-MANYAS (BALIKESIR)",
-          "time": "2025.07.03 04:46:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.03",
-      "date_hour": "04:46:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
