@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-10T08:59:25.082Z",
+  "lastUpdate": "2025-07-10T09:28:58.482Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HANYERISARIKAYA-AKPINAR (KIRSEHIR)",
+      "type": "�lksel",
+      "date": "2025.07.10 11:40:01",
+      "lat": 39.5368,
+      "lng": 33.8773,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        33.8773,
+        39.5368
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.8773,
+            39.5368
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "HANYERISARIKAYA-AKPINAR (KIRSEHIR)",
+          "time": "2025.07.10 11:40:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.10",
+      "date_hour": "11:40:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KIRSEHIR"
+    },
     {
       "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
       "type": "�lksel",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KONYA"
+    },
+    {
+      "title": "ACARLAR-SELCUK (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.07.10 10:30:55",
+      "lat": 37.9228,
+      "lng": 27.3967,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "4.6",
+      "coordinates": [
+        27.3967,
+        37.9228
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.3967,
+            37.9228
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ACARLAR-SELCUK (IZMIR)",
+          "time": "2025.07.10 10:30:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.10",
+      "date_hour": "10:30:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
     },
     {
       "title": "DORTBOLUK-SIVRICE (ELAZIG)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AGRI"
-    },
-    {
-      "title": "CATALIPASA-(AGRI)",
-      "type": "�lksel",
-      "date": "2025.07.03 03:30:25",
-      "lat": 39.9682,
-      "lng": 42.9303,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "22.2",
-      "coordinates": [
-        42.9303,
-        39.9682
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.9303,
-            39.9682
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "CATALIPASA-(AGRI)",
-          "time": "2025.07.03 03:30:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.03",
-      "date_hour": "03:30:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AGRI"
-    },
-    {
-      "title": "NURHAK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.03 03:11:30",
-      "lat": 38.03,
-      "lng": 37.4625,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "4.4",
-      "coordinates": [
-        37.4625,
-        38.03
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.4625,
-            38.03
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "NURHAK (KAHRAMANMARAS)",
-          "time": "2025.07.03 03:11:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.03",
-      "date_hour": "03:11:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
