@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-10T22:10:19.495Z",
+  "lastUpdate": "2025-07-10T22:34:06.800Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "EVRI-PAZARCIK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.11 00:06:17",
+      "lat": 37.2525,
+      "lng": 37.0667,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        37.0667,
+        37.2525
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.0667,
+            37.2525
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "EVRI-PAZARCIK (KAHRAMANMARAS)",
+          "time": "2025.07.11 00:06:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.11",
+      "date_hour": "00:06:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
     },
     {
       "title": "BELKAYA-TEFENNI (BURDUR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "SEYITUSAGI-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.03 11:59:55",
-      "lat": 38.237,
-      "lng": 38.1517,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.9",
-      "coordinates": [
-        38.1517,
-        38.237
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.1517,
-            38.237
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "SEYITUSAGI-YESILYURT (MALATYA)",
-          "time": "2025.07.03 11:59:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.03",
-      "date_hour": "11:59:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
