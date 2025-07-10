@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-10T09:28:58.482Z",
+  "lastUpdate": "2025-07-10T09:46:15.844Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EKINOZU (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.10 12:14:32",
+      "lat": 38.0578,
+      "lng": 37.1938,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "9.3",
+      "coordinates": [
+        37.1938,
+        38.0578
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.1938,
+            38.0578
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "EKINOZU (KAHRAMANMARAS)",
+          "time": "2025.07.10 12:14:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.10",
+      "date_hour": "12:14:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "HANYERISARIKAYA-AKPINAR (KIRSEHIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZURUM"
-    },
-    {
-      "title": "CATALIPASA-(AGRI)",
-      "type": "�lksel",
-      "date": "2025.07.03 03:31:30",
-      "lat": 39.9553,
-      "lng": 42.9193,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "19.6",
-      "coordinates": [
-        42.9193,
-        39.9553
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.9193,
-            39.9553
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "CATALIPASA-(AGRI)",
-          "time": "2025.07.03 03:31:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.03",
-      "date_hour": "03:31:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AGRI"
     }
   ]
 }
