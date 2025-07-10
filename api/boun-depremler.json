@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-10T17:57:13.490Z",
+  "lastUpdate": "2025-07-10T18:28:35.826Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -142,6 +142,78 @@
       "location_properties": "",
       "date_day": "2025.07.10",
       "date_hour": "18:19:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
+    {
+      "title": "IGDE-ELBISTAN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.10 17:31:58",
+      "lat": 38.1753,
+      "lng": 37.1083,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        37.1083,
+        38.1753
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.1083,
+            38.1753
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "IGDE-ELBISTAN (KAHRAMANMARAS)",
+          "time": "2025.07.10 17:31:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.10",
+      "date_hour": "17:31:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.10 17:29:10",
+      "lat": 38.957,
+      "lng": 25.9893,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "12.4",
+      "coordinates": [
+        25.9893,
+        38.957
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.9893,
+            38.957
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+          "time": "2025.07.10 17:29:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.10",
+      "date_hour": "17:29:10",
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUS"
-    },
-    {
-      "title": "GAZIKOY-DARENDE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.03 09:29:22",
-      "lat": 38.4737,
-      "lng": 37.4237,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "17.0",
-      "coordinates": [
-        37.4237,
-        38.4737
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.4237,
-            38.4737
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "GAZIKOY-DARENDE (MALATYA)",
-          "time": "2025.07.03 09:29:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.03",
-      "date_hour": "09:29:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.07.03 09:01:19",
-      "lat": 35.353,
-      "lng": 26.231,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "6.9",
-      "coordinates": [
-        26.231,
-        35.353
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.231,
-            35.353
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "GIRIT ADASI (AKDENIZ)",
-          "time": "2025.07.03 09:01:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.03",
-      "date_hour": "09:01:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
