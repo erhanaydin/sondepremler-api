@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-10T05:55:52.350Z",
+  "lastUpdate": "2025-07-10T06:25:56.949Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.10 09:09:07",
+      "lat": 37.9795,
+      "lng": 27.1495,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "4.4",
+      "coordinates": [
+        27.1495,
+        37.9795
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.1495,
+            37.9795
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2025.07.10 09:09:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.10",
+      "date_hour": "09:09:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "AGCASAR-NURHAK (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "GEMLIK KORFEZI (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2025.07.03 01:50:14",
-      "lat": 40.425,
-      "lng": 28.915,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "3.9",
-      "coordinates": [
-        28.915,
-        40.425
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.915,
-            40.425
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "GEMLIK KORFEZI (MARMARA DENIZI)",
-          "time": "2025.07.03 01:50:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.03",
-      "date_hour": "01:50:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
     }
   ]
 }
