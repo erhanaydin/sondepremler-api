@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-10T07:10:59.325Z",
+  "lastUpdate": "2025-07-10T07:31:55.904Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.10 09:12:15",
+      "lat": 36.6833,
+      "lng": 25.6925,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "9.9",
+      "coordinates": [
+        25.6925,
+        36.6833
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.6925,
+            36.6833
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "EGE DENIZI",
+          "time": "2025.07.10 09:12:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.10",
+      "date_hour": "09:12:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "BOLUKKAYA-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.03 02:03:36",
-      "lat": 38.311,
-      "lng": 38.807,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.6",
-      "coordinates": [
-        38.807,
-        38.311
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.807,
-            38.311
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "BOLUKKAYA-PUTURGE (MALATYA)",
-          "time": "2025.07.03 02:03:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.03",
-      "date_hour": "02:03:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
