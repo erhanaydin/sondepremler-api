@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-11T06:30:24.538Z",
+  "lastUpdate": "2025-07-11T06:54:44.225Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.11 09:31:09",
+      "lat": 37.8522,
+      "lng": 27.2013,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        27.2013,
+        37.8522
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.2013,
+            37.8522
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2025.07.11 09:31:09"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.11",
+      "date_hour": "09:31:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "ULUKOY-(MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.07.03 19:39:32",
-      "lat": 40.3013,
-      "lng": 24.1597,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "6.3",
-      "coordinates": [
-        24.1597,
-        40.3013
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.1597,
-            40.3013
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YUNANISTAN",
-          "time": "2025.07.03 19:39:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.03",
-      "date_hour": "19:39:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
