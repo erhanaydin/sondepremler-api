@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-11T10:13:41.053Z",
+  "lastUpdate": "2025-07-11T10:40:26.128Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAVSUT-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.11 13:17:29",
+      "lat": 38.182,
+      "lng": 36.5905,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "6.1",
+      "coordinates": [
+        36.5905,
+        38.182
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.5905,
+            38.182
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "KAVSUT-GOKSUN (KAHRAMANMARAS)",
+          "time": "2025.07.11 13:17:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.11",
+      "date_hour": "13:17:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "SEKKOY-MILAS (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "SAHINYURDU-GEMLIK (BURSA)",
-      "type": "�lksel",
-      "date": "2025.07.04 01:13:05",
-      "lat": 40.4755,
-      "lng": 29.1985,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "8.1",
-      "coordinates": [
-        29.1985,
-        40.4755
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1985,
-            40.4755
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "SAHINYURDU-GEMLIK (BURSA)",
-          "time": "2025.07.04 01:13:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.04",
-      "date_hour": "01:13:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
     }
   ]
 }
