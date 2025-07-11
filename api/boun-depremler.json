@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-11T05:49:08.830Z",
+  "lastUpdate": "2025-07-11T05:57:13.280Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TEKEDERESI-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.11 08:35:50",
+      "lat": 38.1562,
+      "lng": 38.5962,
+      "md": "-.-",
+      "ml": "3.3",
+      "mw": "-.-",
+      "depth": "1.6",
+      "coordinates": [
+        38.5962,
+        38.1562
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.5962,
+            38.1562
+          ]
+        },
+        "properties": {
+          "mag": "3.3",
+          "place": "TEKEDERESI-PUTURGE (MALATYA)",
+          "time": "2025.07.11 08:35:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.11",
+      "date_hour": "08:35:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA) REVIZE01 (2025.07.11",
       "type": "08:08:32)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KARAALI-BEYSEHIR (KONYA)",
-      "type": "�lksel",
-      "date": "2025.07.03 18:47:29",
-      "lat": 37.9705,
-      "lng": 31.8375,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        31.8375,
-        37.9705
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.8375,
-            37.9705
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KARAALI-BEYSEHIR (KONYA)",
-          "time": "2025.07.03 18:47:29"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.03",
-      "date_hour": "18:47:29",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KONYA"
     }
   ]
 }
