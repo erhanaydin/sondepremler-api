@@ -1,5 +1,77 @@
 [
   {
+    "title": "Ege Denizi",
+    "type": "İlksel",
+    "date": "2025-07-11 11:43:12",
+    "lat": 40.16722,
+    "lng": 24.2175,
+    "md": "-.-",
+    "ml": "3.1",
+    "mw": "-.-",
+    "depth": 7.11,
+    "coordinates": [
+      24.2175,
+      40.16722
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2175,
+          40.16722
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi (Çanakkale)",
+        "time": 1752234192000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-11",
+    "date_hour": "11:43:12",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Çanakkale"
+  },
+  {
+    "title": "Gölbaşı (Adıyaman)",
+    "type": "İlksel",
+    "date": "2025-07-11 11:35:00",
+    "lat": 37.79944,
+    "lng": 37.82611,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 15.97,
+    "coordinates": [
+      37.82611,
+      37.79944
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.82611,
+          37.79944
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Gölbaşı (Adıyaman) (Adıyaman)",
+        "time": 1752233700000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-11",
+    "date_hour": "11:35:00",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Adıyaman"
+  },
+  {
     "title": "Doğanşehir (Malatya)",
     "type": "İlksel",
     "date": "2025-07-11 11:27:31",
@@ -15766,41 +15838,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Erzincan"
-  },
-  {
-    "title": "Germencik (Aydın)",
-    "type": "İlksel",
-    "date": "2025-07-06 11:49:46",
-    "lat": 37.85639,
-    "lng": 27.61972,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 8.8,
-    "coordinates": [
-      27.61972,
-      37.85639
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.61972,
-          37.85639
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Germencik (Aydın) (Aydın)",
-        "time": 1751802586000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-06",
-    "date_hour": "11:49:46",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Aydın"
   }
 ]
