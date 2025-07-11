@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-11T22:13:41.171Z",
+  "lastUpdate": "2025-07-11T22:36:36.501Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.12 01:18:44",
+      "lat": 39.2343,
+      "lng": 29.0475,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        29.0475,
+        39.2343
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0475,
+            39.2343
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KATRANDAGI-EMET (KUTAHYA)",
+          "time": "2025.07.12 01:18:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.12",
+      "date_hour": "01:18:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "BASMAKCI (AFYONKARAHISAR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.04 03:06:28",
-      "lat": 36.7638,
-      "lng": 25.7523,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        25.7523,
-        36.7638
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.7523,
-            36.7638
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "EGE DENIZI",
-          "time": "2025.07.04 03:06:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.04",
-      "date_hour": "03:06:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
