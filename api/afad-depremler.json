@@ -1,5 +1,41 @@
 [
   {
+    "title": "Akdeniz",
+    "type": "İlksel",
+    "date": "2025-07-11 08:57:02",
+    "lat": 34.69,
+    "lng": 24.90139,
+    "md": "-.-",
+    "ml": "3.8",
+    "mw": "-.-",
+    "depth": 6.89,
+    "coordinates": [
+      24.90139,
+      34.69
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.90139,
+          34.69
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Akdeniz (Muğla)",
+        "time": 1752224222000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-11",
+    "date_hour": "08:57:02",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Muğla"
+  },
+  {
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2025-07-11 08:37:55",
@@ -15838,41 +15874,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Nurhak (Kahramanmaraş)",
-    "type": "İlksel",
-    "date": "2025-07-06 09:36:44",
-    "lat": 38.05028,
-    "lng": 37.3975,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 10.07,
-    "coordinates": [
-      37.3975,
-      38.05028
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.3975,
-          38.05028
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Nurhak (Kahramanmaraş) (Kahramanmaraş)",
-        "time": 1751794604000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-06",
-    "date_hour": "09:36:44",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kahramanmaraş"
   }
 ]
