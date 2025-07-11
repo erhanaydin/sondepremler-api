@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-11T23:46:27.617Z",
+  "lastUpdate": "2025-07-11T23:54:44.646Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "OZAL-(MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.12 02:42:57",
+      "lat": 38.3577,
+      "lng": 38.185,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "12.7",
+      "coordinates": [
+        38.185,
+        38.3577
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.185,
+            38.3577
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "OZAL-(MALATYA)",
+          "time": "2025.07.12 02:42:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.12",
+      "date_hour": "02:42:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
-    },
-    {
-      "title": "YESILOVA-MADEN (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.07.04 03:30:52",
-      "lat": 38.5405,
-      "lng": 39.5572,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "9.4",
-      "coordinates": [
-        39.5572,
-        38.5405
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.5572,
-            38.5405
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YESILOVA-MADEN (ELAZIG)",
-          "time": "2025.07.04 03:30:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.04",
-      "date_hour": "03:30:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
