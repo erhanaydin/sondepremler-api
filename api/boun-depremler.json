@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-11T04:01:02.742Z",
+  "lastUpdate": "2025-07-11T04:42:44.435Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.11 06:55:47",
+      "lat": 35.7612,
+      "lng": 25.9358,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "-.-",
+      "depth": "25.2",
+      "coordinates": [
+        25.9358,
+        35.7612
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.9358,
+            35.7612
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "EGE DENIZI",
+          "time": "2025.07.11 06:55:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.11",
+      "date_hour": "06:55:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "GEVHERUSAGI-DOGANYOL (MALATYA)",
       "type": "�lksel",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.11 06:05:14",
+      "lat": 38.9822,
+      "lng": 25.9978,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "11.1",
+      "coordinates": [
+        25.9978,
+        38.9822
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.9978,
+            38.9822
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+          "time": "2025.07.11 06:05:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.11",
+      "date_hour": "06:05:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
     },
     {
       "title": "MARMARA DENIZI",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.07.03 17:53:48",
-      "lat": 40.2265,
-      "lng": 24.037,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "7.7",
-      "coordinates": [
-        24.037,
-        40.2265
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.037,
-            40.2265
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YUNANISTAN",
-          "time": "2025.07.03 17:53:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.03",
-      "date_hour": "17:53:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "PIRALI-KADINHANI (KONYA)",
-      "type": "�lksel",
-      "date": "2025.07.03 17:38:49",
-      "lat": 38.1592,
-      "lng": 32.1855,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "4.0",
-      "coordinates": [
-        32.1855,
-        38.1592
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.1855,
-            38.1592
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "PIRALI-KADINHANI (KONYA)",
-          "time": "2025.07.03 17:38:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.03",
-      "date_hour": "17:38:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KONYA"
     }
   ]
 }
