@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-11T09:54:05.880Z",
+  "lastUpdate": "2025-07-11T10:13:41.053Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SEKKOY-MILAS (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.07.11 13:03:38",
+      "lat": 37.1192,
+      "lng": 27.9147,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        27.9147,
+        37.1192
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9147,
+            37.1192
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "SEKKOY-MILAS (MUGLA)",
+          "time": "2025.07.11 13:03:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.11",
+      "date_hour": "13:03:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "MUHACIRLER-DOMANIC (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "OVACIK-BASMAKCI (AFYONKARAHISAR)",
-      "type": "�lksel",
-      "date": "2025.07.04 00:56:52",
-      "lat": 37.8583,
-      "lng": 30.0983,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "13.4",
-      "coordinates": [
-        30.0983,
-        37.8583
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.0983,
-            37.8583
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "OVACIK-BASMAKCI (AFYONKARAHISAR)",
-          "time": "2025.07.04 00:56:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.04",
-      "date_hour": "00:56:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AFYONKARAHISAR"
     }
   ]
 }
