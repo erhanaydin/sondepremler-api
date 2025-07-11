@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-11T11:57:52.180Z",
+  "lastUpdate": "2025-07-11T12:43:10.479Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.07.11 14:43:12",
+      "lat": 40.2733,
+      "lng": 24.1592,
+      "md": "-.-",
+      "ml": "3.5",
+      "mw": "-.-",
+      "depth": "12.7",
+      "coordinates": [
+        24.1592,
+        40.2733
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.1592,
+            40.2733
+          ]
+        },
+        "properties": {
+          "mag": "3.5",
+          "place": "YUNANISTAN",
+          "time": "2025.07.11 14:43:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.11",
+      "date_hour": "14:43:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KAVSUT-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.04 01:16:22",
-      "lat": 36.6687,
-      "lng": 25.6803,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "7.7",
-      "coordinates": [
-        25.6803,
-        36.6687
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.6803,
-            36.6687
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "EGE DENIZI",
-          "time": "2025.07.04 01:16:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.04",
-      "date_hour": "01:16:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
