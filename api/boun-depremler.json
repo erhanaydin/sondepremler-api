@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-12T15:22:56.376Z",
+  "lastUpdate": "2025-07-12T15:38:28.840Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ESENKENT-(ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.07.12 18:10:17",
+      "lat": 38.8143,
+      "lng": 39.0498,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        39.0498,
+        38.8143
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.0498,
+            38.8143
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "ESENKENT-(ELAZIG)",
+          "time": "2025.07.12 18:10:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.12",
+      "date_hour": "18:10:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.07.06 14:58:28",
-      "lat": 39.6848,
-      "lng": 24.133,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        24.133,
-        39.6848
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.133,
-            39.6848
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YUNANISTAN",
-          "time": "2025.07.06 14:58:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.06",
-      "date_hour": "14:58:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
