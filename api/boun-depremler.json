@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-12T20:28:00.111Z",
+  "lastUpdate": "2025-07-12T20:42:25.952Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DAGBELI-DOSEMEALTI (ANTALYA)",
+      "type": "�lksel",
+      "date": "2025.07.12 23:19:48",
+      "lat": 37.2002,
+      "lng": 30.5398,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "69.7",
+      "coordinates": [
+        30.5398,
+        37.2002
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5398,
+            37.2002
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "DAGBELI-DOSEMEALTI (ANTALYA)",
+          "time": "2025.07.12 23:19:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.12",
+      "date_hour": "23:19:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANTALYA"
+    },
     {
       "title": "CIHATLI-GEMLIK (BURSA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.06 17:32:18",
-      "lat": 35.8048,
-      "lng": 25.5635,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "12.8",
-      "coordinates": [
-        25.5635,
-        35.8048
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.5635,
-            35.8048
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "EGE DENIZI",
-          "time": "2025.07.06 17:32:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.06",
-      "date_hour": "17:32:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
