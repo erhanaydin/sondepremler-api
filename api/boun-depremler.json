@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-12T20:59:48.449Z",
+  "lastUpdate": "2025-07-12T21:23:05.999Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.12 23:55:52",
+      "lat": 36.482,
+      "lng": 27.795,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "75.2",
+      "coordinates": [
+        27.795,
+        36.482
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.795,
+            36.482
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "EGE DENIZI",
+          "time": "2025.07.12 23:55:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.12",
+      "date_hour": "23:55:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "DAGBELI-DOSEMEALTI (ANTALYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "TURKPIYALA-SOMA (MANISA)",
-      "type": "�lksel",
-      "date": "2025.07.06 17:37:39",
-      "lat": 39.3193,
-      "lng": 27.7158,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "10.9",
-      "coordinates": [
-        27.7158,
-        39.3193
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7158,
-            39.3193
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "TURKPIYALA-SOMA (MANISA)",
-          "time": "2025.07.06 17:37:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.06",
-      "date_hour": "17:37:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
