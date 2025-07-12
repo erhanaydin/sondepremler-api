@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-12T23:34:50.469Z",
+  "lastUpdate": "2025-07-12T23:47:45.196Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TASKESEN-KEBAN (ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.07.13 02:28:51",
+      "lat": 38.8148,
+      "lng": 38.8397,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "2.8",
+      "coordinates": [
+        38.8397,
+        38.8148
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.8397,
+            38.8148
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "TASKESEN-KEBAN (ELAZIG)",
+          "time": "2025.07.13 02:28:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.13",
+      "date_hour": "02:28:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "YUNANISTAN",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAYSERI"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.06 19:01:21",
-      "lat": 36.641,
-      "lng": 25.6417,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "8.9",
-      "coordinates": [
-        25.6417,
-        36.641
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.6417,
-            36.641
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "EGE DENIZI",
-          "time": "2025.07.06 19:01:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.06",
-      "date_hour": "19:01:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
