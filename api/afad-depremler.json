@@ -1,5 +1,41 @@
 [
   {
+    "title": "Menderes (İzmir)",
+    "type": "İlksel",
+    "date": "2025-07-12 04:20:02",
+    "lat": 38.10917,
+    "lng": 27.11889,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 6.91,
+    "coordinates": [
+      27.11889,
+      38.10917
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.11889,
+          38.10917
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Menderes (İzmir) (İzmir)",
+        "time": 1752294002000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-12",
+    "date_hour": "04:20:02",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "İzmir"
+  },
+  {
     "title": "Doğanşehir (Malatya)",
     "type": "İlksel",
     "date": "2025-07-12 03:29:10",
@@ -15586,77 +15622,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kütahya"
-  },
-  {
-    "title": "Gölbaşı (Adıyaman)",
-    "type": "İlksel",
-    "date": "2025-07-07 04:46:24",
-    "lat": 37.78444,
-    "lng": 37.69806,
-    "md": "-.-",
-    "ml": "2",
-    "mw": "-.-",
-    "depth": 6.78,
-    "coordinates": [
-      37.69806,
-      37.78444
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.69806,
-          37.78444
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Gölbaşı (Adıyaman) (Adıyaman)",
-        "time": 1751863584000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-07",
-    "date_hour": "04:46:24",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Adıyaman"
-  },
-  {
-    "title": "Saimbeyli (Adana)",
-    "type": "İlksel",
-    "date": "2025-07-07 04:42:42",
-    "lat": 37.7975,
-    "lng": 36.17361,
-    "md": "-.-",
-    "ml": "1.1",
-    "mw": "-.-",
-    "depth": 6.01,
-    "coordinates": [
-      36.17361,
-      37.7975
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.17361,
-          37.7975
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Saimbeyli (Adana) (Adana)",
-        "time": 1751863362000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-07",
-    "date_hour": "04:42:42",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Adana"
   }
 ]
