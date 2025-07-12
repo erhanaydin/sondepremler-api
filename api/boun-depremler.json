@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-12T04:53:41.646Z",
+  "lastUpdate": "2025-07-12T05:12:42.137Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YESILDERE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.12 07:50:41",
+      "lat": 39.2547,
+      "lng": 29.003,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "5.1",
+      "coordinates": [
+        29.003,
+        39.2547
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.003,
+            39.2547
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "YESILDERE-SIMAV (KUTAHYA)",
+          "time": "2025.07.12 07:50:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.12",
+      "date_hour": "07:50:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "ATAKOY-MENDERES (IZMIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
-    },
-    {
-      "title": "DERINBOGAZ-AKCADAG (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.04 09:31:30",
-      "lat": 38.5078,
-      "lng": 37.931,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        37.931,
-        38.5078
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.931,
-            38.5078
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "DERINBOGAZ-AKCADAG (MALATYA)",
-          "time": "2025.07.04 09:31:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.04",
-      "date_hour": "09:31:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
