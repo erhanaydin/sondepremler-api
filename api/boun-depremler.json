@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-13T13:37:13.929Z",
+  "lastUpdate": "2025-07-13T13:49:24.827Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -217,6 +217,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.13 13:58:10",
+      "lat": 35.711,
+      "lng": 25.4368,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "12.2",
+      "coordinates": [
+        25.4368,
+        35.711
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.4368,
+            35.711
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "EGE DENIZI",
+          "time": "2025.07.13 13:58:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.13",
+      "date_hour": "13:58:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "EGE DENIZI",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "KISAC-CERKES (CANKIRI)",
-      "type": "�lksel",
-      "date": "2025.07.07 02:11:42",
-      "lat": 40.7065,
-      "lng": 32.8122,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "6.0",
-      "coordinates": [
-        32.8122,
-        40.7065
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.8122,
-            40.7065
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KISAC-CERKES (CANKIRI)",
-          "time": "2025.07.07 02:11:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.07",
-      "date_hour": "02:11:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANKIRI"
     }
   ]
 }
