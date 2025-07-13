@@ -1,5 +1,41 @@
 [
   {
+    "title": "Göksun (Kahramanmaraş)",
+    "type": "İlksel",
+    "date": "2025-07-13 12:13:43",
+    "lat": 38.12556,
+    "lng": 36.57972,
+    "md": "-.-",
+    "ml": "1.6",
+    "mw": "-.-",
+    "depth": 6.99,
+    "coordinates": [
+      36.57972,
+      38.12556
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.57972,
+          38.12556
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Göksun (Kahramanmaraş) (Kahramanmaraş)",
+        "time": 1752408823000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-13",
+    "date_hour": "12:13:43",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kahramanmaraş"
+  },
+  {
     "title": "Beypazarı (Ankara)",
     "type": "İlksel",
     "date": "2025-07-13 11:24:17",
@@ -70,6 +106,42 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Muğla"
+  },
+  {
+    "title": "Develi (Kayseri)",
+    "type": "İlksel",
+    "date": "2025-07-13 09:40:32",
+    "lat": 38.20222,
+    "lng": 35.68333,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 6.97,
+    "coordinates": [
+      35.68333,
+      38.20222
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.68333,
+          38.20222
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Develi (Kayseri) (Kayseri)",
+        "time": 1752399632000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-13",
+    "date_hour": "09:40:32",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kayseri"
   },
   {
     "title": "Horasan (Erzurum)",
@@ -14218,77 +14290,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Tekirdağ"
-  },
-  {
-    "title": "Kovancılar (Elazığ)",
-    "type": "İlksel",
-    "date": "2025-07-08 12:03:57",
-    "lat": 38.88056,
-    "lng": 40.15139,
-    "md": "-.-",
-    "ml": "1.6",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      40.15139,
-      38.88056
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.15139,
-          38.88056
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Kovancılar (Elazığ) (Elazığ)",
-        "time": 1751976237000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-08",
-    "date_hour": "12:03:57",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Elazığ"
-  },
-  {
-    "title": "Ulubey (Uşak)",
-    "type": "İlksel",
-    "date": "2025-07-08 11:58:45",
-    "lat": 38.40722,
-    "lng": 29.18139,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7.14,
-    "coordinates": [
-      29.18139,
-      38.40722
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.18139,
-          38.40722
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ulubey (Uşak) (Uşak)",
-        "time": 1751975925000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-08",
-    "date_hour": "11:58:45",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Uşak"
   }
 ]
