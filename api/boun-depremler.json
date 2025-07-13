@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-13T13:49:24.827Z",
+  "lastUpdate": "2025-07-13T13:57:36.216Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HARMANLI-ERDEK (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.07.13 16:35:46",
+      "lat": 40.4263,
+      "lng": 27.5563,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "11.5",
+      "coordinates": [
+        27.5563,
+        40.4263
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.5563,
+            40.4263
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "HARMANLI-ERDEK (BALIKESIR)",
+          "time": "2025.07.13 16:35:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.13",
+      "date_hour": "16:35:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SOGUKPINAR-CAGLAYANCERIT (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.07.07 02:29:29",
-      "lat": 34.762,
-      "lng": 24.9948,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "6.5",
-      "coordinates": [
-        24.9948,
-        34.762
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.9948,
-            34.762
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-          "time": "2025.07.07 02:29:29"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.07",
-      "date_hour": "02:29:29",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
