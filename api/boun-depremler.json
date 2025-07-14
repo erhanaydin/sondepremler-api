@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-14T09:44:15.186Z",
+  "lastUpdate": "2025-07-14T09:56:56.604Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TOPALLAR-SAIMBEYLI (ADANA)",
+      "type": "�lksel",
+      "date": "2025.07.14 12:29:39",
+      "lat": 37.8832,
+      "lng": 36.2512,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        36.2512,
+        37.8832
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.2512,
+            37.8832
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "TOPALLAR-SAIMBEYLI (ADANA)",
+          "time": "2025.07.14 12:29:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.14",
+      "date_hour": "12:29:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "DENIS-SOMA (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.07 13:25:29",
-      "lat": 36.6697,
-      "lng": 25.7322,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "7.5",
-      "coordinates": [
-        25.7322,
-        36.6697
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.7322,
-            36.6697
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "EGE DENIZI",
-          "time": "2025.07.07 13:25:29"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.07",
-      "date_hour": "13:25:29",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
