@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-14T15:22:16.501Z",
+  "lastUpdate": "2025-07-14T15:41:07.840Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "LETAFET-ORHANELI (BURSA)",
+      "type": "�lksel",
+      "date": "2025.07.14 17:49:58",
+      "lat": 39.8768,
+      "lng": 28.7685,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        28.7685,
+        39.8768
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.7685,
+            39.8768
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "LETAFET-ORHANELI (BURSA)",
+          "time": "2025.07.14 17:49:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.14",
+      "date_hour": "17:49:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "YESILDERE-GOLHISAR (BURDUR)",
-      "type": "�lksel",
-      "date": "2025.07.07 17:31:40",
-      "lat": 37.0158,
-      "lng": 29.3747,
-      "md": "-.-",
-      "ml": "0.7",
-      "mw": "-.-",
-      "depth": "27.8",
-      "coordinates": [
-        29.3747,
-        37.0158
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.3747,
-            37.0158
-          ]
-        },
-        "properties": {
-          "mag": "0.7",
-          "place": "YESILDERE-GOLHISAR (BURDUR)",
-          "time": "2025.07.07 17:31:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.07",
-      "date_hour": "17:31:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURDUR"
     }
   ]
 }
