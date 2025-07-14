@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-14T13:06:22.464Z",
+  "lastUpdate": "2025-07-14T13:46:32.068Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.14 16:22:39",
+      "lat": 37.9145,
+      "lng": 36.525,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        36.525,
+        37.9145
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.525,
+            37.9145
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)",
+          "time": "2025.07.14 16:22:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.14",
+      "date_hour": "16:22:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "KADIIBRAHIM-AKCADAG (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURDUR"
-    },
-    {
-      "title": "GOKOGLAN-TEKMAN (ERZURUM)",
-      "type": "�lksel",
-      "date": "2025.07.07 17:02:02",
-      "lat": 39.5113,
-      "lng": 41.23,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "7.2",
-      "coordinates": [
-        41.23,
-        39.5113
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            41.23,
-            39.5113
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "GOKOGLAN-TEKMAN (ERZURUM)",
-          "time": "2025.07.07 17:02:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.07",
-      "date_hour": "17:02:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZURUM"
     }
   ]
 }
