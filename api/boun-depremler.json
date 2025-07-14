@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-14T06:59:46.660Z",
+  "lastUpdate": "2025-07-14T07:28:54.353Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.14 10:12:58",
+      "lat": 40.7577,
+      "lng": 28.6372,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        28.6372,
+        40.7577
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.6372,
+            40.7577
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "MARMARA DENIZI",
+          "time": "2025.07.14 10:12:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.14",
+      "date_hour": "10:12:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "BAKLAN (DENIZLI)",
-      "type": "�lksel",
-      "date": "2025.07.07 11:52:16",
-      "lat": 37.9978,
-      "lng": 29.554,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "12.9",
-      "coordinates": [
-        29.554,
-        37.9978
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.554,
-            37.9978
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "BAKLAN (DENIZLI)",
-          "time": "2025.07.07 11:52:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.07",
-      "date_hour": "11:52:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
