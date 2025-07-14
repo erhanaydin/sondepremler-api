@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-14T07:28:54.353Z",
+  "lastUpdate": "2025-07-14T07:45:43.193Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,78 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "URUNVEREN-(ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.07.14 09:53:03",
+      "lat": 38.5338,
+      "lng": 39.1845,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "1.2",
+      "coordinates": [
+        39.1845,
+        38.5338
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.1845,
+            38.5338
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "URUNVEREN-(ELAZIG)",
+          "time": "2025.07.14 09:53:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.14",
+      "date_hour": "09:53:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
+    {
+      "title": "DUNDAR-ORHANELI (BURSA)",
+      "type": "�lksel",
+      "date": "2025.07.14 09:51:29",
+      "lat": 39.8982,
+      "lng": 28.8278,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        28.8278,
+        39.8982
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8278,
+            39.8982
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "DUNDAR-ORHANELI (BURSA)",
+          "time": "2025.07.14 09:51:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.14",
+      "date_hour": "09:51:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
     },
     {
       "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DUZCE"
-    },
-    {
-      "title": "ISKELE-BIGADIC (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.07.07 12:06:42",
-      "lat": 39.486,
-      "lng": 28.1398,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "6.1",
-      "coordinates": [
-        28.1398,
-        39.486
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1398,
-            39.486
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "ISKELE-BIGADIC (BALIKESIR)",
-          "time": "2025.07.07 12:06:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.07",
-      "date_hour": "12:06:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "YENIDANISMENT-ORHANELI (BURSA)",
-      "type": "�lksel",
-      "date": "2025.07.07 11:58:21",
-      "lat": 39.8818,
-      "lng": 28.837,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        28.837,
-        39.8818
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.837,
-            39.8818
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YENIDANISMENT-ORHANELI (BURSA)",
-          "time": "2025.07.07 11:58:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.07",
-      "date_hour": "11:58:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
     }
   ]
 }
