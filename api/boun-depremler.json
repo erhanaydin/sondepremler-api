@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-14T11:44:36.089Z",
+  "lastUpdate": "2025-07-14T11:53:16.515Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.07.14 14:07:01",
+      "lat": 40.275,
+      "lng": 24.15,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "6.8",
+      "coordinates": [
+        24.15,
+        40.275
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.15,
+            40.275
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "YUNANISTAN",
+          "time": "2025.07.14 14:07:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.14",
+      "date_hour": "14:07:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "SAGLIK-TORBALI (IZMIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "YAKINCA-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.07 14:06:57",
-      "lat": 38.3185,
-      "lng": 38.2317,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "14.0",
-      "coordinates": [
-        38.2317,
-        38.3185
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.2317,
-            38.3185
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YAKINCA-YESILYURT (MALATYA)",
-          "time": "2025.07.07 14:06:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.07",
-      "date_hour": "14:06:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
