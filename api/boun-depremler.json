@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-15T11:53:13.317Z",
+  "lastUpdate": "2025-07-15T12:21:29.732Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAGCILAR-(AYDIN)",
+      "type": "�lksel",
+      "date": "2025.07.15 14:21:07",
+      "lat": 37.7758,
+      "lng": 27.9653,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "1.3",
+      "coordinates": [
+        27.9653,
+        37.7758
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9653,
+            37.7758
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "YAGCILAR-(AYDIN)",
+          "time": "2025.07.15 14:21:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.15",
+      "date_hour": "14:21:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AYDIN"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "EKINOZU (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.08 02:22:26",
-      "lat": 38.0863,
-      "lng": 37.1917,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "8.1",
-      "coordinates": [
-        37.1917,
-        38.0863
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.1917,
-            38.0863
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "EKINOZU (KAHRAMANMARAS)",
-          "time": "2025.07.08 02:22:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.08",
-      "date_hour": "02:22:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
