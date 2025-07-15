@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-15T10:57:06.261Z",
+  "lastUpdate": "2025-07-15T11:17:25.087Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.15 14:05:42",
+      "lat": 36.6612,
+      "lng": 25.9148,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "6.8",
+      "coordinates": [
+        25.9148,
+        36.6612
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.9148,
+            36.6612
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "EGE DENIZI",
+          "time": "2025.07.15 14:05:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.15",
+      "date_hour": "14:05:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "UCGOZE-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.15 12:52:11",
+      "lat": 38.2225,
+      "lng": 38.3918,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "9.4",
+      "coordinates": [
+        38.3918,
+        38.2225
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.3918,
+            38.2225
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "UCGOZE-YESILYURT (MALATYA)",
+          "time": "2025.07.15 12:52:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.15",
+      "date_hour": "12:52:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "SURIYE",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "DOLUNAY-SENKAYA (ERZURUM)",
-      "type": "�lksel",
-      "date": "2025.07.08 00:56:37",
-      "lat": 40.7907,
-      "lng": 42.4805,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "7.8",
-      "coordinates": [
-        42.4805,
-        40.7907
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.4805,
-            40.7907
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "DOLUNAY-SENKAYA (ERZURUM)",
-          "time": "2025.07.08 00:56:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.08",
-      "date_hour": "00:56:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZURUM"
-    },
-    {
-      "title": "AGCASAR-NURHAK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.08 00:53:58",
-      "lat": 38.0447,
-      "lng": 37.438,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "13.9",
-      "coordinates": [
-        37.438,
-        38.0447
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.438,
-            38.0447
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "AGCASAR-NURHAK (KAHRAMANMARAS)",
-          "time": "2025.07.08 00:53:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.08",
-      "date_hour": "00:53:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
