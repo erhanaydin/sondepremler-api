@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-15T13:07:08.081Z",
+  "lastUpdate": "2025-07-15T13:47:09.242Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.15 16:10:32",
+      "lat": 36.5825,
+      "lng": 25.6913,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "16.0",
+      "coordinates": [
+        25.6913,
+        36.5825
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.6913,
+            36.5825
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "EGE DENIZI",
+          "time": "2025.07.15 16:10:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.15",
+      "date_hour": "16:10:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YAGCILAR-(AYDIN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.07.08 02:22:43",
-      "lat": 37.98,
-      "lng": 27.1212,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "9.5",
-      "coordinates": [
-        27.1212,
-        37.98
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1212,
-            37.98
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "KUSADASI KORFEZI (EGE DENIZI)",
-          "time": "2025.07.08 02:22:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.08",
-      "date_hour": "02:22:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
