@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-15T22:16:01.594Z",
+  "lastUpdate": "2025-07-15T22:40:28.960Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KORKUYU-CEYHAN (ADANA)",
+      "type": "�lksel",
+      "date": "2025.07.16 01:23:15",
+      "lat": 36.9445,
+      "lng": 35.797,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "15.2",
+      "coordinates": [
+        35.797,
+        36.9445
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.797,
+            36.9445
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "KORKUYU-CEYHAN (ADANA)",
+          "time": "2025.07.16 01:23:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.16",
+      "date_hour": "01:23:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "ONIKI ADALAR (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BINGOL"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.07.08 04:45:58",
-      "lat": 39.2473,
-      "lng": 28.9813,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "11.8",
-      "coordinates": [
-        28.9813,
-        39.2473
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9813,
-            39.2473
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.07.08 04:45:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.08",
-      "date_hour": "04:45:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
