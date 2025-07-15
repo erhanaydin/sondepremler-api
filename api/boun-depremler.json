@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-15T04:09:48.832Z",
+  "lastUpdate": "2025-07-15T04:50:40.452Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SENOVA-KOVANCILAR (ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.07.15 07:15:50",
+      "lat": 38.7475,
+      "lng": 39.983,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "6.6",
+      "coordinates": [
+        39.983,
+        38.7475
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.983,
+            38.7475
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "SENOVA-KOVANCILAR (ELAZIG)",
+          "time": "2025.07.15 07:15:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.15",
+      "date_hour": "07:15:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
+    {
+      "title": "CATAK-GONEN (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.07.15 07:10:10",
+      "lat": 39.9813,
+      "lng": 27.6803,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "18.6",
+      "coordinates": [
+        27.6803,
+        39.9813
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.6803,
+            39.9813
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "CATAK-GONEN (BALIKESIR)",
+          "time": "2025.07.15 07:10:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.15",
+      "date_hour": "07:10:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "CAKIRGUMUS-LADIK (SAMSUN)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAYSERI"
-    },
-    {
-      "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2025.07.07 22:48:56",
-      "lat": 40.8192,
-      "lng": 28.2738,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "15.2",
-      "coordinates": [
-        28.2738,
-        40.8192
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2738,
-            40.8192
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-          "time": "2025.07.07 22:48:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.07",
-      "date_hour": "22:48:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "SABIRTASI-KIGI (BINGOL)",
-      "type": "�lksel",
-      "date": "2025.07.07 22:34:01",
-      "lat": 39.3165,
-      "lng": 40.223,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "25.0",
-      "coordinates": [
-        40.223,
-        39.3165
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.223,
-            39.3165
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "SABIRTASI-KIGI (BINGOL)",
-          "time": "2025.07.07 22:34:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.07",
-      "date_hour": "22:34:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
