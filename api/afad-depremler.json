@@ -1,5 +1,41 @@
 [
   {
+    "title": "Yeşilyurt (Malatya)",
+    "type": "İlksel",
+    "date": "2025-07-15 06:22:21",
+    "lat": 38.30611,
+    "lng": 38.2625,
+    "md": "-.-",
+    "ml": "1.9",
+    "mw": "-.-",
+    "depth": 13.66,
+    "coordinates": [
+      38.2625,
+      38.30611
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2625,
+          38.30611
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Yeşilyurt (Malatya) (Malatya)",
+        "time": 1752560541000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-15",
+    "date_hour": "06:22:21",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Malatya"
+  },
+  {
     "title": "Kırkağaç (Manisa)",
     "type": "İlksel",
     "date": "2025-07-15 06:13:39",
@@ -14434,77 +14470,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Konya"
-  },
-  {
-    "title": "Selçuk (İzmir)",
-    "type": "İlksel",
-    "date": "2025-07-10 07:30:55",
-    "lat": 37.90306,
-    "lng": 27.40861,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      27.40861,
-      37.90306
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.40861,
-          37.90306
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Selçuk (İzmir) (İzmir)",
-        "time": 1752132655000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-10",
-    "date_hour": "07:30:55",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "İzmir"
-  },
-  {
-    "title": "Tatvan (Bitlis)",
-    "type": "İlksel",
-    "date": "2025-07-10 07:22:13",
-    "lat": 38.47667,
-    "lng": 42.34472,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 7.03,
-    "coordinates": [
-      42.34472,
-      38.47667
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.34472,
-          38.47667
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Tatvan (Bitlis) (Bitlis)",
-        "time": 1752132133000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-10",
-    "date_hour": "07:22:13",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Bitlis"
   }
 ]
