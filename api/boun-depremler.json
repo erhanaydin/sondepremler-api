@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-15T21:19:56.714Z",
+  "lastUpdate": "2025-07-15T21:36:47.152Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -253,6 +253,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.15 19:50:43",
+      "lat": 36.6903,
+      "lng": 25.608,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "5.9",
+      "coordinates": [
+        25.608,
+        36.6903
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.608,
+            36.6903
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "EGE DENIZI",
+          "time": "2025.07.15 19:50:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.15",
+      "date_hour": "19:50:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "KUSADASI (AYDIN)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KALKAN-KAS (ANTALYA)",
-      "type": "�lksel",
-      "date": "2025.07.08 04:45:38",
-      "lat": 36.2317,
-      "lng": 29.4015,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "9.5",
-      "coordinates": [
-        29.4015,
-        36.2317
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.4015,
-            36.2317
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "KALKAN-KAS (ANTALYA)",
-          "time": "2025.07.08 04:45:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.08",
-      "date_hour": "04:45:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANTALYA"
     }
   ]
 }
