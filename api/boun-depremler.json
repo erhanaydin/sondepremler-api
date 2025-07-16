@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-16T05:04:01.328Z",
+  "lastUpdate": "2025-07-16T05:36:52.730Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.07.16 07:59:36",
+      "lat": 35.6642,
+      "lng": 29.4543,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "25.1",
+      "coordinates": [
+        29.4543,
+        35.6642
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.4543,
+            35.6642
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "AKDENIZ",
+          "time": "2025.07.16 07:59:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.16",
+      "date_hour": "07:59:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "SERASERLI-CIVRIL (DENIZLI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUS"
-    },
-    {
-      "title": "LEVENT-AKCADAG (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.08 05:03:47",
-      "lat": 38.439,
-      "lng": 37.8713,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        37.8713,
-        38.439
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.8713,
-            38.439
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "LEVENT-AKCADAG (MALATYA)",
-          "time": "2025.07.08 05:03:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.08",
-      "date_hour": "05:03:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
