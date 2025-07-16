@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-16T17:52:13.034Z",
+  "lastUpdate": "2025-07-16T18:00:26.734Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUKARIOKCULAR-(HATAY)",
+      "type": "�lksel",
+      "date": "2025.07.16 20:40:03",
+      "lat": 36.085,
+      "lng": 36.122,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "3.6",
+      "coordinates": [
+        36.122,
+        36.085
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.122,
+            36.085
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "YUKARIOKCULAR-(HATAY)",
+          "time": "2025.07.16 20:40:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.16",
+      "date_hour": "20:40:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
     {
       "title": "GAZIEMIR (IZMIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "PINARBASI-EZINE (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.07.08 11:51:55",
-      "lat": 39.8827,
-      "lng": 26.2898,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        26.2898,
-        39.8827
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.2898,
-            39.8827
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "PINARBASI-EZINE (CANAKKALE)",
-          "time": "2025.07.08 11:51:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.08",
-      "date_hour": "11:51:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
