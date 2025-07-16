@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-16T19:43:48.637Z",
+  "lastUpdate": "2025-07-16T19:52:11.880Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TARLATEPE-SIVRICE (ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.07.16 21:50:37",
+      "lat": 38.3897,
+      "lng": 39.0493,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        39.0493,
+        38.3897
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.0493,
+            38.3897
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "TARLATEPE-SIVRICE (ELAZIG)",
+          "time": "2025.07.16 21:50:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.16",
+      "date_hour": "21:50:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "YAZITEPE-IMAMOGLU (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "TUNCBILEK-TAVSANLI (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.07.08 12:54:42",
-      "lat": 39.6437,
-      "lng": 29.4663,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        29.4663,
-        39.6437
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.4663,
-            39.6437
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "TUNCBILEK-TAVSANLI (KUTAHYA)",
-          "time": "2025.07.08 12:54:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.08",
-      "date_hour": "12:54:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
