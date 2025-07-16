@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-16T19:52:11.880Z",
+  "lastUpdate": "2025-07-16T19:59:58.480Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TEKEDERESI-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.16 21:55:22",
+      "lat": 38.1493,
+      "lng": 38.5833,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "27.5",
+      "coordinates": [
+        38.5833,
+        38.1493
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.5833,
+            38.1493
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "TEKEDERESI-PUTURGE (MALATYA)",
+          "time": "2025.07.16 21:55:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.16",
+      "date_hour": "21:55:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "TARLATEPE-SIVRICE (ELAZIG)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.08 12:56:53",
-      "lat": 35.9537,
-      "lng": 27.4075,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "24.4",
-      "coordinates": [
-        27.4075,
-        35.9537
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.4075,
-            35.9537
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "EGE DENIZI",
-          "time": "2025.07.08 12:56:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.08",
-      "date_hour": "12:56:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
