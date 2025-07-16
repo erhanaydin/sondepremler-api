@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-16T22:54:59.672Z",
+  "lastUpdate": "2025-07-16T23:14:16.112Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.17 01:58:19",
+      "lat": 37.9088,
+      "lng": 27.1323,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "6.4",
+      "coordinates": [
+        27.1323,
+        37.9088
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.1323,
+            37.9088
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2025.07.17 01:58:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.17",
+      "date_hour": "01:58:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "MORALILAR-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "YAMAC-SOKE (AYDIN)",
-      "type": "�lksel",
-      "date": "2025.07.08 14:38:51",
-      "lat": 37.8195,
-      "lng": 27.4203,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        27.4203,
-        37.8195
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.4203,
-            37.8195
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YAMAC-SOKE (AYDIN)",
-          "time": "2025.07.08 14:38:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.08",
-      "date_hour": "14:38:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AYDIN"
     }
   ]
 }
