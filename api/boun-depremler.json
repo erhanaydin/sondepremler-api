@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-17T14:56:41.139Z",
+  "lastUpdate": "2025-07-17T15:21:03.353Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTARLI-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.17 17:57:03",
+      "lat": 38.2705,
+      "lng": 38.8375,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.8375,
+        38.2705
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.8375,
+            38.2705
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "AKTARLI-PUTURGE (MALATYA)",
+          "time": "2025.07.17 17:57:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.17",
+      "date_hour": "17:57:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "SURIYE",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "SARITOSUN (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.07.09 19:11:59",
-      "lat": 38.4857,
-      "lng": 39.0905,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "15.1",
-      "coordinates": [
-        39.0905,
-        38.4857
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.0905,
-            38.4857
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "SARITOSUN (ELAZIG)",
-          "time": "2025.07.09 19:11:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.09",
-      "date_hour": "19:11:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
