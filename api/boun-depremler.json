@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-17T19:46:13.252Z",
+  "lastUpdate": "2025-07-17T19:54:37.233Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "TEKEDERESI-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.17 22:06:08",
+      "lat": 38.1408,
+      "lng": 38.6228,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "26.5",
+      "coordinates": [
+        38.6228,
+        38.1408
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.6228,
+            38.1408
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "TEKEDERESI-PUTURGE (MALATYA)",
+          "time": "2025.07.17 22:06:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.17",
+      "date_hour": "22:06:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "BOLUKKAYA-PUTURGE (MALATYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "KUYUDERE-ARGUVAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.10 00:03:56",
-      "lat": 38.8407,
-      "lng": 38.3517,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "14.8",
-      "coordinates": [
-        38.3517,
-        38.8407
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.3517,
-            38.8407
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KUYUDERE-ARGUVAN (MALATYA)",
-          "time": "2025.07.10 00:03:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.10",
-      "date_hour": "00:03:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
