@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-17T07:30:08.604Z",
+  "lastUpdate": "2025-07-17T07:44:28.626Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SAROS KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.17 09:38:21",
+      "lat": 40.5043,
+      "lng": 26.417,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "7.8",
+      "coordinates": [
+        26.417,
+        40.5043
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.417,
+            40.5043
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "SAROS KORFEZI (EGE DENIZI)",
+          "time": "2025.07.17 09:38:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.17",
+      "date_hour": "09:38:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "CAYLI-TEFENNI (BURDUR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "GOLBAGI-CELIKHAN (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.07.09 07:12:27",
-      "lat": 38.0765,
-      "lng": 38.2358,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.1",
-      "coordinates": [
-        38.2358,
-        38.0765
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.2358,
-            38.0765
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "GOLBAGI-CELIKHAN (ADIYAMAN)",
-          "time": "2025.07.09 07:12:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.09",
-      "date_hour": "07:12:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
