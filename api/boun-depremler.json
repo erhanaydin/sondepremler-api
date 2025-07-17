@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-17T19:36:49.650Z",
+  "lastUpdate": "2025-07-17T19:46:13.252Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.17 22:33:43",
+      "lat": 36.0373,
+      "lng": 27.2235,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "9.4",
+      "coordinates": [
+        27.2235,
+        36.0373
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.2235,
+            36.0373
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "EGE DENIZI",
+          "time": "2025.07.17 22:33:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.17",
+      "date_hour": "22:33:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "BOLUKKAYA-PUTURGE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "ATBURGAZI-SOKE (AYDIN)",
-      "type": "�lksel",
-      "date": "2025.07.09 23:07:10",
-      "lat": 37.5932,
-      "lng": 27.2752,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "7.8",
-      "coordinates": [
-        27.2752,
-        37.5932
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.2752,
-            37.5932
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "ATBURGAZI-SOKE (AYDIN)",
-          "time": "2025.07.09 23:07:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.09",
-      "date_hour": "23:07:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AYDIN"
     }
   ]
 }
