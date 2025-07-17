@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-17T16:15:52.163Z",
+  "lastUpdate": "2025-07-17T16:45:54.376Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CALIS-ELBISTAN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.17 19:25:27",
+      "lat": 38.1118,
+      "lng": 37.032,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        37.032,
+        38.1118
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.032,
+            38.1118
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "CALIS-ELBISTAN (KAHRAMANMARAS)",
+          "time": "2025.07.17 19:25:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.17",
+      "date_hour": "19:25:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.09 20:38:50",
-      "lat": 36.6748,
-      "lng": 25.6622,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "4.8",
-      "coordinates": [
-        25.6622,
-        36.6748
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.6622,
-            36.6748
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "EGE DENIZI",
-          "time": "2025.07.09 20:38:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.09",
-      "date_hour": "20:38:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
