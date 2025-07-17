@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-17T15:21:03.353Z",
+  "lastUpdate": "2025-07-17T15:41:50.105Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALIEFENDIOGLU-TARSUS (MERSIN)",
+      "type": "�lksel",
+      "date": "2025.07.17 18:22:23",
+      "lat": 36.8862,
+      "lng": 34.8792,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "35.0",
+      "coordinates": [
+        34.8792,
+        36.8862
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.8792,
+            36.8862
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "ALIEFENDIOGLU-TARSUS (MERSIN)",
+          "time": "2025.07.17 18:22:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.17",
+      "date_hour": "18:22:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MERSIN"
+    },
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.07.17 17:58:59",
+      "lat": 35.963,
+      "lng": 23.0185,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "9.2",
+      "coordinates": [
+        23.0185,
+        35.963
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.0185,
+            35.963
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2025.07.17 17:58:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.17",
+      "date_hour": "17:58:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "AKTARLI-PUTURGE (MALATYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "CIKRIKLI-AZIZIYE (ERZURUM)",
-      "type": "�lksel",
-      "date": "2025.07.09 19:55:59",
-      "lat": 40.155,
-      "lng": 40.9567,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "7.4",
-      "coordinates": [
-        40.9567,
-        40.155
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.9567,
-            40.155
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "CIKRIKLI-AZIZIYE (ERZURUM)",
-          "time": "2025.07.09 19:55:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.09",
-      "date_hour": "19:55:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZURUM"
-    },
-    {
-      "title": "ESKIKOY-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.09 19:50:48",
-      "lat": 38.1457,
-      "lng": 38,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "12.3",
-      "coordinates": [
-        38,
-        38.1457
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38,
-            38.1457
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "ESKIKOY-DOGANSEHIR (MALATYA)",
-          "time": "2025.07.09 19:50:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.09",
-      "date_hour": "19:50:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
