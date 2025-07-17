@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2025-07-17T07:53:13.764Z",
+  "lastUpdate": "2025-07-17T08:15:02.192Z",
   "source": "Boğaziçi",
   "data": [
     {
       "title": "ALTINTAS-ORHANELI (BURSA)",
       "type": "�lksel",
       "date": "2025.07.17 10:00:34",
-      "lat": 39.873,
-      "lng": 28.82,
+      "lat": 39.8733,
+      "lng": 28.8207,
       "md": "-.-",
       "ml": "1.8",
       "mw": "-.-",
       "depth": "0.0",
       "coordinates": [
-        28.82,
-        39.873
+        28.8207,
+        39.8733
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            28.82,
-            39.873
+            28.8207,
+            39.8733
           ]
         },
         "properties": {
@@ -37,6 +37,78 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
+    },
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.07.17 10:00:33",
+      "lat": 40.3225,
+      "lng": 24.1617,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.9",
+      "coordinates": [
+        24.1617,
+        40.3225
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.1617,
+            40.3225
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "YUNANISTAN",
+          "time": "2025.07.17 10:00:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.17",
+      "date_hour": "10:00:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.17 09:51:52",
+      "lat": 36.6707,
+      "lng": 25.663,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "1.6",
+      "coordinates": [
+        25.663,
+        36.6707
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.663,
+            36.6707
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "EGE DENIZI",
+          "time": "2025.07.17 09:51:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.17",
+      "date_hour": "09:51:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "SAROS KORFEZI (EGE DENIZI)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "CAMDERE-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.09 09:46:46",
-      "lat": 38.1125,
-      "lng": 36.5735,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        36.5735,
-        38.1125
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.5735,
-            38.1125
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "CAMDERE-GOKSUN (KAHRAMANMARAS)",
-          "time": "2025.07.09 09:46:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.09",
-      "date_hour": "09:46:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "BOYALI-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2025.07.09 09:27:35",
-      "lat": 38.8465,
-      "lng": 28.0898,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "3.3",
-      "coordinates": [
-        28.0898,
-        38.8465
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0898,
-            38.8465
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "BOYALI-GORDES (MANISA)",
-          "time": "2025.07.09 09:27:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.09",
-      "date_hour": "09:27:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
