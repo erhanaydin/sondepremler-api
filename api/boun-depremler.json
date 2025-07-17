@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-17T18:48:08.960Z",
+  "lastUpdate": "2025-07-17T19:01:46.881Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ORTAOREN-EKINOZU (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.17 21:42:47",
+      "lat": 38.1135,
+      "lng": 37.1142,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "9.1",
+      "coordinates": [
+        37.1142,
+        38.1135
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.1142,
+            38.1135
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "ORTAOREN-EKINOZU (KAHRAMANMARAS)",
+          "time": "2025.07.17 21:42:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.17",
+      "date_hour": "21:42:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "GOVDELI-DOGANSEHIR (MALATYA)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "DUVERLIK-TORBALI (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.07.17 21:28:52",
+      "lat": 38.1998,
+      "lng": 27.4407,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        27.4407,
+        38.1998
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.4407,
+            38.1998
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "DUVERLIK-TORBALI (IZMIR)",
+          "time": "2025.07.17 21:28:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.17",
+      "date_hour": "21:28:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
     },
     {
       "title": "COKAK-ANDIRIN (KAHRAMANMARAS)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "YAZGUNU-KIGI (BINGOL)",
-      "type": "�lksel",
-      "date": "2025.07.09 22:13:58",
-      "lat": 39.3022,
-      "lng": 40.2428,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "11.3",
-      "coordinates": [
-        40.2428,
-        39.3022
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.2428,
-            39.3022
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "YAZGUNU-KIGI (BINGOL)",
-          "time": "2025.07.09 22:13:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.09",
-      "date_hour": "22:13:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
-    },
-    {
-      "title": "ALINCIK-SIVRICE (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.07.09 22:06:07",
-      "lat": 38.4495,
-      "lng": 39.2112,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        39.2112,
-        38.4495
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.2112,
-            38.4495
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ALINCIK-SIVRICE (ELAZIG)",
-          "time": "2025.07.09 22:06:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.09",
-      "date_hour": "22:06:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
