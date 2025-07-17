@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-17T19:54:37.233Z",
+  "lastUpdate": "2025-07-17T20:15:29.199Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.07.17 22:57:59",
+      "lat": 34.9288,
+      "lng": 33.0733,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "44.5",
+      "coordinates": [
+        33.0733,
+        34.9288
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.0733,
+            34.9288
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "AKDENIZ",
+          "time": "2025.07.17 22:57:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.17",
+      "date_hour": "22:57:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "HAMZABEYLI (MANISA)",
-      "type": "�lksel",
-      "date": "2025.07.10 00:14:47",
-      "lat": 38.577,
-      "lng": 27.6248,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "15.4",
-      "coordinates": [
-        27.6248,
-        38.577
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.6248,
-            38.577
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "HAMZABEYLI (MANISA)",
-          "time": "2025.07.10 00:14:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.10",
-      "date_hour": "00:14:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
