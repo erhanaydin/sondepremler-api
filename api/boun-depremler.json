@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-17T12:30:10.663Z",
+  "lastUpdate": "2025-07-17T13:19:35.081Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -109,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "HAMIDIYE-POZANTI (ADANA)",
+      "type": "�lksel",
+      "date": "2025.07.17 14:40:58",
+      "lat": 37.5428,
+      "lng": 35.055,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.1",
+      "coordinates": [
+        35.055,
+        37.5428
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.055,
+            37.5428
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "HAMIDIYE-POZANTI (ADANA)",
+          "time": "2025.07.17 14:40:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.17",
+      "date_hour": "14:40:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
     },
     {
       "title": "KARAKOCA-SIMAV (KUTAHYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.09 17:11:19",
-      "lat": 40.8137,
-      "lng": 28.2983,
-      "md": "-.-",
-      "ml": "3.2",
-      "mw": "2.9",
-      "depth": "7.0",
-      "coordinates": [
-        28.2983,
-        40.8137
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2983,
-            40.8137
-          ]
-        },
-        "properties": {
-          "mag": "3.2",
-          "place": "MARMARA DENIZI",
-          "time": "2025.07.09 17:11:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.09",
-      "date_hour": "17:11:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
