@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-18T20:39:54.252Z",
+  "lastUpdate": "2025-07-18T20:52:43.791Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ESKINARLI-PAZARCIK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.18 23:18:33",
+      "lat": 37.4298,
+      "lng": 37.15,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "24.6",
+      "coordinates": [
+        37.15,
+        37.4298
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.15,
+            37.4298
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "ESKINARLI-PAZARCIK (KAHRAMANMARAS)",
+          "time": "2025.07.18 23:18:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.18",
+      "date_hour": "23:18:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "ARIKONAK-SINCIK (ADIYAMAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURDUR"
-    },
-    {
-      "title": "PINARBASI-CELIKHAN (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.07.10 23:33:13",
-      "lat": 38.0503,
-      "lng": 38.1558,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "2.7",
-      "coordinates": [
-        38.1558,
-        38.0503
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.1558,
-            38.0503
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "PINARBASI-CELIKHAN (ADIYAMAN)",
-          "time": "2025.07.10 23:33:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.10",
-      "date_hour": "23:33:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
