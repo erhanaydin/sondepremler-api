@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-18T17:57:15.915Z",
+  "lastUpdate": "2025-07-18T18:28:54.216Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.07.18 21:14:40",
+      "lat": 35.536,
+      "lng": 31.5005,
+      "md": "-.-",
+      "ml": "4.0",
+      "mw": "3.8",
+      "depth": "31.1",
+      "coordinates": [
+        31.5005,
+        35.536
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.5005,
+            35.536
+          ]
+        },
+        "properties": {
+          "mag": "4.0",
+          "place": "AKDENIZ",
+          "time": "2025.07.18 21:14:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.18",
+      "date_hour": "21:14:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.18 20:16:33",
+      "lat": 36.4145,
+      "lng": 25.5157,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "4.8",
+      "coordinates": [
+        25.5157,
+        36.4145
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.5157,
+            36.4145
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "EGE DENIZI",
+          "time": "2025.07.18 20:16:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.18",
+      "date_hour": "20:16:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KARABUCAK-KOZAN (ADANA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.07.10 17:05:47",
-      "lat": 36.3733,
-      "lng": 28.9425,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "12.1",
-      "coordinates": [
-        28.9425,
-        36.3733
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9425,
-            36.3733
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)",
-          "time": "2025.07.10 17:05:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.10",
-      "date_hour": "17:05:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
-    },
-    {
-      "title": "YESILOVA (HATAY)",
-      "type": "�lksel",
-      "date": "2025.07.10 16:13:37",
-      "lat": 36.2802,
-      "lng": 36.2653,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "8.6",
-      "coordinates": [
-        36.2653,
-        36.2802
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.2653,
-            36.2802
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YESILOVA (HATAY)",
-          "time": "2025.07.10 16:13:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.10",
-      "date_hour": "16:13:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
