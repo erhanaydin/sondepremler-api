@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-18T05:15:39.246Z",
+  "lastUpdate": "2025-07-18T05:45:00.086Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DALLIBAHCE-NAZIMIYE (TUNCELI)",
+      "type": "�lksel",
+      "date": "2025.07.18 08:24:31",
+      "lat": 39.1323,
+      "lng": 39.8682,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "17.9",
+      "coordinates": [
+        39.8682,
+        39.1323
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.8682,
+            39.1323
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "DALLIBAHCE-NAZIMIYE (TUNCELI)",
+          "time": "2025.07.18 08:24:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.18",
+      "date_hour": "08:24:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "TUNCELI"
+    },
     {
       "title": "GUNDEGER-PUTURGE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "CIVRIL-YAZIHAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.10 07:17:35",
-      "lat": 38.5358,
-      "lng": 38.0265,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        38.0265,
-        38.5358
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.0265,
-            38.5358
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "CIVRIL-YAZIHAN (MALATYA)",
-          "time": "2025.07.10 07:17:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.10",
-      "date_hour": "07:17:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
