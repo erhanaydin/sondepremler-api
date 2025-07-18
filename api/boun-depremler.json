@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-18T14:52:54.964Z",
+  "lastUpdate": "2025-07-18T15:09:44.089Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIRIKLAR-BUCA (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.07.18 17:44:21",
+      "lat": 38.3462,
+      "lng": 27.3008,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "11.3",
+      "coordinates": [
+        27.3008,
+        38.3462
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.3008,
+            38.3462
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KIRIKLAR-BUCA (IZMIR)",
+          "time": "2025.07.18 17:44:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.18",
+      "date_hour": "17:44:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
     {
       "title": "MARMARIS (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.07.10 14:56:47",
-      "lat": 34.9778,
-      "lng": 26.2987,
-      "md": "-.-",
-      "ml": "3.6",
-      "mw": "3.7",
-      "depth": "18.9",
-      "coordinates": [
-        26.2987,
-        34.9778
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.2987,
-            34.9778
-          ]
-        },
-        "properties": {
-          "mag": "3.6",
-          "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-          "time": "2025.07.10 14:56:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.10",
-      "date_hour": "14:56:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
