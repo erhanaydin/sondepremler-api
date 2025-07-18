@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-18T10:27:00.738Z",
+  "lastUpdate": "2025-07-18T10:48:37.625Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -75,6 +75,42 @@
       "city": "EGE DENIZI"
     },
     {
+      "title": "DARKALE-SOMA (MANISA)",
+      "type": "�lksel",
+      "date": "2025.07.18 12:37:32",
+      "lat": 39.134,
+      "lng": 27.606,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        27.606,
+        39.134
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.606,
+            39.134
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "DARKALE-SOMA (MANISA)",
+          "time": "2025.07.18 12:37:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.18",
+      "date_hour": "12:37:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
+    {
       "title": "EGE DENIZI",
       "type": "�lksel",
       "date": "2025.07.18 11:51:54",
@@ -145,6 +181,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "KUCUKLU-KORKUTELI (ANTALYA)",
+      "type": "�lksel",
+      "date": "2025.07.18 10:59:19",
+      "lat": 36.9705,
+      "lng": 29.7527,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "2.5",
+      "coordinates": [
+        29.7527,
+        36.9705
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.7527,
+            36.9705
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "KUCUKLU-KORKUTELI (ANTALYA)",
+          "time": "2025.07.18 10:59:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.18",
+      "date_hour": "10:59:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANTALYA"
     },
     {
       "title": "YUVALI-DOGANSEHIR (MALATYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KIRSEHIR"
-    },
-    {
-      "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.07.10 11:30:38",
-      "lat": 39.4652,
-      "lng": 25.9293,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "5.5",
-      "coordinates": [
-        25.9293,
-        39.4652
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.9293,
-            39.4652
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
-          "time": "2025.07.10 11:30:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.10",
-      "date_hour": "11:30:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
-    },
-    {
-      "title": "ZAFERTEPECALKOY-ALTINTAS (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.07.10 11:08:05",
-      "lat": 38.9245,
-      "lng": 30.087,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        30.087,
-        38.9245
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.087,
-            38.9245
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "ZAFERTEPECALKOY-ALTINTAS (KUTAHYA)",
-          "time": "2025.07.10 11:08:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.10",
-      "date_hour": "11:08:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
