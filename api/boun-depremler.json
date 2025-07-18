@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-18T22:50:56.886Z",
+  "lastUpdate": "2025-07-18T22:58:40.886Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ELDENIZLI-(DENIZLI)",
+      "type": "�lksel",
+      "date": "2025.07.19 01:44:33",
+      "lat": 37.869,
+      "lng": 29.1948,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "8.5",
+      "coordinates": [
+        29.1948,
+        37.869
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1948,
+            37.869
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ELDENIZLI-(DENIZLI)",
+          "time": "2025.07.19 01:44:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.19",
+      "date_hour": "01:44:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "KARANLIKDERE-DOGANSEHIR (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "YUKARIULUPINAR-DARENDE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.11 01:24:09",
-      "lat": 38.3645,
-      "lng": 37.5628,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "21.0",
-      "coordinates": [
-        37.5628,
-        38.3645
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.5628,
-            38.3645
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "YUKARIULUPINAR-DARENDE (MALATYA)",
-          "time": "2025.07.11 01:24:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.11",
-      "date_hour": "01:24:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
