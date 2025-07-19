@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-19T10:13:22.835Z",
+  "lastUpdate": "2025-07-19T10:39:01.508Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
+    },
+    {
+      "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.19 12:04:06",
+      "lat": 40.862,
+      "lng": 28.2603,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "14.1",
+      "coordinates": [
+        28.2603,
+        40.862
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2603,
+            40.862
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+          "time": "2025.07.19 12:04:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.19",
+      "date_hour": "12:04:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARMARA DENIZI"
     },
     {
       "title": "MIDILLI ADASI (EGE DENIZI)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "GEVHERUSAGI-DOGANYOL (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.11 06:31:46",
-      "lat": 38.2675,
-      "lng": 39.0818,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "19.7",
-      "coordinates": [
-        39.0818,
-        38.2675
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.0818,
-            38.2675
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "GEVHERUSAGI-DOGANYOL (MALATYA)",
-          "time": "2025.07.11 06:31:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.11",
-      "date_hour": "06:31:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
