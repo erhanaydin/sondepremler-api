@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-19T11:22:49.196Z",
+  "lastUpdate": "2025-07-19T11:34:18.442Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISKELE-BIGADIC (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.07.19 13:07:47",
+      "lat": 39.4875,
+      "lng": 28.1627,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "16.9",
+      "coordinates": [
+        28.1627,
+        39.4875
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1627,
+            39.4875
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "ISKELE-BIGADIC (BALIKESIR)",
+          "time": "2025.07.19 13:07:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.19",
+      "date_hour": "13:07:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YIRCA-SOMA (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.07.11 07:37:45",
-      "lat": 35.3737,
-      "lng": 27.2087,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "8.0",
-      "coordinates": [
-        27.2087,
-        35.3737
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.2087,
-            35.3737
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "AKDENIZ",
-          "time": "2025.07.11 07:37:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.11",
-      "date_hour": "07:37:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
