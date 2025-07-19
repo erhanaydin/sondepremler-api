@@ -1,42 +1,114 @@
 {
-  "lastUpdate": "2025-07-19T11:00:38.290Z",
+  "lastUpdate": "2025-07-19T11:22:49.196Z",
   "source": "Boğaziçi",
   "data": [
     {
-      "title": "YESILKOY-SAMANDAG (HATAY)",
+      "title": "YIRCA-SOMA (MANISA)",
       "type": "�lksel",
-      "date": "2025.07.19 12:26:17",
-      "lat": 36.116,
-      "lng": 36.0178,
+      "date": "2025.07.19 12:35:19",
+      "lat": 39.2065,
+      "lng": 27.6572,
       "md": "-.-",
-      "ml": "2.2",
+      "ml": "1.6",
       "mw": "-.-",
-      "depth": "8.1",
+      "depth": "17.0",
       "coordinates": [
-        36.0178,
-        36.116
+        27.6572,
+        39.2065
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            36.0178,
-            36.116
+            27.6572,
+            39.2065
           ]
         },
         "properties": {
-          "mag": "2.2",
-          "place": "YESILKOY-SAMANDAG (HATAY)",
-          "time": "2025.07.19 12:26:17"
+          "mag": "1.6",
+          "place": "YIRCA-SOMA (MANISA)",
+          "time": "2025.07.19 12:35:19"
         }
       },
       "location_properties": "",
       "date_day": "2025.07.19",
-      "date_hour": "12:26:17",
+      "date_hour": "12:35:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
+    {
+      "title": "MIZRAKLI-SAMANDAG (HATAY)",
+      "type": "�lksel",
+      "date": "2025.07.19 12:26:16",
+      "lat": 36.1198,
+      "lng": 35.9948,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "3.0",
+      "coordinates": [
+        35.9948,
+        36.1198
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.9948,
+            36.1198
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "MIZRAKLI-SAMANDAG (HATAY)",
+          "time": "2025.07.19 12:26:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.19",
+      "date_hour": "12:26:16",
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
+    },
+    {
+      "title": "GAZIOLUK-ORHANELI (BURSA)",
+      "type": "�lksel",
+      "date": "2025.07.19 12:26:16",
+      "lat": 39.8337,
+      "lng": 28.8042,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "7.3",
+      "coordinates": [
+        28.8042,
+        39.8337
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8042,
+            39.8337
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "GAZIOLUK-ORHANELI (BURSA)",
+          "time": "2025.07.19 12:26:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.19",
+      "date_hour": "12:26:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
     },
     {
       "title": "SULTANIYE-KOYCEGIZ (MUGLA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.07.11 07:24:49",
-      "lat": 36.5357,
-      "lng": 28.6975,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "56.4",
-      "coordinates": [
-        28.6975,
-        36.5357
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.6975,
-            36.5357
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "AKDENIZ",
-          "time": "2025.07.11 07:24:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.11",
-      "date_hour": "07:24:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "BALKAR-GOLBASI (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.07.11 07:08:15",
-      "lat": 37.7252,
-      "lng": 37.5375,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "40.6",
-      "coordinates": [
-        37.5375,
-        37.7252
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.5375,
-            37.7252
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "BALKAR-GOLBASI (ADIYAMAN)",
-          "time": "2025.07.11 07:08:15"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.11",
-      "date_hour": "07:08:15",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
