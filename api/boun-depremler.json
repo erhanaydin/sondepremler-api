@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-19T12:14:20.747Z",
+  "lastUpdate": "2025-07-19T12:59:06.768Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ULUPINAR-YAHYALI (KAYSERI)",
+      "type": "�lksel",
+      "date": "2025.07.19 13:50:57",
+      "lat": 37.8368,
+      "lng": 35.3523,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "3.3",
+      "coordinates": [
+        35.3523,
+        37.8368
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.3523,
+            37.8368
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "ULUPINAR-YAHYALI (KAYSERI)",
+          "time": "2025.07.19 13:50:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.19",
+      "date_hour": "13:50:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAYSERI"
+    },
     {
       "title": "INCIRLI-NURDAGI (GAZIANTEP)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "DEREKISLA-SUNGURLU (CORUM)",
-      "type": "�lksel",
-      "date": "2025.07.11 08:10:16",
-      "lat": 40.0962,
-      "lng": 34.2948,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "11.1",
-      "coordinates": [
-        34.2948,
-        40.0962
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.2948,
-            40.0962
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "DEREKISLA-SUNGURLU (CORUM)",
-          "time": "2025.07.11 08:10:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.11",
-      "date_hour": "08:10:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CORUM"
     }
   ]
 }
