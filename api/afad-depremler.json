@@ -1,5 +1,41 @@
 [
   {
+    "title": "Marmara Denizi - [19.74 km] Süleymanpaşa (Tekirdağ)",
+    "type": "İlksel",
+    "date": "2025-07-19 07:55:08",
+    "lat": 40.84333,
+    "lng": 27.7325,
+    "md": "-.-",
+    "ml": "1.8",
+    "mw": "-.-",
+    "depth": 7.69,
+    "coordinates": [
+      27.7325,
+      40.84333
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7325,
+          40.84333
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Marmara Denizi - [19.74 km] Süleymanpaşa (Tekirdağ) (Tekirdağ)",
+        "time": 1752911708000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-19",
+    "date_hour": "07:55:08",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Tekirdağ"
+  },
+  {
     "title": "Dumlupınar (Kütahya)",
     "type": "İlksel",
     "date": "2025-07-19 07:03:25",
@@ -109,12 +145,12 @@
   },
   {
     "title": "Ege Denizi",
-    "type": "İlksel",
+    "type": "Güncellenmiş",
     "date": "2025-07-19 05:44:52",
     "lat": 35.91833,
     "lng": 25.36611,
     "md": "-.-",
-    "ml": "2.3",
+    "ml": "3",
     "mw": "-.-",
     "depth": 6.41,
     "coordinates": [
@@ -13534,41 +13570,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Sivas"
-  },
-  {
-    "title": "Ege Denizi - [49.42 km] Karaburun (İzmir)",
-    "type": "İlksel",
-    "date": "2025-07-14 07:59:21",
-    "lat": 38.96778,
-    "lng": 26,
-    "md": "-.-",
-    "ml": "1.9",
-    "mw": "-.-",
-    "depth": 6.42,
-    "coordinates": [
-      26,
-      38.96778
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26,
-          38.96778
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi - [49.42 km] Karaburun (İzmir) (İzmir)",
-        "time": 1752479961000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-14",
-    "date_hour": "07:59:21",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "İzmir"
   }
 ]
