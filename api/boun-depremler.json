@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-19T08:12:40.085Z",
+  "lastUpdate": "2025-07-19T08:40:24.623Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YESILDERE-ACIPAYAM (DENIZLI)",
+      "type": "�lksel",
+      "date": "2025.07.19 09:38:36",
+      "lat": 37.4165,
+      "lng": 29.46,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "6.9",
+      "coordinates": [
+        29.46,
+        37.4165
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.46,
+            37.4165
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YESILDERE-ACIPAYAM (DENIZLI)",
+          "time": "2025.07.19 09:38:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.19",
+      "date_hour": "09:38:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "GIRIT ADASI (AKDENIZ)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.11 06:02:36",
-      "lat": 40.6512,
-      "lng": 28.5852,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "8.5",
-      "coordinates": [
-        28.5852,
-        40.6512
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.5852,
-            40.6512
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "MARMARA DENIZI",
-          "time": "2025.07.11 06:02:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.11",
-      "date_hour": "06:02:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
