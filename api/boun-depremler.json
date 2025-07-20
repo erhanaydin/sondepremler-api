@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-20T13:53:43.249Z",
+  "lastUpdate": "2025-07-20T14:10:28.234Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.20 15:47:51",
+      "lat": 40.824,
+      "lng": 28.0293,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "10.7",
+      "coordinates": [
+        28.0293,
+        40.824
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0293,
+            40.824
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "MARMARA DENIZI",
+          "time": "2025.07.20 15:47:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.20",
+      "date_hour": "15:47:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KUPLUCE-(BOLU)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "DILEKLI-YUKSEKOVA (HAKKARI)",
-      "type": "�lksel",
-      "date": "2025.07.12 00:44:48",
-      "lat": 37.3798,
-      "lng": 43.9847,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.6",
-      "coordinates": [
-        43.9847,
-        37.3798
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.9847,
-            37.3798
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "DILEKLI-YUKSEKOVA (HAKKARI)",
-          "time": "2025.07.12 00:44:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.12",
-      "date_hour": "00:44:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HAKKARI"
     }
   ]
 }
