@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-20T19:56:41.108Z",
+  "lastUpdate": "2025-07-20T20:20:18.515Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MINNETLI-KOZAN (ADANA)",
+      "type": "�lksel",
+      "date": "2025.07.20 23:05:57",
+      "lat": 37.5927,
+      "lng": 35.9178,
+      "md": "-.-",
+      "ml": "3.2",
+      "mw": "3.2",
+      "depth": "5.0",
+      "coordinates": [
+        35.9178,
+        37.5927
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.9178,
+            37.5927
+          ]
+        },
+        "properties": {
+          "mag": "3.2",
+          "place": "MINNETLI-KOZAN (ADANA)",
+          "time": "2025.07.20 23:05:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.20",
+      "date_hour": "23:05:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "TEVEKKELLI-(KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURDUR"
-    },
-    {
-      "title": "CITLIK-ELBISTAN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.12 01:13:07",
-      "lat": 38.2525,
-      "lng": 37.2812,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "14.9",
-      "coordinates": [
-        37.2812,
-        38.2525
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.2812,
-            38.2525
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "CITLIK-ELBISTAN (KAHRAMANMARAS)",
-          "time": "2025.07.12 01:13:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.12",
-      "date_hour": "01:13:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
