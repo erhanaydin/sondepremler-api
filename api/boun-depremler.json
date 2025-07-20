@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-20T22:39:01.938Z",
+  "lastUpdate": "2025-07-20T22:51:28.437Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.07.21 01:41:33",
+      "lat": 40.3158,
+      "lng": 24.1845,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "7.9",
+      "coordinates": [
+        24.1845,
+        40.3158
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.1845,
+            40.3158
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "YUNANISTAN",
+          "time": "2025.07.21 01:41:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.21",
+      "date_hour": "01:41:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "ANDIL-KOZAN (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.07.12 01:18:44",
-      "lat": 39.2343,
-      "lng": 29.0475,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        29.0475,
-        39.2343
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0475,
-            39.2343
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.07.12 01:18:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.12",
-      "date_hour": "01:18:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
