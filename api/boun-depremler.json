@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-20T13:09:42.721Z",
+  "lastUpdate": "2025-07-20T13:41:19.966Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUPLUCE-(BOLU)",
+      "type": "�lksel",
+      "date": "2025.07.20 14:04:58",
+      "lat": 40.8392,
+      "lng": 31.8553,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "13.1",
+      "coordinates": [
+        31.8553,
+        40.8392
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.8553,
+            40.8392
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "KUPLUCE-(BOLU)",
+          "time": "2025.07.20 14:04:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.20",
+      "date_hour": "14:04:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BOLU"
+    },
     {
       "title": "DUMREKHUSEYINPASA-TAVSANLI (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HAKKARI"
-    },
-    {
-      "title": "BASMAKCI (AFYONKARAHISAR)",
-      "type": "�lksel",
-      "date": "2025.07.11 23:40:27",
-      "lat": 37.8842,
-      "lng": 29.9608,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "8.5",
-      "coordinates": [
-        29.9608,
-        37.8842
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.9608,
-            37.8842
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "BASMAKCI (AFYONKARAHISAR)",
-          "time": "2025.07.11 23:40:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.11",
-      "date_hour": "23:40:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AFYONKARAHISAR"
     }
   ]
 }
