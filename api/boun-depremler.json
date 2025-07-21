@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-21T18:57:50.645Z",
+  "lastUpdate": "2025-07-21T19:18:58.819Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAGLICA-(ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2025.07.21 20:37:54",
+      "lat": 37.937,
+      "lng": 38.2757,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "3.9",
+      "coordinates": [
+        38.2757,
+        37.937
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.2757,
+            37.937
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "BAGLICA-(ADIYAMAN)",
+          "time": "2025.07.21 20:37:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.21",
+      "date_hour": "20:37:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
+    },
     {
       "title": "BANDIRMA KORFEZI (MARMARA DENIZI)",
       "type": "�lksel",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "YAGCIBEDIR-BIGADIC (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.07.21 18:15:56",
+      "lat": 39.4075,
+      "lng": 28.2035,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "17.3",
+      "coordinates": [
+        28.2035,
+        39.4075
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2035,
+            39.4075
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "YAGCIBEDIR-BIGADIC (BALIKESIR)",
+          "time": "2025.07.21 18:15:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.21",
+      "date_hour": "18:15:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "AKCAKAYA-GOLBASI (ADIYAMAN)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "ESENKENT-(ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.07.12 18:10:17",
-      "lat": 38.8143,
-      "lng": 39.0498,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        39.0498,
-        38.8143
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.0498,
-            38.8143
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "ESENKENT-(ELAZIG)",
-          "time": "2025.07.12 18:10:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.12",
-      "date_hour": "18:10:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
-    },
-    {
-      "title": "ISKELE-BIGADIC (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.07.12 18:07:36",
-      "lat": 39.5113,
-      "lng": 28.167,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        28.167,
-        39.5113
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.167,
-            39.5113
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ISKELE-BIGADIC (BALIKESIR)",
-          "time": "2025.07.12 18:07:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.12",
-      "date_hour": "18:07:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
