@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-21T12:48:19.620Z",
+  "lastUpdate": "2025-07-21T13:29:09.486Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KATRANCILAR-ESME (USAK)",
+      "type": "�lksel",
+      "date": "2025.07.21 15:50:49",
+      "lat": 38.4958,
+      "lng": 29.1518,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "15.5",
+      "coordinates": [
+        29.1518,
+        38.4958
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1518,
+            38.4958
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "KATRANCILAR-ESME (USAK)",
+          "time": "2025.07.21 15:50:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.21",
+      "date_hour": "15:50:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "USAK"
+    },
     {
       "title": "SIGIRLIHACI-CUBUK (ANKARA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "MOLLAIBRAHIM-HEKIMHAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.12 12:44:12",
-      "lat": 38.7538,
-      "lng": 38.1223,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        38.1223,
-        38.7538
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.1223,
-            38.7538
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "MOLLAIBRAHIM-HEKIMHAN (MALATYA)",
-          "time": "2025.07.12 12:44:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.12",
-      "date_hour": "12:44:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
