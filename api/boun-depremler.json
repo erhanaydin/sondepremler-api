@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-21T19:52:19.397Z",
+  "lastUpdate": "2025-07-21T20:09:56.406Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
+    },
+    {
+      "title": "TURKBAHCE-ISLAHIYE (GAZIANTEP)",
+      "type": "�lksel",
+      "date": "2025.07.21 21:32:19",
+      "lat": 37.0803,
+      "lng": 36.6367,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "9.9",
+      "coordinates": [
+        36.6367,
+        37.0803
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.6367,
+            37.0803
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "TURKBAHCE-ISLAHIYE (GAZIANTEP)",
+          "time": "2025.07.21 21:32:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.21",
+      "date_hour": "21:32:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "GAZIANTEP"
     },
     {
       "title": "BAGLICA-(ADIYAMAN)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KONYA"
-    },
-    {
-      "title": "HAMIDIYE-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.07.12 20:07:38",
-      "lat": 38.9407,
-      "lng": 27.7477,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "28.5",
-      "coordinates": [
-        27.7477,
-        38.9407
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7477,
-            38.9407
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "HAMIDIYE-AKHISAR (MANISA)",
-          "time": "2025.07.12 20:07:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.12",
-      "date_hour": "20:07:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
