@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-21T22:21:25.265Z",
+  "lastUpdate": "2025-07-21T22:42:06.555Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -145,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.21 23:04:36",
+      "lat": 36.4087,
+      "lng": 25.4478,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        25.4478,
+        36.4087
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.4478,
+            36.4087
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "EGE DENIZI",
+          "time": "2025.07.21 23:04:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.21",
+      "date_hour": "23:04:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "CANAKCI-KALE (MALATYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BOLU"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.12 23:55:52",
-      "lat": 36.482,
-      "lng": 27.795,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "75.2",
-      "coordinates": [
-        27.795,
-        36.482
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.795,
-            36.482
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "EGE DENIZI",
-          "time": "2025.07.12 23:55:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.12",
-      "date_hour": "23:55:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
