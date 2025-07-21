@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-21T21:49:26.955Z",
+  "lastUpdate": "2025-07-21T21:57:47.473Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.22 00:00:03",
+      "lat": 38.919,
+      "lng": 26.0668,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        26.0668,
+        38.919
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.0668,
+            38.919
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+          "time": "2025.07.22 00:00:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.22",
+      "date_hour": "00:00:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "KALEKOY-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANTALYA"
-    },
-    {
-      "title": "CIHATLI-GEMLIK (BURSA)",
-      "type": "�lksel",
-      "date": "2025.07.12 22:25:19",
-      "lat": 40.4528,
-      "lng": 29.1793,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "11.7",
-      "coordinates": [
-        29.1793,
-        40.4528
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1793,
-            40.4528
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "CIHATLI-GEMLIK (BURSA)",
-          "time": "2025.07.12 22:25:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.12",
-      "date_hour": "22:25:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
     }
   ]
 }
