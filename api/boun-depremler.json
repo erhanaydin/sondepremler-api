@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-21T16:23:01.076Z",
+  "lastUpdate": "2025-07-21T16:49:31.236Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
+    },
+    {
+      "title": "SURIYE",
+      "type": "�lksel",
+      "date": "2025.07.21 18:23:22",
+      "lat": 36.4833,
+      "lng": 38.521,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.521,
+        36.4833
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.521,
+            36.4833
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "SURIYE",
+          "time": "2025.07.21 18:23:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.21",
+      "date_hour": "18:23:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "AKCAKAYA-GOLBASI (ADIYAMAN)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "INLICE-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.07.12 17:53:44",
-      "lat": 39.1547,
-      "lng": 29.1327,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "6.3",
-      "coordinates": [
-        29.1327,
-        39.1547
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1327,
-            39.1547
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "INLICE-SIMAV (KUTAHYA)",
-          "time": "2025.07.12 17:53:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.12",
-      "date_hour": "17:53:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
