@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-21T09:23:06.000Z",
+  "lastUpdate": "2025-07-21T09:47:28.294Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -145,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
+    },
+    {
+      "title": "CUKURKOY-HANI (DIYARBAKIR)",
+      "type": "�lksel",
+      "date": "2025.07.21 10:08:13",
+      "lat": 38.4787,
+      "lng": 40.3087,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "11.3",
+      "coordinates": [
+        40.3087,
+        38.4787
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.3087,
+            38.4787
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "CUKURKOY-HANI (DIYARBAKIR)",
+          "time": "2025.07.21 10:08:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.21",
+      "date_hour": "10:08:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DIYARBAKIR"
     },
     {
       "title": "CICEKLI-GORDES (MANISA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "KIZILAGIL-(BOLU)",
-      "type": "�lksel",
-      "date": "2025.07.12 09:53:06",
-      "lat": 40.7948,
-      "lng": 31.538,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "6.0",
-      "coordinates": [
-        31.538,
-        40.7948
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.538,
-            40.7948
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KIZILAGIL-(BOLU)",
-          "time": "2025.07.12 09:53:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.12",
-      "date_hour": "09:53:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BOLU"
     }
   ]
 }
