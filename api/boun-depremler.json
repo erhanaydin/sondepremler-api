@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-21T20:34:54.179Z",
+  "lastUpdate": "2025-07-21T20:50:05.335Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KALEKOY-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.21 23:23:24",
+      "lat": 38.0528,
+      "lng": 36.6265,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        36.6265,
+        38.0528
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.6265,
+            38.0528
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "KALEKOY-GOKSUN (KAHRAMANMARAS)",
+          "time": "2025.07.21 23:23:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.21",
+      "date_hour": "23:23:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "BOSTANBASI-YESILYURT (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.07.12 20:24:23",
-      "lat": 39.2377,
-      "lng": 29.0782,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        29.0782,
-        39.2377
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0782,
-            39.2377
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.07.12 20:24:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.12",
-      "date_hour": "20:24:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
