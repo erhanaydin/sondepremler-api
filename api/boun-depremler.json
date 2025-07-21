@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-21T07:43:16.439Z",
+  "lastUpdate": "2025-07-21T07:55:54.893Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HANYERI-TUFANBEYLI (ADANA)",
+      "type": "�lksel",
+      "date": "2025.07.21 10:40:37",
+      "lat": 38.2325,
+      "lng": 36.0153,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "24.2",
+      "coordinates": [
+        36.0153,
+        38.2325
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.0153,
+            38.2325
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "HANYERI-TUFANBEYLI (ADANA)",
+          "time": "2025.07.21 10:40:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.21",
+      "date_hour": "10:40:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "CICEKLI-GORDES (MANISA)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.07.21 09:25:14",
+      "lat": 36.5355,
+      "lng": 28.2427,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "42.1",
+      "coordinates": [
+        28.2427,
+        36.5355
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2427,
+            36.5355
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "AKDENIZ",
+          "time": "2025.07.21 09:25:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.21",
+      "date_hour": "09:25:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "GOKOVA KORFEZI (EGE DENIZI)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YANTEPE-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.12 07:40:24",
-      "lat": 38.0117,
-      "lng": 36.5565,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "22.6",
-      "coordinates": [
-        36.5565,
-        38.0117
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.5565,
-            38.0117
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YANTEPE-GOKSUN (KAHRAMANMARAS)",
-          "time": "2025.07.12 07:40:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.12",
-      "date_hour": "07:40:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "ATAKOY-MENDERES (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.07.12 07:20:02",
-      "lat": 38.0545,
-      "lng": 27.104,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        27.104,
-        38.0545
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.104,
-            38.0545
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ATAKOY-MENDERES (IZMIR)",
-          "time": "2025.07.12 07:20:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.12",
-      "date_hour": "07:20:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
