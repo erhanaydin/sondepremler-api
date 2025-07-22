@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-22T10:20:11.818Z",
+  "lastUpdate": "2025-07-22T10:44:58.479Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YESILYAYLA-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.22 12:16:29",
+      "lat": 39.118,
+      "lng": 29.1875,
+      "md": "-.-",
+      "ml": "0.8",
+      "mw": "-.-",
+      "depth": "10.0",
+      "coordinates": [
+        29.1875,
+        39.118
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1875,
+            39.118
+          ]
+        },
+        "properties": {
+          "mag": "0.8",
+          "place": "YESILYAYLA-SIMAV (KUTAHYA)",
+          "time": "2025.07.22 12:16:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.22",
+      "date_hour": "12:16:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "GUNALTI-ELBISTAN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.13 07:39:23",
-      "lat": 38.246,
-      "lng": 37.6155,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "25.8",
-      "coordinates": [
-        37.6155,
-        38.246
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.6155,
-            38.246
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "GUNALTI-ELBISTAN (KAHRAMANMARAS)",
-          "time": "2025.07.13 07:39:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.13",
-      "date_hour": "07:39:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
