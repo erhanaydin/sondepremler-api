@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-22T21:50:08.470Z",
+  "lastUpdate": "2025-07-22T21:58:25.592Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOSELI-KOZAN (ADANA)",
+      "type": "�lksel",
+      "date": "2025.07.23 00:44:55",
+      "lat": 37.5287,
+      "lng": 35.7457,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "14.3",
+      "coordinates": [
+        35.7457,
+        37.5287
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.7457,
+            37.5287
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KOSELI-KOZAN (ADANA)",
+          "time": "2025.07.23 00:44:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.23",
+      "date_hour": "00:44:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "ARMUTLU ACIKLARI-YALOVA (MARMARA DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.13 22:33:37",
-      "lat": 35.6808,
-      "lng": 25.7925,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "27.2",
-      "coordinates": [
-        25.7925,
-        35.6808
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.7925,
-            35.6808
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "EGE DENIZI",
-          "time": "2025.07.13 22:33:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.13",
-      "date_hour": "22:33:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
