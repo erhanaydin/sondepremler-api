@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ege Denizi",
+    "type": "İlksel",
+    "date": "2025-07-22 05:58:46",
+    "lat": 36.63306,
+    "lng": 25.03444,
+    "md": "-.-",
+    "ml": "2.4",
+    "mw": "-.-",
+    "depth": 7.05,
+    "coordinates": [
+      25.03444,
+      36.63306
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.03444,
+          36.63306
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi (Muğla)",
+        "time": 1753163926000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-22",
+    "date_hour": "05:58:46",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Muğla"
+  },
+  {
     "title": "Ege Denizi - [14.04 km] Bodrum (Muğla)",
     "type": "İlksel",
     "date": "2025-07-22 05:13:36",
@@ -12166,41 +12202,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Aydın"
-  },
-  {
-    "title": "Orhaneli (Bursa)",
-    "type": "İlksel",
-    "date": "2025-07-17 07:00:34",
-    "lat": 39.87528,
-    "lng": 28.86,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.86,
-      39.87528
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.86,
-          39.87528
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Orhaneli (Bursa) (Bursa)",
-        "time": 1752735634000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-17",
-    "date_hour": "07:00:34",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Bursa"
   }
 ]
