@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-22T08:33:01.220Z",
+  "lastUpdate": "2025-07-22T08:56:28.648Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARACAOREN-(MUGLA)",
+      "type": "�lksel",
+      "date": "2025.07.22 11:00:37",
+      "lat": 37.1493,
+      "lng": 28.8178,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "14.7",
+      "coordinates": [
+        28.8178,
+        37.1493
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8178,
+            37.1493
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KARACAOREN-(MUGLA)",
+          "time": "2025.07.22 11:00:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.22",
+      "date_hour": "11:00:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "CIVILI-ORHANELI (BURSA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "ALICLIBUCAK-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.13 05:24:03",
-      "lat": 38.0957,
-      "lng": 36.5213,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "7.1",
-      "coordinates": [
-        36.5213,
-        38.0957
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.5213,
-            38.0957
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ALICLIBUCAK-GOKSUN (KAHRAMANMARAS)",
-          "time": "2025.07.13 05:24:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.13",
-      "date_hour": "05:24:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
