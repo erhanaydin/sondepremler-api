@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-22T23:31:58.541Z",
+  "lastUpdate": "2025-07-22T23:45:47.110Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "ILICA-(MUS)",
+      "type": "�lksel",
+      "date": "2025.07.23 01:30:51",
+      "lat": 38.6302,
+      "lng": 41.5005,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        41.5005,
+        38.6302
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.5005,
+            38.6302
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "ILICA-(MUS)",
+          "time": "2025.07.23 01:30:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.23",
+      "date_hour": "01:30:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUS"
     },
     {
       "title": "ULUKOY-(MALATYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HAKKARI"
-    },
-    {
-      "title": "ILYASLAR-KIRKAGAC (MANISA)",
-      "type": "�lksel",
-      "date": "2025.07.14 01:32:48",
-      "lat": 39.0967,
-      "lng": 27.7567,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "12.2",
-      "coordinates": [
-        27.7567,
-        39.0967
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7567,
-            39.0967
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ILYASLAR-KIRKAGAC (MANISA)",
-          "time": "2025.07.14 01:32:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.14",
-      "date_hour": "01:32:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
