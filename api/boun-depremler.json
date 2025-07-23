@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-23T21:32:55.274Z",
+  "lastUpdate": "2025-07-23T21:46:19.604Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MESCICELE-(BOLU)",
+      "type": "�lksel",
+      "date": "2025.07.24 00:22:59",
+      "lat": 40.8853,
+      "lng": 31.7023,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "2.0",
+      "coordinates": [
+        31.7023,
+        40.8853
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.7023,
+            40.8853
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "MESCICELE-(BOLU)",
+          "time": "2025.07.24 00:22:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.24",
+      "date_hour": "00:22:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BOLU"
+    },
     {
       "title": "KOSKONU-YUKSEKOVA (HAKKARI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUS"
-    },
-    {
-      "title": "ILYASLAR-KIRKAGAC (MANISA)",
-      "type": "�lksel",
-      "date": "2025.07.14 19:56:03",
-      "lat": 39.1062,
-      "lng": 27.7477,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "9.0",
-      "coordinates": [
-        27.7477,
-        39.1062
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7477,
-            39.1062
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ILYASLAR-KIRKAGAC (MANISA)",
-          "time": "2025.07.14 19:56:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.14",
-      "date_hour": "19:56:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
