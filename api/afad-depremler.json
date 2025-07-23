@@ -1,5 +1,41 @@
 [
   {
+    "title": "Gerede (Bolu)",
+    "type": "İlksel",
+    "date": "2025-07-23 13:36:24",
+    "lat": 40.70917,
+    "lng": 32.30778,
+    "md": "-.-",
+    "ml": "1.3",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      32.30778,
+      40.70917
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.30778,
+          40.70917
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Gerede (Bolu) (Bolu)",
+        "time": 1753277784000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-23",
+    "date_hour": "13:36:24",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Bolu"
+  },
+  {
     "title": "Ege Denizi",
     "type": "İlksel",
     "date": "2025-07-23 13:27:01",
@@ -34,6 +70,42 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Muğla"
+  },
+  {
+    "title": "Elbistan (Kahramanmaraş)",
+    "type": "İlksel",
+    "date": "2025-07-23 12:48:29",
+    "lat": 38.05972,
+    "lng": 37.5575,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 8.11,
+    "coordinates": [
+      37.5575,
+      38.05972
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5575,
+          38.05972
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Elbistan (Kahramanmaraş) (Kahramanmaraş)",
+        "time": 1753274909000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-23",
+    "date_hour": "12:48:29",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kahramanmaraş"
   },
   {
     "title": "Yeşilyurt (Malatya)",
@@ -12346,41 +12418,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Elazığ"
-  },
-  {
-    "title": "Marmaris (Muğla)",
-    "type": "İlksel",
-    "date": "2025-07-18 14:08:26",
-    "lat": 36.72972,
-    "lng": 28.19472,
-    "md": "-.-",
-    "ml": "1.3",
-    "mw": "-.-",
-    "depth": 12.78,
-    "coordinates": [
-      28.19472,
-      36.72972
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.19472,
-          36.72972
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Marmaris (Muğla) (Muğla)",
-        "time": 1752847706000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-18",
-    "date_hour": "14:08:26",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
   }
 ]
