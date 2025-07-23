@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-23T19:37:25.922Z",
+  "lastUpdate": "2025-07-23T19:47:07.269Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CORLU-KARAISALI (ADANA)",
+      "type": "�lksel",
+      "date": "2025.07.23 22:21:30",
+      "lat": 37.3417,
+      "lng": 35.1973,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.9",
+      "coordinates": [
+        35.1973,
+        37.3417
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.1973,
+            37.3417
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "CORLU-KARAISALI (ADANA)",
+          "time": "2025.07.23 22:21:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.23",
+      "date_hour": "22:21:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "CULLUUSAGI-KOZAN (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "KADIIBRAHIM-AKCADAG (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.14 15:49:55",
-      "lat": 38.5153,
-      "lng": 38.0007,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "2.5",
-      "coordinates": [
-        38.0007,
-        38.5153
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.0007,
-            38.5153
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "KADIIBRAHIM-AKCADAG (MALATYA)",
-          "time": "2025.07.14 15:49:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.14",
-      "date_hour": "15:49:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
