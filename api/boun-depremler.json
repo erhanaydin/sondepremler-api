@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-23T19:55:24.111Z",
+  "lastUpdate": "2025-07-23T20:17:54.875Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.23 22:29:49",
+      "lat": 36.6543,
+      "lng": 25.661,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "7.8",
+      "coordinates": [
+        25.661,
+        36.6543
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.661,
+            36.6543
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "EGE DENIZI",
+          "time": "2025.07.23 22:29:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.23",
+      "date_hour": "22:29:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "CORLU-KARAISALI (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.14 16:22:39",
-      "lat": 37.9145,
-      "lng": 36.525,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        36.525,
-        37.9145
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.525,
-            37.9145
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)",
-          "time": "2025.07.14 16:22:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.14",
-      "date_hour": "16:22:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
