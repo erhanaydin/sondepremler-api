@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-23T22:14:15.317Z",
+  "lastUpdate": "2025-07-23T22:38:37.439Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DARENDE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.24 01:23:52",
+      "lat": 38.5627,
+      "lng": 37.4955,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "2.9",
+      "coordinates": [
+        37.4955,
+        38.5627
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.4955,
+            38.5627
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "DARENDE (MALATYA)",
+          "time": "2025.07.24 01:23:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.24",
+      "date_hour": "01:23:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "MESCICELE-(BOLU)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "BALLI-MUT (MERSIN)",
-      "type": "�lksel",
-      "date": "2025.07.14 20:37:04",
-      "lat": 36.9062,
-      "lng": 33.6257,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        33.6257,
-        36.9062
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.6257,
-            36.9062
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "BALLI-MUT (MERSIN)",
-          "time": "2025.07.14 20:37:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.14",
-      "date_hour": "20:37:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
     }
   ]
 }
