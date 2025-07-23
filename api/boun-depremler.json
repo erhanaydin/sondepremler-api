@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-23T05:17:21.358Z",
+  "lastUpdate": "2025-07-23T05:46:59.302Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAKIR-KIRKAGAC (MANISA)",
+      "type": "�lksel",
+      "date": "2025.07.23 08:25:49",
+      "lat": 39.1002,
+      "lng": 27.744,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "3.1",
+      "coordinates": [
+        27.744,
+        39.1002
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.744,
+            39.1002
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "BAKIR-KIRKAGAC (MANISA)",
+          "time": "2025.07.23 08:25:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.23",
+      "date_hour": "08:25:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "IZMIR KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.07.14 08:06:23",
-      "lat": 38.4985,
-      "lng": 26.7683,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "14.8",
-      "coordinates": [
-        26.7683,
-        38.4985
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.7683,
-            38.4985
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "IZMIR KORFEZI (EGE DENIZI)",
-          "time": "2025.07.14 08:06:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.14",
-      "date_hour": "08:06:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
