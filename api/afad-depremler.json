@@ -1,5 +1,41 @@
 [
   {
+    "title": "Simav (Kütahya)",
+    "type": "İlksel",
+    "date": "2025-07-23 20:17:08",
+    "lat": 39.23083,
+    "lng": 28.97889,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 6.75,
+    "coordinates": [
+      28.97889,
+      39.23083
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97889,
+          39.23083
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Simav (Kütahya) (Kütahya)",
+        "time": 1753301828000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-23",
+    "date_hour": "20:17:08",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
+  },
+  {
     "title": "Karaisalı (Adana)",
     "type": "İlksel",
     "date": "2025-07-23 19:21:31",
@@ -12094,77 +12130,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Ankara"
-  },
-  {
-    "title": "Tefenni (Burdur)",
-    "type": "İlksel",
-    "date": "2025-07-18 20:29:19",
-    "lat": 37.26139,
-    "lng": 29.96889,
-    "md": "-.-",
-    "ml": "1.1",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      29.96889,
-      37.26139
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.96889,
-          37.26139
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Tefenni (Burdur) (Burdur)",
-        "time": 1752870559000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-18",
-    "date_hour": "20:29:19",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Burdur"
-  },
-  {
-    "title": "Pazarcık (Kahramanmaraş)",
-    "type": "İlksel",
-    "date": "2025-07-18 20:18:36",
-    "lat": 37.50944,
-    "lng": 37.20083,
-    "md": "-.-",
-    "ml": "1",
-    "mw": "-.-",
-    "depth": 6.83,
-    "coordinates": [
-      37.20083,
-      37.50944
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.20083,
-          37.50944
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Pazarcık (Kahramanmaraş) (Kahramanmaraş)",
-        "time": 1752869916000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-18",
-    "date_hour": "20:18:36",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kahramanmaraş"
   }
 ]

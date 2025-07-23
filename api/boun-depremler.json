@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-23T20:17:54.875Z",
+  "lastUpdate": "2025-07-23T20:40:23.183Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARACAOREN-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.23 23:17:07",
+      "lat": 39.2012,
+      "lng": 29.0457,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "11.9",
+      "coordinates": [
+        29.0457,
+        39.2012
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0457,
+            39.2012
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KARACAOREN-SIMAV (KUTAHYA)",
+          "time": "2025.07.23 23:17:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.23",
+      "date_hour": "23:17:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "LETAFET-ORHANELI (BURSA)",
-      "type": "�lksel",
-      "date": "2025.07.14 17:49:58",
-      "lat": 39.8768,
-      "lng": 28.7685,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        28.7685,
-        39.8768
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7685,
-            39.8768
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "LETAFET-ORHANELI (BURSA)",
-          "time": "2025.07.14 17:49:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.14",
-      "date_hour": "17:49:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
     }
   ]
 }
