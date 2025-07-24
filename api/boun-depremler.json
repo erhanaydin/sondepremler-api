@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-24T21:31:09.831Z",
+  "lastUpdate": "2025-07-24T21:43:37.161Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ORDEKLI-SARIZ (KAYSERI)",
+      "type": "�lksel",
+      "date": "2025.07.25 00:25:47",
+      "lat": 38.3163,
+      "lng": 36.5738,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "8.2",
+      "coordinates": [
+        36.5738,
+        38.3163
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.5738,
+            38.3163
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "ORDEKLI-SARIZ (KAYSERI)",
+          "time": "2025.07.25 00:25:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.25",
+      "date_hour": "00:25:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAYSERI"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.25 00:14:37",
+      "lat": 36.7543,
+      "lng": 25.629,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "7.8",
+      "coordinates": [
+        25.629,
+        36.7543
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.629,
+            36.7543
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "EGE DENIZI",
+          "time": "2025.07.25 00:14:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.25",
+      "date_hour": "00:14:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "DUDAS-BEYPAZARI (ANKARA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "IZMIR KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.07.15 19:08:31",
-      "lat": 38.4588,
-      "lng": 26.8237,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "8.6",
-      "coordinates": [
-        26.8237,
-        38.4588
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.8237,
-            38.4588
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "IZMIR KORFEZI (EGE DENIZI)",
-          "time": "2025.07.15 19:08:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.15",
-      "date_hour": "19:08:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
-    },
-    {
-      "title": "BUYUKNACAR-PAZARCIK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.15 17:36:18",
-      "lat": 37.597,
-      "lng": 37.2748,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "8.1",
-      "coordinates": [
-        37.2748,
-        37.597
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.2748,
-            37.597
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "BUYUKNACAR-PAZARCIK (KAHRAMANMARAS)",
-          "time": "2025.07.15 17:36:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.15",
-      "date_hour": "17:36:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
