@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-24T09:38:26.596Z",
+  "lastUpdate": "2025-07-24T09:52:39.007Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SOGUTLU-PAZARCIK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.24 12:34:49",
+      "lat": 37.5153,
+      "lng": 37.2112,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.6",
+      "coordinates": [
+        37.2112,
+        37.5153
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.2112,
+            37.5153
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "SOGUTLU-PAZARCIK (KAHRAMANMARAS)",
+          "time": "2025.07.24 12:34:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.24",
+      "date_hour": "12:34:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "KIBRIS-KILICASLAN",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "BOSTANBASI-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.15 09:22:21",
-      "lat": 38.3117,
-      "lng": 38.2508,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        38.2508,
-        38.3117
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.2508,
-            38.3117
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BOSTANBASI-YESILYURT (MALATYA)",
-          "time": "2025.07.15 09:22:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.15",
-      "date_hour": "09:22:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
