@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-24T06:00:04.187Z",
+  "lastUpdate": "2025-07-24T06:41:26.178Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ARMUTCUK-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.07.24 09:28:20",
+      "lat": 37.1248,
+      "lng": 28.4627,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "9.8",
+      "coordinates": [
+        28.4627,
+        37.1248
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.4627,
+            37.1248
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ARMUTCUK-ULA (MUGLA)",
+          "time": "2025.07.24 09:28:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.24",
+      "date_hour": "09:28:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
+    {
+      "title": "EGNEZ-SOMA (MANISA)",
+      "type": "�lksel",
+      "date": "2025.07.24 09:15:47",
+      "lat": 39.0808,
+      "lng": 27.5513,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        27.5513,
+        39.0808
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.5513,
+            39.0808
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "EGNEZ-SOMA (MANISA)",
+          "time": "2025.07.24 09:15:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.24",
+      "date_hour": "09:15:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "IKIZCE-YESILYURT (MALATYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CORUM"
-    },
-    {
-      "title": "IRIAGAC-YAZIHAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.15 01:35:55",
-      "lat": 38.5617,
-      "lng": 38.0067,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "6.9",
-      "coordinates": [
-        38.0067,
-        38.5617
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.0067,
-            38.5617
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "IRIAGAC-YAZIHAN (MALATYA)",
-          "time": "2025.07.15 01:35:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.15",
-      "date_hour": "01:35:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "YAYLAKENT-CAYIRLI (ERZINCAN)",
-      "type": "�lksel",
-      "date": "2025.07.15 00:23:30",
-      "lat": 39.8787,
-      "lng": 39.87,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "6.6",
-      "coordinates": [
-        39.87,
-        39.8787
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.87,
-            39.8787
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "YAYLAKENT-CAYIRLI (ERZINCAN)",
-          "time": "2025.07.15 00:23:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.15",
-      "date_hour": "00:23:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
     }
   ]
 }
