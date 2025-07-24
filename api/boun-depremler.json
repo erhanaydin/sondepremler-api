@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-24T23:48:50.298Z",
+  "lastUpdate": "2025-07-24T23:57:09.346Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARACANLIK-REYHANLI (HATAY)",
+      "type": "�lksel",
+      "date": "2025.07.25 02:43:27",
+      "lat": 36.34,
+      "lng": 36.392,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.8",
+      "coordinates": [
+        36.392,
+        36.34
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.392,
+            36.34
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KARACANLIK-REYHANLI (HATAY)",
+          "time": "2025.07.25 02:43:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.25",
+      "date_hour": "02:43:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "MEYDAN-SAMANDAG (HATAY)",
-      "type": "�lksel",
-      "date": "2025.07.15 21:19:08",
-      "lat": 36.0077,
-      "lng": 35.8982,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "2.9",
-      "coordinates": [
-        35.8982,
-        36.0077
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.8982,
-            36.0077
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "MEYDAN-SAMANDAG (HATAY)",
-          "time": "2025.07.15 21:19:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.15",
-      "date_hour": "21:19:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
