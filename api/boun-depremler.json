@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-24T22:57:00.144Z",
+  "lastUpdate": "2025-07-24T23:19:46.085Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.25 02:11:51",
+      "lat": 40.1928,
+      "lng": 25.4758,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "11.7",
+      "coordinates": [
+        25.4758,
+        40.1928
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.4758,
+            40.1928
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "EGE DENIZI",
+          "time": "2025.07.25 02:11:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.25",
+      "date_hour": "02:11:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "UCKUYU-SULTANDAGI (AFYONKARAHISAR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.15 19:50:43",
-      "lat": 36.6903,
-      "lng": 25.608,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "5.9",
-      "coordinates": [
-        25.608,
-        36.6903
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.608,
-            36.6903
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "EGE DENIZI",
-          "time": "2025.07.15 19:50:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.15",
-      "date_hour": "19:50:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
