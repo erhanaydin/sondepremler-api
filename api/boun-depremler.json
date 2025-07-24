@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-24T03:53:01.928Z",
+  "lastUpdate": "2025-07-24T04:30:36.083Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "IKIZCE-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.24 06:40:05",
+      "lat": 38.2863,
+      "lng": 38.2215,
+      "md": "-.-",
+      "ml": "3.6",
+      "mw": "3.7",
+      "depth": "5.0",
+      "coordinates": [
+        38.2215,
+        38.2863
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.2215,
+            38.2863
+          ]
+        },
+        "properties": {
+          "mag": "3.6",
+          "place": "IKIZCE-YESILYURT (MALATYA)",
+          "time": "2025.07.24 06:40:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.24",
+      "date_hour": "06:40:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "SURIYE",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZINCAN"
-    },
-    {
-      "title": "YARPUZ-(OSMANIYE)",
-      "type": "�lksel",
-      "date": "2025.07.14 23:32:17",
-      "lat": 37.0038,
-      "lng": 36.3865,
-      "md": "-.-",
-      "ml": "3.3",
-      "mw": "3.3",
-      "depth": "2.4",
-      "coordinates": [
-        36.3865,
-        37.0038
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.3865,
-            37.0038
-          ]
-        },
-        "properties": {
-          "mag": "3.3",
-          "place": "YARPUZ-(OSMANIYE)",
-          "time": "2025.07.14 23:32:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.14",
-      "date_hour": "23:32:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "OSMANIYE"
     }
   ]
 }
