@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-24T21:43:37.161Z",
+  "lastUpdate": "2025-07-24T21:52:05.499Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.25 00:35:50",
+      "lat": 40.1987,
+      "lng": 25.4942,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "10.0",
+      "coordinates": [
+        25.4942,
+        40.1987
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.4942,
+            40.1987
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "EGE DENIZI",
+          "time": "2025.07.25 00:35:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.25",
+      "date_hour": "00:35:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "ORDEKLI-SARIZ (KAYSERI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AYDIN"
-    },
-    {
-      "title": "ULUTAS-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.15 19:23:24",
-      "lat": 38.0807,
-      "lng": 38.6677,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        38.6677,
-        38.0807
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.6677,
-            38.0807
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ULUTAS-PUTURGE (MALATYA)",
-          "time": "2025.07.15 19:23:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.15",
-      "date_hour": "19:23:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
