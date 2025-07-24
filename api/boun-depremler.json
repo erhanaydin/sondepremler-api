@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-24T00:44:25.935Z",
+  "lastUpdate": "2025-07-24T02:48:21.102Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CIFTLIK-FETHIYE (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.07.24 04:01:17",
+      "lat": 36.672,
+      "lng": 29.1103,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "14.7",
+      "coordinates": [
+        29.1103,
+        36.672
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1103,
+            36.672
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "CIFTLIK-FETHIYE (MUGLA)",
+          "time": "2025.07.24 04:01:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.24",
+      "date_hour": "04:01:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "KAMISCIK-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "SENOVA-KOVANCILAR (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.07.14 21:27:18",
-      "lat": 38.7542,
-      "lng": 39.9612,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "7.6",
-      "coordinates": [
-        39.9612,
-        38.7542
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.9612,
-            38.7542
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "SENOVA-KOVANCILAR (ELAZIG)",
-          "time": "2025.07.14 21:27:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.14",
-      "date_hour": "21:27:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
