@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-24T07:45:36.002Z",
+  "lastUpdate": "2025-07-24T07:55:22.807Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -39,6 +39,42 @@
       "city": "MUGLA"
     },
     {
+      "title": "SADIKLI-YAZIHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.24 09:22:23",
+      "lat": 38.5203,
+      "lng": 37.9653,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "14.5",
+      "coordinates": [
+        37.9653,
+        38.5203
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.9653,
+            38.5203
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "SADIKLI-YAZIHAN (MALATYA)",
+          "time": "2025.07.24 09:22:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.24",
+      "date_hour": "09:22:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
       "title": "EGNEZ-SOMA (MANISA)",
       "type": "�lksel",
       "date": "2025.07.24 09:15:47",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
+    },
+    {
+      "title": "BAGOZU-BEYPAZARI (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.07.24 09:02:45",
+      "lat": 40.1862,
+      "lng": 31.8283,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "1.4",
+      "coordinates": [
+        31.8283,
+        40.1862
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.8283,
+            40.1862
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "BAGOZU-BEYPAZARI (ANKARA)",
+          "time": "2025.07.24 09:02:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.24",
+      "date_hour": "09:02:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
     },
     {
       "title": "IKIZCE-YESILYURT (MALATYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.15 04:13:46",
-      "lat": 40.8305,
-      "lng": 28.3803,
-      "md": "-.-",
-      "ml": "3.2",
-      "mw": "3.2",
-      "depth": "11.9",
-      "coordinates": [
-        28.3803,
-        40.8305
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3803,
-            40.8305
-          ]
-        },
-        "properties": {
-          "mag": "3.2",
-          "place": "MARMARA DENIZI",
-          "time": "2025.07.15 04:13:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.15",
-      "date_hour": "04:13:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "DEMIRSEYH-SUNGURLU (CORUM)",
-      "type": "�lksel",
-      "date": "2025.07.15 01:45:16",
-      "lat": 40.2768,
-      "lng": 34.5117,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        34.5117,
-        40.2768
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.5117,
-            40.2768
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "DEMIRSEYH-SUNGURLU (CORUM)",
-          "time": "2025.07.15 01:45:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.15",
-      "date_hour": "01:45:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CORUM"
     }
   ]
 }
