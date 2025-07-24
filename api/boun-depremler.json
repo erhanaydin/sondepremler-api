@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-24T20:52:29.292Z",
+  "lastUpdate": "2025-07-24T21:09:09.328Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.24 23:54:48",
+      "lat": 36.6972,
+      "lng": 25.6922,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "7.0",
+      "coordinates": [
+        25.6922,
+        36.6972
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.6922,
+            36.6972
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "EGE DENIZI",
+          "time": "2025.07.24 23:54:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.24",
+      "date_hour": "23:54:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "KARACAM-CUBUK (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.07.24 23:42:11",
+      "lat": 40.4333,
+      "lng": 32.9048,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        32.9048,
+        40.4333
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.9048,
+            40.4333
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KARACAM-CUBUK (ANKARA)",
+          "time": "2025.07.24 23:42:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.24",
+      "date_hour": "23:42:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
+    },
     {
       "title": "YAZIR-CAL (DENIZLI)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.15 16:10:32",
-      "lat": 36.5825,
-      "lng": 25.6913,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "16.0",
-      "coordinates": [
-        25.6913,
-        36.5825
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.6913,
-            36.5825
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "EGE DENIZI",
-          "time": "2025.07.15 16:10:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.15",
-      "date_hour": "16:10:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "YAGCILAR-(AYDIN)",
-      "type": "�lksel",
-      "date": "2025.07.15 14:21:07",
-      "lat": 37.7758,
-      "lng": 27.9653,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "1.3",
-      "coordinates": [
-        27.9653,
-        37.7758
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9653,
-            37.7758
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "YAGCILAR-(AYDIN)",
-          "time": "2025.07.15 14:21:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.15",
-      "date_hour": "14:21:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AYDIN"
     }
   ]
 }
