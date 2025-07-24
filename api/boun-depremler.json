@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-24T17:01:13.329Z",
+  "lastUpdate": "2025-07-24T17:28:24.766Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CAMLICA-(KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.24 20:00:02",
+      "lat": 37.9282,
+      "lng": 36.6782,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        36.6782,
+        37.9282
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.6782,
+            37.9282
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "CAMLICA-(KAHRAMANMARAS)",
+          "time": "2025.07.24 20:00:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.24",
+      "date_hour": "20:00:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "KIRKGECIT-PINARBASI (KAYSERI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "UCGOZE-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.15 12:52:11",
-      "lat": 38.2225,
-      "lng": 38.3918,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.4",
-      "coordinates": [
-        38.3918,
-        38.2225
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.3918,
-            38.2225
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "UCGOZE-YESILYURT (MALATYA)",
-          "time": "2025.07.15 12:52:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.15",
-      "date_hour": "12:52:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
