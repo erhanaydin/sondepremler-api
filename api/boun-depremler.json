@@ -1,7 +1,115 @@
 {
-  "lastUpdate": "2025-07-24T09:12:07.255Z",
+  "lastUpdate": "2025-07-24T09:38:26.596Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIBRIS-KILICASLAN",
+      "type": "�lksel",
+      "date": "2025.07.24 12:20:14",
+      "lat": 35.2537,
+      "lng": 33.1277,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        33.1277,
+        35.2537
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.1277,
+            35.2537
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KIBRIS-KILICASLAN",
+          "time": "2025.07.24 12:20:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.24",
+      "date_hour": "12:20:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "HUYUKLU-AFSIN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.24 12:18:12",
+      "lat": 38.2033,
+      "lng": 36.9033,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "15.7",
+      "coordinates": [
+        36.9033,
+        38.2033
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.9033,
+            38.2033
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "HUYUKLU-AFSIN (KAHRAMANMARAS)",
+          "time": "2025.07.24 12:18:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.24",
+      "date_hour": "12:18:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "GUZGULU-YEDISU (BINGOL)",
+      "type": "�lksel",
+      "date": "2025.07.24 12:11:59",
+      "lat": 39.385,
+      "lng": 40.4743,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "4.9",
+      "coordinates": [
+        40.4743,
+        39.385
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.4743,
+            39.385
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "GUZGULU-YEDISU (BINGOL)",
+          "time": "2025.07.24 12:11:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.24",
+      "date_hour": "12:11:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGOL"
+    },
     {
       "title": "ATAKOY-MENDERES (IZMIR)",
       "type": "�lksel",
@@ -34,6 +142,42 @@
       "location_properties": "",
       "date_day": "2025.07.24",
       "date_hour": "12:05:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
+    {
+      "title": "KARATEKE-TIRE (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.07.24 12:01:38",
+      "lat": 38.1415,
+      "lng": 27.7092,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "5.1",
+      "coordinates": [
+        27.7092,
+        38.1415
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.7092,
+            38.1415
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KARATEKE-TIRE (IZMIR)",
+          "time": "2025.07.24 12:01:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.24",
+      "date_hour": "12:01:38",
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
@@ -145,6 +289,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.24 10:55:16",
+      "lat": 36.6602,
+      "lng": 25.695,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "7.4",
+      "coordinates": [
+        25.695,
+        36.6602
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.695,
+            36.6602
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "EGE DENIZI",
+          "time": "2025.07.24 10:55:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.24",
+      "date_hour": "10:55:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "ARMUTCUK-ULA (MUGLA)",
@@ -17821,186 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "BAKIR-KIRKAGAC (MANISA)",
-      "type": "�lksel",
-      "date": "2025.07.15 09:13:39",
-      "lat": 39.1105,
-      "lng": 27.7338,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        27.7338,
-        39.1105
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7338,
-            39.1105
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "BAKIR-KIRKAGAC (MANISA)",
-          "time": "2025.07.15 09:13:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.15",
-      "date_hour": "09:13:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.15 08:37:21",
-      "lat": 39.5682,
-      "lng": 25.4183,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "13.7",
-      "coordinates": [
-        25.4183,
-        39.5682
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.4183,
-            39.5682
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "EGE DENIZI",
-          "time": "2025.07.15 08:37:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.15",
-      "date_hour": "08:37:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "SENOVA-KOVANCILAR (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.07.15 07:15:50",
-      "lat": 38.7475,
-      "lng": 39.983,
-      "md": "-.-",
-      "ml": "2.9",
-      "mw": "-.-",
-      "depth": "6.6",
-      "coordinates": [
-        39.983,
-        38.7475
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.983,
-            38.7475
-          ]
-        },
-        "properties": {
-          "mag": "2.9",
-          "place": "SENOVA-KOVANCILAR (ELAZIG)",
-          "time": "2025.07.15 07:15:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.15",
-      "date_hour": "07:15:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
-    },
-    {
-      "title": "CATAK-GONEN (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.07.15 07:10:10",
-      "lat": 39.9813,
-      "lng": 27.6803,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "18.6",
-      "coordinates": [
-        27.6803,
-        39.9813
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.6803,
-            39.9813
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "CATAK-GONEN (BALIKESIR)",
-          "time": "2025.07.15 07:10:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.15",
-      "date_hour": "07:10:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "CAKIRGUMUS-LADIK (SAMSUN)",
-      "type": "�lksel",
-      "date": "2025.07.15 06:08:54",
-      "lat": 40.8738,
-      "lng": 35.9468,
-      "md": "-.-",
-      "ml": "3.8",
-      "mw": "3.7",
-      "depth": "5.8",
-      "coordinates": [
-        35.9468,
-        40.8738
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.9468,
-            40.8738
-          ]
-        },
-        "properties": {
-          "mag": "3.8",
-          "place": "CAKIRGUMUS-LADIK (SAMSUN)",
-          "time": "2025.07.15 06:08:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.15",
-      "date_hour": "06:08:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SAMSUN"
     }
   ]
 }
