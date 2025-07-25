@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-25T21:49:03.610Z",
+  "lastUpdate": "2025-07-25T21:57:27.288Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOZLUK-KALE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.26 00:41:50",
+      "lat": 38.3797,
+      "lng": 38.7937,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "12.6",
+      "coordinates": [
+        38.7937,
+        38.3797
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.7937,
+            38.3797
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KOZLUK-KALE (MALATYA)",
+          "time": "2025.07.26 00:41:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.26",
+      "date_hour": "00:41:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "YESILYURT-KEMALPASA (IZMIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "GAZIEMIR (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.07.16 19:35:48",
-      "lat": 38.3238,
-      "lng": 27.1593,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "10.1",
-      "coordinates": [
-        27.1593,
-        38.3238
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1593,
-            38.3238
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "GAZIEMIR (IZMIR)",
-          "time": "2025.07.16 19:35:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.16",
-      "date_hour": "19:35:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
