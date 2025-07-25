@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-25T08:16:41.525Z",
+  "lastUpdate": "2025-07-25T08:44:59.297Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BELEK ACIKLARI-ANTALYA (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.07.25 11:17:26",
+      "lat": 36.7397,
+      "lng": 31.1525,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "2.4",
+      "depth": "15.7",
+      "coordinates": [
+        31.1525,
+        36.7397
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.1525,
+            36.7397
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "BELEK ACIKLARI-ANTALYA (AKDENIZ)",
+          "time": "2025.07.25 11:17:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.25",
+      "date_hour": "11:17:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "KARAGOL-CELIKHAN (ADIYAMAN) REVIZE01 (2025.07.25",
       "type": "10:36:04)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "CIVILI-ORHANELI (BURSA)",
-      "type": "�lksel",
-      "date": "2025.07.16 10:46:58",
-      "lat": 39.8965,
-      "lng": 28.7943,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        28.7943,
-        39.8965
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7943,
-            39.8965
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "CIVILI-ORHANELI (BURSA)",
-          "time": "2025.07.16 10:46:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.16",
-      "date_hour": "10:46:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
     }
   ]
 }
