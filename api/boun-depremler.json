@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-25T05:58:43.251Z",
+  "lastUpdate": "2025-07-25T06:37:02.953Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.25 09:18:59",
+      "lat": 39.2285,
+      "lng": 29.0385,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "8.5",
+      "coordinates": [
+        29.0385,
+        39.2285
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0385,
+            39.2285
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KATRANDAGI-EMET (KUTAHYA)",
+          "time": "2025.07.25 09:18:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.25",
+      "date_hour": "09:18:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KARAKUYU-MENDERES (IZMIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.07.16 04:37:10",
-      "lat": 41.2855,
-      "lng": 24.4368,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        24.4368,
-        41.2855
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.4368,
-            41.2855
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YUNANISTAN",
-          "time": "2025.07.16 04:37:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.16",
-      "date_hour": "04:37:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
