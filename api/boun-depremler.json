@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-25T16:44:07.405Z",
+  "lastUpdate": "2025-07-25T16:59:31.836Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -253,6 +253,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
+    },
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.25 18:31:58",
+      "lat": 40.8238,
+      "lng": 28.1602,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "13.5",
+      "coordinates": [
+        28.1602,
+        40.8238
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1602,
+            40.8238
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "MARMARA DENIZI",
+          "time": "2025.07.25 18:31:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.25",
+      "date_hour": "18:31:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "YENIBASLAR-(BINGOL)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "GAZIANTEP"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.16 18:56:32",
-      "lat": 36.5602,
-      "lng": 25.532,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "11.7",
-      "coordinates": [
-        25.532,
-        36.5602
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.532,
-            36.5602
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "EGE DENIZI",
-          "time": "2025.07.16 18:56:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.16",
-      "date_hour": "18:56:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
