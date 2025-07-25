@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-25T05:47:08.527Z",
+  "lastUpdate": "2025-07-25T05:58:43.251Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAKUYU-MENDERES (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.07.25 08:43:39",
+      "lat": 38.1113,
+      "lng": 27.2108,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        27.2108,
+        38.1113
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.2108,
+            38.1113
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KARAKUYU-MENDERES (IZMIR)",
+          "time": "2025.07.25 08:43:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.25",
+      "date_hour": "08:43:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
     {
       "title": "KIRLANGIC-YESILYURT (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "AKTAS-KEMAH (ERZINCAN)",
-      "type": "�lksel",
-      "date": "2025.07.16 04:19:55",
-      "lat": 39.8188,
-      "lng": 39.1038,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        39.1038,
-        39.8188
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.1038,
-            39.8188
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "AKTAS-KEMAH (ERZINCAN)",
-          "time": "2025.07.16 04:19:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.16",
-      "date_hour": "04:19:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
     }
   ]
 }
