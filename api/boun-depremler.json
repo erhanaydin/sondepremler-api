@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-26T08:00:02.733Z",
+  "lastUpdate": "2025-07-26T08:33:15.950Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ASAGI CAPAK-CIVRIL (DENIZLI)",
+      "type": "�lksel",
+      "date": "2025.07.26 10:50:20",
+      "lat": 38.433,
+      "lng": 29.897,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "7.4",
+      "coordinates": [
+        29.897,
+        38.433
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.897,
+            38.433
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "ASAGI CAPAK-CIVRIL (DENIZLI)",
+          "time": "2025.07.26 10:50:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.26",
+      "date_hour": "10:50:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "ZAFER-BUCA (IZMIR)",
       "type": "�lksel",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
+    },
+    {
+      "title": "YALINCA-TEKMAN (ERZURUM)",
+      "type": "�lksel",
+      "date": "2025.07.26 09:02:24",
+      "lat": 39.7112,
+      "lng": 41.3402,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "2.8",
+      "depth": "5.0",
+      "coordinates": [
+        41.3402,
+        39.7112
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.3402,
+            39.7112
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "YALINCA-TEKMAN (ERZURUM)",
+          "time": "2025.07.26 09:02:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.26",
+      "date_hour": "09:02:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZURUM"
     },
     {
       "title": "AKDENIZ",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZURUM"
-    },
-    {
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.07.17 01:58:19",
-      "lat": 37.9088,
-      "lng": 27.1323,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "6.4",
-      "coordinates": [
-        27.1323,
-        37.9088
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1323,
-            37.9088
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KUSADASI KORFEZI (EGE DENIZI)",
-          "time": "2025.07.17 01:58:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.17",
-      "date_hour": "01:58:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
-    },
-    {
-      "title": "MORALILAR-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.07.17 00:22:13",
-      "lat": 38.8765,
-      "lng": 27.8435,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "10.6",
-      "coordinates": [
-        27.8435,
-        38.8765
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.8435,
-            38.8765
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "MORALILAR-AKHISAR (MANISA)",
-          "time": "2025.07.17 00:22:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.17",
-      "date_hour": "00:22:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
