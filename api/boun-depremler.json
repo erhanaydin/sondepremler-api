@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-26T17:59:55.287Z",
+  "lastUpdate": "2025-07-26T18:36:31.281Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEMRE (ANTALYA)",
+      "type": "�lksel",
+      "date": "2025.07.26 20:19:02",
+      "lat": 36.2498,
+      "lng": 30.0018,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "8.2",
+      "coordinates": [
+        30.0018,
+        36.2498
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.0018,
+            36.2498
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "DEMRE (ANTALYA)",
+          "time": "2025.07.26 20:19:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.26",
+      "date_hour": "20:19:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANTALYA"
+    },
     {
       "title": "OVACIK-HONAZ (DENIZLI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "GEBEN-ANDIRIN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.17 04:14:38",
-      "lat": 37.8097,
-      "lng": 36.4463,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "7.3",
-      "coordinates": [
-        36.4463,
-        37.8097
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.4463,
-            37.8097
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "GEBEN-ANDIRIN (KAHRAMANMARAS)",
-          "time": "2025.07.17 04:14:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.17",
-      "date_hour": "04:14:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
