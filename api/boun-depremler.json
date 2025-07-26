@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-26T06:53:16.002Z",
+  "lastUpdate": "2025-07-26T07:11:23.657Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MURSEL-MUDANYA (BURSA)",
+      "type": "�lksel",
+      "date": "2025.07.26 09:33:51",
+      "lat": 40.2892,
+      "lng": 28.902,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "14.5",
+      "coordinates": [
+        28.902,
+        40.2892
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.902,
+            40.2892
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "MURSEL-MUDANYA (BURSA)",
+          "time": "2025.07.26 09:33:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.26",
+      "date_hour": "09:33:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "TEKEDERESI-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.16 21:55:22",
-      "lat": 38.1493,
-      "lng": 38.5833,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "27.5",
-      "coordinates": [
-        38.5833,
-        38.1493
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.5833,
-            38.1493
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "TEKEDERESI-PUTURGE (MALATYA)",
-          "time": "2025.07.16 21:55:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.16",
-      "date_hour": "21:55:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
