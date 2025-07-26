@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-26T05:56:55.126Z",
+  "lastUpdate": "2025-07-26T06:28:14.636Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.07.26 09:01:07",
+      "lat": 36.0455,
+      "lng": 35.6,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "8.6",
+      "coordinates": [
+        35.6,
+        36.0455
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.6,
+            36.0455
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "AKDENIZ",
+          "time": "2025.07.26 09:01:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.26",
+      "date_hour": "09:01:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "ODABASI-(HATAY)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "TARLATEPE-SIVRICE (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.07.16 21:50:37",
-      "lat": 38.3897,
-      "lng": 39.0493,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        39.0493,
-        38.3897
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.0493,
-            38.3897
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "TARLATEPE-SIVRICE (ELAZIG)",
-          "time": "2025.07.16 21:50:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.16",
-      "date_hour": "21:50:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
