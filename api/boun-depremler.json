@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-26T17:51:28.579Z",
+  "lastUpdate": "2025-07-26T17:59:55.287Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "OVACIK-HONAZ (DENIZLI)",
+      "type": "�lksel",
+      "date": "2025.07.26 19:42:02",
+      "lat": 37.7882,
+      "lng": 29.1545,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "18.1",
+      "coordinates": [
+        29.1545,
+        37.7882
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1545,
+            37.7882
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "OVACIK-HONAZ (DENIZLI)",
+          "time": "2025.07.26 19:42:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.26",
+      "date_hour": "19:42:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "ATLIDERE-FETHIYE (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "CAMLIK-SELCUK (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.07.17 04:11:24",
-      "lat": 37.9042,
-      "lng": 27.4003,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "4.9",
-      "coordinates": [
-        27.4003,
-        37.9042
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.4003,
-            37.9042
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "CAMLIK-SELCUK (IZMIR)",
-          "time": "2025.07.17 04:11:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.17",
-      "date_hour": "04:11:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
