@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-27T09:50:10.187Z",
+  "lastUpdate": "2025-07-27T09:58:11.514Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CEVIRME-AKCADAG (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.07.27 12:48:21",
+      "lat": 38.269,
+      "lng": 37.7785,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        37.7785,
+        38.269
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.7785,
+            38.269
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "CEVIRME-AKCADAG (MALATYA)",
+          "time": "2025.07.27 12:48:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.27",
+      "date_hour": "12:48:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "GOKOVA KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -181,6 +217,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.27 10:32:31",
+      "lat": 39.2415,
+      "lng": 28.9928,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        28.9928,
+        39.2415
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9928,
+            39.2415
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.07.27 10:32:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.27",
+      "date_hour": "10:32:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "ARICILAR-ULA (MUGLA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "KADIKOY-BIGADIC (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.07.17 12:59:06",
-      "lat": 39.446,
-      "lng": 28.0757,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        28.0757,
-        39.446
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0757,
-            39.446
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KADIKOY-BIGADIC (BALIKESIR)",
-          "time": "2025.07.17 12:59:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.17",
-      "date_hour": "12:59:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "MAHMUTOGLAN-CUBUK (ANKARA)",
-      "type": "�lksel",
-      "date": "2025.07.17 12:45:14",
-      "lat": 40.3747,
-      "lng": 33.004,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "7.6",
-      "coordinates": [
-        33.004,
-        40.3747
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.004,
-            40.3747
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "MAHMUTOGLAN-CUBUK (ANKARA)",
-          "time": "2025.07.17 12:45:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.17",
-      "date_hour": "12:45:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
