@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-27T22:13:04.222Z",
+  "lastUpdate": "2025-07-27T22:37:36.043Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKYAR-KORKUTELI (ANTALYA)",
+      "type": "�lksel",
+      "date": "2025.07.28 00:53:35",
+      "lat": 37.1228,
+      "lng": 30.1665,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "103.0",
+      "coordinates": [
+        30.1665,
+        37.1228
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1665,
+            37.1228
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "AKYAR-KORKUTELI (ANTALYA)",
+          "time": "2025.07.28 00:53:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.28",
+      "date_hour": "00:53:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANTALYA"
+    },
     {
       "title": "SUGUL-DARENDE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.07.18 03:01:37",
-      "lat": 39.2313,
-      "lng": 29.0213,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "9.9",
-      "coordinates": [
-        29.0213,
-        39.2313
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0213,
-            39.2313
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.07.18 03:01:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.18",
-      "date_hour": "03:01:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
