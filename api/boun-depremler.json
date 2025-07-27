@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-27T18:52:26.974Z",
+  "lastUpdate": "2025-07-27T19:07:26.517Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.07.27 21:50:07",
+      "lat": 36.0947,
+      "lng": 34.6402,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "9.0",
+      "coordinates": [
+        34.6402,
+        36.0947
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.6402,
+            36.0947
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "AKDENIZ",
+          "time": "2025.07.27 21:50:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.27",
+      "date_hour": "21:50:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZURUM"
-    },
-    {
-      "title": "DEREOBASI-(OSMANIYE)",
-      "type": "�lksel",
-      "date": "2025.07.17 23:46:27",
-      "lat": 37.0328,
-      "lng": 36.2437,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "5.7",
-      "coordinates": [
-        36.2437,
-        37.0328
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.2437,
-            37.0328
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "DEREOBASI-(OSMANIYE)",
-          "time": "2025.07.17 23:46:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.17",
-      "date_hour": "23:46:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "OSMANIYE"
     }
   ]
 }
