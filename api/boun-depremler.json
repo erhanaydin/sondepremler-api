@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-27T18:27:59.527Z",
+  "lastUpdate": "2025-07-27T18:52:26.974Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.07.27 20:45:46",
+      "lat": 35.7807,
+      "lng": 30.3937,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "4.5",
+      "coordinates": [
+        30.3937,
+        35.7807
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3937,
+            35.7807
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "AKDENIZ",
+          "time": "2025.07.27 20:45:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.27",
+      "date_hour": "20:45:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "YUVA-GURUN (SIVAS)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "OSMANIYE"
-    },
-    {
-      "title": "COMLEKCI-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.07.17 23:41:51",
-      "lat": 40.233,
-      "lng": 27.0305,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "9.5",
-      "coordinates": [
-        27.0305,
-        40.233
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0305,
-            40.233
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "COMLEKCI-BIGA (CANAKKALE)",
-          "time": "2025.07.17 23:41:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.17",
-      "date_hour": "23:41:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
