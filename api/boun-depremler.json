@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-27T08:56:27.427Z",
+  "lastUpdate": "2025-07-27T09:18:29.480Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ARICILAR-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.07.27 10:08:50",
+      "lat": 37.0967,
+      "lng": 28.595,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "4.9",
+      "coordinates": [
+        28.595,
+        37.0967
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.595,
+            37.0967
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "ARICILAR-ULA (MUGLA)",
+          "time": "2025.07.27 10:08:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.27",
+      "date_hour": "10:08:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "UCGOZE-YESILYURT (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "KARACAOREN-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.07.17 11:24:49",
-      "lat": 39.1845,
-      "lng": 29.0215,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "12.1",
-      "coordinates": [
-        29.0215,
-        39.1845
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0215,
-            39.1845
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KARACAOREN-SIMAV (KUTAHYA)",
-          "time": "2025.07.17 11:24:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.17",
-      "date_hour": "11:24:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
