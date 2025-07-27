@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-27T04:29:49.170Z",
+  "lastUpdate": "2025-07-27T05:01:32.174Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MIDILLI ADASI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.27 07:24:12",
+      "lat": 39.3723,
+      "lng": 26.2972,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "14.9",
+      "coordinates": [
+        26.2972,
+        39.3723
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.2972,
+            39.3723
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "MIDILLI ADASI (EGE DENIZI)",
+          "time": "2025.07.27 07:24:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.27",
+      "date_hour": "07:24:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "KULLAR-NURHAK (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "CAYLI-TEFENNI (BURDUR)",
-      "type": "�lksel",
-      "date": "2025.07.17 09:03:01",
-      "lat": 37.2023,
-      "lng": 29.8607,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        29.8607,
-        37.2023
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.8607,
-            37.2023
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "CAYLI-TEFENNI (BURDUR)",
-          "time": "2025.07.17 09:03:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.17",
-      "date_hour": "09:03:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURDUR"
     }
   ]
 }
