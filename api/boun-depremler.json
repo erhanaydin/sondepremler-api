@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-27T20:36:40.956Z",
+  "lastUpdate": "2025-07-27T20:49:42.324Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.07.27 22:50:48",
+      "lat": 35.6727,
+      "lng": 28.4443,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "10.0",
+      "coordinates": [
+        28.4443,
+        35.6727
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.4443,
+            35.6727
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "AKDENIZ",
+          "time": "2025.07.27 22:50:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.27",
+      "date_hour": "22:50:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "YOGURTCULAR-SENKAYA (ERZURUM)",
-      "type": "�lksel",
-      "date": "2025.07.17 23:56:39",
-      "lat": 40.7165,
-      "lng": 42.3225,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "5.6",
-      "coordinates": [
-        42.3225,
-        40.7165
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.3225,
-            40.7165
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "YOGURTCULAR-SENKAYA (ERZURUM)",
-          "time": "2025.07.17 23:56:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.17",
-      "date_hour": "23:56:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZURUM"
     }
   ]
 }
