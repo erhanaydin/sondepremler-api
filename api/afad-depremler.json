@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ege Denizi",
+    "type": "İlksel",
+    "date": "2025-07-27 15:50:46",
+    "lat": 36.58306,
+    "lng": 25.60139,
+    "md": "-.-",
+    "ml": "2.2",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      25.60139,
+      36.58306
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.60139,
+          36.58306
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi (Muğla)",
+        "time": 1753631446000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-27",
+    "date_hour": "15:50:46",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Muğla"
+  },
+  {
     "title": "Acıpayam (Denizli)",
     "type": "İlksel",
     "date": "2025-07-27 15:50:28",
@@ -13138,41 +13174,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Malatya"
-  },
-  {
-    "title": "Ahlat (Bitlis)",
-    "type": "İlksel",
-    "date": "2025-07-22 16:47:13",
-    "lat": 38.81361,
-    "lng": 42.42528,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 6.24,
-    "coordinates": [
-      42.42528,
-      38.81361
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.42528,
-          38.81361
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ahlat (Bitlis) (Bitlis)",
-        "time": 1753202833000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-22",
-    "date_hour": "16:47:13",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Bitlis"
   }
 ]
