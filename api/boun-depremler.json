@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-28T06:00:30.896Z",
+  "lastUpdate": "2025-07-28T06:46:19.612Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.28 09:07:03",
+      "lat": 36.9283,
+      "lng": 26.6177,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "17.0",
+      "coordinates": [
+        26.6177,
+        36.9283
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.6177,
+            36.9283
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "EGE DENIZI",
+          "time": "2025.07.28 09:07:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.28",
+      "date_hour": "09:07:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "RODOS ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.07.28 08:55:06",
+      "lat": 36.1852,
+      "lng": 27.7228,
+      "md": "-.-",
+      "ml": "3.0",
+      "mw": "-.-",
+      "depth": "7.1",
+      "coordinates": [
+        27.7228,
+        36.1852
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.7228,
+            36.1852
+          ]
+        },
+        "properties": {
+          "mag": "3.0",
+          "place": "RODOS ADASI (AKDENIZ)",
+          "time": "2025.07.28 08:55:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.28",
+      "date_hour": "08:55:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "CINARKOY-DURSUNBEY (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "TUNCELI"
-    },
-    {
-      "title": "GUNDEGER-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.18 07:52:24",
-      "lat": 38.31,
-      "lng": 38.8492,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "3.0",
-      "coordinates": [
-        38.8492,
-        38.31
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.8492,
-            38.31
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "GUNDEGER-PUTURGE (MALATYA)",
-          "time": "2025.07.18 07:52:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.18",
-      "date_hour": "07:52:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "KARSIYAKA-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.18 07:49:30",
-      "lat": 38.2842,
-      "lng": 38.8098,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        38.8098,
-        38.2842
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.8098,
-            38.2842
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "KARSIYAKA-PUTURGE (MALATYA)",
-          "time": "2025.07.18 07:49:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.18",
-      "date_hour": "07:49:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
