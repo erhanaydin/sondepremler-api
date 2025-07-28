@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-28T21:20:53.578Z",
+  "lastUpdate": "2025-07-28T21:37:11.676Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CAYHISAR-KOYCEGIZ (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.07.28 23:34:18",
+      "lat": 37.0113,
+      "lng": 28.8647,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "8.3",
+      "coordinates": [
+        28.8647,
+        37.0113
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8647,
+            37.0113
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "CAYHISAR-KOYCEGIZ (MUGLA)",
+          "time": "2025.07.28 23:34:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.28",
+      "date_hour": "23:34:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "YENIKOY-EKINOZU (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KARAMUSA-TEFENNI (BURDUR)",
-      "type": "�lksel",
-      "date": "2025.07.18 23:29:22",
-      "lat": 37.1795,
-      "lng": 29.7243,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "14.7",
-      "coordinates": [
-        29.7243,
-        37.1795
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.7243,
-            37.1795
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "KARAMUSA-TEFENNI (BURDUR)",
-          "time": "2025.07.18 23:29:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.18",
-      "date_hour": "23:29:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURDUR"
     }
   ]
 }
