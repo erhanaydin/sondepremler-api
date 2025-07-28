@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-28T07:38:51.490Z",
+  "lastUpdate": "2025-07-28T07:52:01.158Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ESENLI-SUMBAS (OSMANIYE)",
+      "type": "�lksel",
+      "date": "2025.07.28 10:07:33",
+      "lat": 37.6202,
+      "lng": 36.0935,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        36.0935,
+        37.6202
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.0935,
+            37.6202
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "ESENLI-SUMBAS (OSMANIYE)",
+          "time": "2025.07.28 10:07:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.28",
+      "date_hour": "10:07:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "OSMANIYE"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BINGOL"
-    },
-    {
-      "title": "DALLIBAHCE-NAZIMIYE (TUNCELI)",
-      "type": "�lksel",
-      "date": "2025.07.18 08:24:31",
-      "lat": 39.1323,
-      "lng": 39.8682,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "17.9",
-      "coordinates": [
-        39.8682,
-        39.1323
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.8682,
-            39.1323
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "DALLIBAHCE-NAZIMIYE (TUNCELI)",
-          "time": "2025.07.18 08:24:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.18",
-      "date_hour": "08:24:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TUNCELI"
     }
   ]
 }
