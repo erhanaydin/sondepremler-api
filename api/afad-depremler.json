@@ -1,5 +1,41 @@
 [
   {
+    "title": "Simav (Kütahya)",
+    "type": "İlksel",
+    "date": "2025-07-28 07:54:27",
+    "lat": 39.22667,
+    "lng": 28.98222,
+    "md": "-.-",
+    "ml": "1.4",
+    "mw": "-.-",
+    "depth": 14.5,
+    "coordinates": [
+      28.98222,
+      39.22667
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.98222,
+          39.22667
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Simav (Kütahya) (Kütahya)",
+        "time": 1753689267000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-28",
+    "date_hour": "07:54:27",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
+  },
+  {
     "title": "Sumbas (Osmaniye)",
     "type": "İlksel",
     "date": "2025-07-28 07:07:32",
@@ -12850,77 +12886,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Muğla"
-  },
-  {
-    "title": "Hamur (Ağrı)",
-    "type": "İlksel",
-    "date": "2025-07-23 08:36:19",
-    "lat": 39.61806,
-    "lng": 42.95306,
-    "md": "-.-",
-    "ml": "0.8",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      42.95306,
-      39.61806
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.95306,
-          39.61806
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Hamur (Ağrı) (Ağrı)",
-        "time": 1753259779000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-23",
-    "date_hour": "08:36:19",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Ağrı"
-  },
-  {
-    "title": "Kırkağaç (Manisa)",
-    "type": "Güncellenmiş",
-    "date": "2025-07-23 08:17:45",
-    "lat": 39.10056,
-    "lng": 27.71417,
-    "md": "-.-",
-    "ml": "0.9",
-    "mw": "-.-",
-    "depth": 6.99,
-    "coordinates": [
-      27.71417,
-      39.10056
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.71417,
-          39.10056
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Kırkağaç (Manisa) (Manisa)",
-        "time": 1753258665000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-23",
-    "date_hour": "08:17:45",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Manisa"
   }
 ]
