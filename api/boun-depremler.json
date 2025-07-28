@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-28T04:06:59.781Z",
+  "lastUpdate": "2025-07-28T04:54:44.814Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BOZGEDIK-CELIKHAN (ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2025.07.28 07:29:36",
+      "lat": 38.0843,
+      "lng": 38.3085,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "1.4",
+      "coordinates": [
+        38.3085,
+        38.0843
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.3085,
+            38.0843
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "BOZGEDIK-CELIKHAN (ADIYAMAN)",
+          "time": "2025.07.28 07:29:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.28",
+      "date_hour": "07:29:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
+    },
     {
       "title": "KINIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "GOKOVA KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.07.18 07:04:04",
-      "lat": 36.9137,
-      "lng": 27.7848,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "5.6",
-      "coordinates": [
-        27.7848,
-        36.9137
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7848,
-            36.9137
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "GOKOVA KORFEZI (EGE DENIZI)",
-          "time": "2025.07.18 07:04:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.18",
-      "date_hour": "07:04:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
