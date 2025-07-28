@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-28T19:41:24.856Z",
+  "lastUpdate": "2025-07-28T19:50:43.584Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,78 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIVAS"
+    },
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.28 21:46:50",
+      "lat": 39.216,
+      "lng": 29.0338,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "11.2",
+      "coordinates": [
+        29.0338,
+        39.216
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0338,
+            39.216
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.07.28 21:46:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.28",
+      "date_hour": "21:46:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.28 21:26:13",
+      "lat": 39.2037,
+      "lng": 29.0257,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "1.2",
+      "coordinates": [
+        29.0257,
+        39.2037
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0257,
+            39.2037
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.07.28 21:26:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.28",
+      "date_hour": "21:26:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "ORDEKKOY-AFSIN (KAHRAMANMARAS)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "ARIKONAK-SINCIK (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.07.18 22:38:22",
-      "lat": 38.1065,
-      "lng": 38.5585,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "9.5",
-      "coordinates": [
-        38.5585,
-        38.1065
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.5585,
-            38.1065
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "ARIKONAK-SINCIK (ADIYAMAN)",
-          "time": "2025.07.18 22:38:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.18",
-      "date_hour": "22:38:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
-    },
-    {
-      "title": "KARAKUZU-ZILE (TOKAT)",
-      "type": "�lksel",
-      "date": "2025.07.18 22:33:56",
-      "lat": 40.1255,
-      "lng": 35.9215,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        35.9215,
-        40.1255
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.9215,
-            40.1255
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KARAKUZU-ZILE (TOKAT)",
-          "time": "2025.07.18 22:33:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.18",
-      "date_hour": "22:33:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TOKAT"
     }
   ]
 }
