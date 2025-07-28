@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-28T21:56:52.343Z",
+  "lastUpdate": "2025-07-28T22:19:47.213Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ESENKOY-YATAGAN (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.07.29 01:00:28",
+      "lat": 37.3703,
+      "lng": 28.3282,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        28.3282,
+        37.3703
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3282,
+            37.3703
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ESENKOY-YATAGAN (MUGLA)",
+          "time": "2025.07.29 01:00:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.29",
+      "date_hour": "01:00:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "SENIR-GUNDOGMUS (ANTALYA)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANTALYA"
+    },
+    {
+      "title": "GEBELEK-PINARBASI (KAYSERI)",
+      "type": "�lksel",
+      "date": "2025.07.29 00:46:59",
+      "lat": 38.7002,
+      "lng": 36.488,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "8.5",
+      "coordinates": [
+        36.488,
+        38.7002
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.488,
+            38.7002
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "GEBELEK-PINARBASI (KAYSERI)",
+          "time": "2025.07.29 00:46:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.29",
+      "date_hour": "00:46:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAYSERI"
     },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "KARANLIKDERE-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.19 00:55:30",
-      "lat": 37.9065,
-      "lng": 37.8742,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "8.1",
-      "coordinates": [
-        37.8742,
-        37.9065
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.8742,
-            37.9065
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "KARANLIKDERE-DOGANSEHIR (MALATYA)",
-          "time": "2025.07.19 00:55:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.19",
-      "date_hour": "00:55:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.07.19 00:15:13",
-      "lat": 38.9965,
-      "lng": 26.0835,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        26.0835,
-        38.9965
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.0835,
-            38.9965
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-          "time": "2025.07.19 00:15:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.19",
-      "date_hour": "00:15:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
