@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-28T18:15:10.377Z",
+  "lastUpdate": "2025-07-28T18:49:39.039Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ORDEKKOY-AFSIN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.28 21:07:23",
+      "lat": 38.1782,
+      "lng": 36.8717,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        36.8717,
+        38.1782
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8717,
+            38.1782
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "ORDEKKOY-AFSIN (KAHRAMANMARAS)",
+          "time": "2025.07.28 21:07:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.28",
+      "date_hour": "21:07:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.07.28 20:06:42",
+      "lat": 40.192,
+      "lng": 31.7422,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        31.7422,
+        40.192
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.7422,
+            40.192
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "HIRKATEPE-BEYPAZARI (ANKARA)",
+          "time": "2025.07.28 20:06:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.28",
+      "date_hour": "20:06:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
     },
     {
       "title": "DURASILLI-(MANISA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.07.18 22:09:27",
-      "lat": 39.5643,
-      "lng": 26.027,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "10.0",
-      "coordinates": [
-        26.027,
-        39.5643
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.027,
-            39.5643
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
-          "time": "2025.07.18 22:09:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.18",
-      "date_hour": "22:09:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
-    },
-    {
-      "title": "CORTUNLU-SIVRICE (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.07.18 22:08:27",
-      "lat": 38.4275,
-      "lng": 39.0102,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "13.5",
-      "coordinates": [
-        39.0102,
-        38.4275
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.0102,
-            38.4275
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "CORTUNLU-SIVRICE (ELAZIG)",
-          "time": "2025.07.18 22:08:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.18",
-      "date_hour": "22:08:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
