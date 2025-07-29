@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-29T15:32:41.147Z",
+  "lastUpdate": "2025-07-29T15:51:15.459Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.29 18:28:12",
+      "lat": 36.9738,
+      "lng": 27.7303,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        27.7303,
+        36.9738
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.7303,
+            36.9738
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "GOKOVA KORFEZI (EGE DENIZI)",
+          "time": "2025.07.29 18:28:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.29",
+      "date_hour": "18:28:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.29 18:24:15",
+      "lat": 39.2457,
+      "lng": 28.9892,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "6.8",
+      "coordinates": [
+        28.9892,
+        39.2457
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9892,
+            39.2457
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.07.29 18:24:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.29",
+      "date_hour": "18:24:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "SUGUL-DARENDE (MALATYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "HAMZABEY-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.07.20 05:31:05",
-      "lat": 39.2173,
-      "lng": 28.9277,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "12.2",
-      "coordinates": [
-        28.9277,
-        39.2173
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9277,
-            39.2173
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "HAMZABEY-SIMAV (KUTAHYA)",
-          "time": "2025.07.20 05:31:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.20",
-      "date_hour": "05:31:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "TASLICA-MARMARIS (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.07.20 04:53:56",
-      "lat": 36.6217,
-      "lng": 28.0405,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        28.0405,
-        36.6217
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0405,
-            36.6217
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "TASLICA-MARMARIS (MUGLA)",
-          "time": "2025.07.20 04:53:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.20",
-      "date_hour": "04:53:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
