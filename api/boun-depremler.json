@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-29T19:47:21.526Z",
+  "lastUpdate": "2025-07-29T19:55:30.724Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.29 22:36:29",
+      "lat": 35.814,
+      "lng": 25.8647,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        25.8647,
+        35.814
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.8647,
+            35.814
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "EGE DENIZI",
+          "time": "2025.07.29 22:36:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.29",
+      "date_hour": "22:36:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YORUKOGLU-(MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BOLU"
-    },
-    {
-      "title": "DUMREKHUSEYINPASA-TAVSANLI (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.07.20 13:28:32",
-      "lat": 39.5482,
-      "lng": 29.0968,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "17.8",
-      "coordinates": [
-        29.0968,
-        39.5482
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0968,
-            39.5482
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "DUMREKHUSEYINPASA-TAVSANLI (KUTAHYA)",
-          "time": "2025.07.20 13:28:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.20",
-      "date_hour": "13:28:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
