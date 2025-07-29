@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-29T20:55:16.606Z",
+  "lastUpdate": "2025-07-29T21:15:04.484Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.29 23:54:44",
+      "lat": 35.8833,
+      "lng": 25.6913,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "7.4",
+      "coordinates": [
+        25.6913,
+        35.8833
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.6913,
+            35.8833
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "EGE DENIZI",
+          "time": "2025.07.29 23:54:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.29",
+      "date_hour": "23:54:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.07.29 23:53:07",
+      "lat": 39.1465,
+      "lng": 28.176,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "9.9",
+      "coordinates": [
+        28.176,
+        39.1465
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.176,
+            39.1465
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.07.29 23:53:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.29",
+      "date_hour": "23:53:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "CAYHISAR-KOYCEGIZ (MUGLA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
-    },
-    {
-      "title": "TEVEKKELLI-(KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.20 20:34:45",
-      "lat": 37.4588,
-      "lng": 37.005,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "11.4",
-      "coordinates": [
-        37.005,
-        37.4588
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.005,
-            37.4588
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "TEVEKKELLI-(KAHRAMANMARAS)",
-          "time": "2025.07.20 20:34:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.20",
-      "date_hour": "20:34:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.20 15:47:51",
-      "lat": 40.824,
-      "lng": 28.0293,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "10.7",
-      "coordinates": [
-        28.0293,
-        40.824
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0293,
-            40.824
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "MARMARA DENIZI",
-          "time": "2025.07.20 15:47:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.20",
-      "date_hour": "15:47:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
