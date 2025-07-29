@@ -1,5 +1,41 @@
 [
   {
+    "title": "Simav (Kütahya)",
+    "type": "İlksel",
+    "date": "2025-07-29 15:24:14",
+    "lat": 39.26,
+    "lng": 28.97556,
+    "md": "-.-",
+    "ml": "2.3",
+    "mw": "-.-",
+    "depth": 7.01,
+    "coordinates": [
+      28.97556,
+      39.26
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97556,
+          39.26
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Simav (Kütahya) (Kütahya)",
+        "time": 1753802654000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-07-29",
+    "date_hour": "15:24:14",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
+  },
+  {
     "title": "Darende (Malatya)",
     "type": "İlksel",
     "date": "2025-07-29 14:27:47",
@@ -13642,77 +13678,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kahramanmaraş"
-  },
-  {
-    "title": "Pınarbaşı (Kayseri)",
-    "type": "İlksel",
-    "date": "2025-07-24 15:16:19",
-    "lat": 38.75944,
-    "lng": 36.50861,
-    "md": "-.-",
-    "ml": "1.8",
-    "mw": "-.-",
-    "depth": 6.93,
-    "coordinates": [
-      36.50861,
-      38.75944
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.50861,
-          38.75944
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Pınarbaşı (Kayseri) (Kayseri)",
-        "time": 1753370179000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-24",
-    "date_hour": "15:16:19",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kayseri"
-  },
-  {
-    "title": "Dursunbey (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-07-24 15:06:41",
-    "lat": 39.70167,
-    "lng": 28.45139,
-    "md": "-.-",
-    "ml": "1.9",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.45139,
-      39.70167
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.45139,
-          39.70167
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Dursunbey (Balıkesir) (Balıkesir)",
-        "time": 1753369601000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-24",
-    "date_hour": "15:06:41",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
