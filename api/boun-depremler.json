@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-29T03:16:42.956Z",
+  "lastUpdate": "2025-07-29T04:16:54.392Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.07.29 06:58:24",
+      "lat": 39.2573,
+      "lng": 28.9687,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "7.3",
+      "coordinates": [
+        28.9687,
+        39.2573
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9687,
+            39.2573
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.07.29 06:58:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.29",
+      "date_hour": "06:58:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "CAYHISAR-KOYCEGIZ (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "YESILDERE-ACIPAYAM (DENIZLI)",
-      "type": "�lksel",
-      "date": "2025.07.19 09:38:36",
-      "lat": 37.4165,
-      "lng": 29.46,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "6.9",
-      "coordinates": [
-        29.46,
-        37.4165
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.46,
-            37.4165
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YESILDERE-ACIPAYAM (DENIZLI)",
-          "time": "2025.07.19 09:38:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.19",
-      "date_hour": "09:38:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
