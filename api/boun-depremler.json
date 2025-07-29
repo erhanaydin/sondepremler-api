@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-29T09:35:56.306Z",
+  "lastUpdate": "2025-07-29T09:53:07.823Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.07.29 12:31:23",
+      "lat": 40.783,
+      "lng": 28.0795,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        28.0795,
+        40.783
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0795,
+            40.783
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "MARMARA DENIZI",
+          "time": "2025.07.29 12:31:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.29",
+      "date_hour": "12:31:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "TUNCBILEK-TAVSANLI (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "KOCBABA-HAZRO (DIYARBAKIR)",
-      "type": "�lksel",
-      "date": "2025.07.20 02:12:14",
-      "lat": 38.2942,
-      "lng": 40.838,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "8.0",
-      "coordinates": [
-        40.838,
-        38.2942
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.838,
-            38.2942
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KOCBABA-HAZRO (DIYARBAKIR)",
-          "time": "2025.07.20 02:12:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.20",
-      "date_hour": "02:12:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DIYARBAKIR"
     }
   ]
 }
