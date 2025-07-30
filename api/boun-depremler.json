@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-30T05:56:37.693Z",
+  "lastUpdate": "2025-07-30T06:31:37.035Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ADIL-SOMA (MANISA)",
+      "type": "�lksel",
+      "date": "2025.07.30 09:11:43",
+      "lat": 39.1147,
+      "lng": 27.5903,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        27.5903,
+        39.1147
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.5903,
+            39.1147
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ADIL-SOMA (MANISA)",
+          "time": "2025.07.30 09:11:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.30",
+      "date_hour": "09:11:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "INKOY-GEVAS (VAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "DUZAGAC-KOZAN (ADANA)",
-      "type": "�lksel",
-      "date": "2025.07.21 06:33:47",
-      "lat": 37.6138,
-      "lng": 35.817,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        35.817,
-        37.6138
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.817,
-            37.6138
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "DUZAGAC-KOZAN (ADANA)",
-          "time": "2025.07.21 06:33:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.21",
-      "date_hour": "06:33:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
