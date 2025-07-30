@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-30T18:59:43.001Z",
+  "lastUpdate": "2025-07-30T19:07:26.144Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "OSMANGAZI (BURSA)",
+      "type": "�lksel",
+      "date": "2025.07.30 21:58:33",
+      "lat": 40.2102,
+      "lng": 29.035,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "7.2",
+      "coordinates": [
+        29.035,
+        40.2102
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.035,
+            40.2102
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "OSMANGAZI (BURSA)",
+          "time": "2025.07.30 21:58:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.30",
+      "date_hour": "21:58:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "TEMURAGA-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.21 13:58:01",
-      "lat": 38.0563,
-      "lng": 36.5595,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "14.0",
-      "coordinates": [
-        36.5595,
-        38.0563
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.5595,
-            38.0563
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "TEMURAGA-GOKSUN (KAHRAMANMARAS)",
-          "time": "2025.07.21 13:58:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.21",
-      "date_hour": "13:58:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
