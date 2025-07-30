@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-30T13:57:14.296Z",
+  "lastUpdate": "2025-07-30T14:20:22.303Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.07.30 16:46:00",
+      "lat": 40.2798,
+      "lng": 24.1368,
+      "md": "-.-",
+      "ml": "3.2",
+      "mw": "-.-",
+      "depth": "11.8",
+      "coordinates": [
+        24.1368,
+        40.2798
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.1368,
+            40.2798
+          ]
+        },
+        "properties": {
+          "mag": "3.2",
+          "place": "YUNANISTAN",
+          "time": "2025.07.30 16:46:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.30",
+      "date_hour": "16:46:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "ZAFER-BUCA (IZMIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "HANYERI-TUFANBEYLI (ADANA)",
-      "type": "�lksel",
-      "date": "2025.07.21 10:40:37",
-      "lat": 38.2325,
-      "lng": 36.0153,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "24.2",
-      "coordinates": [
-        36.0153,
-        38.2325
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.0153,
-            38.2325
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "HANYERI-TUFANBEYLI (ADANA)",
-          "time": "2025.07.21 10:40:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.21",
-      "date_hour": "10:40:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
