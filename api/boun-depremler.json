@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-30T22:56:26.253Z",
+  "lastUpdate": "2025-07-30T23:18:15.480Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOMURKOY-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.31 01:34:14",
+      "lat": 38.1378,
+      "lng": 36.5582,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "7.2",
+      "coordinates": [
+        36.5582,
+        38.1378
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.5582,
+            38.1378
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KOMURKOY-GOKSUN (KAHRAMANMARAS)",
+          "time": "2025.07.31 01:34:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.31",
+      "date_hour": "01:34:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "ESKIHAMAL-GURUN (SIVAS)",
+      "type": "�lksel",
+      "date": "2025.07.31 01:26:09",
+      "lat": 38.8608,
+      "lng": 37.4497,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "10.2",
+      "coordinates": [
+        37.4497,
+        38.8608
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.4497,
+            38.8608
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "ESKIHAMAL-GURUN (SIVAS)",
+          "time": "2025.07.31 01:26:09"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.31",
+      "date_hour": "01:26:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SIVAS"
+    },
     {
       "title": "VAN GOLU",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "SURIYE",
-      "type": "�lksel",
-      "date": "2025.07.21 18:23:22",
-      "lat": 36.4833,
-      "lng": 38.521,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        38.521,
-        36.4833
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.521,
-            36.4833
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "SURIYE",
-          "time": "2025.07.21 18:23:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.21",
-      "date_hour": "18:23:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "YAGCIBEDIR-BIGADIC (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.07.21 18:15:56",
-      "lat": 39.4075,
-      "lng": 28.2035,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "17.3",
-      "coordinates": [
-        28.2035,
-        39.4075
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2035,
-            39.4075
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "YAGCIBEDIR-BIGADIC (BALIKESIR)",
-          "time": "2025.07.21 18:15:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.21",
-      "date_hour": "18:15:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
