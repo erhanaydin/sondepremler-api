@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-07-31T04:30:08.790Z",
+  "lastUpdate": "2025-07-31T05:01:19.061Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BADEMLI-NURDAGI (GAZIANTEP)",
+      "type": "�lksel",
+      "date": "2025.07.31 07:15:40",
+      "lat": 37.2165,
+      "lng": 36.7337,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "5.7",
+      "coordinates": [
+        36.7337,
+        37.2165
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.7337,
+            37.2165
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "BADEMLI-NURDAGI (GAZIANTEP)",
+          "time": "2025.07.31 07:15:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.31",
+      "date_hour": "07:15:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "GAZIANTEP"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.07.31 06:39:37",
+      "lat": 36.1988,
+      "lng": 28.9867,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "9.8",
+      "coordinates": [
+        28.9867,
+        36.1988
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9867,
+            36.1988
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "AKDENIZ",
+          "time": "2025.07.31 06:39:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.31",
+      "date_hour": "06:39:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "ABIDE ACIKLARI-CANAKKALE (EGE DENIZI)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "DEVEBOYNU-AFSIN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.22 02:48:31",
-      "lat": 38.1532,
-      "lng": 36.7807,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "7.1",
-      "coordinates": [
-        36.7807,
-        38.1532
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.7807,
-            38.1532
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "DEVEBOYNU-AFSIN (KAHRAMANMARAS)",
-          "time": "2025.07.22 02:48:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.22",
-      "date_hour": "02:48:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.22 02:40:04",
-      "lat": 36.4087,
-      "lng": 25.4847,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        25.4847,
-        36.4087
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.4847,
-            36.4087
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "EGE DENIZI",
-          "time": "2025.07.22 02:40:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.22",
-      "date_hour": "02:40:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
