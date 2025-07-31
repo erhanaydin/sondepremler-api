@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-31T16:50:24.506Z",
+  "lastUpdate": "2025-07-31T17:11:02.538Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -142,6 +142,42 @@
       "location_properties": "",
       "date_day": "2025.07.31",
       "date_hour": "16:40:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "IRAN",
+      "type": "�lksel",
+      "date": "2025.07.31 16:28:57",
+      "lat": 38.5197,
+      "lng": 45.2823,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "2.9",
+      "depth": "5.0",
+      "coordinates": [
+        45.2823,
+        38.5197
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            45.2823,
+            38.5197
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "IRAN",
+          "time": "2025.07.31 16:28:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.31",
+      "date_hour": "16:28:57",
       "timestamp": false,
       "location_tz": "",
       "city": ""
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "CIFTLIK-KIRKAGAC (MANISA)",
-      "type": "�lksel",
-      "date": "2025.07.22 11:58:26",
-      "lat": 39.0497,
-      "lng": 27.6645,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "16.6",
-      "coordinates": [
-        27.6645,
-        39.0497
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.6645,
-            39.0497
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "CIFTLIK-KIRKAGAC (MANISA)",
-          "time": "2025.07.22 11:58:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.22",
-      "date_hour": "11:58:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
