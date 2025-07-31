@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-31T09:27:42.242Z",
+  "lastUpdate": "2025-07-31T09:48:43.926Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "NURHAK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.07.31 11:54:27",
+      "lat": 37.9992,
+      "lng": 37.4342,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "7.3",
+      "coordinates": [
+        37.4342,
+        37.9992
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.4342,
+            37.9992
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "NURHAK (KAHRAMANMARAS)",
+          "time": "2025.07.31 11:54:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.31",
+      "date_hour": "11:54:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "BALCILAR-KOYCEGIZ (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "GELINPERTEK-YEDISU (BINGOL)",
-      "type": "�lksel",
-      "date": "2025.07.22 07:01:25",
-      "lat": 39.4212,
-      "lng": 40.3777,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "3.0",
-      "coordinates": [
-        40.3777,
-        39.4212
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.3777,
-            39.4212
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "GELINPERTEK-YEDISU (BINGOL)",
-          "time": "2025.07.22 07:01:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.22",
-      "date_hour": "07:01:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
