@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-31T21:55:11.522Z",
+  "lastUpdate": "2025-07-31T22:15:24.336Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.08.01 00:43:04",
+      "lat": 36.1335,
+      "lng": 25.2745,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        25.2745,
+        36.1335
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.2745,
+            36.1335
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "EGE DENIZI",
+          "time": "2025.08.01 00:43:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.01",
+      "date_hour": "00:43:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "CALIS-ELBISTAN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "LADIK (SAMSUN)",
-      "type": "�lksel",
-      "date": "2025.07.22 16:35:33",
-      "lat": 40.9157,
-      "lng": 35.8885,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "8.4",
-      "coordinates": [
-        35.8885,
-        40.9157
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.8885,
-            40.9157
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "LADIK (SAMSUN)",
-          "time": "2025.07.22 16:35:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.22",
-      "date_hour": "16:35:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SAMSUN"
     }
   ]
 }
