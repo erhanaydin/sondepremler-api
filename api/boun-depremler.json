@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-31T10:52:21.847Z",
+  "lastUpdate": "2025-07-31T10:59:16.644Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+      "type": "�lksel",
+      "date": "2025.07.31 13:36:40",
+      "lat": 40.8207,
+      "lng": 28.2827,
+      "md": "-.-",
+      "ml": "3.7",
+      "mw": "-.-",
+      "depth": "11.7",
+      "coordinates": [
+        28.2827,
+        40.8207
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2827,
+            40.8207
+          ]
+        },
+        "properties": {
+          "mag": "3.7",
+          "place": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+          "time": "2025.07.31 13:36:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.31",
+      "date_hour": "13:36:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARMARA DENIZI"
+    },
     {
       "title": "NURHAK (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.07.22 07:25:32",
-      "lat": 39.2467,
-      "lng": 28.9763,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "7.2",
-      "coordinates": [
-        28.9763,
-        39.2467
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9763,
-            39.2467
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.07.22 07:25:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.22",
-      "date_hour": "07:25:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
