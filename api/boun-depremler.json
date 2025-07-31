@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-31T23:46:08.590Z",
+  "lastUpdate": "2025-07-31T23:54:26.966Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURDUR"
+    },
+    {
+      "title": "BAGISLAR-(BOLU)",
+      "type": "�lksel",
+      "date": "2025.08.01 01:27:06",
+      "lat": 40.8788,
+      "lng": 31.748,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "5.1",
+      "coordinates": [
+        31.748,
+        40.8788
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.748,
+            40.8788
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "BAGISLAR-(BOLU)",
+          "time": "2025.08.01 01:27:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.01",
+      "date_hour": "01:27:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BOLU"
     },
     {
       "title": "BOLUKELMA-PALU (ELAZIG)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AYDIN"
-    },
-    {
-      "title": "SOGUKPINAR-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.22 18:52:58",
-      "lat": 38.0795,
-      "lng": 36.4213,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        36.4213,
-        38.0795
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.4213,
-            38.0795
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "SOGUKPINAR-GOKSUN (KAHRAMANMARAS)",
-          "time": "2025.07.22 18:52:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.22",
-      "date_hour": "18:52:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
