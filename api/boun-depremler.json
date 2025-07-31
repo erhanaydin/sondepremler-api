@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-07-31T15:24:01.120Z",
+  "lastUpdate": "2025-07-31T15:43:38.133Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.07.31 16:50:49",
+      "lat": 35.2687,
+      "lng": 27.0252,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "24.2",
+      "coordinates": [
+        27.0252,
+        35.2687
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.0252,
+            35.2687
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2025.07.31 16:50:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.07.31",
+      "date_hour": "16:50:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "SURIYE",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "KARACAOREN-(MUGLA)",
-      "type": "�lksel",
-      "date": "2025.07.22 11:00:37",
-      "lat": 37.1493,
-      "lng": 28.8178,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "14.7",
-      "coordinates": [
-        28.8178,
-        37.1493
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.8178,
-            37.1493
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KARACAOREN-(MUGLA)",
-          "time": "2025.07.22 11:00:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.22",
-      "date_hour": "11:00:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
