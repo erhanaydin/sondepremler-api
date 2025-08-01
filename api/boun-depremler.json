@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-01T22:37:50.672Z",
+  "lastUpdate": "2025-08-01T22:52:09.005Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "INLICE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.08.02 01:33:49",
+      "lat": 39.1175,
+      "lng": 29.1602,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "10.2",
+      "coordinates": [
+        29.1602,
+        39.1175
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1602,
+            39.1175
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "INLICE-SIMAV (KUTAHYA)",
+          "time": "2025.08.02 01:33:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.02",
+      "date_hour": "01:33:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "PUSATLAR-CAVDARHISAR (KUTAHYA)",
       "type": "�lksel",
@@ -17962,42 +17998,6 @@
       "location_properties": "",
       "date_day": "2025.07.23",
       "date_hour": "19:29:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.23 19:02:26",
-      "lat": 36.6777,
-      "lng": 25.5857,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "15.4",
-      "coordinates": [
-        25.5857,
-        36.6777
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.5857,
-            36.6777
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "EGE DENIZI",
-          "time": "2025.07.23 19:02:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.23",
-      "date_hour": "19:02:26",
       "timestamp": false,
       "location_tz": "",
       "city": ""
