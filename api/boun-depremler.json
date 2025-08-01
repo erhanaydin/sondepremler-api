@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-01T10:11:13.446Z",
+  "lastUpdate": "2025-08-01T10:42:15.149Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CUKURKAYA-DARENDE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.08.01 13:21:58",
+      "lat": 38.6027,
+      "lng": 37.4688,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "5.8",
+      "coordinates": [
+        37.4688,
+        38.6027
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.4688,
+            38.6027
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "CUKURKAYA-DARENDE (MALATYA)",
+          "time": "2025.08.01 13:21:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.01",
+      "date_hour": "13:21:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "BAGCAGIZ-MUT (MERSIN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.07.23 05:27:47",
-      "lat": 35.643,
-      "lng": 23.2435,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "5.5",
-      "coordinates": [
-        23.2435,
-        35.643
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            23.2435,
-            35.643
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "GIRIT ADASI (AKDENIZ)",
-          "time": "2025.07.23 05:27:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.23",
-      "date_hour": "05:27:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
