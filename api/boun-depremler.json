@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-08-01T15:58:03.279Z",
+  "lastUpdate": "2025-08-01T16:30:25.055Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIRLANGIC-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.08.01 18:59:36",
+      "lat": 38.2465,
+      "lng": 38.0777,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "10.0",
+      "coordinates": [
+        38.0777,
+        38.2465
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.0777,
+            38.2465
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KIRLANGIC-YESILYURT (MALATYA)",
+          "time": "2025.08.01 18:59:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.01",
+      "date_hour": "18:59:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
+      "title": "CERLER-KAS (ANTALYA)",
+      "type": "�lksel",
+      "date": "2025.08.01 18:49:05",
+      "lat": 36.2742,
+      "lng": 29.7917,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "24.5",
+      "coordinates": [
+        29.7917,
+        36.2742
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.7917,
+            36.2742
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "CERLER-KAS (ANTALYA)",
+          "time": "2025.08.01 18:49:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.01",
+      "date_hour": "18:49:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANTALYA"
+    },
     {
       "title": "YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "VAN"
-    },
-    {
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.07.23 09:09:42",
-      "lat": 35.0087,
-      "lng": 25.5977,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "3.0",
-      "depth": "2.1",
-      "coordinates": [
-        25.5977,
-        35.0087
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.5977,
-            35.0087
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "GIRIT ADASI (AKDENIZ)",
-          "time": "2025.07.23 09:09:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.23",
-      "date_hour": "09:09:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
-    },
-    {
-      "title": "MENEMEN (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.07.23 09:05:08",
-      "lat": 38.6053,
-      "lng": 27.0877,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "17.2",
-      "coordinates": [
-        27.0877,
-        38.6053
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0877,
-            38.6053
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "MENEMEN (IZMIR)",
-          "time": "2025.07.23 09:05:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.23",
-      "date_hour": "09:05:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
