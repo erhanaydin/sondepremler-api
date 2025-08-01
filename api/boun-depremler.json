@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-01T21:46:14.141Z",
+  "lastUpdate": "2025-08-01T21:54:23.075Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CAVUSLU-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.08.02 00:45:45",
+      "lat": 38.1617,
+      "lng": 37.7418,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "6.9",
+      "coordinates": [
+        37.7418,
+        38.1617
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.7418,
+            38.1617
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "CAVUSLU-DOGANSEHIR (MALATYA)",
+          "time": "2025.08.02 00:45:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.02",
+      "date_hour": "00:45:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "YILANLI-KOPRUKOY (ERZURUM)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BINGOL"
-    },
-    {
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.07.23 16:26:54",
-      "lat": 35.8795,
-      "lng": 23.5958,
-      "md": "-.-",
-      "ml": "4.8",
-      "mw": "4.8",
-      "depth": "54.4",
-      "coordinates": [
-        23.5958,
-        35.8795
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            23.5958,
-            35.8795
-          ]
-        },
-        "properties": {
-          "mag": "4.8",
-          "place": "GIRIT ADASI (AKDENIZ)",
-          "time": "2025.07.23 16:26:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.23",
-      "date_hour": "16:26:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
