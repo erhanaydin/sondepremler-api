@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-01T17:17:29.662Z",
+  "lastUpdate": "2025-08-01T17:41:31.960Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "COKEKYAZI-HIZAN (BITLIS)",
+      "type": "�lksel",
+      "date": "2025.08.01 20:24:25",
+      "lat": 38.2798,
+      "lng": 42.3793,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "2.0",
+      "coordinates": [
+        42.3793,
+        38.2798
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            42.3793,
+            38.2798
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "COKEKYAZI-HIZAN (BITLIS)",
+          "time": "2025.08.01 20:24:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.01",
+      "date_hour": "20:24:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BITLIS"
+    },
     {
       "title": "KIRLANGIC-YESILYURT (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "DAGONU-(VAN)",
-      "type": "�lksel",
-      "date": "2025.07.23 10:36:16",
-      "lat": 38.7572,
-      "lng": 43.2677,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "18.5",
-      "coordinates": [
-        43.2677,
-        38.7572
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.2677,
-            38.7572
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "DAGONU-(VAN)",
-          "time": "2025.07.23 10:36:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.23",
-      "date_hour": "10:36:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "VAN"
     }
   ]
 }
