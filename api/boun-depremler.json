@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-01T11:45:46.550Z",
+  "lastUpdate": "2025-08-01T11:54:11.868Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.08.01 14:36:11",
+      "lat": 34.8208,
+      "lng": 33.924,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "42.9",
+      "coordinates": [
+        33.924,
+        34.8208
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.924,
+            34.8208
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "AKDENIZ",
+          "time": "2025.08.01 14:36:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.01",
+      "date_hour": "14:36:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YUNUSLAR-GEDIZ (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
-    },
-    {
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.07.23 05:45:08",
-      "lat": 35.6317,
-      "lng": 23.263,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "5.9",
-      "coordinates": [
-        23.263,
-        35.6317
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            23.263,
-            35.6317
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "GIRIT ADASI (AKDENIZ)",
-          "time": "2025.07.23 05:45:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.23",
-      "date_hour": "05:45:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
