@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-01T19:55:22.448Z",
+  "lastUpdate": "2025-08-01T20:17:52.580Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURDUR"
+    },
+    {
+      "title": "ERMENISTAN",
+      "type": "�lksel",
+      "date": "2025.08.01 22:07:26",
+      "lat": 41.0725,
+      "lng": 43.853,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        43.853,
+        41.0725
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.853,
+            41.0725
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "ERMENISTAN",
+          "time": "2025.08.01 22:07:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.01",
+      "date_hour": "22:07:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "HACIBAYRAM-TERCAN (ERZINCAN)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZURUM"
-    },
-    {
-      "title": "BESEN-(KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.23 14:49:31",
-      "lat": 37.7912,
-      "lng": 36.9358,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "18.6",
-      "coordinates": [
-        36.9358,
-        37.7912
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.9358,
-            37.7912
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BESEN-(KAHRAMANMARAS)",
-          "time": "2025.07.23 14:49:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.23",
-      "date_hour": "14:49:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
