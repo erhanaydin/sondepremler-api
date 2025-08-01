@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-01T19:26:56.266Z",
+  "lastUpdate": "2025-08-01T19:38:58.342Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARACAOREN-(BURDUR)",
+      "type": "�lksel",
+      "date": "2025.08.01 22:24:31",
+      "lat": 37.5297,
+      "lng": 30.2273,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "4.7",
+      "coordinates": [
+        30.2273,
+        37.5297
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2273,
+            37.5297
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KARACAOREN-(BURDUR)",
+          "time": "2025.08.01 22:24:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.01",
+      "date_hour": "22:24:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURDUR"
+    },
     {
       "title": "HACIBAYRAM-TERCAN (ERZINCAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.23 14:02:04",
-      "lat": 36.65,
-      "lng": 25.7005,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "2.3",
-      "coordinates": [
-        25.7005,
-        36.65
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.7005,
-            36.65
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "EGE DENIZI",
-          "time": "2025.07.23 14:02:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.23",
-      "date_hour": "14:02:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
