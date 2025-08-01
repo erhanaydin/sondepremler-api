@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-08-01T18:18:43.463Z",
+  "lastUpdate": "2025-08-01T18:49:27.343Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.08.01 21:21:00",
+      "lat": 36.1178,
+      "lng": 31.3462,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "19.0",
+      "coordinates": [
+        31.3462,
+        36.1178
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.3462,
+            36.1178
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "AKDENIZ",
+          "time": "2025.08.01 21:21:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.01",
+      "date_hour": "21:21:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "BEYOGLU-TURKOGLU (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.08.01 21:12:26",
+      "lat": 37.2855,
+      "lng": 36.7843,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        36.7843,
+        37.2855
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.7843,
+            37.2855
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "BEYOGLU-TURKOGLU (KAHRAMANMARAS)",
+          "time": "2025.08.01 21:12:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.01",
+      "date_hour": "21:12:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "SUGUL-DARENDE (MALATYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AYDIN"
-    },
-    {
-      "title": "AKDERE-SILIFKE (MERSIN)",
-      "type": "�lksel",
-      "date": "2025.07.23 12:24:22",
-      "lat": 36.2577,
-      "lng": 33.7705,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        33.7705,
-        36.2577
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.7705,
-            36.2577
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "AKDERE-SILIFKE (MERSIN)",
-          "time": "2025.07.23 12:24:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.23",
-      "date_hour": "12:24:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
-    },
-    {
-      "title": "KOMURLUK-ADAPAZARI (SAKARYA)",
-      "type": "�lksel",
-      "date": "2025.07.23 12:18:38",
-      "lat": 40.8375,
-      "lng": 30.3932,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "5.5",
-      "coordinates": [
-        30.3932,
-        40.8375
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.3932,
-            40.8375
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "KOMURLUK-ADAPAZARI (SAKARYA)",
-          "time": "2025.07.23 12:18:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.23",
-      "date_hour": "12:18:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SAKARYA"
     }
   ]
 }
