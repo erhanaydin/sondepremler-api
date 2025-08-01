@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-01T15:46:46.784Z",
+  "lastUpdate": "2025-08-01T15:58:03.279Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+      "type": "�lksel",
+      "date": "2025.08.01 18:36:04",
+      "lat": 40.7565,
+      "lng": 27.5215,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "15.0",
+      "coordinates": [
+        27.5215,
+        40.7565
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.5215,
+            40.7565
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+          "time": "2025.08.01 18:36:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.01",
+      "date_hour": "18:36:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARMARA DENIZI"
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
-    },
-    {
-      "title": "BAKIR-KIRKAGAC (MANISA)",
-      "type": "�lksel",
-      "date": "2025.07.23 08:25:49",
-      "lat": 39.1002,
-      "lng": 27.744,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "3.1",
-      "coordinates": [
-        27.744,
-        39.1002
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.744,
-            39.1002
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "BAKIR-KIRKAGAC (MANISA)",
-          "time": "2025.07.23 08:25:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.23",
-      "date_hour": "08:25:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
