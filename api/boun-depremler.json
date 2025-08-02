@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-02T21:51:54.314Z",
+  "lastUpdate": "2025-08-02T21:59:52.412Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YESILOVA-GEDIZ (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.08.03 00:48:13",
+      "lat": 39.1478,
+      "lng": 29.3925,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "9.6",
+      "coordinates": [
+        29.3925,
+        39.1478
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.3925,
+            39.1478
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YESILOVA-GEDIZ (KUTAHYA)",
+          "time": "2025.08.03 00:48:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.03",
+      "date_hour": "00:48:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "ASLANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "HACIHUSEYINLER-BASKIL (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.07.27 11:00:28",
-      "lat": 38.4052,
-      "lng": 38.936,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "3.0",
-      "coordinates": [
-        38.936,
-        38.4052
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.936,
-            38.4052
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "HACIHUSEYINLER-BASKIL (ELAZIG)",
-          "time": "2025.07.27 11:00:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.27",
-      "date_hour": "11:00:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
