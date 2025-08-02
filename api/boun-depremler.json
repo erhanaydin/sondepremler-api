@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-02T21:29:26.632Z",
+  "lastUpdate": "2025-08-02T21:43:52.702Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "UGURKOY-BORCKA (ARTVIN)",
+      "type": "�lksel",
+      "date": "2025.08.03 00:17:32",
+      "lat": 41.7548,
+      "lng": 42.0635,
+      "md": "-.-",
+      "ml": "3.0",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        42.0635,
+        41.7548
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            42.0635,
+            41.7548
+          ]
+        },
+        "properties": {
+          "mag": "3.0",
+          "place": "UGURKOY-BORCKA (ARTVIN)",
+          "time": "2025.08.03 00:17:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.03",
+      "date_hour": "00:17:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ARTVIN"
+    },
     {
       "title": "GUNDUZBEY-YESILYURT (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "ARICILAR-ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.07.27 10:52:02",
-      "lat": 37.0932,
-      "lng": 28.603,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "16.3",
-      "coordinates": [
-        28.603,
-        37.0932
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.603,
-            37.0932
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "ARICILAR-ULA (MUGLA)",
-          "time": "2025.07.27 10:52:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.27",
-      "date_hour": "10:52:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
