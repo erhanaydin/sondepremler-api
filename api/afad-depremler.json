@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ege Denizi",
+    "type": "İlksel",
+    "date": "2025-08-02 23:00:53",
+    "lat": 36.60833,
+    "lng": 25.50028,
+    "md": "-.-",
+    "ml": "3.7",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      25.50028,
+      36.60833
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.50028,
+          36.60833
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi (Muğla)",
+        "time": 1754175653000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-02",
+    "date_hour": "23:00:53",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Muğla"
+  },
+  {
     "title": "Malazgirt (Muş)",
     "type": "İlksel",
     "date": "2025-08-02 22:26:34",
@@ -13822,77 +13858,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Antalya"
-  },
-  {
-    "title": "Marmara Denizi - [22.18 km] Büyükçekmece (İstanbul)",
-    "type": "İlksel",
-    "date": "2025-07-28 23:11:45",
-    "lat": 40.85861,
-    "lng": 28.3225,
-    "md": "-.-",
-    "ml": "1.8",
-    "mw": "-.-",
-    "depth": 16.74,
-    "coordinates": [
-      28.3225,
-      40.85861
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.3225,
-          40.85861
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Marmara Denizi - [22.18 km] Büyükçekmece (İstanbul) (İstanbul)",
-        "time": 1753744305000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-28",
-    "date_hour": "23:11:45",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "İstanbul"
-  },
-  {
-    "title": "Toprakkale (Osmaniye)",
-    "type": "İlksel",
-    "date": "2025-07-28 23:01:24",
-    "lat": 37.05333,
-    "lng": 36.10389,
-    "md": "-.-",
-    "ml": "1.9",
-    "mw": "-.-",
-    "depth": 14.91,
-    "coordinates": [
-      36.10389,
-      37.05333
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.10389,
-          37.05333
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Toprakkale (Osmaniye) (Osmaniye)",
-        "time": 1753743684000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-28",
-    "date_hour": "23:01:24",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Osmaniye"
   }
 ]
