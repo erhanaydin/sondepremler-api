@@ -1,5 +1,77 @@
 [
   {
+    "title": "Sındırgı (Balıkesir)",
+    "type": "İlksel",
+    "date": "2025-08-02 07:48:13",
+    "lat": 39.21722,
+    "lng": 28.19833,
+    "md": "-.-",
+    "ml": "1.8",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      28.19833,
+      39.21722
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.19833,
+          39.21722
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sındırgı (Balıkesir) (Balıkesir)",
+        "time": 1754120893000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-02",
+    "date_hour": "07:48:13",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Balıkesir"
+  },
+  {
+    "title": "Emet (Kütahya)",
+    "type": "İlksel",
+    "date": "2025-08-02 07:43:28",
+    "lat": 39.3625,
+    "lng": 29.47278,
+    "md": "-.-",
+    "ml": "2",
+    "mw": "-.-",
+    "depth": 7.04,
+    "coordinates": [
+      29.47278,
+      39.3625
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.47278,
+          39.3625
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Emet (Kütahya) (Kütahya)",
+        "time": 1754120608000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-02",
+    "date_hour": "07:43:28",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
+  },
+  {
     "title": "Tatvan (Bitlis)",
     "type": "İlksel",
     "date": "2025-08-02 06:10:37",
@@ -14578,41 +14650,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Bursa"
-  },
-  {
-    "title": "Pamukkale (Denizli)",
-    "type": "İlksel",
-    "date": "2025-07-28 08:23:07",
-    "lat": 38.02444,
-    "lng": 29.09639,
-    "md": "-.-",
-    "ml": "2.1",
-    "mw": "-.-",
-    "depth": 10.4,
-    "coordinates": [
-      29.09639,
-      38.02444
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.09639,
-          38.02444
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Pamukkale (Denizli) (Denizli)",
-        "time": 1753690987000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-28",
-    "date_hour": "08:23:07",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Denizli"
   }
 ]
