@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-02T08:29:27.840Z",
+  "lastUpdate": "2025-08-02T08:50:42.400Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "USAKPINARI-SILIFKE (MERSIN)",
+      "type": "�lksel",
+      "date": "2025.08.02 11:35:17",
+      "lat": 36.2957,
+      "lng": 33.6117,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        33.6117,
+        36.2957
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.6117,
+            36.2957
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "USAKPINARI-SILIFKE (MERSIN)",
+          "time": "2025.08.02 11:35:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.02",
+      "date_hour": "11:35:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MERSIN"
+    },
     {
       "title": "KINIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "YAKINCA-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.27 03:43:48",
-      "lat": 38.3083,
-      "lng": 38.2155,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "3.6",
-      "coordinates": [
-        38.2155,
-        38.3083
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.2155,
-            38.3083
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YAKINCA-YESILYURT (MALATYA)",
-          "time": "2025.07.27 03:43:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.27",
-      "date_hour": "03:43:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
