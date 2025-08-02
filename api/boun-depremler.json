@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-02T23:12:45.159Z",
+  "lastUpdate": "2025-08-02T23:34:25.703Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.08.03 02:01:00",
+      "lat": 36.638,
+      "lng": 25.6828,
+      "md": "-.-",
+      "ml": "3.7",
+      "mw": "4.1",
+      "depth": "7.8",
+      "coordinates": [
+        25.6828,
+        36.638
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.6828,
+            36.638
+          ]
+        },
+        "properties": {
+          "mag": "3.7",
+          "place": "EGE DENIZI",
+          "time": "2025.08.03 02:01:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.03",
+      "date_hour": "02:01:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "ARIKONAK-SINCIK (ADIYAMAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "GOKOVA KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.07.27 12:09:05",
-      "lat": 36.9945,
-      "lng": 28.1985,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        28.1985,
-        36.9945
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1985,
-            36.9945
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "GOKOVA KORFEZI (EGE DENIZI)",
-          "time": "2025.07.27 12:09:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.27",
-      "date_hour": "12:09:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
