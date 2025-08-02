@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-08-02T11:44:57.877Z",
+  "lastUpdate": "2025-08-02T11:53:31.678Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SIVRICE (ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.08.02 13:07:32",
+      "lat": 38.4323,
+      "lng": 39.3042,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "2.6",
+      "coordinates": [
+        39.3042,
+        38.4323
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.3042,
+            38.4323
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "SIVRICE (ELAZIG)",
+          "time": "2025.08.02 13:07:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.02",
+      "date_hour": "13:07:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
+    {
+      "title": "BADEMLI-BIGADIC (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.02 13:00:52",
+      "lat": 39.4348,
+      "lng": 28.0717,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "12.0",
+      "coordinates": [
+        28.0717,
+        39.4348
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0717,
+            39.4348
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "BADEMLI-BIGADIC (BALIKESIR)",
+          "time": "2025.08.02 13:00:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.02",
+      "date_hour": "13:00:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "CAMKOY-BIGADIC (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "TEKEDERESI-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.27 05:22:50",
-      "lat": 38.1678,
-      "lng": 38.6017,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "1.0",
-      "coordinates": [
-        38.6017,
-        38.1678
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.6017,
-            38.1678
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "TEKEDERESI-PUTURGE (MALATYA)",
-          "time": "2025.07.27 05:22:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.27",
-      "date_hour": "05:22:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "KOYUNELI-BERGAMA (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.07.27 05:05:21",
-      "lat": 38.993,
-      "lng": 27.1562,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        27.1562,
-        38.993
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1562,
-            38.993
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KOYUNELI-BERGAMA (IZMIR)",
-          "time": "2025.07.27 05:05:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.27",
-      "date_hour": "05:05:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
