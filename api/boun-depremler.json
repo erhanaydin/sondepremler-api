@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-03T20:53:01.383Z",
+  "lastUpdate": "2025-08-03T21:09:24.382Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CEVIRME-AKCADAG (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.08.03 23:53:52",
+      "lat": 38.2842,
+      "lng": 37.7332,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "6.7",
+      "coordinates": [
+        37.7332,
+        38.2842
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.7332,
+            38.2842
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "CEVIRME-AKCADAG (MALATYA)",
+          "time": "2025.08.03 23:53:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.03",
+      "date_hour": "23:53:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)",
       "type": "�lksel",
@@ -361,6 +397,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "TATLICAK-DELICE (KIRIKKALE)",
+      "type": "�lksel",
+      "date": "2025.08.03 17:08:05",
+      "lat": 39.8187,
+      "lng": 34.0103,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "3.2",
+      "coordinates": [
+        34.0103,
+        39.8187
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.0103,
+            39.8187
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "TATLICAK-DELICE (KIRIKKALE)",
+          "time": "2025.08.03 17:08:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.03",
+      "date_hour": "17:08:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KIRIKKALE"
     },
     {
       "title": "KADIIBRAHIM-AKCADAG (MALATYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "VAN"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.28 02:50:21",
-      "lat": 36.6952,
-      "lng": 25.6397,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "10.1",
-      "coordinates": [
-        25.6397,
-        36.6952
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.6397,
-            36.6952
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "EGE DENIZI",
-          "time": "2025.07.28 02:50:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.28",
-      "date_hour": "02:50:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "TUTUNCU-GONEN (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.07.28 02:21:00",
-      "lat": 40.079,
-      "lng": 27.7092,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "12.1",
-      "coordinates": [
-        27.7092,
-        40.079
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7092,
-            40.079
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "TUTUNCU-GONEN (BALIKESIR)",
-          "time": "2025.07.28 02:21:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.28",
-      "date_hour": "02:21:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
