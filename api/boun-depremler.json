@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-03T09:55:17.328Z",
+  "lastUpdate": "2025-08-03T10:15:28.709Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEDIYOL-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.08.03 12:41:47",
+      "lat": 38.272,
+      "lng": 38.8552,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.8552,
+        38.272
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.8552,
+            38.272
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "YEDIYOL-PUTURGE (MALATYA)",
+          "time": "2025.08.03 12:41:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.03",
+      "date_hour": "12:41:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "SAIMBEYLI (ADANA)",
-      "type": "�lksel",
-      "date": "2025.07.27 23:33:03",
-      "lat": 38.007,
-      "lng": 36.1493,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        36.1493,
-        38.007
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.1493,
-            38.007
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "SAIMBEYLI (ADANA)",
-          "time": "2025.07.27 23:33:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.27",
-      "date_hour": "23:33:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
