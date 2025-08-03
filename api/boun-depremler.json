@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-03T11:28:52.901Z",
+  "lastUpdate": "2025-08-03T11:42:48.330Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALTINTAS-MUDANYA (BURSA)",
+      "type": "�lksel",
+      "date": "2025.08.03 13:43:07",
+      "lat": 40.3658,
+      "lng": 28.994,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "8.1",
+      "coordinates": [
+        28.994,
+        40.3658
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.994,
+            40.3658
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "ALTINTAS-MUDANYA (BURSA)",
+          "time": "2025.08.03 13:43:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.03",
+      "date_hour": "13:43:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "MASUKLU-(HATAY)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "ISIKLI-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.28 00:28:05",
-      "lat": 38.2302,
-      "lng": 38.0868,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "7.7",
-      "coordinates": [
-        38.0868,
-        38.2302
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.0868,
-            38.2302
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ISIKLI-YESILYURT (MALATYA)",
-          "time": "2025.07.28 00:28:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.28",
-      "date_hour": "00:28:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
