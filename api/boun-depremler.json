@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-03T19:28:39.849Z",
+  "lastUpdate": "2025-08-03T19:40:05.622Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)",
+      "type": "�lksel",
+      "date": "2025.08.03 22:23:12",
+      "lat": 37.0312,
+      "lng": 36.0763,
+      "md": "-.-",
+      "ml": "3.0",
+      "mw": "3.0",
+      "depth": "5.0",
+      "coordinates": [
+        36.0763,
+        37.0312
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.0763,
+            37.0312
+          ]
+        },
+        "properties": {
+          "mag": "3.0",
+          "place": "BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)",
+          "time": "2025.08.03 22:23:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.03",
+      "date_hour": "22:23:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "OSMANIYE"
+    },
     {
       "title": "KADIIBRAHIM-AKCADAG (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BINGOL"
-    },
-    {
-      "title": "SALMANKOY-SUNGURLU (CORUM)",
-      "type": "�lksel",
-      "date": "2025.07.28 01:09:52",
-      "lat": 40.1338,
-      "lng": 34.5215,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "8.3",
-      "coordinates": [
-        34.5215,
-        40.1338
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.5215,
-            40.1338
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "SALMANKOY-SUNGURLU (CORUM)",
-          "time": "2025.07.28 01:09:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.28",
-      "date_hour": "01:09:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CORUM"
     }
   ]
 }
