@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-03T20:20:59.844Z",
+  "lastUpdate": "2025-08-03T20:40:24.140Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -253,6 +253,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
+    },
+    {
+      "title": "KARAKOSE-SINCIK (ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2025.08.03 19:32:37",
+      "lat": 38.0998,
+      "lng": 38.4595,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        38.4595,
+        38.0998
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.4595,
+            38.0998
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KARAKOSE-SINCIK (ADIYAMAN)",
+          "time": "2025.08.03 19:32:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.03",
+      "date_hour": "19:32:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
     },
     {
       "title": "KADIIBRAHIM-AKCADAG (MALATYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.28 01:56:05",
-      "lat": 35.9113,
-      "lng": 26.2187,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        26.2187,
-        35.9113
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.2187,
-            35.9113
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "EGE DENIZI",
-          "time": "2025.07.28 01:56:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.28",
-      "date_hour": "01:56:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
