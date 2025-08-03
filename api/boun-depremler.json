@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-03T11:42:48.330Z",
+  "lastUpdate": "2025-08-03T11:51:20.730Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,78 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.08.03 13:11:51",
+      "lat": 39.2502,
+      "lng": 28.9685,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "11.3",
+      "coordinates": [
+        28.9685,
+        39.2502
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9685,
+            39.2502
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.08.03 13:11:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.03",
+      "date_hour": "13:11:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.08.03 13:10:33",
+      "lat": 39.0642,
+      "lng": 25.7962,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "7.6",
+      "coordinates": [
+        25.7962,
+        39.0642
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.7962,
+            39.0642
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "EGE DENIZI",
+          "time": "2025.08.03 13:10:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.03",
+      "date_hour": "13:10:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "YEDIYOL-PUTURGE (MALATYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANTALYA"
-    },
-    {
-      "title": "SUGUL-DARENDE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.28 00:43:19",
-      "lat": 38.4272,
-      "lng": 37.4948,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "6.0",
-      "coordinates": [
-        37.4948,
-        38.4272
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.4948,
-            38.4272
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "SUGUL-DARENDE (MALATYA)",
-          "time": "2025.07.28 00:43:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.28",
-      "date_hour": "00:43:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "SAHINYURDU-GEMLIK (BURSA)",
-      "type": "�lksel",
-      "date": "2025.07.28 00:31:14",
-      "lat": 40.4613,
-      "lng": 29.1943,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "6.5",
-      "coordinates": [
-        29.1943,
-        40.4613
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1943,
-            40.4613
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "SAHINYURDU-GEMLIK (BURSA)",
-          "time": "2025.07.28 00:31:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.28",
-      "date_hour": "00:31:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
     }
   ]
 }
