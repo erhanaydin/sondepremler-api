@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-03T23:25:19.204Z",
+  "lastUpdate": "2025-08-03T23:40:56.540Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "OSMANIYE"
+    },
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.08.04 01:53:58",
+      "lat": 37.9493,
+      "lng": 27.1417,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "2.0",
+      "coordinates": [
+        27.1417,
+        37.9493
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.1417,
+            37.9493
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2025.08.04 01:53:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.04",
+      "date_hour": "01:53:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
     },
     {
       "title": "BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "KOCASABAN-MURADIYE (VAN)",
-      "type": "�lksel",
-      "date": "2025.07.28 03:22:25",
-      "lat": 38.9208,
-      "lng": 43.7032,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "9.3",
-      "coordinates": [
-        43.7032,
-        38.9208
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.7032,
-            38.9208
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KOCASABAN-MURADIYE (VAN)",
-          "time": "2025.07.28 03:22:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.28",
-      "date_hour": "03:22:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "VAN"
     }
   ]
 }
