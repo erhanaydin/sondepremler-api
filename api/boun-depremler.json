@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-03T19:40:05.622Z",
+  "lastUpdate": "2025-08-03T19:48:44.683Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "LALEGOLU-TOPRAKKALE (OSMANIYE)",
+      "type": "�lksel",
+      "date": "2025.08.03 22:25:54",
+      "lat": 37.0268,
+      "lng": 36.0608,
+      "md": "-.-",
+      "ml": "3.8",
+      "mw": "3.8",
+      "depth": "5.9",
+      "coordinates": [
+        36.0608,
+        37.0268
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.0608,
+            37.0268
+          ]
+        },
+        "properties": {
+          "mag": "3.8",
+          "place": "LALEGOLU-TOPRAKKALE (OSMANIYE)",
+          "time": "2025.08.03 22:25:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.03",
+      "date_hour": "22:25:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "OSMANIYE"
+    },
     {
       "title": "BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZURUM"
-    },
-    {
-      "title": "GOKSU-SOLHAN (BINGOL)",
-      "type": "�lksel",
-      "date": "2025.07.28 01:26:29",
-      "lat": 39.0678,
-      "lng": 41.0405,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "13.6",
-      "coordinates": [
-        41.0405,
-        39.0678
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            41.0405,
-            39.0678
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "GOKSU-SOLHAN (BINGOL)",
-          "time": "2025.07.28 01:26:29"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.28",
-      "date_hour": "01:26:29",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
