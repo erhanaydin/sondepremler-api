@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-04T04:21:09.061Z",
+  "lastUpdate": "2025-08-04T05:09:25.302Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GULUMUSAGI-(MALATYA)",
+      "type": "�lksel",
+      "date": "2025.08.04 07:57:41",
+      "lat": 38.2017,
+      "lng": 38.525,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        38.525,
+        38.2017
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.525,
+            38.2017
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "GULUMUSAGI-(MALATYA)",
+          "time": "2025.08.04 07:57:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.04",
+      "date_hour": "07:57:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "AKCAOVA-(MUGLA)",
+      "type": "�lksel",
+      "date": "2025.08.04 05:49:43",
+      "lat": 37.2317,
+      "lng": 28.3175,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "8.1",
+      "coordinates": [
+        28.3175,
+        37.2317
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3175,
+            37.2317
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "AKCAOVA-(MUGLA)",
+          "time": "2025.08.04 05:49:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.04",
+      "date_hour": "05:49:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
     },
     {
       "title": "KANDIL-REFAHIYE (ERZINCAN)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "BEGRE-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.28 04:00:13",
-      "lat": 38.047,
-      "lng": 37.6748,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "13.0",
-      "coordinates": [
-        37.6748,
-        38.047
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.6748,
-            38.047
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "BEGRE-DOGANSEHIR (MALATYA)",
-          "time": "2025.07.28 04:00:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.28",
-      "date_hour": "04:00:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "BABACAN-MURADIYE (VAN)",
-      "type": "�lksel",
-      "date": "2025.07.28 03:58:04",
-      "lat": 39.1225,
-      "lng": 43.7822,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "21.1",
-      "coordinates": [
-        43.7822,
-        39.1225
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.7822,
-            39.1225
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "BABACAN-MURADIYE (VAN)",
-          "time": "2025.07.28 03:58:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.28",
-      "date_hour": "03:58:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "VAN"
     }
   ]
 }
