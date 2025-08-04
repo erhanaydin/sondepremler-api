@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-04T21:34:22.504Z",
+  "lastUpdate": "2025-08-04T21:48:18.323Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "AKIN-SEREFLIKOCHISAR (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.08.04 23:07:08",
+      "lat": 39.0903,
+      "lng": 33.2667,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        33.2667,
+        39.0903
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.2667,
+            39.0903
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "AKIN-SEREFLIKOCHISAR (ANKARA)",
+          "time": "2025.08.04 23:07:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.04",
+      "date_hour": "23:07:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
     },
     {
       "title": "YUNANISTAN",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "CANDIR-SELCUKLU (KONYA)",
-      "type": "�lksel",
-      "date": "2025.07.28 13:38:47",
-      "lat": 38.118,
-      "lng": 32.6433,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        32.6433,
-        38.118
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.6433,
-            38.118
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "CANDIR-SELCUKLU (KONYA)",
-          "time": "2025.07.28 13:38:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.28",
-      "date_hour": "13:38:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KONYA"
     }
   ]
 }
