@@ -1,5 +1,41 @@
 [
   {
+    "title": "Hınıs (Erzurum)",
+    "type": "İlksel",
+    "date": "2025-08-04 18:24:47",
+    "lat": 39.23528,
+    "lng": 41.75028,
+    "md": "-.-",
+    "ml": "1.8",
+    "mw": "-.-",
+    "depth": 7.02,
+    "coordinates": [
+      41.75028,
+      39.23528
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.75028,
+          39.23528
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Hınıs (Erzurum) (Erzurum)",
+        "time": 1754331887000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-04",
+    "date_hour": "18:24:47",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Erzurum"
+  },
+  {
     "title": "Çelikhan (Adıyaman)",
     "type": "İlksel",
     "date": "2025-08-04 17:35:51",
@@ -14398,77 +14434,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "İzmir"
-  },
-  {
-    "title": "Osmangazi (Bursa)",
-    "type": "İlksel",
-    "date": "2025-07-30 18:58:33",
-    "lat": 40.20833,
-    "lng": 29.05139,
-    "md": "-.-",
-    "ml": "2.3",
-    "mw": "-.-",
-    "depth": 11.12,
-    "coordinates": [
-      29.05139,
-      40.20833
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.05139,
-          40.20833
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Osmangazi (Bursa) (Bursa)",
-        "time": 1753901913000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-30",
-    "date_hour": "18:58:33",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Bursa"
-  },
-  {
-    "title": "Akdeniz - [80.58 km] Kaş (Antalya)",
-    "type": "İlksel",
-    "date": "2025-07-30 18:47:48",
-    "lat": 35.84528,
-    "lng": 28.59944,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 15.57,
-    "coordinates": [
-      28.59944,
-      35.84528
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.59944,
-          35.84528
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akdeniz - [80.58 km] Kaş (Antalya) (Antalya)",
-        "time": 1753901268000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-30",
-    "date_hour": "18:47:48",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Antalya"
   }
 ]
