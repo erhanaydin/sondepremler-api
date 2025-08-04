@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-08-04T15:43:30.872Z",
+  "lastUpdate": "2025-08-04T15:57:54.391Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YATAKLI-TAVSANLI (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.08.04 18:32:48",
+      "lat": 39.529,
+      "lng": 29.134,
+      "md": "-.-",
+      "ml": "3.3",
+      "mw": "-.-",
+      "depth": "7.1",
+      "coordinates": [
+        29.134,
+        39.529
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.134,
+            39.529
+          ]
+        },
+        "properties": {
+          "mag": "3.3",
+          "place": "YATAKLI-TAVSANLI (KUTAHYA)",
+          "time": "2025.08.04 18:32:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.04",
+      "date_hour": "18:32:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "RODOS ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.08.04 17:59:30",
+      "lat": 36.0843,
+      "lng": 28.0918,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "6.4",
+      "coordinates": [
+        28.0918,
+        36.0843
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0918,
+            36.0843
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "RODOS ADASI (AKDENIZ)",
+          "time": "2025.08.04 17:59:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.04",
+      "date_hour": "17:59:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "CAMLI-MARMARIS (MUGLA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.28 08:55:06",
-      "lat": 36.2263,
-      "lng": 27.7187,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "-.-",
-      "depth": "7.9",
-      "coordinates": [
-        27.7187,
-        36.2263
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7187,
-            36.2263
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "EGE DENIZI",
-          "time": "2025.07.28 08:55:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.28",
-      "date_hour": "08:55:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "HASANOVA-KARLIOVA (BINGOL)",
-      "type": "�lksel",
-      "date": "2025.07.28 08:45:09",
-      "lat": 39.1288,
-      "lng": 41.021,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "14.1",
-      "coordinates": [
-        41.021,
-        39.1288
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            41.021,
-            39.1288
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "HASANOVA-KARLIOVA (BINGOL)",
-          "time": "2025.07.28 08:45:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.28",
-      "date_hour": "08:45:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
