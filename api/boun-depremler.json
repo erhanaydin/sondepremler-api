@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-04T22:55:35.877Z",
+  "lastUpdate": "2025-08-04T23:16:17.899Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYINDIR (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.08.05 01:52:45",
+      "lat": 38.1983,
+      "lng": 27.6582,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "13.8",
+      "coordinates": [
+        27.6582,
+        38.1983
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.6582,
+            38.1983
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "BAYINDIR (IZMIR)",
+          "time": "2025.08.05 01:52:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.05",
+      "date_hour": "01:52:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
     {
       "title": "GAZIKOY-DARENDE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KARADENIZ"
-    },
-    {
-      "title": "COGMEN-DALAMAN (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.07.28 14:24:56",
-      "lat": 36.8463,
-      "lng": 29.0223,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "13.6",
-      "coordinates": [
-        29.0223,
-        36.8463
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0223,
-            36.8463
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "COGMEN-DALAMAN (MUGLA)",
-          "time": "2025.07.28 14:24:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.28",
-      "date_hour": "14:24:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
