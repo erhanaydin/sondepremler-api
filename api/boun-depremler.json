@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-04T17:24:34.820Z",
+  "lastUpdate": "2025-08-04T17:46:55.969Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
+    },
+    {
+      "title": "YESILVADI-AZIZIYE (ERZURUM)",
+      "type": "�lksel",
+      "date": "2025.08.04 19:16:23",
+      "lat": 40.2667,
+      "lng": 40.9793,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "8.4",
+      "coordinates": [
+        40.9793,
+        40.2667
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.9793,
+            40.2667
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "YESILVADI-AZIZIYE (ERZURUM)",
+          "time": "2025.08.04 19:16:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.04",
+      "date_hour": "19:16:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZURUM"
     },
     {
       "title": "CAMLI-MARMARIS (MUGLA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "SAHINYURDU-GEMLIK (BURSA)",
-      "type": "�lksel",
-      "date": "2025.07.28 11:45:29",
-      "lat": 40.4737,
-      "lng": 29.1977,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "12.1",
-      "coordinates": [
-        29.1977,
-        40.4737
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1977,
-            40.4737
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "SAHINYURDU-GEMLIK (BURSA)",
-          "time": "2025.07.28 11:45:29"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.28",
-      "date_hour": "11:45:29",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
     }
   ]
 }
