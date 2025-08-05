@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-05T10:00:29.034Z",
+  "lastUpdate": "2025-08-05T10:33:02.338Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AVSA-MARMARA (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.05 12:30:35",
+      "lat": 40.5017,
+      "lng": 27.5142,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "6.6",
+      "coordinates": [
+        27.5142,
+        40.5017
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.5142,
+            40.5017
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "AVSA-MARMARA (BALIKESIR)",
+          "time": "2025.08.05 12:30:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.05",
+      "date_hour": "12:30:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "CAMLI-MARMARIS (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZINCAN"
-    },
-    {
-      "title": "ELMADALI-HINIS (ERZURUM)",
-      "type": "�lksel",
-      "date": "2025.07.29 03:45:08",
-      "lat": 39.2452,
-      "lng": 41.6235,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "11.3",
-      "coordinates": [
-        41.6235,
-        39.2452
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            41.6235,
-            39.2452
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ELMADALI-HINIS (ERZURUM)",
-          "time": "2025.07.29 03:45:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.29",
-      "date_hour": "03:45:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZURUM"
     }
   ]
 }
