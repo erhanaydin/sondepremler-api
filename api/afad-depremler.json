@@ -1,5 +1,41 @@
 [
   {
+    "title": "Çardak (Denizli)",
+    "type": "İlksel",
+    "date": "2025-08-05 21:09:00",
+    "lat": 37.73111,
+    "lng": 29.70694,
+    "md": "-.-",
+    "ml": "2.2",
+    "mw": "-.-",
+    "depth": 11.11,
+    "coordinates": [
+      29.70694,
+      37.73111
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.70694,
+          37.73111
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Çardak (Denizli) (Denizli)",
+        "time": 1754428140000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-05",
+    "date_hour": "21:09:00",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Denizli"
+  },
+  {
     "title": "Biga (Çanakkale)",
     "type": "İlksel",
     "date": "2025-08-05 20:36:39",
@@ -15514,77 +15550,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Elazığ"
-  },
-  {
-    "title": "Simav (Kütahya)",
-    "type": "İlksel",
-    "date": "2025-07-31 21:42:00",
-    "lat": 39.20889,
-    "lng": 28.97722,
-    "md": "-.-",
-    "ml": "1",
-    "mw": "-.-",
-    "depth": 12.92,
-    "coordinates": [
-      28.97722,
-      39.20889
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.97722,
-          39.20889
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Simav (Kütahya) (Kütahya)",
-        "time": 1753998120000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-31",
-    "date_hour": "21:42:00",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kütahya"
-  },
-  {
-    "title": "Kandil Barajı - [04.82 km] Ekinözü (Kahramanmaraş)",
-    "type": "İlksel",
-    "date": "2025-07-31 21:38:13",
-    "lat": 38.07778,
-    "lng": 37.00694,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 8.71,
-    "coordinates": [
-      37.00694,
-      38.07778
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.00694,
-          38.07778
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Kandil Barajı - [04.82 km] Ekinözü (Kahramanmaraş) (Kahramanmaraş)",
-        "time": 1753997893000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-07-31",
-    "date_hour": "21:38:13",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kahramanmaraş"
   }
 ]
