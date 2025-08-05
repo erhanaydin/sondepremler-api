@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-05T10:33:02.338Z",
+  "lastUpdate": "2025-08-05T10:53:32.153Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.08.05 12:50:19",
+      "lat": 39.2337,
+      "lng": 28.9973,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "2.9",
+      "coordinates": [
+        28.9973,
+        39.2337
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9973,
+            39.2337
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.08.05 12:50:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.05",
+      "date_hour": "12:50:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "AVSA-MARMARA (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "HANIDERE (ERZINCAN)",
-      "type": "�lksel",
-      "date": "2025.07.29 03:48:12",
-      "lat": 39.833,
-      "lng": 39.6153,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        39.6153,
-        39.833
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.6153,
-            39.833
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "HANIDERE (ERZINCAN)",
-          "time": "2025.07.29 03:48:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.29",
-      "date_hour": "03:48:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
     }
   ]
 }
