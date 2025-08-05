@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-05T15:57:28.959Z",
+  "lastUpdate": "2025-08-05T16:23:11.015Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.08.05 18:56:08",
+      "lat": 39.2308,
+      "lng": 29.0073,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "8.6",
+      "coordinates": [
+        29.0073,
+        39.2308
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0073,
+            39.2308
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.08.05 18:56:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.05",
+      "date_hour": "18:56:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -78,27 +114,27 @@
       "title": "KAPLANCIK-TORBALI (IZMIR)",
       "type": "�lksel",
       "date": "2025.08.05 18:20:29",
-      "lat": 38.184,
-      "lng": 27.3007,
+      "lat": 38.1837,
+      "lng": 27.2998,
       "md": "-.-",
-      "ml": "2.5",
+      "ml": "2.4",
       "mw": "-.-",
-      "depth": "8.4",
+      "depth": "8.6",
       "coordinates": [
-        27.3007,
-        38.184
+        27.2998,
+        38.1837
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            27.3007,
-            38.184
+            27.2998,
+            38.1837
           ]
         },
         "properties": {
-          "mag": "2.5",
+          "mag": "2.4",
           "place": "KAPLANCIK-TORBALI (IZMIR)",
           "time": "2025.08.05 18:20:29"
         }
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
+    },
+    {
+      "title": "CAMLI-MARMARIS (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.08.05 18:20:28",
+      "lat": 36.958,
+      "lng": 28.2807,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "8.3",
+      "coordinates": [
+        28.2807,
+        36.958
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2807,
+            36.958
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "CAMLI-MARMARIS (MUGLA)",
+          "time": "2025.08.05 18:20:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.05",
+      "date_hour": "18:20:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
     },
     {
       "title": "PEKMEZCI-AKHISAR (MANISA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "AGCASAR-NURHAK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.29 07:35:22",
-      "lat": 38.1157,
-      "lng": 37.377,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "10.4",
-      "coordinates": [
-        37.377,
-        38.1157
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.377,
-            38.1157
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "AGCASAR-NURHAK (KAHRAMANMARAS)",
-          "time": "2025.07.29 07:35:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.29",
-      "date_hour": "07:35:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.07.29 07:31:41",
-      "lat": 39.258,
-      "lng": 28.9792,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "7.7",
-      "coordinates": [
-        28.9792,
-        39.258
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9792,
-            39.258
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.07.29 07:31:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.29",
-      "date_hour": "07:31:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
