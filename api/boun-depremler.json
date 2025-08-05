@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-05T10:53:32.153Z",
+  "lastUpdate": "2025-08-05T11:11:18.456Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAKOCA-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.08.05 12:56:40",
+      "lat": 39.286,
+      "lng": 28.9612,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "13.3",
+      "coordinates": [
+        28.9612,
+        39.286
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9612,
+            39.286
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KARAKOCA-SIMAV (KUTAHYA)",
+          "time": "2025.08.05 12:56:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.05",
+      "date_hour": "12:56:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -34,6 +70,42 @@
       "location_properties": "",
       "date_day": "2025.08.05",
       "date_hour": "12:50:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.08.05 12:34:53",
+      "lat": 39.2143,
+      "lng": 29.0215,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "14.3",
+      "coordinates": [
+        29.0215,
+        39.2143
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0215,
+            39.2143
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.08.05 12:34:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.05",
+      "date_hour": "12:34:53",
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)",
-      "type": "�lksel",
-      "date": "2025.07.29 04:21:12",
-      "lat": 37.0188,
-      "lng": 36.1028,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        36.1028,
-        37.0188
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.1028,
-            37.0188
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)",
-          "time": "2025.07.29 04:21:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.29",
-      "date_hour": "04:21:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "OSMANIYE"
-    },
-    {
-      "title": "IZMIR KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.07.29 03:48:18",
-      "lat": 38.4422,
-      "lng": 26.8593,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        26.8593,
-        38.4422
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.8593,
-            38.4422
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "IZMIR KORFEZI (EGE DENIZI)",
-          "time": "2025.07.29 03:48:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.29",
-      "date_hour": "03:48:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
