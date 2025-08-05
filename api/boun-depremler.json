@@ -1,28 +1,64 @@
 {
-  "lastUpdate": "2025-08-05T13:56:17.477Z",
+  "lastUpdate": "2025-08-05T14:22:14.270Z",
   "source": "Boğaziçi",
   "data": [
     {
-      "title": "CAMLI-MARMARIS (MUGLA)",
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
       "type": "�lksel",
-      "date": "2025.08.05 16:35:38",
-      "lat": 36.9275,
-      "lng": 28.2635,
+      "date": "2025.08.05 17:02:22",
+      "lat": 36.9647,
+      "lng": 28.0983,
       "md": "-.-",
-      "ml": "1.4",
+      "ml": "1.5",
       "mw": "-.-",
-      "depth": "25.3",
+      "depth": "18.2",
       "coordinates": [
-        28.2635,
-        36.9275
+        28.0983,
+        36.9647
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            28.2635,
-            36.9275
+            28.0983,
+            36.9647
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "GOKOVA KORFEZI (EGE DENIZI)",
+          "time": "2025.08.05 17:02:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.05",
+      "date_hour": "17:02:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
+    {
+      "title": "CAMLI-MARMARIS (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.08.05 16:35:38",
+      "lat": 36.962,
+      "lng": 28.2642,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "15.7",
+      "coordinates": [
+        28.2642,
+        36.962
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2642,
+            36.962
           ]
         },
         "properties": {
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "EKINOZU (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.29 06:31:52",
-      "lat": 38.0725,
-      "lng": 37.1522,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "5.9",
-      "coordinates": [
-        37.1522,
-        38.0725
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.1522,
-            38.0725
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "EKINOZU (KAHRAMANMARAS)",
-          "time": "2025.07.29 06:31:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.29",
-      "date_hour": "06:31:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
