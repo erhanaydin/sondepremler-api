@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-05T23:14:29.086Z",
+  "lastUpdate": "2025-08-05T23:34:23.192Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.08.06 02:02:53",
+      "lat": 36,
+      "lng": 35.4577,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        35.4577,
+        36
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.4577,
+            36
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "AKDENIZ",
+          "time": "2025.08.06 02:02:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.06",
+      "date_hour": "02:02:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "CUKURCAYIR-CAT (ERZURUM)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZURUM"
+    },
+    {
+      "title": "GELINPERTEK-YEDISU (BINGOL)",
+      "type": "�lksel",
+      "date": "2025.08.06 01:47:33",
+      "lat": 39.397,
+      "lng": 40.3888,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "4.5",
+      "coordinates": [
+        40.3888,
+        39.397
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.3888,
+            39.397
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "GELINPERTEK-YEDISU (BINGOL)",
+          "time": "2025.08.06 01:47:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.06",
+      "date_hour": "01:47:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGOL"
     },
     {
       "title": "ORHANLI-(HATAY)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "TUNCBILEK-TAVSANLI (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.07.29 11:52:46",
-      "lat": 39.6243,
-      "lng": 29.4632,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        29.4632,
-        39.6243
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.4632,
-            39.6243
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "TUNCBILEK-TAVSANLI (KUTAHYA)",
-          "time": "2025.07.29 11:52:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.29",
-      "date_hour": "11:52:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "GORGU-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.07.29 11:48:53",
-      "lat": 38.2885,
-      "lng": 38.1377,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        38.1377,
-        38.2885
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.1377,
-            38.2885
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "GORGU-YESILYURT (MALATYA)",
-          "time": "2025.07.29 11:48:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.29",
-      "date_hour": "11:48:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
