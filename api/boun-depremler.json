@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-05T22:54:50.455Z",
+  "lastUpdate": "2025-08-05T23:14:29.086Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CUKURCAYIR-CAT (ERZURUM)",
+      "type": "�lksel",
+      "date": "2025.08.06 02:02:25",
+      "lat": 39.6807,
+      "lng": 41.2123,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "9.0",
+      "coordinates": [
+        41.2123,
+        39.6807
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.2123,
+            39.6807
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "CUKURCAYIR-CAT (ERZURUM)",
+          "time": "2025.08.06 02:02:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.06",
+      "date_hour": "02:02:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZURUM"
+    },
     {
       "title": "ORHANLI-(HATAY)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.08.06 01:21:57",
+      "lat": 35.7733,
+      "lng": 25.5032,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "10.1",
+      "coordinates": [
+        25.5032,
+        35.7733
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.5032,
+            35.7733
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "EGE DENIZI",
+          "time": "2025.08.06 01:21:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.06",
+      "date_hour": "01:21:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "DEREKOY-SOMA (MANISA)",
-      "type": "�lksel",
-      "date": "2025.07.29 11:41:50",
-      "lat": 39.1318,
-      "lng": 27.5358,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        27.5358,
-        39.1318
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.5358,
-            39.1318
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "DEREKOY-SOMA (MANISA)",
-          "time": "2025.07.29 11:41:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.29",
-      "date_hour": "11:41:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
-    },
-    {
-      "title": "YESILDERE-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.07.29 11:16:45",
-      "lat": 39.2618,
-      "lng": 28.991,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "11.2",
-      "coordinates": [
-        28.991,
-        39.2618
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.991,
-            39.2618
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "YESILDERE-SIMAV (KUTAHYA)",
-          "time": "2025.07.29 11:16:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.29",
-      "date_hour": "11:16:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
