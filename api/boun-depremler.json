@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-05T14:22:14.270Z",
+  "lastUpdate": "2025-08-05T14:47:53.853Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
+    },
+    {
+      "title": "CETIBELI-MARMARIS (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.08.05 16:41:01",
+      "lat": 36.9728,
+      "lng": 28.3272,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "16.0",
+      "coordinates": [
+        28.3272,
+        36.9728
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3272,
+            36.9728
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "CETIBELI-MARMARIS (MUGLA)",
+          "time": "2025.08.05 16:41:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.05",
+      "date_hour": "16:41:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
     },
     {
       "title": "CAMLI-MARMARIS (MUGLA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "DARIYERI-DALAMAN (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.07.29 06:33:32",
-      "lat": 36.8643,
-      "lng": 29.0982,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "28.0",
-      "coordinates": [
-        29.0982,
-        36.8643
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0982,
-            36.8643
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "DARIYERI-DALAMAN (MUGLA)",
-          "time": "2025.07.29 06:33:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.29",
-      "date_hour": "06:33:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
