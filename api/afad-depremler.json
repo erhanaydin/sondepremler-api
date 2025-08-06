@@ -1,5 +1,41 @@
 [
   {
+    "title": "Selendi (Manisa)",
+    "type": "İlksel",
+    "date": "2025-08-06 15:55:41",
+    "lat": 38.71083,
+    "lng": 28.80028,
+    "md": "-.-",
+    "ml": "1.4",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      28.80028,
+      38.71083
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.80028,
+          38.71083
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Selendi (Manisa) (Manisa)",
+        "time": 1754495741000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-06",
+    "date_hour": "15:55:41",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Manisa"
+  },
+  {
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2025-08-06 15:26:06",
@@ -14686,77 +14722,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Bitlis"
-  },
-  {
-    "title": "Merkez (Elazığ)",
-    "type": "İlksel",
-    "date": "2025-08-01 16:06:09",
-    "lat": 38.61694,
-    "lng": 39.63583,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      39.63583,
-      38.61694
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.63583,
-          38.61694
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Merkez (Elazığ) (Elazığ)",
-        "time": 1754064369000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-01",
-    "date_hour": "16:06:09",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Elazığ"
-  },
-  {
-    "title": "Yeşilyurt (Malatya)",
-    "type": "İlksel",
-    "date": "2025-08-01 15:59:36",
-    "lat": 38.23389,
-    "lng": 38.10278,
-    "md": "-.-",
-    "ml": "1.9",
-    "mw": "-.-",
-    "depth": 4.81,
-    "coordinates": [
-      38.10278,
-      38.23389
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.10278,
-          38.23389
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Yeşilyurt (Malatya) (Malatya)",
-        "time": 1754063976000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-01",
-    "date_hour": "15:59:36",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
   }
 ]
