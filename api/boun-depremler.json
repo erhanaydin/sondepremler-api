@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-06T16:47:45.962Z",
+  "lastUpdate": "2025-08-06T17:10:56.110Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "AYDINLI-TEKMAN (ERZURUM)",
+      "type": "�lksel",
+      "date": "2025.08.06 19:04:02",
+      "lat": 39.6873,
+      "lng": 41.389,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "8.0",
+      "coordinates": [
+        41.389,
+        39.6873
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.389,
+            39.6873
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "AYDINLI-TEKMAN (ERZURUM)",
+          "time": "2025.08.06 19:04:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.06",
+      "date_hour": "19:04:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZURUM"
     },
     {
       "title": "KINIK-SELENDI (MANISA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.07.30 04:00:12",
-      "lat": 40.3395,
-      "lng": 25.6208,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "7.8",
-      "coordinates": [
-        25.6208,
-        40.3395
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.6208,
-            40.3395
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "EGE DENIZI",
-          "time": "2025.07.30 04:00:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.30",
-      "date_hour": "04:00:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
