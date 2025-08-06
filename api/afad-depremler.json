@@ -1,5 +1,77 @@
 [
   {
+    "title": "Sincik (Adıyaman)",
+    "type": "İlksel",
+    "date": "2025-08-06 04:58:56",
+    "lat": 38.11083,
+    "lng": 38.47472,
+    "md": "-.-",
+    "ml": "1.8",
+    "mw": "-.-",
+    "depth": 7.03,
+    "coordinates": [
+      38.47472,
+      38.11083
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.47472,
+          38.11083
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sincik (Adıyaman) (Adıyaman)",
+        "time": 1754456336000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-06",
+    "date_hour": "04:58:56",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Adıyaman"
+  },
+  {
+    "title": "Ege Denizi",
+    "type": "İlksel",
+    "date": "2025-08-06 04:34:43",
+    "lat": 40.18944,
+    "lng": 23.9175,
+    "md": "-.-",
+    "ml": "2.4",
+    "mw": "-.-",
+    "depth": 7.28,
+    "coordinates": [
+      23.9175,
+      40.18944
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9175,
+          40.18944
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi (Çanakkale)",
+        "time": 1754454883000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-06",
+    "date_hour": "04:34:43",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Çanakkale"
+  },
+  {
     "title": "Kale (Malatya)",
     "type": "İlksel",
     "date": "2025-08-06 04:20:26",
@@ -14647,150 +14719,6 @@
     "location_properties": "",
     "date_day": "2025-08-01",
     "date_hour": "06:08:41",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kütahya"
-  },
-  {
-    "title": "Gölbaşı (Adıyaman)",
-    "type": "İlksel",
-    "date": "2025-08-01 05:35:52",
-    "lat": 37.80056,
-    "lng": 37.74056,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 5.47,
-    "coordinates": [
-      37.74056,
-      37.80056
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.74056,
-          37.80056
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Gölbaşı (Adıyaman) (Adıyaman)",
-        "time": 1754026552000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-01",
-    "date_hour": "05:35:52",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Adıyaman"
-  },
-  {
-    "title": "Simav (Kütahya)",
-    "type": "İlksel",
-    "date": "2025-08-01 05:33:44",
-    "lat": 39.24944,
-    "lng": 28.97333,
-    "md": "-.-",
-    "ml": "2",
-    "mw": "-.-",
-    "depth": 9.98,
-    "coordinates": [
-      28.97333,
-      39.24944
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.97333,
-          39.24944
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Simav (Kütahya) (Kütahya)",
-        "time": 1754026424000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-01",
-    "date_hour": "05:33:44",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kütahya"
-  },
-  {
-    "title": "Köyceğiz (Muğla)",
-    "type": "İlksel",
-    "date": "2025-08-01 05:21:01",
-    "lat": 37.07083,
-    "lng": 28.6525,
-    "md": "-.-",
-    "ml": "1.3",
-    "mw": "-.-",
-    "depth": 6.78,
-    "coordinates": [
-      28.6525,
-      37.07083
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.6525,
-          37.07083
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Köyceğiz (Muğla) (Muğla)",
-        "time": 1754025661000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-01",
-    "date_hour": "05:21:01",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
-  },
-  {
-    "title": "Simav (Kütahya)",
-    "type": "İlksel",
-    "date": "2025-08-01 05:03:48",
-    "lat": 39.22528,
-    "lng": 28.96778,
-    "md": "-.-",
-    "ml": "2.1",
-    "mw": "-.-",
-    "depth": 14.11,
-    "coordinates": [
-      28.96778,
-      39.22528
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.96778,
-          39.22528
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Simav (Kütahya) (Kütahya)",
-        "time": 1754024628000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-01",
-    "date_hour": "05:03:48",
     "timestamp": false,
     "location_tz": "",
     "city": "Kütahya"
