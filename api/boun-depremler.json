@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-06T19:58:31.427Z",
+  "lastUpdate": "2025-08-06T20:27:17.637Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "KARAATLI-YESILOVA (BURDUR)",
+      "type": "�lksel",
+      "date": "2025.08.06 22:26:21",
+      "lat": 37.5393,
+      "lng": 29.7873,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "25.3",
+      "coordinates": [
+        29.7873,
+        37.5393
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.7873,
+            37.5393
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KARAATLI-YESILOVA (BURDUR)",
+          "time": "2025.08.06 22:26:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.06",
+      "date_hour": "22:26:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURDUR"
     },
     {
       "title": "MARMARA DENIZI",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.08.06 20:41:25",
+      "lat": 39.3678,
+      "lng": 23.7027,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        23.7027,
+        39.3678
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.7027,
+            39.3678
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "YUNANISTAN",
+          "time": "2025.08.06 20:41:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.06",
+      "date_hour": "20:41:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "EGE DENIZI",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "BARAKMUSLU-ILGIN (KONYA)",
-      "type": "�lksel",
-      "date": "2025.07.30 06:40:47",
-      "lat": 38.1273,
-      "lng": 32.0752,
-      "md": "-.-",
-      "ml": "4.0",
-      "mw": "4.0",
-      "depth": "4.0",
-      "coordinates": [
-        32.0752,
-        38.1273
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.0752,
-            38.1273
-          ]
-        },
-        "properties": {
-          "mag": "4.0",
-          "place": "BARAKMUSLU-ILGIN (KONYA)",
-          "time": "2025.07.30 06:40:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.30",
-      "date_hour": "06:40:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KONYA"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.07.30 06:38:35",
-      "lat": 39.219,
-      "lng": 29.0183,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "11.1",
-      "coordinates": [
-        29.0183,
-        39.219
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0183,
-            39.219
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.07.30 06:38:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.30",
-      "date_hour": "06:38:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
