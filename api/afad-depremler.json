@@ -72,6 +72,42 @@
     "city": "Çanakkale"
   },
   {
+    "title": "Merkez (Çorum)",
+    "type": "İlksel",
+    "date": "2025-08-06 06:16:13",
+    "lat": 40.31194,
+    "lng": 34.85222,
+    "md": "-.-",
+    "ml": "1.8",
+    "mw": "-.-",
+    "depth": 7.4,
+    "coordinates": [
+      34.85222,
+      40.31194
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.85222,
+          40.31194
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Merkez (Çorum) (Çorum)",
+        "time": 1754460973000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-06",
+    "date_hour": "06:16:13",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Çorum"
+  },
+  {
     "title": "Marmara Denizi - [24.78 km] Silivri (İstanbul)",
     "type": "İlksel",
     "date": "2025-08-06 05:51:40",
@@ -14650,77 +14686,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Bursa"
-  },
-  {
-    "title": "Yeşilyurt (Malatya)",
-    "type": "İlksel",
-    "date": "2025-08-01 08:13:03",
-    "lat": 38.26,
-    "lng": 38.11639,
-    "md": "-.-",
-    "ml": "2.4",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      38.11639,
-      38.26
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.11639,
-          38.26
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Yeşilyurt (Malatya) (Malatya)",
-        "time": 1754035983000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-01",
-    "date_hour": "08:13:03",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
-  },
-  {
-    "title": "null",
-    "type": "İlksel",
-    "date": "2025-08-01 08:05:07",
-    "lat": 38.45056,
-    "lng": 29.09361,
-    "md": "-.-",
-    "ml": "0.9",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      29.09361,
-      38.45056
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.09361,
-          38.45056
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "null (null)",
-        "time": 1754035507000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-01",
-    "date_hour": "08:05:07",
-    "timestamp": false,
-    "location_tz": "",
-    "city": null
   }
 ]
