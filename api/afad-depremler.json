@@ -36,6 +36,42 @@
     "city": "Malatya"
   },
   {
+    "title": "Ege Denizi - Saros Körfezi - [10.68 km] Gelibolu (Çanakkale)",
+    "type": "İlksel",
+    "date": "2025-08-06 06:37:30",
+    "lat": 40.49083,
+    "lng": 26.42889,
+    "md": "-.-",
+    "ml": "2.5",
+    "mw": "-.-",
+    "depth": 17.75,
+    "coordinates": [
+      26.42889,
+      40.49083
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.42889,
+          40.49083
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi - Saros Körfezi - [10.68 km] Gelibolu (Çanakkale) (Çanakkale)",
+        "time": 1754462250000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-06",
+    "date_hour": "06:37:30",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Çanakkale"
+  },
+  {
     "title": "Marmara Denizi - [24.78 km] Silivri (İstanbul)",
     "type": "İlksel",
     "date": "2025-08-06 05:51:40",
@@ -14722,77 +14758,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "İzmir"
-  },
-  {
-    "title": "Göksun (Kahramanmaraş)",
-    "type": "İlksel",
-    "date": "2025-08-01 07:28:55",
-    "lat": 37.98944,
-    "lng": 36.32972,
-    "md": "-.-",
-    "ml": "3.4",
-    "mw": "-.-",
-    "depth": 6.71,
-    "coordinates": [
-      36.32972,
-      37.98944
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.32972,
-          37.98944
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Göksun (Kahramanmaraş) (Kahramanmaraş)",
-        "time": 1754033335000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-01",
-    "date_hour": "07:28:55",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kahramanmaraş"
-  },
-  {
-    "title": "Sincik (Adıyaman)",
-    "type": "İlksel",
-    "date": "2025-08-01 07:03:45",
-    "lat": 38.10833,
-    "lng": 38.48667,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      38.48667,
-      38.10833
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.48667,
-          38.10833
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sincik (Adıyaman) (Adıyaman)",
-        "time": 1754031825000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-01",
-    "date_hour": "07:03:45",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Adıyaman"
   }
 ]
