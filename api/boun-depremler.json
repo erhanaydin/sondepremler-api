@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-06T19:41:36.715Z",
+  "lastUpdate": "2025-08-06T19:50:16.877Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.08.06 22:34:21",
+      "lat": 39.2573,
+      "lng": 29.0232,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        29.0232,
+        39.2573
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0232,
+            39.2573
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "KATRANDAGI-EMET (KUTAHYA)",
+          "time": "2025.08.06 22:34:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.06",
+      "date_hour": "22:34:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "AKKOPRU-KOYCEGIZ (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.07.30 05:25:57",
-      "lat": 36.958,
-      "lng": 28.972,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "4.9",
-      "coordinates": [
-        28.972,
-        36.958
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.972,
-            36.958
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "AKKOPRU-KOYCEGIZ (MUGLA)",
-          "time": "2025.07.30 05:25:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.30",
-      "date_hour": "05:25:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
