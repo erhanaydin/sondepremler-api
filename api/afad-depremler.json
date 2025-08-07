@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sincik (Adıyaman)",
+    "type": "İlksel",
+    "date": "2025-08-07 03:20:24",
+    "lat": 38.08917,
+    "lng": 38.48778,
+    "md": "-.-",
+    "ml": "0.9",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      38.48778,
+      38.08917
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.48778,
+          38.08917
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sincik (Adıyaman) (Adıyaman)",
+        "time": 1754536824000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-07",
+    "date_hour": "03:20:24",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Adıyaman"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-08-07 02:53:06",
@@ -14434,77 +14470,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Manisa"
-  },
-  {
-    "title": "Ulaş (Sivas)",
-    "type": "İlksel",
-    "date": "2025-08-02 04:04:56",
-    "lat": 39.42556,
-    "lng": 37.31333,
-    "md": "-.-",
-    "ml": "2",
-    "mw": "-.-",
-    "depth": 11.39,
-    "coordinates": [
-      37.31333,
-      39.42556
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.31333,
-          39.42556
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ulaş (Sivas) (Sivas)",
-        "time": 1754107496000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-02",
-    "date_hour": "04:04:56",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Sivas"
-  },
-  {
-    "title": "Ula (Muğla)",
-    "type": "İlksel",
-    "date": "2025-08-02 03:46:42",
-    "lat": 37.11056,
-    "lng": 28.62111,
-    "md": "-.-",
-    "ml": "1.8",
-    "mw": "-.-",
-    "depth": 7.19,
-    "coordinates": [
-      28.62111,
-      37.11056
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.62111,
-          37.11056
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ula (Muğla) (Muğla)",
-        "time": 1754106402000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-02",
-    "date_hour": "03:46:42",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
   }
 ]
