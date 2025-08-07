@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-07T06:59:02.438Z",
+  "lastUpdate": "2025-08-07T07:29:28.671Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+      "type": "�lksel",
+      "date": "2025.08.07 10:07:24",
+      "lat": 40.8172,
+      "lng": 28.2775,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "11.2",
+      "coordinates": [
+        28.2775,
+        40.8172
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2775,
+            40.8172
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+          "time": "2025.08.07 10:07:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.07",
+      "date_hour": "10:07:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARMARA DENIZI"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
-    },
-    {
-      "title": "KARACAHISAR-BOZKIR (KONYA)",
-      "type": "�lksel",
-      "date": "2025.07.30 15:31:39",
-      "lat": 37.0555,
-      "lng": 32.0687,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "18.7",
-      "coordinates": [
-        32.0687,
-        37.0555
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.0687,
-            37.0555
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KARACAHISAR-BOZKIR (KONYA)",
-          "time": "2025.07.30 15:31:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.30",
-      "date_hour": "15:31:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KONYA"
     }
   ]
 }
