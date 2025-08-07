@@ -1,5 +1,41 @@
 [
   {
+    "title": "Simav (Kütahya)",
+    "type": "İlksel",
+    "date": "2025-08-07 18:33:50",
+    "lat": 39.23556,
+    "lng": 28.96361,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 7.27,
+    "coordinates": [
+      28.96361,
+      39.23556
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.96361,
+          39.23556
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Simav (Kütahya) (Kütahya)",
+        "time": 1754591630000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-07",
+    "date_hour": "18:33:50",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
+  },
+  {
     "title": "Doğanşehir (Malatya)",
     "type": "İlksel",
     "date": "2025-08-07 17:57:43",
@@ -14506,41 +14542,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Çanakkale"
-  },
-  {
-    "title": "Hassa (Hatay)",
-    "type": "İlksel",
-    "date": "2025-08-02 19:12:56",
-    "lat": 36.855,
-    "lng": 36.52167,
-    "md": "-.-",
-    "ml": "1.8",
-    "mw": "-.-",
-    "depth": 12.34,
-    "coordinates": [
-      36.52167,
-      36.855
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.52167,
-          36.855
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Hassa (Hatay) (Hatay)",
-        "time": 1754161976000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-02",
-    "date_hour": "19:12:56",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Hatay"
   }
 ]

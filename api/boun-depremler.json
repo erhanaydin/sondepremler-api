@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-07T19:11:59.077Z",
+  "lastUpdate": "2025-08-07T19:29:25.971Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "YESILOVA-GOLBASI (ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2025.08.07 20:32:33",
+      "lat": 37.7357,
+      "lng": 37.4998,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "7.5",
+      "coordinates": [
+        37.4998,
+        37.7357
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.4998,
+            37.7357
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "YESILOVA-GOLBASI (ADIYAMAN)",
+          "time": "2025.08.07 20:32:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.07",
+      "date_hour": "20:32:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
     },
     {
       "title": "DUTLUCA-BURHANIYE (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "OSMANGAZI (BURSA)",
-      "type": "�lksel",
-      "date": "2025.07.30 21:58:33",
-      "lat": 40.2083,
-      "lng": 29.0413,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "7.0",
-      "coordinates": [
-        29.0413,
-        40.2083
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0413,
-            40.2083
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "OSMANGAZI (BURSA)",
-          "time": "2025.07.30 21:58:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.30",
-      "date_hour": "21:58:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
     }
   ]
 }
