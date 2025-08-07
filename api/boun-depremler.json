@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-07T19:50:15.797Z",
+  "lastUpdate": "2025-08-07T19:58:38.077Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -145,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "KAYALIDERE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.08.07 19:00:20",
+      "lat": 39.2645,
+      "lng": 28.8707,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "9.9",
+      "coordinates": [
+        28.8707,
+        39.2645
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8707,
+            39.2645
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KAYALIDERE-SIMAV (KUTAHYA)",
+          "time": "2025.08.07 19:00:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.07",
+      "date_hour": "19:00:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "BESTEPE-GEMEREK (SIVAS)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIVAS"
-    },
-    {
-      "title": "VAN GOLU",
-      "type": "�lksel",
-      "date": "2025.07.31 00:15:48",
-      "lat": 38.6082,
-      "lng": 42.9137,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "1.9",
-      "coordinates": [
-        42.9137,
-        38.6082
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.9137,
-            38.6082
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "VAN GOLU",
-          "time": "2025.07.31 00:15:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.31",
-      "date_hour": "00:15:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
