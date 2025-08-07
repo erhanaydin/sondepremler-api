@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-07T22:55:26.027Z",
+  "lastUpdate": "2025-08-07T23:16:19.755Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.08.08 01:31:57",
+      "lat": 35.9945,
+      "lng": 31.8137,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "17.2",
+      "coordinates": [
+        31.8137,
+        35.9945
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.8137,
+            35.9945
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "AKDENIZ",
+          "time": "2025.08.08 01:31:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.08",
+      "date_hour": "01:31:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "ARITOPRAK-PUTURGE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "KARAMAN-KOVANCILAR (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.07.31 03:38:33",
-      "lat": 38.753,
-      "lng": 39.9915,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "14.7",
-      "coordinates": [
-        39.9915,
-        38.753
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.9915,
-            38.753
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KARAMAN-KOVANCILAR (ELAZIG)",
-          "time": "2025.07.31 03:38:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.31",
-      "date_hour": "03:38:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
