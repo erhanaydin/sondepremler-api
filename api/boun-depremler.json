@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-07T05:56:23.086Z",
+  "lastUpdate": "2025-08-07T06:29:49.897Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.08.07 08:50:59",
+      "lat": 36.69,
+      "lng": 25.7002,
+      "md": "-.-",
+      "ml": "3.4",
+      "mw": "3.4",
+      "depth": "13.5",
+      "coordinates": [
+        25.7002,
+        36.69
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.7002,
+            36.69
+          ]
+        },
+        "properties": {
+          "mag": "3.4",
+          "place": "EGE DENIZI",
+          "time": "2025.08.07 08:50:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.07",
+      "date_hour": "08:50:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "ESKIKOY-KALECIK (ANKARA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KONYA"
-    },
-    {
-      "title": "KABAKTEPE-EKINOZU (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.30 14:46:14",
-      "lat": 38.0497,
-      "lng": 36.9668,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "11.0",
-      "coordinates": [
-        36.9668,
-        38.0497
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.9668,
-            38.0497
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KABAKTEPE-EKINOZU (KAHRAMANMARAS)",
-          "time": "2025.07.30 14:46:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.30",
-      "date_hour": "14:46:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }

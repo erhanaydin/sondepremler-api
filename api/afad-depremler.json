@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ege Denizi",
+    "type": "Güncellenmiş",
+    "date": "2025-08-07 05:51:00",
+    "lat": 36.75528,
+    "lng": 25.78722,
+    "md": "-.-",
+    "ml": "3.5",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      25.78722,
+      36.75528
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.78722,
+          36.75528
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi (Muğla)",
+        "time": 1754545860000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-07",
+    "date_hour": "05:51:00",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Muğla"
+  },
+  {
     "title": "Ege Denizi - Gökova Körfezi - [05.57 km] Menteşe (Muğla)",
     "type": "İlksel",
     "date": "2025-08-07 04:38:38",
@@ -14038,77 +14074,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kütahya"
-  },
-  {
-    "title": "Tatvan (Bitlis)",
-    "type": "İlksel",
-    "date": "2025-08-02 06:10:37",
-    "lat": 38.47528,
-    "lng": 42.58,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      42.58,
-      38.47528
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.58,
-          38.47528
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Tatvan (Bitlis) (Bitlis)",
-        "time": 1754115037000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-02",
-    "date_hour": "06:10:37",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Bitlis"
-  },
-  {
-    "title": "Mustafakemalpaşa (Bursa)",
-    "type": "İlksel",
-    "date": "2025-08-02 06:07:58",
-    "lat": 39.96806,
-    "lng": 28.73417,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.73417,
-      39.96806
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.73417,
-          39.96806
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Mustafakemalpaşa (Bursa) (Bursa)",
-        "time": 1754114878000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-02",
-    "date_hour": "06:07:58",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Bursa"
   }
 ]
