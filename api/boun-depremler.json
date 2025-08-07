@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-07T07:29:28.671Z",
+  "lastUpdate": "2025-08-07T07:47:22.110Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.08.07 08:56:06",
+      "lat": 36.6883,
+      "lng": 25.7392,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "4.2",
+      "coordinates": [
+        25.7392,
+        36.6883
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.7392,
+            36.6883
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "EGE DENIZI",
+          "time": "2025.08.07 08:56:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.07",
+      "date_hour": "08:56:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "EGE DENIZI",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "ZAFER-BUCA (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.07.30 15:55:02",
-      "lat": 38.3385,
-      "lng": 27.2297,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "8.1",
-      "coordinates": [
-        27.2297,
-        38.3385
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.2297,
-            38.3385
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ZAFER-BUCA (IZMIR)",
-          "time": "2025.07.30 15:55:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.30",
-      "date_hour": "15:55:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
