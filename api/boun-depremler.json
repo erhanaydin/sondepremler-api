@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-07T20:27:50.037Z",
+  "lastUpdate": "2025-08-07T20:46:32.126Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.08.07 21:33:51",
+      "lat": 39.1995,
+      "lng": 28.9973,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "16.1",
+      "coordinates": [
+        28.9973,
+        39.1995
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9973,
+            39.1995
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.08.07 21:33:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.07",
+      "date_hour": "21:33:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "FINDIKKOY-DOGANSEHIR (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "OSMANIYE"
-    },
-    {
-      "title": "DEDELER-TURKOGLU (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.31 03:11:45",
-      "lat": 37.2598,
-      "lng": 36.7375,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "8.0",
-      "coordinates": [
-        36.7375,
-        37.2598
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.7375,
-            37.2598
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "DEDELER-TURKOGLU (KAHRAMANMARAS)",
-          "time": "2025.07.31 03:11:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.31",
-      "date_hour": "03:11:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
