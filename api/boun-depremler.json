@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-07T17:54:06.900Z",
+  "lastUpdate": "2025-08-07T18:20:14.639Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DUTLUCA-BURHANIYE (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.07 19:02:28",
+      "lat": 39.4987,
+      "lng": 27.0603,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "7.6",
+      "coordinates": [
+        27.0603,
+        39.4987
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.0603,
+            39.4987
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "DUTLUCA-BURHANIYE (BALIKESIR)",
+          "time": "2025.08.07 19:02:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.07",
+      "date_hour": "19:02:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BESTEPE-GEMEREK (SIVAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AKCAOVA (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.07.30 21:10:52",
-      "lat": 37.2158,
-      "lng": 28.2812,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "2.2",
-      "coordinates": [
-        28.2812,
-        37.2158
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2812,
-            37.2158
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "AKCAOVA (MUGLA)",
-          "time": "2025.07.30 21:10:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.30",
-      "date_hour": "21:10:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
