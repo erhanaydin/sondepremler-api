@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-07T07:56:26.702Z",
+  "lastUpdate": "2025-08-07T08:27:11.716Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIZILTEPE-BERGAMA (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.08.07 10:49:12",
+      "lat": 38.9578,
+      "lng": 27.1372,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "7.6",
+      "coordinates": [
+        27.1372,
+        38.9578
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.1372,
+            38.9578
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KIZILTEPE-BERGAMA (IZMIR)",
+          "time": "2025.08.07 10:49:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.07",
+      "date_hour": "10:49:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
     {
       "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
+    },
+    {
+      "title": "SURIYE",
+      "type": "�lksel",
+      "date": "2025.08.07 10:05:44",
+      "lat": 35.8888,
+      "lng": 40.5165,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "3.0",
+      "depth": "3.8",
+      "coordinates": [
+        40.5165,
+        35.8888
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.5165,
+            35.8888
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "SURIYE",
+          "time": "2025.08.07 10:05:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.07",
+      "date_hour": "10:05:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "EGE DENIZI",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AKCAKOY (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.07.30 18:05:31",
-      "lat": 39.4662,
-      "lng": 27.9312,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "16.5",
-      "coordinates": [
-        27.9312,
-        39.4662
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9312,
-            39.4662
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "AKCAKOY (BALIKESIR)",
-          "time": "2025.07.30 18:05:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.30",
-      "date_hour": "18:05:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.07.30 16:46:00",
-      "lat": 40.2827,
-      "lng": 24.1425,
-      "md": "-.-",
-      "ml": "3.2",
-      "mw": "3.3",
-      "depth": "11.0",
-      "coordinates": [
-        24.1425,
-        40.2827
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.1425,
-            40.2827
-          ]
-        },
-        "properties": {
-          "mag": "3.2",
-          "place": "YUNANISTAN",
-          "time": "2025.07.30 16:46:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.30",
-      "date_hour": "16:46:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
