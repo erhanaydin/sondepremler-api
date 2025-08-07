@@ -1,5 +1,41 @@
 [
   {
+    "title": "Merkez (Bolu)",
+    "type": "İlksel",
+    "date": "2025-08-07 19:31:40",
+    "lat": 40.83333,
+    "lng": 31.78583,
+    "md": "-.-",
+    "ml": "1.2",
+    "mw": "-.-",
+    "depth": 6.99,
+    "coordinates": [
+      31.78583,
+      40.83333
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.78583,
+          40.83333
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Merkez (Bolu) (Bolu)",
+        "time": 1754595100000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-07",
+    "date_hour": "19:31:40",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Bolu"
+  },
+  {
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2025-08-07 18:33:50",
@@ -14434,77 +14470,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Malatya"
-  },
-  {
-    "title": "Merkez (Muş)",
-    "type": "İlksel",
-    "date": "2025-08-02 20:19:57",
-    "lat": 38.83417,
-    "lng": 41.36028,
-    "md": "-.-",
-    "ml": "0.9",
-    "mw": "-.-",
-    "depth": 6.64,
-    "coordinates": [
-      41.36028,
-      38.83417
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.36028,
-          38.83417
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Merkez (Muş) (Muş)",
-        "time": 1754165997000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-02",
-    "date_hour": "20:19:57",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muş"
-  },
-  {
-    "title": "Göksun (Kahramanmaraş)",
-    "type": "İlksel",
-    "date": "2025-08-02 20:09:52",
-    "lat": 38.12,
-    "lng": 36.98333,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 6.99,
-    "coordinates": [
-      36.98333,
-      38.12
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.98333,
-          38.12
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Göksun (Kahramanmaraş) (Kahramanmaraş)",
-        "time": 1754165392000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-02",
-    "date_hour": "20:09:52",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kahramanmaraş"
   }
 ]
