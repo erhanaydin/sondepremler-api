@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-07T18:20:14.639Z",
+  "lastUpdate": "2025-08-07T18:52:28.301Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "FINDIKKOY-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.08.07 20:57:43",
+      "lat": 38.1188,
+      "lng": 37.7775,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "8.6",
+      "coordinates": [
+        37.7775,
+        38.1188
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.7775,
+            38.1188
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "FINDIKKOY-DOGANSEHIR (MALATYA)",
+          "time": "2025.08.07 20:57:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.07",
+      "date_hour": "20:57:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "DUTLUCA-BURHANIYE (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.07.30 21:20:31",
-      "lat": 39.1377,
-      "lng": 28.2008,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "7.4",
-      "coordinates": [
-        28.2008,
-        39.1377
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2008,
-            39.1377
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "AKTAS-SINDIRGI (BALIKESIR)",
-          "time": "2025.07.30 21:20:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.30",
-      "date_hour": "21:20:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
