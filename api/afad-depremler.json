@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kozan (Adana)",
+    "type": "İlksel",
+    "date": "2025-08-08 08:40:45",
+    "lat": 37.61333,
+    "lng": 35.90472,
+    "md": "-.-",
+    "ml": "3.3",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      35.90472,
+      37.61333
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.90472,
+          37.61333
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Kozan (Adana) (Adana)",
+        "time": 1754642445000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-08",
+    "date_hour": "08:40:45",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Adana"
+  },
+  {
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2025-08-08 08:00:26",
@@ -12994,77 +13030,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Malatya"
-  },
-  {
-    "title": "Ege Denizi - [57.19 km] Ayvacık (Çanakkale)",
-    "type": "İlksel",
-    "date": "2025-08-03 09:10:37",
-    "lat": 39.03389,
-    "lng": 25.73333,
-    "md": "-.-",
-    "ml": "2.3",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      25.73333,
-      39.03389
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.73333,
-          39.03389
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi - [57.19 km] Ayvacık (Çanakkale) (Çanakkale)",
-        "time": 1754212237000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-03",
-    "date_hour": "09:10:37",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Çanakkale"
-  },
-  {
-    "title": "Ege Denizi - [55.06 km] Ayvacık (Çanakkale)",
-    "type": "İlksel",
-    "date": "2025-08-03 09:00:20",
-    "lat": 39.05694,
-    "lng": 25.73194,
-    "md": "-.-",
-    "ml": "3.2",
-    "mw": "-.-",
-    "depth": 6.07,
-    "coordinates": [
-      25.73194,
-      39.05694
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.73194,
-          39.05694
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi - [55.06 km] Ayvacık (Çanakkale) (Çanakkale)",
-        "time": 1754211620000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-03",
-    "date_hour": "09:00:20",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Çanakkale"
   }
 ]
