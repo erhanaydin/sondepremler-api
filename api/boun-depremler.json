@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-08T21:11:24.719Z",
+  "lastUpdate": "2025-08-08T21:30:23.545Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.08.09 00:15:48",
+      "lat": 40.8335,
+      "lng": 28.1667,
+      "md": "-.-",
+      "ml": "3.3",
+      "mw": "3.2",
+      "depth": "10.6",
+      "coordinates": [
+        28.1667,
+        40.8335
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1667,
+            40.8335
+          ]
+        },
+        "properties": {
+          "mag": "3.3",
+          "place": "MARMARA DENIZI",
+          "time": "2025.08.09 00:15:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.09",
+      "date_hour": "00:15:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KARABUCAK-KOZAN (ADANA)",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADIYAMAN"
+    },
+    {
+      "title": "KOZLU-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.08 22:34:54",
+      "lat": 39.2317,
+      "lng": 28.0833,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        28.0833,
+        39.2317
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0833,
+            39.2317
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "KOZLU-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.08 22:34:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.08",
+      "date_hour": "22:34:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "EGE DENIZI",
@@ -17926,78 +17998,6 @@
       "location_properties": "",
       "date_day": "2025.08.01",
       "date_hour": "00:38:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "YAGCA-DOSEMEALTI (ANTALYA)",
-      "type": "�lksel",
-      "date": "2025.07.31 23:35:58",
-      "lat": 37.0797,
-      "lng": 30.5808,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "4.4",
-      "coordinates": [
-        30.5808,
-        37.0797
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.5808,
-            37.0797
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "YAGCA-DOSEMEALTI (ANTALYA)",
-          "time": "2025.07.31 23:35:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.31",
-      "date_hour": "23:35:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANTALYA"
-    },
-    {
-      "title": "BEYOGLU-TURKOGLU (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.31 22:13:45",
-      "lat": 37.2978,
-      "lng": 36.8132,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        36.8132,
-        37.2978
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.8132,
-            37.2978
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "BEYOGLU-TURKOGLU (KAHRAMANMARAS)",
-          "time": "2025.07.31 22:13:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.31",
-      "date_hour": "22:13:45",
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
