@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-08T18:17:32.090Z",
+  "lastUpdate": "2025-08-08T18:46:47.737Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -34,6 +34,42 @@
       "location_properties": "",
       "date_day": "2025.08.08",
       "date_hour": "20:56:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.08.08 20:41:33",
+      "lat": 35.5245,
+      "lng": 27.2188,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        27.2188,
+        35.5245
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.2188,
+            35.5245
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "AKDENIZ",
+          "time": "2025.08.08 20:41:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.08",
+      "date_hour": "20:41:33",
       "timestamp": false,
       "location_tz": "",
       "city": ""
@@ -17962,42 +17998,6 @@
       "location_properties": "",
       "date_day": "2025.07.31",
       "date_hour": "16:50:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "SURIYE",
-      "type": "�lksel",
-      "date": "2025.07.31 16:40:33",
-      "lat": 36.573,
-      "lng": 38.4972,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "10.7",
-      "coordinates": [
-        38.4972,
-        36.573
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.4972,
-            36.573
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "SURIYE",
-          "time": "2025.07.31 16:40:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.31",
-      "date_hour": "16:40:33",
       "timestamp": false,
       "location_tz": "",
       "city": ""
