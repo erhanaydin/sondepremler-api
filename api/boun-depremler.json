@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-08T01:54:08.582Z",
+  "lastUpdate": "2025-08-08T03:28:59.030Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.08 03:50:06",
+      "lat": 39.2283,
+      "lng": 28.052,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "3.5",
+      "coordinates": [
+        28.052,
+        39.2283
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.052,
+            39.2283
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.08 03:50:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.08",
+      "date_hour": "03:50:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "HUSEYINFAKI-AYVACIK (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.07.31 05:09:47",
-      "lat": 39.564,
-      "lng": 26.4248,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        26.4248,
-        39.564
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.4248,
-            39.564
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "HUSEYINFAKI-AYVACIK (CANAKKALE)",
-          "time": "2025.07.31 05:09:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.31",
-      "date_hour": "05:09:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
