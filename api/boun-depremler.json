@@ -1,33 +1,69 @@
 {
-  "lastUpdate": "2025-08-08T12:32:44.014Z",
+  "lastUpdate": "2025-08-08T13:22:43.932Z",
   "source": "Boğaziçi",
   "data": [
     {
-      "title": "TASLICA-MARMARIS (MUGLA)",
+      "title": "YATAGAN-MERAM (KONYA)",
       "type": "�lksel",
-      "date": "2025.08.08 14:57:10",
-      "lat": 36.5568,
-      "lng": 28.133,
+      "date": "2025.08.08 15:36:49",
+      "lat": 37.7962,
+      "lng": 32.0682,
       "md": "-.-",
-      "ml": "2.0",
+      "ml": "1.8",
       "mw": "-.-",
-      "depth": "5.4",
+      "depth": "4.3",
       "coordinates": [
-        28.133,
-        36.5568
+        32.0682,
+        37.7962
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            28.133,
-            36.5568
+            32.0682,
+            37.7962
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "YATAGAN-MERAM (KONYA)",
+          "time": "2025.08.08 15:36:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.08",
+      "date_hour": "15:36:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KONYA"
+    },
+    {
+      "title": "AKDENIZ REVIZE01 (2025.08.08",
+      "type": "14:57:10)",
+      "date": "2025.08.08 14:57:10",
+      "lat": 36.5477,
+      "lng": 28.1003,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        28.1003,
+        36.5477
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1003,
+            36.5477
           ]
         },
         "properties": {
           "mag": "2.0",
-          "place": "TASLICA-MARMARIS (MUGLA)",
+          "place": "AKDENIZ REVIZE01 (2025.08.08",
           "time": "2025.08.08 14:57:10"
         }
       },
@@ -36,7 +72,7 @@
       "date_hour": "14:57:10",
       "timestamp": false,
       "location_tz": "",
-      "city": "MUGLA"
+      "city": ""
     },
     {
       "title": "YUKARIULUPINAR-DARENDE (MALATYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2025.07.31 13:36:40",
-      "lat": 40.8168,
-      "lng": 28.2793,
-      "md": "-.-",
-      "ml": "3.7",
-      "mw": "-.-",
-      "depth": "15.7",
-      "coordinates": [
-        28.2793,
-        40.8168
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2793,
-            40.8168
-          ]
-        },
-        "properties": {
-          "mag": "3.7",
-          "place": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-          "time": "2025.07.31 13:36:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.31",
-      "date_hour": "13:36:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
     }
   ]
 }
