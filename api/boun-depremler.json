@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-08T20:43:13.731Z",
+  "lastUpdate": "2025-08-08T20:54:04.674Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
+    },
+    {
+      "title": "ALTINTAS-CELIKHAN (ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2025.08.08 22:39:22",
+      "lat": 38.1527,
+      "lng": 38.261,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.261,
+        38.1527
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.261,
+            38.1527
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "ALTINTAS-CELIKHAN (ADIYAMAN)",
+          "time": "2025.08.08 22:39:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.08",
+      "date_hour": "22:39:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
     },
     {
       "title": "EGE DENIZI",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "ARNAVUTKOY (ISTANBUL)",
-      "type": "�lksel",
-      "date": "2025.07.31 20:32:21",
-      "lat": 41.1835,
-      "lng": 28.7142,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        28.7142,
-        41.1835
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7142,
-            41.1835
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "ARNAVUTKOY (ISTANBUL)",
-          "time": "2025.07.31 20:32:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.31",
-      "date_hour": "20:32:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ISTANBUL"
     }
   ]
 }
