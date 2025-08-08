@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-08T10:57:16.570Z",
+  "lastUpdate": "2025-08-08T11:18:52.343Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KESECIK-(HATAY)",
+      "type": "�lksel",
+      "date": "2025.08.08 14:04:50",
+      "lat": 36.2613,
+      "lng": 36.0698,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "8.3",
+      "coordinates": [
+        36.0698,
+        36.2613
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.0698,
+            36.2613
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KESECIK-(HATAY)",
+          "time": "2025.08.08 14:04:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.08",
+      "date_hour": "14:04:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
     {
       "title": "MAKSUTUSAGI-PAZARCIK (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "NURHAK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.07.31 11:54:27",
-      "lat": 37.999,
-      "lng": 37.4263,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "6.9",
-      "coordinates": [
-        37.4263,
-        37.999
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.4263,
-            37.999
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "NURHAK (KAHRAMANMARAS)",
-          "time": "2025.07.31 11:54:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.31",
-      "date_hour": "11:54:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
