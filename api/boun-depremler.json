@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-08T19:58:23.407Z",
+  "lastUpdate": "2025-08-08T20:26:02.729Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARABUCAK-KOZAN (ADANA)",
+      "type": "�lksel",
+      "date": "2025.08.08 22:47:59",
+      "lat": 37.6095,
+      "lng": 35.8592,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        35.8592,
+        37.6095
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.8592,
+            37.6095
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "KARABUCAK-KOZAN (ADANA)",
+          "time": "2025.08.08 22:47:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.08",
+      "date_hour": "22:47:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ISTANBUL"
-    },
-    {
-      "title": "CALTI-ILIC (ERZINCAN)",
-      "type": "�lksel",
-      "date": "2025.07.31 20:06:36",
-      "lat": 39.4463,
-      "lng": 38.5918,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "17.0",
-      "coordinates": [
-        38.5918,
-        39.4463
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.5918,
-            39.4463
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "CALTI-ILIC (ERZINCAN)",
-          "time": "2025.07.31 20:06:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.31",
-      "date_hour": "20:06:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
     }
   ]
 }
