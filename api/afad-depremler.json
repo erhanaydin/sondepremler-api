@@ -1,5 +1,41 @@
 [
   {
+    "title": "Simav (Kütahya)",
+    "type": "İlksel",
+    "date": "2025-08-08 08:00:26",
+    "lat": 39.26556,
+    "lng": 28.98583,
+    "md": "-.-",
+    "ml": "1.4",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      28.98583,
+      39.26556
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.98583,
+          39.26556
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Simav (Kütahya) (Kütahya)",
+        "time": 1754640026000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-08",
+    "date_hour": "08:00:26",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
+  },
+  {
     "title": "Dulkadiroğlu (Kahramanmaraş)",
     "type": "İlksel",
     "date": "2025-08-08 06:55:44",
@@ -13030,41 +13066,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Çanakkale"
-  },
-  {
-    "title": "Ödemiş (İzmir)",
-    "type": "İlksel",
-    "date": "2025-08-03 08:44:28",
-    "lat": 37.99417,
-    "lng": 27.975,
-    "md": "-.-",
-    "ml": "0.8",
-    "mw": "-.-",
-    "depth": 7.16,
-    "coordinates": [
-      27.975,
-      37.99417
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.975,
-          37.99417
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ödemiş (İzmir) (İzmir)",
-        "time": 1754210668000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-03",
-    "date_hour": "08:44:28",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "İzmir"
   }
 ]
