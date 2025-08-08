@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-08T11:18:52.343Z",
+  "lastUpdate": "2025-08-08T11:35:18.701Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUKARIULUPINAR-DARENDE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.08.08 14:15:07",
+      "lat": 38.4135,
+      "lng": 37.5453,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "3.3",
+      "depth": "5.0",
+      "coordinates": [
+        37.5453,
+        38.4135
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.5453,
+            38.4135
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "YUKARIULUPINAR-DARENDE (MALATYA)",
+          "time": "2025.08.08 14:15:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.08",
+      "date_hour": "14:15:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "KESECIK-(HATAY)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "ORENCIK-PALU (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.07.31 12:10:47",
-      "lat": 38.6197,
-      "lng": 39.7807,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "2.8",
-      "coordinates": [
-        39.7807,
-        38.6197
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.7807,
-            38.6197
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ORENCIK-PALU (ELAZIG)",
-          "time": "2025.07.31 12:10:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.31",
-      "date_hour": "12:10:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
