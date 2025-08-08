@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-08T23:30:58.028Z",
+  "lastUpdate": "2025-08-08T23:44:29.569Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TASEVI-YALVAC (ISPARTA)",
+      "type": "�lksel",
+      "date": "2025.08.09 02:04:51",
+      "lat": 38.2635,
+      "lng": 30.7828,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "10.9",
+      "coordinates": [
+        30.7828,
+        38.2635
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.7828,
+            38.2635
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "TASEVI-YALVAC (ISPARTA)",
+          "time": "2025.08.09 02:04:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.09",
+      "date_hour": "02:04:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ISPARTA"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "TETEMECELE (BOLU)",
-      "type": "�lksel",
-      "date": "2025.08.01 01:27:07",
-      "lat": 40.8457,
-      "lng": 31.7265,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "3.3",
-      "coordinates": [
-        31.7265,
-        40.8457
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.7265,
-            40.8457
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "TETEMECELE (BOLU)",
-          "time": "2025.08.01 01:27:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.01",
-      "date_hour": "01:27:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BOLU"
     }
   ]
 }
