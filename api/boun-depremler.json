@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-08T11:46:50.262Z",
+  "lastUpdate": "2025-08-08T11:55:11.978Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -75,6 +75,42 @@
       "city": "HATAY"
     },
     {
+      "title": "COMLEKCI-BIGADIC (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.08 13:18:36",
+      "lat": 39.4797,
+      "lng": 28.0658,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "13.9",
+      "coordinates": [
+        28.0658,
+        39.4797
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0658,
+            39.4797
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "COMLEKCI-BIGADIC (BALIKESIR)",
+          "time": "2025.08.08 13:18:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.08",
+      "date_hour": "13:18:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
       "title": "GIRIT ADASI (AKDENIZ)",
       "type": "�lksel",
       "date": "2025.08.08 13:05:23",
@@ -145,6 +181,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "DEMIRTAS-DIKILI (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.08.08 12:57:41",
+      "lat": 38.9863,
+      "lng": 26.986,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "2.0",
+      "coordinates": [
+        26.986,
+        38.9863
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.986,
+            38.9863
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "DEMIRTAS-DIKILI (IZMIR)",
+          "time": "2025.08.08 12:57:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.08",
+      "date_hour": "12:57:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
     },
     {
       "title": "AGCASAR-NURHAK (KAHRAMANMARAS)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KONYA"
-    },
-    {
-      "title": "KARACAOREN (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.07.31 13:21:01",
-      "lat": 37.1903,
-      "lng": 28.7888,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "3.2",
-      "coordinates": [
-        28.7888,
-        37.1903
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7888,
-            37.1903
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KARACAOREN (MUGLA)",
-          "time": "2025.07.31 13:21:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.31",
-      "date_hour": "13:21:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
-    },
-    {
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.07.31 13:00:26",
-      "lat": 39.2807,
-      "lng": 28.9652,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "11.9",
-      "coordinates": [
-        28.9652,
-        39.2807
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9652,
-            39.2807
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KARAKOCA-SIMAV (KUTAHYA)",
-          "time": "2025.07.31 13:00:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.07.31",
-      "date_hour": "13:00:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
