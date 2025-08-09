@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-09T13:59:48.167Z",
+  "lastUpdate": "2025-08-09T14:24:10.759Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DUTLU-AKOREN (KONYA)",
+      "type": "�lksel",
+      "date": "2025.08.09 16:56:02",
+      "lat": 37.3505,
+      "lng": 32.331,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        32.331,
+        37.3505
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.331,
+            37.3505
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "DUTLU-AKOREN (KONYA)",
+          "time": "2025.08.09 16:56:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.09",
+      "date_hour": "16:56:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KONYA"
+    },
     {
       "title": "KOZLU-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KARADERE-KINIK (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.08.01 07:47:04",
-      "lat": 38.9808,
-      "lng": 27.4477,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "20.8",
-      "coordinates": [
-        27.4477,
-        38.9808
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.4477,
-            38.9808
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KARADERE-KINIK (IZMIR)",
-          "time": "2025.08.01 07:47:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.01",
-      "date_hour": "07:47:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
