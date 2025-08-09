@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-09T21:14:49.818Z",
+  "lastUpdate": "2025-08-09T21:31:33.414Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ARIKONAK-SINCIK (ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2025.08.09 23:41:25",
+      "lat": 38.1033,
+      "lng": 38.5682,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "21.4",
+      "coordinates": [
+        38.5682,
+        38.1033
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.5682,
+            38.1033
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "ARIKONAK-SINCIK (ADIYAMAN)",
+          "time": "2025.08.09 23:41:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.09",
+      "date_hour": "23:41:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
+    },
     {
       "title": "ESENCE-AFSIN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "KAMISLI-KOZLUK (BATMAN)",
+      "type": "�lksel",
+      "date": "2025.08.09 23:27:11",
+      "lat": 38.081,
+      "lng": 41.3738,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "16.7",
+      "coordinates": [
+        41.3738,
+        38.081
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.3738,
+            38.081
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KAMISLI-KOZLUK (BATMAN)",
+          "time": "2025.08.09 23:27:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.09",
+      "date_hour": "23:27:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BATMAN"
     },
     {
       "title": "KOZLUK-YESILYURT (MALATYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.08.01 13:29:28",
-      "lat": 39.26,
-      "lng": 28.9803,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "14.6",
-      "coordinates": [
-        28.9803,
-        39.26
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9803,
-            39.26
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.08.01 13:29:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.01",
-      "date_hour": "13:29:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "CUKURKAYA-DARENDE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.08.01 13:21:58",
-      "lat": 38.6027,
-      "lng": 37.4688,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "5.8",
-      "coordinates": [
-        37.4688,
-        38.6027
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.4688,
-            38.6027
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "CUKURKAYA-DARENDE (MALATYA)",
-          "time": "2025.08.01 13:21:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.01",
-      "date_hour": "13:21:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
