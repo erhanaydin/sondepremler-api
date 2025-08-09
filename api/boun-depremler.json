@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-08-09T23:25:57.749Z",
+  "lastUpdate": "2025-08-09T23:39:08.821Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOKOVA-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.08.10 02:25:11",
+      "lat": 37.0485,
+      "lng": 28.3485,
+      "md": "-.-",
+      "ml": "0.8",
+      "mw": "-.-",
+      "depth": "4.0",
+      "coordinates": [
+        28.3485,
+        37.0485
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3485,
+            37.0485
+          ]
+        },
+        "properties": {
+          "mag": "0.8",
+          "place": "GOKOVA-ULA (MUGLA)",
+          "time": "2025.08.10 02:25:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.10",
+      "date_hour": "02:25:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.08.10 02:22:08",
+      "lat": 39.7307,
+      "lng": 24.1473,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "13.7",
+      "coordinates": [
+        24.1473,
+        39.7307
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.1473,
+            39.7307
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "YUNANISTAN",
+          "time": "2025.08.10 02:22:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.10",
+      "date_hour": "02:22:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "AKYAKA-ULA (MUGLA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.08.01 14:36:11",
-      "lat": 34.8208,
-      "lng": 33.924,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "42.9",
-      "coordinates": [
-        33.924,
-        34.8208
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.924,
-            34.8208
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "AKDENIZ",
-          "time": "2025.08.01 14:36:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.01",
-      "date_hour": "14:36:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "ILYASLAR-KIRKAGAC (MANISA)",
-      "type": "�lksel",
-      "date": "2025.08.01 14:33:02",
-      "lat": 39.1132,
-      "lng": 27.7605,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        27.7605,
-        39.1132
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7605,
-            39.1132
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "ILYASLAR-KIRKAGAC (MANISA)",
-          "time": "2025.08.01 14:33:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.01",
-      "date_hour": "14:33:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
