@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-09T17:45:07.436Z",
+  "lastUpdate": "2025-08-09T17:53:26.157Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.08.09 20:37:53",
+      "lat": 39.8553,
+      "lng": 24.4753,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "11.4",
+      "coordinates": [
+        24.4753,
+        39.8553
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.4753,
+            39.8553
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "EGE DENIZI",
+          "time": "2025.08.09 20:37:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.09",
+      "date_hour": "20:37:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
-    },
-    {
-      "title": "KELER-MENDERES (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.08.01 10:57:58",
-      "lat": 38.1057,
-      "lng": 27.0508,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "10.0",
-      "coordinates": [
-        27.0508,
-        38.1057
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0508,
-            38.1057
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KELER-MENDERES (IZMIR)",
-          "time": "2025.08.01 10:57:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.01",
-      "date_hour": "10:57:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
