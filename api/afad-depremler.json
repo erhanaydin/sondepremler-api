@@ -1,5 +1,77 @@
 [
   {
+    "title": "Ege Denizi",
+    "type": "İlksel",
+    "date": "2025-08-09 23:22:13",
+    "lat": 39.69083,
+    "lng": 24.59333,
+    "md": "-.-",
+    "ml": "2.3",
+    "mw": "-.-",
+    "depth": 17.73,
+    "coordinates": [
+      24.59333,
+      39.69083
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59333,
+          39.69083
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi (Çanakkale)",
+        "time": 1754781733000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-09",
+    "date_hour": "23:22:13",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Çanakkale"
+  },
+  {
+    "title": "Nurdağı (Gaziantep)",
+    "type": "İlksel",
+    "date": "2025-08-09 23:01:24",
+    "lat": 37.23556,
+    "lng": 36.90583,
+    "md": "-.-",
+    "ml": "1.2",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      36.90583,
+      37.23556
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.90583,
+          37.23556
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Nurdağı (Gaziantep) (Gaziantep)",
+        "time": 1754780484000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-09",
+    "date_hour": "23:01:24",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Gaziantep"
+  },
+  {
     "title": "Ula (Muğla)",
     "type": "İlksel",
     "date": "2025-08-09 22:52:43",
@@ -12922,41 +12994,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Malatya"
-  },
-  {
-    "title": "Ege Denizi",
-    "type": "İlksel",
-    "date": "2025-08-04 23:42:51",
-    "lat": 36.82194,
-    "lng": 25.91444,
-    "md": "-.-",
-    "ml": "1.6",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      25.91444,
-      36.82194
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.91444,
-          36.82194
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi (Muğla)",
-        "time": 1754350971000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-04",
-    "date_hour": "23:42:51",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
   }
 ]
