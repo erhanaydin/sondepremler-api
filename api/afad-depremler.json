@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sincik (Adıyaman)",
+    "type": "İlksel",
+    "date": "2025-08-09 07:48:11",
+    "lat": 38.08167,
+    "lng": 38.55778,
+    "md": "-.-",
+    "ml": "1.4",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      38.55778,
+      38.08167
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.55778,
+          38.08167
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sincik (Adıyaman) (Adıyaman)",
+        "time": 1754725691000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-09",
+    "date_hour": "07:48:11",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Adıyaman"
+  },
+  {
     "title": "Darende (Malatya)",
     "type": "İlksel",
     "date": "2025-08-09 07:12:43",
@@ -13174,77 +13210,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Tunceli"
-  },
-  {
-    "title": "Ege Denizi - [14.79 km] Bodrum (Muğla)",
-    "type": "İlksel",
-    "date": "2025-08-04 08:11:39",
-    "lat": 36.9075,
-    "lng": 27.51667,
-    "md": "-.-",
-    "ml": "1",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      27.51667,
-      36.9075
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.51667,
-          36.9075
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi - [14.79 km] Bodrum (Muğla) (Muğla)",
-        "time": 1754295099000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-04",
-    "date_hour": "08:11:39",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
-  },
-  {
-    "title": "Bulancak (Giresun)",
-    "type": "İlksel",
-    "date": "2025-08-04 08:00:56",
-    "lat": 40.94028,
-    "lng": 38.28111,
-    "md": "-.-",
-    "ml": "2.5",
-    "mw": "-.-",
-    "depth": 14.77,
-    "coordinates": [
-      38.28111,
-      40.94028
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.28111,
-          40.94028
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Bulancak (Giresun) (Giresun)",
-        "time": 1754294456000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-04",
-    "date_hour": "08:00:56",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Giresun"
   }
 ]
