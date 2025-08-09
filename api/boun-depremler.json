@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-09T22:25:14.428Z",
+  "lastUpdate": "2025-08-09T22:42:06.448Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ONIKI ADALAR (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.08.10 00:55:52",
+      "lat": 36.6252,
+      "lng": 26.9798,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "6.1",
+      "coordinates": [
+        26.9798,
+        36.6252
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.9798,
+            36.6252
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ONIKI ADALAR (EGE DENIZI)",
+          "time": "2025.08.10 00:55:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.10",
+      "date_hour": "00:55:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "HAVUTCULU-SELCUK (IZMIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "BEKIRLER-YIGILCA (DUZCE)",
-      "type": "�lksel",
-      "date": "2025.08.01 14:14:22",
-      "lat": 40.9255,
-      "lng": 31.5077,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        31.5077,
-        40.9255
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.5077,
-            40.9255
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "BEKIRLER-YIGILCA (DUZCE)",
-          "time": "2025.08.01 14:14:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.01",
-      "date_hour": "14:14:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DUZCE"
     }
   ]
 }
