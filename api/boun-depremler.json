@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-09T23:00:16.947Z",
+  "lastUpdate": "2025-08-09T23:25:57.749Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKYAKA-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.08.10 01:52:43",
+      "lat": 37.0602,
+      "lng": 28.3423,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "6.1",
+      "coordinates": [
+        28.3423,
+        37.0602
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3423,
+            37.0602
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "AKYAKA-ULA (MUGLA)",
+          "time": "2025.08.10 01:52:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.10",
+      "date_hour": "01:52:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "ONIKI ADALAR (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "YUNUSLAR-GEDIZ (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.08.01 14:32:08",
-      "lat": 39.1403,
-      "lng": 29.4357,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "6.5",
-      "coordinates": [
-        29.4357,
-        39.1403
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.4357,
-            39.1403
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "YUNUSLAR-GEDIZ (KUTAHYA)",
-          "time": "2025.08.01 14:32:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.01",
-      "date_hour": "14:32:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
