@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-09T06:52:58.862Z",
+  "lastUpdate": "2025-08-09T07:09:26.155Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.09 08:56:41",
+      "lat": 39.2038,
+      "lng": 28.0168,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "8.1",
+      "coordinates": [
+        28.0168,
+        39.2038
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0168,
+            39.2038
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "SAHINKAYA-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.09 08:56:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.09",
+      "date_hour": "08:56:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "SEHSUVAR-(ELAZIG)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2025.08.01 04:33:19",
-      "lat": 40.8187,
-      "lng": 28.2827,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "10.1",
-      "coordinates": [
-        28.2827,
-        40.8187
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2827,
-            40.8187
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-          "time": "2025.08.01 04:33:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.01",
-      "date_hour": "04:33:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
     }
   ]
 }
