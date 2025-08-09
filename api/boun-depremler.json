@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-09T08:56:38.696Z",
+  "lastUpdate": "2025-08-09T09:18:08.297Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOZLU-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.09 12:03:29",
+      "lat": 39.2315,
+      "lng": 28.0823,
+      "md": "-.-",
+      "ml": "3.8",
+      "mw": "3.7",
+      "depth": "11.0",
+      "coordinates": [
+        28.0823,
+        39.2315
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0823,
+            39.2315
+          ]
+        },
+        "properties": {
+          "mag": "3.8",
+          "place": "KOZLU-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.09 12:03:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.09",
+      "date_hour": "12:03:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BAHATLAR-EMET (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "OZYURT (VAN)",
-      "type": "�lksel",
-      "date": "2025.08.01 05:53:21",
-      "lat": 38.7317,
-      "lng": 43.1947,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "13.1",
-      "coordinates": [
-        43.1947,
-        38.7317
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.1947,
-            38.7317
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "OZYURT (VAN)",
-          "time": "2025.08.01 05:53:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.01",
-      "date_hour": "05:53:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "VAN"
     }
   ]
 }
