@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-09T05:36:44.716Z",
+  "lastUpdate": "2025-08-09T05:49:11.880Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SEHSUVAR-(ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.08.09 08:26:03",
+      "lat": 38.6005,
+      "lng": 39.6362,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "8.5",
+      "coordinates": [
+        39.6362,
+        38.6005
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.6362,
+            38.6005
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "SEHSUVAR-(ELAZIG)",
+          "time": "2025.08.09 08:26:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.09",
+      "date_hour": "08:26:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "KARATOP-MADEN (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.08.01 03:55:38",
-      "lat": 38.4217,
-      "lng": 39.6583,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "8.1",
-      "coordinates": [
-        39.6583,
-        38.4217
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.6583,
-            38.4217
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KARATOP-MADEN (ELAZIG)",
-          "time": "2025.08.01 03:55:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.01",
-      "date_hour": "03:55:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
