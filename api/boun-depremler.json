@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-09T03:38:02.367Z",
+  "lastUpdate": "2025-08-09T04:05:01.586Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.08.09 06:29:46",
+      "lat": 40.2048,
+      "lng": 24.6247,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "11.1",
+      "coordinates": [
+        24.6247,
+        40.2048
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.6247,
+            40.2048
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "EGE DENIZI",
+          "time": "2025.08.09 06:29:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.09",
+      "date_hour": "06:29:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YUNANISTAN",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.08.01 03:11:26",
-      "lat": 39.2225,
-      "lng": 29.0065,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "13.8",
-      "coordinates": [
-        29.0065,
-        39.2225
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0065,
-            39.2225
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.08.01 03:11:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.01",
-      "date_hour": "03:11:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
