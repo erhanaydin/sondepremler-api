@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-10T05:43:44.189Z",
+  "lastUpdate": "2025-08-10T05:54:43.709Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOCAELI-IVRINDI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.10 08:21:58",
+      "lat": 39.6273,
+      "lng": 27.5023,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "6.5",
+      "coordinates": [
+        27.5023,
+        39.6273
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.5023,
+            39.6273
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "KOCAELI-IVRINDI (BALIKESIR)",
+          "time": "2025.08.10 08:21:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.10",
+      "date_hour": "08:21:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "CAVUSLU-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.08.02 00:45:45",
-      "lat": 38.1617,
-      "lng": 37.7418,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "6.9",
-      "coordinates": [
-        37.7418,
-        38.1617
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.7418,
-            38.1617
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "CAVUSLU-DOGANSEHIR (MALATYA)",
-          "time": "2025.08.02 00:45:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.02",
-      "date_hour": "00:45:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
