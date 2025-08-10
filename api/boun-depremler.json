@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-10T06:58:57.559Z",
+  "lastUpdate": "2025-08-10T07:21:55.890Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.10 09:50:53",
+      "lat": 39.224,
+      "lng": 28.0557,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "7.7",
+      "coordinates": [
+        28.0557,
+        39.224
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0557,
+            39.224
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.10 09:50:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.10",
+      "date_hour": "09:50:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KOCAELI-IVRINDI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "INCIKOY-AFSIN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.08.02 00:52:56",
-      "lat": 38.3748,
-      "lng": 36.9038,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "19.3",
-      "coordinates": [
-        36.9038,
-        38.3748
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.9038,
-            38.3748
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "INCIKOY-AFSIN (KAHRAMANMARAS)",
-          "time": "2025.08.02 00:52:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.02",
-      "date_hour": "00:52:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
