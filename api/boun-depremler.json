@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-10T23:45:14.326Z",
+  "lastUpdate": "2025-08-10T23:53:35.521Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.11 02:35:24",
+      "lat": 39.207,
+      "lng": 28.1342,
+      "md": "-.-",
+      "ml": "3.4",
+      "mw": "-.-",
+      "depth": "14.3",
+      "coordinates": [
+        28.1342,
+        39.207
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1342,
+            39.207
+          ]
+        },
+        "properties": {
+          "mag": "3.4",
+          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.11 02:35:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.11",
+      "date_hour": "02:35:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -358,6 +394,42 @@
       "location_properties": "",
       "date_day": "2025.08.11",
       "date_hour": "01:25:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.11 01:16:06",
+      "lat": 39.2135,
+      "lng": 28.1348,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "13.9",
+      "coordinates": [
+        28.1348,
+        39.2135
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1348,
+            39.2135
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.11 01:16:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.11",
+      "date_hour": "01:16:06",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "CAMLI-MARMARIS (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.08.04 20:06:01",
-      "lat": 36.9707,
-      "lng": 28.2895,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "-.-",
-      "depth": "14.4",
-      "coordinates": [
-        28.2895,
-        36.9707
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2895,
-            36.9707
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "CAMLI-MARMARIS (MUGLA)",
-          "time": "2025.08.04 20:06:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.04",
-      "date_hour": "20:06:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
-    },
-    {
-      "title": "YEDISU (BINGOL)",
-      "type": "�lksel",
-      "date": "2025.08.04 19:54:58",
-      "lat": 39.4288,
-      "lng": 40.5652,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "8.1",
-      "coordinates": [
-        40.5652,
-        39.4288
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.5652,
-            39.4288
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YEDISU (BINGOL)",
-          "time": "2025.08.04 19:54:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.04",
-      "date_hour": "19:54:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
