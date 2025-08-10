@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-10T21:44:59.451Z",
+  "lastUpdate": "2025-08-10T21:53:10.903Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIZILGUR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.11 00:40:52",
+      "lat": 39.2483,
+      "lng": 28.029,
+      "md": "-.-",
+      "ml": "3.7",
+      "mw": "3.5",
+      "depth": "14.0",
+      "coordinates": [
+        28.029,
+        39.2483
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.029,
+            39.2483
+          ]
+        },
+        "properties": {
+          "mag": "3.7",
+          "place": "KIZILGUR-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.11 00:40:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.11",
+      "date_hour": "00:40:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "GAZIANTEP"
-    },
-    {
-      "title": "BAGCILAR-BAHCESARAY (VAN)",
-      "type": "�lksel",
-      "date": "2025.08.04 07:59:39",
-      "lat": 38.0465,
-      "lng": 42.788,
-      "md": "-.-",
-      "ml": "3.1",
-      "mw": "3.3",
-      "depth": "5.0",
-      "coordinates": [
-        42.788,
-        38.0465
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.788,
-            38.0465
-          ]
-        },
-        "properties": {
-          "mag": "3.1",
-          "place": "BAGCILAR-BAHCESARAY (VAN)",
-          "time": "2025.08.04 07:59:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.04",
-      "date_hour": "07:59:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "VAN"
     }
   ]
 }
