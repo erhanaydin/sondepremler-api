@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-10T14:08:44.989Z",
+  "lastUpdate": "2025-08-10T14:31:34.163Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KULU (KONYA)",
+      "type": "�lksel",
+      "date": "2025.08.10 17:12:47",
+      "lat": 39.1005,
+      "lng": 33.0445,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "7.2",
+      "coordinates": [
+        33.0445,
+        39.1005
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.0445,
+            39.1005
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "KULU (KONYA)",
+          "time": "2025.08.10 17:12:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.10",
+      "date_hour": "17:12:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KONYA"
+    },
     {
       "title": "TASDAMLAR-CELIKHAN (ADIYAMAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
-    },
-    {
-      "title": "YUNUSLAR-GEDIZ (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.08.02 03:37:16",
-      "lat": 39.1387,
-      "lng": 29.4367,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        29.4367,
-        39.1387
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.4367,
-            39.1387
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YUNUSLAR-GEDIZ (KUTAHYA)",
-          "time": "2025.08.02 03:37:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.02",
-      "date_hour": "03:37:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
