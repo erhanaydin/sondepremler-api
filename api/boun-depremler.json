@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-10T12:43:01.804Z",
+  "lastUpdate": "2025-08-10T13:18:48.553Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.08.10 15:58:35",
+      "lat": 37.9808,
+      "lng": 27.155,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "7.6",
+      "coordinates": [
+        27.155,
+        37.9808
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.155,
+            37.9808
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2025.08.10 15:58:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.10",
+      "date_hour": "15:58:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "TOKAT-HISARCIK (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.08.02 03:23:47",
-      "lat": 40.4045,
-      "lng": 24.2783,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "9.4",
-      "coordinates": [
-        24.2783,
-        40.4045
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.2783,
-            40.4045
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "YUNANISTAN",
-          "time": "2025.08.02 03:23:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.02",
-      "date_hour": "03:23:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
