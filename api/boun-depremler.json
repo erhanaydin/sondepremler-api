@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-08-10T15:11:13.125Z",
+  "lastUpdate": "2025-08-10T15:31:41.870Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.10 18:06:17",
+      "lat": 39.2162,
+      "lng": 28.0755,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "-.-",
+      "depth": "13.2",
+      "coordinates": [
+        28.0755,
+        39.2162
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0755,
+            39.2162
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.10 18:06:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.10",
+      "date_hour": "18:06:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.10 18:05:18",
+      "lat": 39.2335,
+      "lng": 28.0663,
+      "md": "-.-",
+      "ml": "3.5",
+      "mw": "3.5",
+      "depth": "10.7",
+      "coordinates": [
+        28.0663,
+        39.2335
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0663,
+            39.2335
+          ]
+        },
+        "properties": {
+          "mag": "3.5",
+          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.10 18:05:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.10",
+      "date_hour": "18:05:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "CUKUROZ-YATAGAN (MUGLA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "CAYYAKA-ILIC (ERZINCAN)",
-      "type": "�lksel",
-      "date": "2025.08.02 05:05:01",
-      "lat": 39.6288,
-      "lng": 38.569,
-      "md": "-.-",
-      "ml": "3.1",
-      "mw": "3.1",
-      "depth": "5.0",
-      "coordinates": [
-        38.569,
-        39.6288
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.569,
-            39.6288
-          ]
-        },
-        "properties": {
-          "mag": "3.1",
-          "place": "CAYYAKA-ILIC (ERZINCAN)",
-          "time": "2025.08.02 05:05:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.02",
-      "date_hour": "05:05:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
-    },
-    {
-      "title": "CEYLANLI-KIRIKHAN (HATAY)",
-      "type": "�lksel",
-      "date": "2025.08.02 04:47:02",
-      "lat": 36.5732,
-      "lng": 36.3477,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "12.0",
-      "coordinates": [
-        36.3477,
-        36.5732
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.3477,
-            36.5732
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "CEYLANLI-KIRIKHAN (HATAY)",
-          "time": "2025.08.02 04:47:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.02",
-      "date_hour": "04:47:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
