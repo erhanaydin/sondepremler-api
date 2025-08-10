@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-10T23:32:26.628Z",
+  "lastUpdate": "2025-08-10T23:45:14.326Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -358,6 +358,42 @@
       "location_properties": "",
       "date_day": "2025.08.11",
       "date_hour": "01:25:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.11 01:12:57",
+      "lat": 39.2245,
+      "lng": 28.0632,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "6.3",
+      "coordinates": [
+        28.0632,
+        39.2245
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0632,
+            39.2245
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.11 01:12:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.11",
+      "date_hour": "01:12:57",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BINGOL"
-    },
-    {
-      "title": "CAMLI-MARMARIS (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.08.04 19:29:07",
-      "lat": 36.9565,
-      "lng": 28.2928,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "4.6",
-      "coordinates": [
-        28.2928,
-        36.9565
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2928,
-            36.9565
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "CAMLI-MARMARIS (MUGLA)",
-          "time": "2025.08.04 19:29:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.04",
-      "date_hour": "19:29:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
