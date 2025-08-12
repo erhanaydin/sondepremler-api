@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-12T23:45:02.351Z",
+  "lastUpdate": "2025-08-12T23:52:58.401Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -34,6 +34,42 @@
       "location_properties": "",
       "date_day": "2025.08.13",
       "date_hour": "02:34:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.13 02:27:46",
+      "lat": 39.2252,
+      "lng": 28.1805,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "7.0",
+      "coordinates": [
+        28.1805,
+        39.2252
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1805,
+            39.2252
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "SINDIRGI (BALIKESIR)",
+          "time": "2025.08.13 02:27:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.13",
+      "date_hour": "02:27:46",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -77,35 +113,35 @@
     {
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
-      "date": "2025.08.13 02:09:59",
-      "lat": 39.2002,
-      "lng": 28.1003,
+      "date": "2025.08.13 02:10:00",
+      "lat": 39.2103,
+      "lng": 28.0765,
       "md": "-.-",
       "ml": "1.8",
       "mw": "-.-",
-      "depth": "9.2",
+      "depth": "13.1",
       "coordinates": [
-        28.1003,
-        39.2002
+        28.0765,
+        39.2103
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            28.1003,
-            39.2002
+            28.0765,
+            39.2103
           ]
         },
         "properties": {
           "mag": "1.8",
           "place": "KERTIL-SINDIRGI (BALIKESIR)",
-          "time": "2025.08.13 02:09:59"
+          "time": "2025.08.13 02:10:00"
         }
       },
       "location_properties": "",
       "date_day": "2025.08.13",
-      "date_hour": "02:09:59",
+      "date_hour": "02:10:00",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -147,31 +183,31 @@
       "city": "BALIKESIR"
     },
     {
-      "title": "KIZILGUR-SINDIRGI (BALIKESIR)",
+      "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
       "date": "2025.08.13 02:02:10",
-      "lat": 39.2452,
-      "lng": 28.0027,
+      "lat": 39.2253,
+      "lng": 27.9978,
       "md": "-.-",
-      "ml": "2.4",
+      "ml": "2.5",
       "mw": "-.-",
-      "depth": "9.5",
+      "depth": "7.9",
       "coordinates": [
-        28.0027,
-        39.2452
+        27.9978,
+        39.2253
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            28.0027,
-            39.2452
+            27.9978,
+            39.2253
           ]
         },
         "properties": {
-          "mag": "2.4",
-          "place": "KIZILGUR-SINDIRGI (BALIKESIR)",
+          "mag": "2.5",
+          "place": "SAHINKAYA-SINDIRGI (BALIKESIR)",
           "time": "2025.08.13 02:02:10"
         }
       },
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AKBOGA-MADEN (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.08.12 01:08:27",
-      "lat": 38.4368,
-      "lng": 39.5743,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "6.5",
-      "coordinates": [
-        39.5743,
-        38.4368
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.5743,
-            38.4368
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "AKBOGA-MADEN (ELAZIG)",
-          "time": "2025.08.12 01:08:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.12",
-      "date_hour": "01:08:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
