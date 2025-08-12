@@ -4,7 +4,7 @@ import fs from 'fs';
 const start = new Date(Date.now() - 5 * 24 * 60 * 60 * 1000).toISOString().slice(0, 19);
 const end = new Date().toISOString().slice(0, 19);
 
-const url = `https://deprem.afad.gov.tr/apiv2/event/filter?start=${start}&end=${end}&limit=500&orderby=timedesc`;
+const url = `https://servisnet.afad.gov.tr/apigateway/deprem/apiv2/event/filter?start=${start}&end=${end}&limit=500&orderby=timedesc`;
 
 try {
   const response = await fetch(url);
