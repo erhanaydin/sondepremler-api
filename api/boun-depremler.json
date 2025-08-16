@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-16T22:48:39.840Z",
+  "lastUpdate": "2025-08-16T22:56:48.520Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -145,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
+    },
+    {
+      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.17 01:07:50",
+      "lat": 39.2357,
+      "lng": 28.0502,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "15.3",
+      "coordinates": [
+        28.0502,
+        39.2357
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0502,
+            39.2357
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.17 01:07:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.17",
+      "date_hour": "01:07:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "HACET-KIRKAGAC (MANISA)",
-      "type": "�lksel",
-      "date": "2025.08.15 15:32:19",
-      "lat": 39.2243,
-      "lng": 27.9725,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        27.9725,
-        39.2243
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9725,
-            39.2243
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "HACET-KIRKAGAC (MANISA)",
-          "time": "2025.08.15 15:32:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.15",
-      "date_hour": "15:32:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
