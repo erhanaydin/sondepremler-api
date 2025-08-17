@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-17T09:43:20.283Z",
+  "lastUpdate": "2025-08-17T09:51:46.602Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -39,6 +39,42 @@
       "city": "BALIKESIR"
     },
     {
+      "title": "GOVDELI-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.08.17 12:29:43",
+      "lat": 38.0303,
+      "lng": 37.6422,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "16.7",
+      "coordinates": [
+        37.6422,
+        38.0303
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.6422,
+            38.0303
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "GOVDELI-DOGANSEHIR (MALATYA)",
+          "time": "2025.08.17 12:29:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.17",
+      "date_hour": "12:29:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
       "date": "2025.08.17 12:26:39",
@@ -70,6 +106,42 @@
       "location_properties": "",
       "date_day": "2025.08.17",
       "date_hour": "12:26:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.17 12:23:11",
+      "lat": 39.1922,
+      "lng": 28.0898,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "8.0",
+      "coordinates": [
+        28.0898,
+        39.1922
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0898,
+            39.1922
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.17 12:23:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.17",
+      "date_hour": "12:23:11",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.08.16 00:30:27",
-      "lat": 39.1955,
-      "lng": 28.1185,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "8.5",
-      "coordinates": [
-        28.1185,
-        39.1955
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1185,
-            39.1955
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2025.08.16 00:30:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.16",
-      "date_hour": "00:30:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "IMAMOGLU (ADANA)",
-      "type": "�lksel",
-      "date": "2025.08.16 00:21:59",
-      "lat": 37.2645,
-      "lng": 35.6753,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "25.9",
-      "coordinates": [
-        35.6753,
-        37.2645
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.6753,
-            37.2645
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "IMAMOGLU (ADANA)",
-          "time": "2025.08.16 00:21:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.16",
-      "date_hour": "00:21:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
