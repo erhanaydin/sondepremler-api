@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-19T08:26:46.667Z",
+  "lastUpdate": "2025-08-19T08:47:53.940Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BUKRECIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.19 11:33:57",
+      "lat": 39.2677,
+      "lng": 27.9475,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.1",
+      "coordinates": [
+        27.9475,
+        39.2677
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9475,
+            39.2677
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "BUKRECIK-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.19 11:33:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.19",
+      "date_hour": "11:33:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "OZLUCE (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.08.18 01:37:48",
-      "lat": 37.2778,
-      "lng": 28.5133,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "9.3",
-      "coordinates": [
-        28.5133,
-        37.2778
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.5133,
-            37.2778
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "OZLUCE (MUGLA)",
-          "time": "2025.08.18 01:37:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.18",
-      "date_hour": "01:37:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
