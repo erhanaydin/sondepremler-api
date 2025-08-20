@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-20T09:14:12.280Z",
+  "lastUpdate": "2025-08-20T09:33:42.940Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.20 12:03:50",
+      "lat": 39.1647,
+      "lng": 28.1447,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "7.8",
+      "coordinates": [
+        28.1447,
+        39.1647
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1447,
+            39.1647
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.20 12:03:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.20",
+      "date_hour": "12:03:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "AKKOCALI-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "YENIKOYMEZREASI-KOVANCILAR (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.08.18 17:23:31",
-      "lat": 38.6693,
-      "lng": 39.8112,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        39.8112,
-        38.6693
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.8112,
-            38.6693
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "YENIKOYMEZREASI-KOVANCILAR (ELAZIG)",
-          "time": "2025.08.18 17:23:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.18",
-      "date_hour": "17:23:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
