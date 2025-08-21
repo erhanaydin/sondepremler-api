@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-21T09:45:59.173Z",
+  "lastUpdate": "2025-08-21T09:54:00.581Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.21 12:41:44",
+      "lat": 39.1748,
+      "lng": 28.1293,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "12.7",
+      "coordinates": [
+        28.1293,
+        39.1748
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1293,
+            39.1748
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.21 12:41:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.21",
+      "date_hour": "12:41:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CAMPINAR-CELIKHAN (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.08.19 13:11:22",
-      "lat": 38.1055,
-      "lng": 38.248,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "2.1",
-      "coordinates": [
-        38.248,
-        38.1055
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.248,
-            38.1055
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "CAMPINAR-CELIKHAN (ADIYAMAN)",
-          "time": "2025.08.19 13:11:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.19",
-      "date_hour": "13:11:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
