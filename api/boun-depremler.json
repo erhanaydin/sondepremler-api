@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-23T19:44:22.647Z",
+  "lastUpdate": "2025-08-23T19:52:36.644Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -397,6 +397,78 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "CICEKLI-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2025.08.23 21:15:07",
+      "lat": 39.0583,
+      "lng": 28.2112,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "17.1",
+      "coordinates": [
+        28.2112,
+        39.0583
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2112,
+            39.0583
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "CICEKLI-GORDES (MANISA)",
+          "time": "2025.08.23 21:15:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.23",
+      "date_hour": "21:15:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
+    {
+      "title": "SARIOT-KALE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.08.23 21:13:24",
+      "lat": 38.3033,
+      "lng": 38.7498,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "16.2",
+      "coordinates": [
+        38.7498,
+        38.3033
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.7498,
+            38.3033
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "SARIOT-KALE (MALATYA)",
+          "time": "2025.08.23 21:13:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.23",
+      "date_hour": "21:13:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "ILICA-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANKIRI"
-    },
-    {
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.08.21 20:51:58",
-      "lat": 39.1523,
-      "lng": 28.203,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "14.1",
-      "coordinates": [
-        28.203,
-        39.1523
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.203,
-            39.1523
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "AKTAS-SINDIRGI (BALIKESIR)",
-          "time": "2025.08.21 20:51:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.21",
-      "date_hour": "20:51:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "NIKFER-TAVAS (DENIZLI)",
-      "type": "�lksel",
-      "date": "2025.08.21 20:50:45",
-      "lat": 37.399,
-      "lng": 29.2142,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "3.8",
-      "coordinates": [
-        29.2142,
-        37.399
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.2142,
-            37.399
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "NIKFER-TAVAS (DENIZLI)",
-          "time": "2025.08.21 20:50:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.21",
-      "date_hour": "20:50:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
