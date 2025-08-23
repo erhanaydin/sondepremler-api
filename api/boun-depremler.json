@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-23T09:41:28.878Z",
+  "lastUpdate": "2025-08-23T09:50:01.717Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.23 12:35:21",
+      "lat": 39.2352,
+      "lng": 28.069,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "6.4",
+      "coordinates": [
+        28.069,
+        39.2352
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.069,
+            39.2352
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.23 12:35:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.23",
+      "date_hour": "12:35:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "DANACAYIRI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.08.21 10:20:55",
-      "lat": 40.3087,
-      "lng": 24.1527,
-      "md": "-.-",
-      "ml": "3.5",
-      "mw": "3.4",
-      "depth": "7.7",
-      "coordinates": [
-        24.1527,
-        40.3087
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.1527,
-            40.3087
-          ]
-        },
-        "properties": {
-          "mag": "3.5",
-          "place": "YUNANISTAN",
-          "time": "2025.08.21 10:20:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.21",
-      "date_hour": "10:20:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
