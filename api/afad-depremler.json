@@ -2,6 +2,78 @@
   {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
+    "date": "2025-08-21 05:19:01",
+    "lat": 39.2,
+    "lng": 28.12694,
+    "md": "-.-",
+    "ml": "1.3",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      28.12694,
+      39.2
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.12694,
+          39.2
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sındırgı (Balıkesir) (Balıkesir)",
+        "time": 1755753541000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-21",
+    "date_hour": "05:19:01",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Balıkesir"
+  },
+  {
+    "title": "Datça (Muğla)",
+    "type": "İlksel",
+    "date": "2025-08-21 05:11:59",
+    "lat": 36.76972,
+    "lng": 27.78972,
+    "md": "-.-",
+    "ml": "1.3",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      27.78972,
+      36.76972
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.78972,
+          36.76972
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Datça (Muğla) (Muğla)",
+        "time": 1755753119000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-21",
+    "date_hour": "05:11:59",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Muğla"
+  },
+  {
+    "title": "Sındırgı (Balıkesir)",
+    "type": "İlksel",
     "date": "2025-08-21 05:07:31",
     "lat": 39.23361,
     "lng": 28.20667,
@@ -34,6 +106,42 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
+  },
+  {
+    "title": "Ege Denizi - [82.02 km] Datça (Muğla)",
+    "type": "İlksel",
+    "date": "2025-08-21 05:06:58",
+    "lat": 36.07111,
+    "lng": 26.95583,
+    "md": "-.-",
+    "ml": "2.2",
+    "mw": "-.-",
+    "depth": 10.11,
+    "coordinates": [
+      26.95583,
+      36.07111
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.95583,
+          36.07111
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi - [82.02 km] Datça (Muğla) (Muğla)",
+        "time": 1755752818000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-21",
+    "date_hour": "05:06:58",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Muğla"
   },
   {
     "title": "Ege Denizi - [77.65 km] Datça (Muğla)",
@@ -3816,42 +3924,6 @@
     "city": "Balıkesir"
   },
   {
-    "title": "Doğanşehir (Malatya)",
-    "type": "İlksel",
-    "date": "2025-08-20 21:43:01",
-    "lat": 38.16972,
-    "lng": 37.94194,
-    "md": "-.-",
-    "ml": "1.3",
-    "mw": "-.-",
-    "depth": 6.72,
-    "coordinates": [
-      37.94194,
-      38.16972
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.94194,
-          38.16972
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Doğanşehir (Malatya) (Malatya)",
-        "time": 1755726181000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-20",
-    "date_hour": "21:43:01",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
-  },
-  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-08-20 21:43:01",
@@ -3886,6 +3958,42 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
+  },
+  {
+    "title": "Doğanşehir (Malatya)",
+    "type": "İlksel",
+    "date": "2025-08-20 21:43:01",
+    "lat": 38.16972,
+    "lng": 37.94194,
+    "md": "-.-",
+    "ml": "1.3",
+    "mw": "-.-",
+    "depth": 6.72,
+    "coordinates": [
+      37.94194,
+      38.16972
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.94194,
+          38.16972
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Doğanşehir (Malatya) (Malatya)",
+        "time": 1755726181000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-08-20",
+    "date_hour": "21:43:01",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Malatya"
   },
   {
     "title": "Sındırgı (Balıkesir)",
@@ -17887,114 +17995,6 @@
     "location_properties": "",
     "date_day": "2025-08-19",
     "date_hour": "21:00:53",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-08-19 20:55:30",
-    "lat": 39.21,
-    "lng": 28.17694,
-    "md": "-.-",
-    "ml": "1",
-    "mw": "-.-",
-    "depth": 9.44,
-    "coordinates": [
-      28.17694,
-      39.21
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.17694,
-          39.21
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1755636930000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-19",
-    "date_hour": "20:55:30",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-08-19 20:50:18",
-    "lat": 39.23028,
-    "lng": 28.13139,
-    "md": "-.-",
-    "ml": "1.3",
-    "mw": "-.-",
-    "depth": 5.95,
-    "coordinates": [
-      28.13139,
-      39.23028
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.13139,
-          39.23028
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1755636618000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-19",
-    "date_hour": "20:50:18",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-08-19 20:49:17",
-    "lat": 39.15083,
-    "lng": 28.18833,
-    "md": "-.-",
-    "ml": "1.1",
-    "mw": "-.-",
-    "depth": 7.01,
-    "coordinates": [
-      28.18833,
-      39.15083
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.18833,
-          39.15083
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1755636557000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-08-19",
-    "date_hour": "20:49:17",
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
