@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-08-24T15:46:33.513Z",
+  "lastUpdate": "2025-08-24T15:55:19.612Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.24 18:27:00",
+      "lat": 39.1823,
+      "lng": 28.2147,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "14.0",
+      "coordinates": [
+        28.2147,
+        39.1823
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2147,
+            39.1823
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.24 18:27:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.24",
+      "date_hour": "18:27:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "HACET-KIRKAGAC (MANISA)",
+      "type": "�lksel",
+      "date": "2025.08.24 18:25:51",
+      "lat": 39.2177,
+      "lng": 27.9843,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "9.9",
+      "coordinates": [
+        27.9843,
+        39.2177
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9843,
+            39.2177
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "HACET-KIRKAGAC (MANISA)",
+          "time": "2025.08.24 18:25:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.24",
+      "date_hour": "18:25:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "KOZLU-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.08.22 10:00:50",
-      "lat": 39.2087,
-      "lng": 27.9857,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        27.9857,
-        39.2087
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9857,
-            39.2087
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "SAHINKAYA-SINDIRGI (BALIKESIR)",
-          "time": "2025.08.22 10:00:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.22",
-      "date_hour": "10:00:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "KAYACIK-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2025.08.22 09:58:39",
-      "lat": 38.915,
-      "lng": 28.177,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "16.8",
-      "coordinates": [
-        28.177,
-        38.915
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.177,
-            38.915
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KAYACIK-GORDES (MANISA)",
-          "time": "2025.08.22 09:58:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.22",
-      "date_hour": "09:58:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
