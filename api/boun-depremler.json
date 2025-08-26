@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-26T19:09:14.133Z",
+  "lastUpdate": "2025-08-26T19:22:46.469Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ILICA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.26 22:10:57",
+      "lat": 39.1872,
+      "lng": 28.2115,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "13.1",
+      "coordinates": [
+        28.2115,
+        39.1872
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2115,
+            39.1872
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "ILICA-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.26 22:10:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.26",
+      "date_hour": "22:10:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "MERTEKLI (ERZINCAN)",
-      "type": "�lksel",
-      "date": "2025.08.25 02:21:04",
-      "lat": 39.6332,
-      "lng": 39.7168,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "11.2",
-      "coordinates": [
-        39.7168,
-        39.6332
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.7168,
-            39.6332
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "MERTEKLI (ERZINCAN)",
-          "time": "2025.08.25 02:21:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.25",
-      "date_hour": "02:21:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
     }
   ]
 }
