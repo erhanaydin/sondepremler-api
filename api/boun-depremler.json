@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-27T13:48:01.617Z",
+  "lastUpdate": "2025-08-27T13:56:06.158Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.27 16:49:12",
+      "lat": 39.2453,
+      "lng": 28.1732,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.8",
+      "coordinates": [
+        28.1732,
+        39.2453
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1732,
+            39.2453
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "SINDIRGI (BALIKESIR)",
+          "time": "2025.08.27 16:49:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.27",
+      "date_hour": "16:49:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KARAAGAC-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YAZIKOY-AFSIN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.08.26 00:35:03",
-      "lat": 38.1573,
-      "lng": 36.7673,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "13.7",
-      "coordinates": [
-        36.7673,
-        38.1573
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.7673,
-            38.1573
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YAZIKOY-AFSIN (KAHRAMANMARAS)",
-          "time": "2025.08.26 00:35:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.26",
-      "date_hour": "00:35:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
