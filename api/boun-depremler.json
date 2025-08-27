@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-27T14:47:10.914Z",
+  "lastUpdate": "2025-08-27T14:55:19.674Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ILICA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.27 17:33:33",
+      "lat": 39.1827,
+      "lng": 28.2222,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "9.1",
+      "coordinates": [
+        28.2222,
+        39.1827
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2222,
+            39.1827
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "ILICA-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.27 17:33:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.27",
+      "date_hour": "17:33:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "HANPASA-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ERMENISTAN",
-      "type": "�lksel",
-      "date": "2025.08.26 00:52:14",
-      "lat": 40.967,
-      "lng": 45.0108,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "21.3",
-      "coordinates": [
-        45.0108,
-        40.967
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            45.0108,
-            40.967
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "ERMENISTAN",
-          "time": "2025.08.26 00:52:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.26",
-      "date_hour": "00:52:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
