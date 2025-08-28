@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-28T11:25:51.014Z",
+  "lastUpdate": "2025-08-28T11:36:22.867Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TOKLAR-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.08.28 14:16:26",
+      "lat": 39.4178,
+      "lng": 29.0002,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "22.8",
+      "coordinates": [
+        29.0002,
+        39.4178
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0002,
+            39.4178
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "TOKLAR-SIMAV (KUTAHYA)",
+          "time": "2025.08.28 14:16:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.28",
+      "date_hour": "14:16:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "HACET-KIRKAGAC (MANISA)",
-      "type": "�lksel",
-      "date": "2025.08.26 11:16:36",
-      "lat": 39.2275,
-      "lng": 27.989,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "7.9",
-      "coordinates": [
-        27.989,
-        39.2275
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.989,
-            39.2275
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "HACET-KIRKAGAC (MANISA)",
-          "time": "2025.08.26 11:16:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.26",
-      "date_hour": "11:16:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
