@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-28T10:13:03.686Z",
+  "lastUpdate": "2025-08-28T10:35:13.548Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.28 13:23:57",
+      "lat": 39.2063,
+      "lng": 28.198,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "13.3",
+      "coordinates": [
+        28.198,
+        39.2063
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.198,
+            39.2063
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.28 13:23:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.28",
+      "date_hour": "13:23:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "CICEKLI-GORDES (MANISA)",
       "type": "�lksel",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "BEYHAN-PALU (ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.08.28 12:35:41",
+      "lat": 38.7385,
+      "lng": 40.08,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        40.08,
+        38.7385
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.08,
+            38.7385
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "BEYHAN-PALU (ELAZIG)",
+          "time": "2025.08.28 12:35:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.28",
+      "date_hour": "12:35:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
     },
     {
       "title": "IBILLER-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "TOROS-ERDEMLI (MERSIN)",
-      "type": "�lksel",
-      "date": "2025.08.26 10:29:00",
-      "lat": 37.0343,
-      "lng": 34.1008,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "9.2",
-      "coordinates": [
-        34.1008,
-        37.0343
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.1008,
-            37.0343
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "TOROS-ERDEMLI (MERSIN)",
-          "time": "2025.08.26 10:29:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.26",
-      "date_hour": "10:29:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
-    },
-    {
-      "title": "KORUCAK-CELIKHAN (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.08.26 10:24:01",
-      "lat": 38.0862,
-      "lng": 38.3782,
-      "md": "-.-",
-      "ml": "3.4",
-      "mw": "3.4",
-      "depth": "4.4",
-      "coordinates": [
-        38.3782,
-        38.0862
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.3782,
-            38.0862
-          ]
-        },
-        "properties": {
-          "mag": "3.4",
-          "place": "KORUCAK-CELIKHAN (ADIYAMAN)",
-          "time": "2025.08.26 10:24:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.26",
-      "date_hour": "10:24:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
