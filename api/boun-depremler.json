@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-29T18:51:55.614Z",
+  "lastUpdate": "2025-08-29T19:00:11.480Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -70,6 +70,42 @@
       "location_properties": "",
       "date_day": "2025.08.29",
       "date_hour": "21:28:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.29 21:24:04",
+      "lat": 39.1705,
+      "lng": 28.1113,
+      "md": "-.-",
+      "ml": "0.9",
+      "mw": "-.-",
+      "depth": "9.0",
+      "coordinates": [
+        28.1113,
+        39.1705
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1113,
+            39.1705
+          ]
+        },
+        "properties": {
+          "mag": "0.9",
+          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.29 21:24:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.29",
+      "date_hour": "21:24:04",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.08.27 21:25:13",
-      "lat": 36.317,
-      "lng": 27.7333,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        27.7333,
-        36.317
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7333,
-            36.317
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "EGE DENIZI",
-          "time": "2025.08.27 21:25:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.27",
-      "date_hour": "21:25:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
