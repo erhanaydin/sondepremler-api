@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-29T05:35:12.121Z",
+  "lastUpdate": "2025-08-29T05:44:39.366Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.29 08:32:08",
+      "lat": 39.1983,
+      "lng": 28.1062,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "10.7",
+      "coordinates": [
+        28.1062,
+        39.1983
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1062,
+            39.1983
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.29 08:32:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.29",
+      "date_hour": "08:32:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CINARKOPRU-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.08.27 05:48:56",
-      "lat": 40.3408,
-      "lng": 27.2662,
-      "md": "-.-",
-      "ml": "3.4",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        27.2662,
-        40.3408
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.2662,
-            40.3408
-          ]
-        },
-        "properties": {
-          "mag": "3.4",
-          "place": "CINARKOPRU-BIGA (CANAKKALE)",
-          "time": "2025.08.27 05:48:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.27",
-      "date_hour": "05:48:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
