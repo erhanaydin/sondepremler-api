@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-30T18:35:52.925Z",
+  "lastUpdate": "2025-08-30T18:47:50.833Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -181,6 +181,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "CEMRE-KAS (ANTALYA)",
+      "type": "�lksel",
+      "date": "2025.08.30 21:03:52",
+      "lat": 36.522,
+      "lng": 29.6547,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "30.7",
+      "coordinates": [
+        29.6547,
+        36.522
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.6547,
+            36.522
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "CEMRE-KAS (ANTALYA)",
+          "time": "2025.08.30 21:03:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.30",
+      "date_hour": "21:03:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANTALYA"
     },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "ILICA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.08.28 15:56:19",
-      "lat": 39.1913,
-      "lng": 28.2395,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "9.2",
-      "coordinates": [
-        28.2395,
-        39.1913
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2395,
-            39.1913
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ILICA-SINDIRGI (BALIKESIR)",
-          "time": "2025.08.28 15:56:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.28",
-      "date_hour": "15:56:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
