@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-31T17:28:53.509Z",
+  "lastUpdate": "2025-08-31T17:38:49.864Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.08.31 20:20:00",
+      "lat": 39.2227,
+      "lng": 28.0037,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "12.1",
+      "coordinates": [
+        28.0037,
+        39.2227
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0037,
+            39.2227
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "SAHINKAYA-SINDIRGI (BALIKESIR)",
+          "time": "2025.08.31 20:20:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.31",
+      "date_hour": "20:20:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KIZILGUR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "KARACAOREN-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.08.29 07:29:02",
-      "lat": 39.1975,
-      "lng": 29.0498,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "2.0",
-      "coordinates": [
-        29.0498,
-        39.1975
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0498,
-            39.1975
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KARACAOREN-SIMAV (KUTAHYA)",
-          "time": "2025.08.29 07:29:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.29",
-      "date_hour": "07:29:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
