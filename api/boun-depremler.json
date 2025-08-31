@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-08-31T11:24:51.614Z",
+  "lastUpdate": "2025-08-31T11:34:39.306Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.08.31 13:54:21",
+      "lat": 40.3615,
+      "lng": 24.1368,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "7.2",
+      "coordinates": [
+        24.1368,
+        40.3615
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.1368,
+            40.3615
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "YUNANISTAN",
+          "time": "2025.08.31 13:54:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.08.31",
+      "date_hour": "13:54:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KURUCAY-AHIRLI (KONYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "GULDIKEN-LICE (DIYARBAKIR)",
-      "type": "�lksel",
-      "date": "2025.08.29 03:38:08",
-      "lat": 38.5767,
-      "lng": 40.7922,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "4.4",
-      "coordinates": [
-        40.7922,
-        38.5767
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.7922,
-            38.5767
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "GULDIKEN-LICE (DIYARBAKIR)",
-          "time": "2025.08.29 03:38:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.29",
-      "date_hour": "03:38:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DIYARBAKIR"
     }
   ]
 }
