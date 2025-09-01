@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-01T09:21:01.856Z",
+  "lastUpdate": "2025-09-01T09:39:28.867Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YOGUNOLUK-MILAS (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.09.01 12:10:48",
+      "lat": 37.1165,
+      "lng": 27.9562,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        27.9562,
+        37.1165
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9562,
+            37.1165
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "YOGUNOLUK-MILAS (MUGLA)",
+          "time": "2025.09.01 12:10:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.01",
+      "date_hour": "12:10:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.08.30 02:52:17",
-      "lat": 39.1683,
-      "lng": 28.2258,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "9.1",
-      "coordinates": [
-        28.2258,
-        39.1683
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2258,
-            39.1683
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.08.30 02:52:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.30",
-      "date_hour": "02:52:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
