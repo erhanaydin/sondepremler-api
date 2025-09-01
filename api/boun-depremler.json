@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-01T19:38:00.511Z",
+  "lastUpdate": "2025-09-01T19:46:22.032Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKKOCALI-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2025.09.01 22:35:38",
+      "lat": 39.2005,
+      "lng": 27.9805,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "8.1",
+      "coordinates": [
+        27.9805,
+        39.2005
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9805,
+            39.2005
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "AKKOCALI-AKHISAR (MANISA)",
+          "time": "2025.09.01 22:35:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.01",
+      "date_hour": "22:35:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "CAPAKLI-SALIHLI (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "TASCILAR (BOLU)",
-      "type": "�lksel",
-      "date": "2025.08.30 14:05:35",
-      "lat": 40.818,
-      "lng": 31.8042,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.9",
-      "coordinates": [
-        31.8042,
-        40.818
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.8042,
-            40.818
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "TASCILAR (BOLU)",
-          "time": "2025.08.30 14:05:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.30",
-      "date_hour": "14:05:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BOLU"
     }
   ]
 }
