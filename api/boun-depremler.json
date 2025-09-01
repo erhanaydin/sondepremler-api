@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-01T22:51:10.453Z",
+  "lastUpdate": "2025-09-01T22:59:11.675Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOBAKLAR-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2025.09.02 01:42:11",
+      "lat": 39.089,
+      "lng": 28.328,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "16.2",
+      "coordinates": [
+        28.328,
+        39.089
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.328,
+            39.089
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KOBAKLAR-GORDES (MANISA)",
+          "time": "2025.09.02 01:42:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.02",
+      "date_hour": "01:42:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.09.02 01:17:58",
+      "lat": 36.5018,
+      "lng": 34.7482,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        34.7482,
+        36.5018
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.7482,
+            36.5018
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "AKDENIZ",
+          "time": "2025.09.02 01:17:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.02",
+      "date_hour": "01:17:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "ILICA-SINDIRGI (BALIKESIR)",
@@ -17926,78 +17998,6 @@
       "location_properties": "",
       "date_day": "2025.08.30",
       "date_hour": "19:54:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.08.30 19:52:32",
-      "lat": 36.652,
-      "lng": 25.605,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        25.605,
-        36.652
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.605,
-            36.652
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "EGE DENIZI",
-          "time": "2025.08.30 19:52:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.30",
-      "date_hour": "19:52:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.08.30 19:50:42",
-      "lat": 39.1735,
-      "lng": 28.2788,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        28.2788,
-        39.1735
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2788,
-            39.1735
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
-          "time": "2025.08.30 19:50:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.30",
-      "date_hour": "19:50:42",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
