@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-01T15:17:19.848Z",
+  "lastUpdate": "2025-09-01T15:32:30.209Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -142,6 +142,42 @@
       "location_properties": "",
       "date_day": "2025.09.01",
       "date_hour": "17:52:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "KAYAARASI-TAVSANLI (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.09.01 17:38:18",
+      "lat": 39.6138,
+      "lng": 29.4247,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        29.4247,
+        39.6138
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.4247,
+            39.6138
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KAYAARASI-TAVSANLI (KUTAHYA)",
+          "time": "2025.09.01 17:38:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.01",
+      "date_hour": "17:38:18",
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.08.30 09:55:06",
-      "lat": 40.2697,
-      "lng": 24.1182,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        24.1182,
-        40.2697
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.1182,
-            40.2697
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YUNANISTAN",
-          "time": "2025.08.30 09:55:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.30",
-      "date_hour": "09:55:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
