@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-01T07:37:56.615Z",
+  "lastUpdate": "2025-09-01T07:46:24.747Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.09.01 10:35:20",
+      "lat": 39.2083,
+      "lng": 28.9988,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "2.1",
+      "coordinates": [
+        28.9988,
+        39.2083
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9988,
+            39.2083
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.09.01 10:35:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.01",
+      "date_hour": "10:35:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ACARLAR-SELCUK (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.08.30 01:54:12",
-      "lat": 37.914,
-      "lng": 27.3788,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "11.0",
-      "coordinates": [
-        27.3788,
-        37.914
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.3788,
-            37.914
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ACARLAR-SELCUK (IZMIR)",
-          "time": "2025.08.30 01:54:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.30",
-      "date_hour": "01:54:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
