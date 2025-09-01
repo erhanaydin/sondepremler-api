@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-01T14:48:34.368Z",
+  "lastUpdate": "2025-09-01T14:56:47.335Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BANDIRMA KORFEZI (MARMARA DENIZI)",
+      "type": "�lksel",
+      "date": "2025.09.01 17:24:41",
+      "lat": 40.4237,
+      "lng": 28.0707,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        28.0707,
+        40.4237
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0707,
+            40.4237
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "BANDIRMA KORFEZI (MARMARA DENIZI)",
+          "time": "2025.09.01 17:24:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.01",
+      "date_hour": "17:24:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARMARA DENIZI"
+    },
     {
       "title": "KALEMOGLU-GORDES (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KOMURCU-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.08.30 09:17:35",
-      "lat": 39.0448,
-      "lng": 28.0448,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "8.3",
-      "coordinates": [
-        28.0448,
-        39.0448
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0448,
-            39.0448
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KOMURCU-AKHISAR (MANISA)",
-          "time": "2025.08.30 09:17:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.30",
-      "date_hour": "09:17:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
