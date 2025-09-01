@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-01T11:49:11.541Z",
+  "lastUpdate": "2025-09-01T11:57:32.600Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.01 14:49:00",
+      "lat": 39.177,
+      "lng": 28.2668,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "13.0",
+      "coordinates": [
+        28.2668,
+        39.177
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2668,
+            39.177
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.01 14:49:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.01",
+      "date_hour": "14:49:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ALINCIK-SIVRICE (ELAZIG)",
       "type": "�lksel",
@@ -181,6 +217,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "MILLI PARK-KUSADASI (AYDIN)",
+      "type": "�lksel",
+      "date": "2025.09.01 14:17:50",
+      "lat": 37.6795,
+      "lng": 27.079,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "16.9",
+      "coordinates": [
+        27.079,
+        37.6795
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.079,
+            37.6795
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "MILLI PARK-KUSADASI (AYDIN)",
+          "time": "2025.09.01 14:17:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.01",
+      "date_hour": "14:17:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AYDIN"
     },
     {
       "title": "MILLI PARK-KUSADASI (AYDIN)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.08.30 06:16:17",
-      "lat": 39.1593,
-      "lng": 28.1375,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "10.3",
-      "coordinates": [
-        28.1375,
-        39.1593
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1375,
-            39.1593
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2025.08.30 06:16:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.30",
-      "date_hour": "06:16:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "KOZLU-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.08.30 06:15:14",
-      "lat": 39.2437,
-      "lng": 28.0925,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "7.2",
-      "coordinates": [
-        28.0925,
-        39.2437
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0925,
-            39.2437
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KOZLU-SINDIRGI (BALIKESIR)",
-          "time": "2025.08.30 06:15:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.30",
-      "date_hour": "06:15:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
