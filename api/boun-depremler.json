@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-02T19:27:24.403Z",
+  "lastUpdate": "2025-09-02T19:37:20.437Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.02 22:22:36",
+      "lat": 39.1702,
+      "lng": 28.1085,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "9.9",
+      "coordinates": [
+        28.1085,
+        39.1702
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1085,
+            39.1702
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.02 22:22:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.02",
+      "date_hour": "22:22:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BULGARISTAN",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.02 22:05:21",
+      "lat": 39.2123,
+      "lng": 28.0827,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "9.5",
+      "coordinates": [
+        28.0827,
+        39.2123
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0827,
+            39.2123
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.02 22:05:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.02",
+      "date_hour": "22:05:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KURUCAY-AHIRLI (KONYA)",
-      "type": "�lksel",
-      "date": "2025.08.31 13:44:00",
-      "lat": 37.208,
-      "lng": 32.0683,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "5.1",
-      "coordinates": [
-        32.0683,
-        37.208
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.0683,
-            37.208
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "KURUCAY-AHIRLI (KONYA)",
-          "time": "2025.08.31 13:44:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.31",
-      "date_hour": "13:44:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KONYA"
-    },
-    {
-      "title": "CICEKLI-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2025.08.31 13:39:13",
-      "lat": 39.0703,
-      "lng": 28.2223,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "15.8",
-      "coordinates": [
-        28.2223,
-        39.0703
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2223,
-            39.0703
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "CICEKLI-GORDES (MANISA)",
-          "time": "2025.08.31 13:39:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.31",
-      "date_hour": "13:39:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
