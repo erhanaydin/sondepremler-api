@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-03T20:11:28.562Z",
+  "lastUpdate": "2025-09-03T20:30:48.003Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.09.03 23:07:25",
+      "lat": 40.331,
+      "lng": 24.1388,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "5.5",
+      "coordinates": [
+        24.1388,
+        40.331
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.1388,
+            40.331
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "YUNANISTAN",
+          "time": "2025.09.03 23:07:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.03",
+      "date_hour": "23:07:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -253,6 +289,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "AHMETCIK-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.09.03 21:28:39",
+      "lat": 38.0215,
+      "lng": 36.6512,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.5",
+      "coordinates": [
+        36.6512,
+        38.0215
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.6512,
+            38.0215
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "AHMETCIK-GOKSUN (KAHRAMANMARAS)",
+          "time": "2025.09.03 21:28:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.03",
+      "date_hour": "21:28:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
     },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.01 04:10:43",
-      "lat": 39.1952,
-      "lng": 28.1943,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "16.2",
-      "coordinates": [
-        28.1943,
-        39.1952
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1943,
-            39.1952
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.01 04:10:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.01",
-      "date_hour": "04:10:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.01 03:59:46",
-      "lat": 39.1195,
-      "lng": 28.1262,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "19.0",
-      "coordinates": [
-        28.1262,
-        39.1195
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1262,
-            39.1195
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.01 03:59:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.01",
-      "date_hour": "03:59:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
