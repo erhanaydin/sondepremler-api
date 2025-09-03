@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-03T20:30:48.003Z",
+  "lastUpdate": "2025-09-03T20:42:27.212Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -289,6 +289,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "DEDEYAZI-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.09.03 21:41:03",
+      "lat": 38.2492,
+      "lng": 37.8297,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        37.8297,
+        38.2492
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.8297,
+            38.2492
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "DEDEYAZI-DOGANSEHIR (MALATYA)",
+          "time": "2025.09.03 21:41:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.03",
+      "date_hour": "21:41:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "AHMETCIK-GOKSUN (KAHRAMANMARAS)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "IGDEKOY-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.09.01 04:12:56",
-      "lat": 39.2725,
-      "lng": 29.2652,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        29.2652,
-        39.2725
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.2652,
-            39.2725
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "IGDEKOY-EMET (KUTAHYA)",
-          "time": "2025.09.01 04:12:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.01",
-      "date_hour": "04:12:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
