@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-03T09:30:01.567Z",
+  "lastUpdate": "2025-09-03T09:41:42.341Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YENILER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.09.03 11:23:14",
+      "lat": 39.2543,
+      "lng": 28.964,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "5.7",
+      "coordinates": [
+        28.964,
+        39.2543
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.964,
+            39.2543
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "YENILER-SIMAV (KUTAHYA)",
+          "time": "2025.09.03 11:23:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.03",
+      "date_hour": "11:23:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KIZILGUR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ISACA-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.08.31 22:42:39",
-      "lat": 39.134,
-      "lng": 28.0828,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "9.6",
-      "coordinates": [
-        28.0828,
-        39.134
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0828,
-            39.134
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ISACA-AKHISAR (MANISA)",
-          "time": "2025.08.31 22:42:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.31",
-      "date_hour": "22:42:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
