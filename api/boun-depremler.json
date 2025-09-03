@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-03T13:47:57.194Z",
+  "lastUpdate": "2025-09-03T13:56:15.235Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -34,6 +34,42 @@
       "location_properties": "",
       "date_day": "2025.09.03",
       "date_hour": "16:37:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.03 16:34:35",
+      "lat": 39.1618,
+      "lng": 28.1612,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "9.6",
+      "coordinates": [
+        28.1612,
+        39.1618
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1612,
+            39.1618
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.03 16:34:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.03",
+      "date_hour": "16:34:35",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -181,6 +217,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.09.03 15:29:13",
+      "lat": 40.635,
+      "lng": 27.596,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "4.5",
+      "coordinates": [
+        27.596,
+        40.635
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.596,
+            40.635
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "MARMARA DENIZI",
+          "time": "2025.09.03 15:29:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.03",
+      "date_hour": "15:29:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "KIZILGUR-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CORUM"
-    },
-    {
-      "title": "CEVIRME-AKCADAG (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.09.01 01:30:05",
-      "lat": 38.285,
-      "lng": 37.7483,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "8.3",
-      "coordinates": [
-        37.7483,
-        38.285
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.7483,
-            38.285
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "CEVIRME-AKCADAG (MALATYA)",
-          "time": "2025.09.01 01:30:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.01",
-      "date_hour": "01:30:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "CEVIRME-AKCADAG (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.09.01 01:28:19",
-      "lat": 38.2742,
-      "lng": 37.7705,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "6.2",
-      "coordinates": [
-        37.7705,
-        38.2742
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.7705,
-            38.2742
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "CEVIRME-AKCADAG (MALATYA)",
-          "time": "2025.09.01 01:28:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.01",
-      "date_hour": "01:28:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
