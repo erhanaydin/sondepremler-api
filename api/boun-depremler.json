@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-03T22:30:40.007Z",
+  "lastUpdate": "2025-09-03T22:41:06.469Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.04 01:31:57",
+      "lat": 39.2178,
+      "lng": 28.138,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "9.3",
+      "coordinates": [
+        28.138,
+        39.2178
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.138,
+            39.2178
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.04 01:31:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.04",
+      "date_hour": "01:31:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BOLMEKAYA-BULDAN (DENIZLI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.09.01 05:16:04",
-      "lat": 38.3755,
-      "lng": 37.4548,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        37.4548,
-        38.3755
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.4548,
-            38.3755
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
-          "time": "2025.09.01 05:16:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.01",
-      "date_hour": "05:16:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
