@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-03T09:11:54.840Z",
+  "lastUpdate": "2025-09-03T09:30:01.567Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIZILGUR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.03 11:15:02",
+      "lat": 39.2745,
+      "lng": 28.0395,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "10.4",
+      "coordinates": [
+        28.0395,
+        39.2745
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0395,
+            39.2745
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KIZILGUR-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.03 11:15:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.03",
+      "date_hour": "11:15:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "EGRIDERE-SINDIRGI (BALIKESIR) REVIZE01 (2025.09.03",
       "type": "11:01:01)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.08.31 22:38:24",
-      "lat": 39.2387,
-      "lng": 28.1122,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "8.7",
-      "coordinates": [
-        28.1122,
-        39.2387
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1122,
-            39.2387
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.08.31 22:38:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.08.31",
-      "date_hour": "22:38:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
