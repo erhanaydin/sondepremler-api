@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-05T19:54:30.692Z",
+  "lastUpdate": "2025-09-05T20:13:29.074Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOZLU-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.05 22:48:32",
+      "lat": 39.2422,
+      "lng": 28.0892,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "11.9",
+      "coordinates": [
+        28.0892,
+        39.2422
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0892,
+            39.2422
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "KOZLU-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.05 22:48:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.05",
+      "date_hour": "22:48:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "MILLI PARK-KUSADASI (AYDIN)",
-      "type": "�lksel",
-      "date": "2025.09.02 23:15:16",
-      "lat": 37.6695,
-      "lng": 27.0255,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "7.7",
-      "coordinates": [
-        27.0255,
-        37.6695
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0255,
-            37.6695
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "MILLI PARK-KUSADASI (AYDIN)",
-          "time": "2025.09.02 23:15:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.02",
-      "date_hour": "23:15:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AYDIN"
     }
   ]
 }
