@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-05T15:47:29.509Z",
+  "lastUpdate": "2025-09-05T15:55:51.337Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ILYASLAR-KIRKAGAC (MANISA)",
+      "type": "�lksel",
+      "date": "2025.09.05 18:36:01",
+      "lat": 39.0768,
+      "lng": 27.7567,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "12.5",
+      "coordinates": [
+        27.7567,
+        39.0768
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.7567,
+            39.0768
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "ILYASLAR-KIRKAGAC (MANISA)",
+          "time": "2025.09.05 18:36:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.05",
+      "date_hour": "18:36:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "TUTENLI-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -145,6 +181,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KONYA"
+    },
+    {
+      "title": "BOYALI-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2025.09.05 17:57:21",
+      "lat": 38.8277,
+      "lng": 28.0965,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        28.0965,
+        38.8277
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0965,
+            38.8277
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "BOYALI-GORDES (MANISA)",
+          "time": "2025.09.05 17:57:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.05",
+      "date_hour": "17:57:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
     },
     {
       "title": "ILICA-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "ZEYTINADA-GAZIPASA (ANTALYA)",
-      "type": "�lksel",
-      "date": "2025.09.02 16:34:53",
-      "lat": 36.055,
-      "lng": 32.422,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "18.4",
-      "coordinates": [
-        32.422,
-        36.055
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.422,
-            36.055
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ZEYTINADA-GAZIPASA (ANTALYA)",
-          "time": "2025.09.02 16:34:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.02",
-      "date_hour": "16:34:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANTALYA"
-    },
-    {
-      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.02 16:21:59",
-      "lat": 39.2205,
-      "lng": 28.1593,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "7.8",
-      "coordinates": [
-        28.1593,
-        39.2205
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1593,
-            39.2205
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.02 16:21:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.02",
-      "date_hour": "16:21:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
