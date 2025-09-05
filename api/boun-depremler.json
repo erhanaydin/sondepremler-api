@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-05T03:42:58.053Z",
+  "lastUpdate": "2025-09-05T03:53:09.187Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.05 06:38:37",
+      "lat": 39.2375,
+      "lng": 28.1135,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "9.4",
+      "coordinates": [
+        28.1135,
+        39.2375
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1135,
+            39.2375
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.05 06:38:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.05",
+      "date_hour": "06:38:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "KIZILGUR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.02 03:38:42",
-      "lat": 39.2698,
-      "lng": 28.001,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "5.6",
-      "coordinates": [
-        28.001,
-        39.2698
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.001,
-            39.2698
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "KIZILGUR-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.02 03:38:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.02",
-      "date_hour": "03:38:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
