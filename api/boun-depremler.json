@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-05T21:55:46.245Z",
+  "lastUpdate": "2025-09-05T22:13:44.583Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALACAATLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.06 00:58:40",
+      "lat": 39.2595,
+      "lng": 28.078,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "10.1",
+      "coordinates": [
+        28.078,
+        39.2595
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.078,
+            39.2595
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "ALACAATLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.06 00:58:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.06",
+      "date_hour": "00:58:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "ILICA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.03 02:28:15",
-      "lat": 39.2027,
-      "lng": 28.2167,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "10.1",
-      "coordinates": [
-        28.2167,
-        39.2027
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2167,
-            39.2027
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ILICA-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.03 02:28:15"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.03",
-      "date_hour": "02:28:15",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
