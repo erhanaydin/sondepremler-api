@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-05T17:41:25.912Z",
+  "lastUpdate": "2025-09-05T17:49:40.535Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOCAKAGAN-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2025.09.05 20:29:22",
+      "lat": 39.0513,
+      "lng": 28.0502,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "25.6",
+      "coordinates": [
+        28.0502,
+        39.0513
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0502,
+            39.0513
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "KOCAKAGAN-AKHISAR (MANISA)",
+          "time": "2025.09.05 20:29:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.05",
+      "date_hour": "20:29:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR) REVIZE01 (2025.09.05",
       "type": "20:27:15)",
@@ -34,6 +70,42 @@
       "location_properties": "",
       "date_day": "2025.09.05",
       "date_hour": "20:27:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "CALTILI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.05 20:24:57",
+      "lat": 39.232,
+      "lng": 28.2177,
+      "md": "-.-",
+      "ml": "0.9",
+      "mw": "-.-",
+      "depth": "15.2",
+      "coordinates": [
+        28.2177,
+        39.232
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2177,
+            39.232
+          ]
+        },
+        "properties": {
+          "mag": "0.9",
+          "place": "CALTILI-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.05 20:24:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.05",
+      "date_hour": "20:24:57",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "ILICA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.02 19:56:45",
-      "lat": 39.1837,
-      "lng": 28.2193,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "16.0",
-      "coordinates": [
-        28.2193,
-        39.1837
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2193,
-            39.1837
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ILICA-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.02 19:56:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.02",
-      "date_hour": "19:56:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.02 19:39:37",
-      "lat": 39.2062,
-      "lng": 28.0032,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "14.2",
-      "coordinates": [
-        28.0032,
-        39.2062
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0032,
-            39.2062
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "SAHINKAYA-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.02 19:39:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.02",
-      "date_hour": "19:39:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
