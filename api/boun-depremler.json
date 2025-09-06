@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-06T09:47:30.683Z",
+  "lastUpdate": "2025-09-06T09:55:45.710Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.06 12:37:08",
+      "lat": 39.2203,
+      "lng": 28.0797,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "7.1",
+      "coordinates": [
+        28.0797,
+        39.2203
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0797,
+            39.2203
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.06 12:37:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.06",
+      "date_hour": "12:37:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SOGUT-DOGANSEHIR (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BALTASI-(ERZINCAN)",
-      "type": "�lksel",
-      "date": "2025.09.03 10:57:14",
-      "lat": 39.793,
-      "lng": 39.1468,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        39.1468,
-        39.793
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.1468,
-            39.793
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "BALTASI-(ERZINCAN)",
-          "time": "2025.09.03 10:57:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.03",
-      "date_hour": "10:57:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
     }
   ]
 }
