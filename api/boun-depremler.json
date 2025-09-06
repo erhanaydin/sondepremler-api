@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-06T16:00:16.045Z",
+  "lastUpdate": "2025-09-06T16:26:56.487Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.06 18:55:17",
+      "lat": 39.2242,
+      "lng": 28.0482,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "7.8",
+      "coordinates": [
+        28.0482,
+        39.2242
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0482,
+            39.2242
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.06 18:55:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.06",
+      "date_hour": "18:55:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.03 15:42:21",
-      "lat": 39.1552,
-      "lng": 28.269,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "11.5",
-      "coordinates": [
-        28.269,
-        39.1552
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.269,
-            39.1552
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.03 15:42:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.03",
-      "date_hour": "15:42:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
