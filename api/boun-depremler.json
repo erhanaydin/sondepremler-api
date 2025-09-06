@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-06T09:39:02.878Z",
+  "lastUpdate": "2025-09-06T09:47:30.683Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SOGUT-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.09.06 12:34:58",
+      "lat": 38.0913,
+      "lng": 37.7905,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "14.7",
+      "coordinates": [
+        37.7905,
+        38.0913
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.7905,
+            38.0913
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "SOGUT-DOGANSEHIR (MALATYA)",
+          "time": "2025.09.06 12:34:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.06",
+      "date_hour": "12:34:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "AHLATLICESME-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZINCAN"
-    },
-    {
-      "title": "KIZILGUR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.03 10:55:50",
-      "lat": 39.2498,
-      "lng": 28.0095,
-      "md": "-.-",
-      "ml": "3.6",
-      "mw": "3.5",
-      "depth": "14.6",
-      "coordinates": [
-        28.0095,
-        39.2498
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0095,
-            39.2498
-          ]
-        },
-        "properties": {
-          "mag": "3.6",
-          "place": "KIZILGUR-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.03 10:55:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.03",
-      "date_hour": "10:55:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
