@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-07T17:43:19.856Z",
+  "lastUpdate": "2025-09-07T17:51:12.190Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BINGOL"
+    },
+    {
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.07 20:27:04",
+      "lat": 39.2055,
+      "lng": 28.1967,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "19.1",
+      "coordinates": [
+        28.1967,
+        39.2055
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1967,
+            39.2055
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.07 20:27:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.07",
+      "date_hour": "20:27:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "KINIK-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AGARTI-(VAN)",
-      "type": "�lksel",
-      "date": "2025.09.04 20:58:04",
-      "lat": 38.7145,
-      "lng": 43.2053,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        43.2053,
-        38.7145
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.2053,
-            38.7145
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "AGARTI-(VAN)",
-          "time": "2025.09.04 20:58:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.04",
-      "date_hour": "20:58:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "VAN"
     }
   ]
 }
