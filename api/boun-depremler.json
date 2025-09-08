@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-08T11:06:53.873Z",
+  "lastUpdate": "2025-09-08T11:23:37.222Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "OSMANBEY-(KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.09.08 14:15:17",
+      "lat": 37.5233,
+      "lng": 36.9278,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "7.2",
+      "coordinates": [
+        36.9278,
+        37.5233
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.9278,
+            37.5233
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "OSMANBEY-(KAHRAMANMARAS)",
+          "time": "2025.09.08 14:15:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.08",
+      "date_hour": "14:15:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "EGRIDERE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.05 16:26:49",
-      "lat": 39.2557,
-      "lng": 27.9642,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "9.4",
-      "coordinates": [
-        27.9642,
-        39.2557
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9642,
-            39.2557
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "EGRIDERE-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.05 16:26:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.05",
-      "date_hour": "16:26:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
