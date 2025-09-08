@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-08T11:41:58.704Z",
+  "lastUpdate": "2025-09-08T11:50:08.672Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "IBILLER-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.08 14:39:23",
+      "lat": 39.2605,
+      "lng": 28.1482,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "10.8",
+      "coordinates": [
+        28.1482,
+        39.2605
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1482,
+            39.2605
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "IBILLER-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.08 14:39:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.08",
+      "date_hour": "14:39:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "OSMANBEY-(KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SADIKBAGI-SIVRIHISAR (ESKISEHIR)",
-      "type": "�lksel",
-      "date": "2025.09.05 16:33:25",
-      "lat": 39.3698,
-      "lng": 31.6532,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "4.3",
-      "coordinates": [
-        31.6532,
-        39.3698
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.6532,
-            39.3698
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "SADIKBAGI-SIVRIHISAR (ESKISEHIR)",
-          "time": "2025.09.05 16:33:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.05",
-      "date_hour": "16:33:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ESKISEHIR"
     }
   ]
 }
