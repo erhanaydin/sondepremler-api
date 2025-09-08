@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-08T23:00:07.697Z",
+  "lastUpdate": "2025-09-08T23:22:59.507Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TASBASI-DALAMAN (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.09.09 02:04:32",
+      "lat": 36.8907,
+      "lng": 29.0017,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "7.9",
+      "coordinates": [
+        29.0017,
+        36.8907
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0017,
+            36.8907
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "TASBASI-DALAMAN (MUGLA)",
+          "time": "2025.09.09 02:04:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.09",
+      "date_hour": "02:04:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "SISAM ADASI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SURIYE",
-      "type": "�lksel",
-      "date": "2025.09.06 02:26:01",
-      "lat": 35.5547,
-      "lng": 36.2572,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "3.2",
-      "coordinates": [
-        36.2572,
-        35.5547
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.2572,
-            35.5547
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "SURIYE",
-          "time": "2025.09.06 02:26:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.06",
-      "date_hour": "02:26:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
