@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-08T13:42:47.628Z",
+  "lastUpdate": "2025-09-08T13:52:19.975Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ILICA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.08 16:45:23",
+      "lat": 39.2015,
+      "lng": 28.2295,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "10.4",
+      "coordinates": [
+        28.2295,
+        39.2015
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2295,
+            39.2015
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "ILICA-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.08 16:45:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.08",
+      "date_hour": "16:45:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -397,6 +433,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.09.08 14:48:38",
+      "lat": 36.654,
+      "lng": 25.7147,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "6.7",
+      "coordinates": [
+        25.7147,
+        36.654
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.7147,
+            36.654
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "EGE DENIZI",
+          "time": "2025.09.08 14:48:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.08",
+      "date_hour": "14:48:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "TUTENLI-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.09.05 18:35:22",
-      "lat": 39.0443,
-      "lng": 27.805,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "13.4",
-      "coordinates": [
-        27.805,
-        39.0443
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.805,
-            39.0443
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "TUTENLI-AKHISAR (MANISA)",
-          "time": "2025.09.05 18:35:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.05",
-      "date_hour": "18:35:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
-    },
-    {
-      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.05 18:23:34",
-      "lat": 39.243,
-      "lng": 28.1218,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "12.3",
-      "coordinates": [
-        28.1218,
-        39.243
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1218,
-            39.243
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.05 18:23:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.05",
-      "date_hour": "18:23:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
