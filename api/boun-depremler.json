@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-08T20:10:04.340Z",
+  "lastUpdate": "2025-09-08T20:30:48.064Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOZLU-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.08 23:08:32",
+      "lat": 39.2482,
+      "lng": 28.0945,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "7.2",
+      "coordinates": [
+        28.0945,
+        39.2482
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0945,
+            39.2482
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "KOZLU-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.08 23:08:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.08",
+      "date_hour": "23:08:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "AKKOCALI-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BOREZ-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2025.09.05 23:24:24",
-      "lat": 39.0028,
-      "lng": 28.271,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "24.7",
-      "coordinates": [
-        28.271,
-        39.0028
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.271,
-            39.0028
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "BOREZ-GORDES (MANISA)",
-          "time": "2025.09.05 23:24:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.05",
-      "date_hour": "23:24:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
