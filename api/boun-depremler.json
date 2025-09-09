@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-09T21:38:13.669Z",
+  "lastUpdate": "2025-09-09T21:46:37.599Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.10 00:28:53",
+      "lat": 39.1795,
+      "lng": 28.228,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "10.3",
+      "coordinates": [
+        28.228,
+        39.1795
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.228,
+            39.1795
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.10 00:28:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.10",
+      "date_hour": "00:28:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "TOPRAKTEPE-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.09.07 08:32:51",
-      "lat": 38.0987,
-      "lng": 37.8358,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "8.7",
-      "coordinates": [
-        37.8358,
-        38.0987
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.8358,
-            38.0987
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "TOPRAKTEPE-DOGANSEHIR (MALATYA)",
-          "time": "2025.09.07 08:32:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.07",
-      "date_hour": "08:32:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
