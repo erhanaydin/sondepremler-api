@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-09T09:14:56.117Z",
+  "lastUpdate": "2025-09-09T09:33:15.834Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YENIYAPAN-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.09.09 12:00:16",
+      "lat": 38.1312,
+      "lng": 36.6227,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        36.6227,
+        38.1312
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.6227,
+            38.1312
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "YENIYAPAN-GOKSUN (KAHRAMANMARAS)",
+          "time": "2025.09.09 12:00:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.09",
+      "date_hour": "12:00:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS) REVIZE01 (2025.09.09",
       "type": "11:57:58)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SOGUTLU-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.09.06 14:21:06",
-      "lat": 39.1743,
-      "lng": 28.0632,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "9.8",
-      "coordinates": [
-        28.0632,
-        39.1743
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0632,
-            39.1743
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "SOGUTLU-AKHISAR (MANISA)",
-          "time": "2025.09.06 14:21:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.06",
-      "date_hour": "14:21:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
