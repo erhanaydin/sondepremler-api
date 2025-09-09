@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-09T07:55:55.595Z",
+  "lastUpdate": "2025-09-09T08:21:39.151Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ILICA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.09 10:33:59",
+      "lat": 39.1838,
+      "lng": 28.246,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "9.8",
+      "coordinates": [
+        28.246,
+        39.1838
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.246,
+            39.1838
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "ILICA-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.09 10:33:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.09",
+      "date_hour": "10:33:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -34,6 +70,42 @@
       "location_properties": "",
       "date_day": "2025.09.09",
       "date_hour": "10:23:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.09 10:23:21",
+      "lat": 39.1525,
+      "lng": 28.2588,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.1",
+      "coordinates": [
+        28.2588,
+        39.1525
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2588,
+            39.1525
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.09 10:23:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.09",
+      "date_hour": "10:23:21",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "AHLATLICESME-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.09.06 11:41:25",
-      "lat": 39.1478,
-      "lng": 29.0347,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "8.8",
-      "coordinates": [
-        29.0347,
-        39.1478
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0347,
-            39.1478
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "AHLATLICESME-SIMAV (KUTAHYA)",
-          "time": "2025.09.06 11:41:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.06",
-      "date_hour": "11:41:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "DEDELER-GULNAR (MERSIN)",
-      "type": "�lksel",
-      "date": "2025.09.06 11:29:46",
-      "lat": 36.2673,
-      "lng": 33.635,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        33.635,
-        36.2673
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.635,
-            36.2673
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "DEDELER-GULNAR (MERSIN)",
-          "time": "2025.09.06 11:29:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.06",
-      "date_hour": "11:29:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
     }
   ]
 }
