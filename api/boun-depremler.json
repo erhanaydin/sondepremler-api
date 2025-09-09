@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-09T11:11:49.049Z",
+  "lastUpdate": "2025-09-09T11:27:01.112Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TOPCU-KOPRUKOY (ERZURUM)",
+      "type": "�lksel",
+      "date": "2025.09.09 13:55:06",
+      "lat": 39.7878,
+      "lng": 41.9558,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "1.1",
+      "coordinates": [
+        41.9558,
+        39.7878
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.9558,
+            39.7878
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "TOPCU-KOPRUKOY (ERZURUM)",
+          "time": "2025.09.09 13:55:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.09",
+      "date_hour": "13:55:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZURUM"
+    },
     {
       "title": "EGRIDERE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "KUCUKBIYIK-BALA (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.09.09 12:39:06",
+      "lat": 39.3075,
+      "lng": 33.4668,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "6.2",
+      "coordinates": [
+        33.4668,
+        39.3075
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.4668,
+            39.3075
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KUCUKBIYIK-BALA (ANKARA)",
+          "time": "2025.09.09 12:39:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.09",
+      "date_hour": "12:39:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
     },
     {
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
-    },
-    {
-      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.06 16:58:46",
-      "lat": 39.2345,
-      "lng": 28.057,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "6.9",
-      "coordinates": [
-        28.057,
-        39.2345
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.057,
-            39.2345
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.06 16:58:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.06",
-      "date_hour": "16:58:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.06 16:53:58",
-      "lat": 39.2308,
-      "lng": 28.126,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "10.0",
-      "coordinates": [
-        28.126,
-        39.2308
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.126,
-            39.2308
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.06 16:53:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.06",
-      "date_hour": "16:53:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
