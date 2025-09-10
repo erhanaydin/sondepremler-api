@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-10T07:49:02.246Z",
+  "lastUpdate": "2025-09-10T07:57:20.648Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.10 10:44:03",
+      "lat": 39.2085,
+      "lng": 28.102,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "8.5",
+      "coordinates": [
+        28.102,
+        39.2085
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.102,
+            39.2085
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.10 10:44:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.10",
+      "date_hour": "10:44:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SENOVA-KOVANCILAR (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.09.07 18:38:10",
-      "lat": 38.7442,
-      "lng": 39.9533,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "-.-",
-      "depth": "4.6",
-      "coordinates": [
-        39.9533,
-        38.7442
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.9533,
-            38.7442
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "SENOVA-KOVANCILAR (ELAZIG)",
-          "time": "2025.09.07 18:38:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.07",
-      "date_hour": "18:38:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
