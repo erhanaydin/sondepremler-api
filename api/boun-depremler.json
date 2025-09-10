@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-09-10T08:24:58.831Z",
+  "lastUpdate": "2025-09-10T08:43:44.497Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BEYCE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.09.10 11:32:47",
+      "lat": 39.085,
+      "lng": 28.9432,
+      "md": "-.-",
+      "ml": "0.9",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        28.9432,
+        39.085
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9432,
+            39.085
+          ]
+        },
+        "properties": {
+          "mag": "0.9",
+          "place": "BEYCE-SIMAV (KUTAHYA)",
+          "time": "2025.09.10 11:32:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.10",
+      "date_hour": "11:32:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.10 11:24:48",
+      "lat": 39.177,
+      "lng": 28.2368,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "7.6",
+      "coordinates": [
+        28.2368,
+        39.177
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2368,
+            39.177
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.10 11:24:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.10",
+      "date_hour": "11:24:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KOZLU-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.07 19:18:39",
-      "lat": 39.173,
-      "lng": 28.114,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        28.114,
-        39.173
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.114,
-            39.173
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.07 19:18:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.07",
-      "date_hour": "19:18:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "GUMUSKAYNAK-PALU (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.09.07 19:08:44",
-      "lat": 38.6193,
-      "lng": 39.7415,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "2.2",
-      "coordinates": [
-        39.7415,
-        38.6193
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.7415,
-            38.6193
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "GUMUSKAYNAK-PALU (ELAZIG)",
-          "time": "2025.09.07 19:08:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.07",
-      "date_hour": "19:08:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
