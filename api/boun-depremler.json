@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-10T23:47:13.710Z",
+  "lastUpdate": "2025-09-10T23:55:34.849Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "IBILLER-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.11 02:39:14",
+      "lat": 39.2557,
+      "lng": 28.1393,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "7.2",
+      "coordinates": [
+        28.1393,
+        39.2557
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1393,
+            39.2557
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "IBILLER-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.11 02:39:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.11",
+      "date_hour": "02:39:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AMBAR-AYRANCI (KARAMAN)",
-      "type": "�lksel",
-      "date": "2025.09.08 02:51:50",
-      "lat": 37.476,
-      "lng": 33.6115,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "11.6",
-      "coordinates": [
-        33.6115,
-        37.476
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.6115,
-            37.476
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "AMBAR-AYRANCI (KARAMAN)",
-          "time": "2025.09.08 02:51:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.08",
-      "date_hour": "02:51:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KARAMAN"
     }
   ]
 }
