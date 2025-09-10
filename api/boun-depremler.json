@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-10T21:30:46.093Z",
+  "lastUpdate": "2025-09-10T21:39:59.723Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.09.11 00:25:16",
+      "lat": 38.9487,
+      "lng": 26.2618,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "10.3",
+      "coordinates": [
+        26.2618,
+        38.9487
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.2618,
+            38.9487
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+          "time": "2025.09.11 00:25:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.11",
+      "date_hour": "00:25:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -1009,6 +1045,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "ARPACIKARACAY-SULUSARAY (TOKAT)",
+      "type": "�lksel",
+      "date": "2025.09.10 19:52:39",
+      "lat": 40.0727,
+      "lng": 36.0403,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        36.0403,
+        40.0727
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.0403,
+            40.0727
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "ARPACIKARACAY-SULUSARAY (TOKAT)",
+          "time": "2025.09.10 19:52:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.10",
+      "date_hour": "19:52:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "TOKAT"
     },
     {
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.08 01:24:51",
-      "lat": 39.1773,
-      "lng": 28.255,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "16.5",
-      "coordinates": [
-        28.255,
-        39.1773
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.255,
-            39.1773
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.08 01:24:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.08",
-      "date_hour": "01:24:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "KARAGUR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.08 01:21:22",
-      "lat": 39.258,
-      "lng": 28.0915,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "12.0",
-      "coordinates": [
-        28.0915,
-        39.258
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0915,
-            39.258
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "KARAGUR-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.08 01:21:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.08",
-      "date_hour": "01:21:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
