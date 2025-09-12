@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-12T07:47:41.762Z",
+  "lastUpdate": "2025-09-12T07:55:49.777Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SARIYER (ISTANBUL)",
+      "type": "�lksel",
+      "date": "2025.09.12 10:41:19",
+      "lat": 41.1407,
+      "lng": 28.998,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        28.998,
+        41.1407
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.998,
+            41.1407
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "SARIYER (ISTANBUL)",
+          "time": "2025.09.12 10:41:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.12",
+      "date_hour": "10:41:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ISTANBUL"
+    },
     {
       "title": "ILICA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "KARAYAGCI-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2025.09.09 09:14:03",
-      "lat": 38.9533,
-      "lng": 28.222,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "22.7",
-      "coordinates": [
-        28.222,
-        38.9533
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.222,
-            38.9533
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "KARAYAGCI-GORDES (MANISA)",
-          "time": "2025.09.09 09:14:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.09",
-      "date_hour": "09:14:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
