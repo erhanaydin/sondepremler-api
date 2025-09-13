@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-13T12:58:58.860Z",
+  "lastUpdate": "2025-09-13T13:22:09.168Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -394,6 +394,42 @@
       "location_properties": "",
       "date_day": "2025.09.13",
       "date_hour": "13:12:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "CAMKOY-BIGADIC (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.13 13:04:42",
+      "lat": 39.4522,
+      "lng": 28.1858,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "13.3",
+      "coordinates": [
+        28.1858,
+        39.4522
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1858,
+            39.4522
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "CAMKOY-BIGADIC (BALIKESIR)",
+          "time": "2025.09.13 13:04:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.13",
+      "date_hour": "13:04:42",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2025.09.10 05:01:11",
-      "lat": 40.8273,
-      "lng": 28.1237,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "14.4",
-      "coordinates": [
-        28.1237,
-        40.8273
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1237,
-            40.8273
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "MARMARA DENIZI",
-          "time": "2025.09.10 05:01:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.10",
-      "date_hour": "05:01:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
