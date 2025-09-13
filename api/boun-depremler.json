@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-13T10:49:30.738Z",
+  "lastUpdate": "2025-09-13T10:57:55.326Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.13 13:28:42",
+      "lat": 39.158,
+      "lng": 28.1828,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "14.5",
+      "coordinates": [
+        28.1828,
+        39.158
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1828,
+            39.158
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.13 13:28:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.13",
+      "date_hour": "13:28:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "GOLARDI-(ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.09.10 04:11:41",
-      "lat": 38.5367,
-      "lng": 39.4625,
-      "md": "-.-",
-      "ml": "3.1",
-      "mw": "3.3",
-      "depth": "5.0",
-      "coordinates": [
-        39.4625,
-        38.5367
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.4625,
-            38.5367
-          ]
-        },
-        "properties": {
-          "mag": "3.1",
-          "place": "GOLARDI-(ELAZIG)",
-          "time": "2025.09.10 04:11:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.10",
-      "date_hour": "04:11:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
