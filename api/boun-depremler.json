@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-14T17:54:18.969Z",
+  "lastUpdate": "2025-09-14T18:14:17.664Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "UCPINAR-(BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.14 20:51:46",
+      "lat": 39.6987,
+      "lng": 27.8937,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "4.5",
+      "coordinates": [
+        27.8937,
+        39.6987
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.8937,
+            39.6987
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "UCPINAR-(BALIKESIR)",
+          "time": "2025.09.14 20:51:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.14",
+      "date_hour": "20:51:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.14 20:08:58",
+      "lat": 39.19,
+      "lng": 28.0653,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "12.5",
+      "coordinates": [
+        28.0653,
+        39.19
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0653,
+            39.19
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.14 20:08:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.14",
+      "date_hour": "20:08:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
-    },
-    {
-      "title": "CAMLIYAYLA-SAMANDAG (HATAY)",
-      "type": "�lksel",
-      "date": "2025.09.11 03:52:39",
-      "lat": 36.1875,
-      "lng": 35.8247,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "19.4",
-      "coordinates": [
-        35.8247,
-        36.1875
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.8247,
-            36.1875
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "CAMLIYAYLA-SAMANDAG (HATAY)",
-          "time": "2025.09.11 03:52:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.11",
-      "date_hour": "03:52:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.11 03:52:07",
-      "lat": 39.2072,
-      "lng": 28.1302,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "11.9",
-      "coordinates": [
-        28.1302,
-        39.2072
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1302,
-            39.2072
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.11 03:52:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.11",
-      "date_hour": "03:52:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
