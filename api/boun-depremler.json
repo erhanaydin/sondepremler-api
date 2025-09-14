@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-14T17:37:39.080Z",
+  "lastUpdate": "2025-09-14T17:45:55.351Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "KOCAOZU-HEKIMHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.09.14 19:29:59",
+      "lat": 38.748,
+      "lng": 37.9528,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "8.5",
+      "coordinates": [
+        37.9528,
+        38.748
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.9528,
+            38.748
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KOCAOZU-HEKIMHAN (MALATYA)",
+          "time": "2025.09.14 19:29:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.14",
+      "date_hour": "19:29:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.11 03:38:23",
-      "lat": 39.2018,
-      "lng": 28.1683,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        28.1683,
-        39.2018
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1683,
-            39.2018
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.11 03:38:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.11",
-      "date_hour": "03:38:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
