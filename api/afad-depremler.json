@@ -72,6 +72,42 @@
     "city": "Balıkesir"
   },
   {
+    "title": "Biga (Çanakkale)",
+    "type": "İlksel",
+    "date": "2025-09-12 04:31:04",
+    "lat": 40.34278,
+    "lng": 27.19917,
+    "md": "-.-",
+    "ml": "1.2",
+    "mw": "-.-",
+    "depth": 6.98,
+    "coordinates": [
+      27.19917,
+      40.34278
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.19917,
+          40.34278
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Biga (Çanakkale) (Çanakkale)",
+        "time": 1757651464000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-09-12",
+    "date_hour": "04:31:04",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Çanakkale"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-09-12 04:12:54",
@@ -17962,41 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kütahya"
-  },
-  {
-    "title": "Merkez (Bayburt)",
-    "type": "İlksel",
-    "date": "2025-09-09 12:02:51",
-    "lat": 40.30528,
-    "lng": 40.21528,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 4.7,
-    "coordinates": [
-      40.21528,
-      40.30528
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.21528,
-          40.30528
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Merkez (Bayburt) (Bayburt)",
-        "time": 1757419371000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-09",
-    "date_hour": "12:02:51",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Bayburt"
   }
 ]
