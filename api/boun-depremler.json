@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-14T14:36:33.976Z",
+  "lastUpdate": "2025-09-14T14:44:43.415Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MEKE-(MUGLA)",
+      "type": "�lksel",
+      "date": "2025.09.14 17:33:23",
+      "lat": 37.1288,
+      "lng": 28.1227,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "16.7",
+      "coordinates": [
+        28.1227,
+        37.1288
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1227,
+            37.1288
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "MEKE-(MUGLA)",
+          "time": "2025.09.14 17:33:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.14",
+      "date_hour": "17:33:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.11 01:47:13",
-      "lat": 39.1675,
-      "lng": 28.1448,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "8.0",
-      "coordinates": [
-        28.1448,
-        39.1675
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1448,
-            39.1675
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.11 01:47:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.11",
-      "date_hour": "01:47:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
