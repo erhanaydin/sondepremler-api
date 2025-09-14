@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-14T10:58:21.303Z",
+  "lastUpdate": "2025-09-14T11:14:40.671Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DAGDERE-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2025.09.14 13:59:22",
+      "lat": 38.9997,
+      "lng": 28.1232,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "27.7",
+      "coordinates": [
+        28.1232,
+        38.9997
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1232,
+            38.9997
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "DAGDERE-AKHISAR (MANISA)",
+          "time": "2025.09.14 13:59:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.14",
+      "date_hour": "13:59:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "DEREBOYNU-SIVRICE (ELAZIG)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SOGUTLU-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.09.10 23:34:41",
-      "lat": 39.1637,
-      "lng": 28.0548,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "3.7",
-      "coordinates": [
-        28.0548,
-        39.1637
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0548,
-            39.1637
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "SOGUTLU-AKHISAR (MANISA)",
-          "time": "2025.09.10 23:34:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.10",
-      "date_hour": "23:34:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
