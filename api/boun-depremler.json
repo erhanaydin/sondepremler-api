@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-09-14T10:33:03.543Z",
+  "lastUpdate": "2025-09-14T10:41:26.352Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEREBOYNU-SIVRICE (ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.09.14 13:19:13",
+      "lat": 38.4487,
+      "lng": 39.1422,
+      "md": "-.-",
+      "ml": "3.3",
+      "mw": "3.3",
+      "depth": "5.0",
+      "coordinates": [
+        39.1422,
+        38.4487
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.1422,
+            38.4487
+          ]
+        },
+        "properties": {
+          "mag": "3.3",
+          "place": "DEREBOYNU-SIVRICE (ELAZIG)",
+          "time": "2025.09.14 13:19:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.14",
+      "date_hour": "13:19:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.14 13:16:58",
+      "lat": 39.1467,
+      "lng": 28.1523,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "9.8",
+      "coordinates": [
+        28.1523,
+        39.1467
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1523,
+            39.1467
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.14 13:16:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.14",
+      "date_hour": "13:16:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.10 23:31:38",
-      "lat": 39.1455,
-      "lng": 28.1292,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "12.1",
-      "coordinates": [
-        28.1292,
-        39.1455
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1292,
-            39.1455
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.10 23:31:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.10",
-      "date_hour": "23:31:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.10 22:53:01",
-      "lat": 39.1558,
-      "lng": 28.2283,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "12.1",
-      "coordinates": [
-        28.2283,
-        39.1558
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2283,
-            39.1558
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.10 22:53:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.10",
-      "date_hour": "22:53:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
