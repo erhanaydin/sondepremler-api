@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-14T11:23:34.547Z",
+  "lastUpdate": "2025-09-14T11:32:30.440Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.09.14 14:03:44",
+      "lat": 39.2413,
+      "lng": 29.0088,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "10.3",
+      "coordinates": [
+        29.0088,
+        39.2413
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0088,
+            39.2413
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.09.14 14:03:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.14",
+      "date_hour": "14:03:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "DAGDERE-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.09.11 00:25:16",
-      "lat": 38.9487,
-      "lng": 26.2618,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "10.3",
-      "coordinates": [
-        26.2618,
-        38.9487
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.2618,
-            38.9487
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-          "time": "2025.09.11 00:25:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.11",
-      "date_hour": "00:25:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
