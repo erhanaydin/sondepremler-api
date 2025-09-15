@@ -144,6 +144,42 @@
     "city": "Kırşehir"
   },
   {
+    "title": "Bala (Ankara)",
+    "type": "İlksel",
+    "date": "2025-09-13 09:21:14",
+    "lat": 39.35667,
+    "lng": 33.41083,
+    "md": "-.-",
+    "ml": "1.2",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      33.41083,
+      39.35667
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.41083,
+          39.35667
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Bala (Ankara) (Ankara)",
+        "time": 1757755274000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-09-13",
+    "date_hour": "09:21:14",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Ankara"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-09-13 09:20:59",
@@ -5835,23 +5871,23 @@
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-09-12 14:30:44",
-    "lat": 39.20056,
-    "lng": 28.17333,
+    "lat": 39.20667,
+    "lng": 28.15667,
     "md": "-.-",
     "ml": "2.1",
     "mw": "-.-",
-    "depth": 6.24,
+    "depth": 4.97,
     "coordinates": [
-      28.17333,
-      39.20056
+      28.15667,
+      39.20667
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.17333,
-          39.20056
+          28.15667,
+          39.20667
         ]
       },
       "properties": {
@@ -5871,23 +5907,23 @@
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-09-12 14:30:44",
-    "lat": 39.20667,
-    "lng": 28.15667,
+    "lat": 39.20056,
+    "lng": 28.17333,
     "md": "-.-",
     "ml": "2.1",
     "mw": "-.-",
-    "depth": 4.97,
+    "depth": 6.24,
     "coordinates": [
-      28.15667,
-      39.20667
+      28.17333,
+      39.20056
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.15667,
-          39.20667
+          28.17333,
+          39.20056
         ]
       },
       "properties": {
@@ -17962,41 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Çanakkale"
-  },
-  {
-    "title": "Pütürge (Malatya)",
-    "type": "İlksel",
-    "date": "2025-09-10 17:34:22",
-    "lat": 38.20917,
-    "lng": 38.66694,
-    "md": "-.-",
-    "ml": "1",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      38.66694,
-      38.20917
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.66694,
-          38.20917
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Pütürge (Malatya) (Malatya)",
-        "time": 1757525662000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-10",
-    "date_hour": "17:34:22",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
   }
 ]
