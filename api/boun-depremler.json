@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-15T21:35:03.109Z",
+  "lastUpdate": "2025-09-15T21:43:19.447Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEREKOY-HAYMANA (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.09.16 00:26:02",
+      "lat": 39.511,
+      "lng": 32.6593,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "8.1",
+      "coordinates": [
+        32.6593,
+        39.511
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.6593,
+            39.511
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "DEREKOY-HAYMANA (ANKARA)",
+          "time": "2025.09.16 00:26:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.16",
+      "date_hour": "00:26:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
+    },
     {
       "title": "CINGIRLI-HAYMANA (ANKARA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2025.09.12 05:09:13",
-      "lat": 40.7655,
-      "lng": 27.4565,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "9.0",
-      "coordinates": [
-        27.4565,
-        40.7655
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.4565,
-            40.7655
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-          "time": "2025.09.12 05:09:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.12",
-      "date_hour": "05:09:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
     }
   ]
 }
