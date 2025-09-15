@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-15T19:42:09.527Z",
+  "lastUpdate": "2025-09-15T19:50:21.283Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DAGYENI-GERMENCIK (AYDIN)",
+      "type": "�lksel",
+      "date": "2025.09.15 21:52:46",
+      "lat": 37.9493,
+      "lng": 27.536,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        27.536,
+        37.9493
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.536,
+            37.9493
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "DAGYENI-GERMENCIK (AYDIN)",
+          "time": "2025.09.15 21:52:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.15",
+      "date_hour": "21:52:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AYDIN"
+    },
     {
       "title": "PEKMEZCI-IMAMOGLU (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ISACA-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.09.12 03:04:28",
-      "lat": 39.1398,
-      "lng": 28.0897,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "20.9",
-      "coordinates": [
-        28.0897,
-        39.1398
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0897,
-            39.1398
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "ISACA-AKHISAR (MANISA)",
-          "time": "2025.09.12 03:04:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.12",
-      "date_hour": "03:04:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
