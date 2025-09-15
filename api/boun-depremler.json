@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-15T19:24:01.233Z",
+  "lastUpdate": "2025-09-15T19:33:30.800Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -145,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "KAYABASI-CAYCUMA (ZONGULDAK)",
+      "type": "�lksel",
+      "date": "2025.09.15 20:26:53",
+      "lat": 41.344,
+      "lng": 32.0672,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "12.5",
+      "coordinates": [
+        32.0672,
+        41.344
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.0672,
+            41.344
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KAYABASI-CAYCUMA (ZONGULDAK)",
+          "time": "2025.09.15 20:26:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.15",
+      "date_hour": "20:26:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ZONGULDAK"
     },
     {
       "title": "SEKLI-BEYPAZARI (ANKARA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YAYLAPATLANGIC-FETHIYE (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.09.12 02:55:18",
-      "lat": 36.8132,
-      "lng": 29.5195,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "7.6",
-      "coordinates": [
-        29.5195,
-        36.8132
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.5195,
-            36.8132
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YAYLAPATLANGIC-FETHIYE (MUGLA)",
-          "time": "2025.09.12 02:55:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.12",
-      "date_hour": "02:55:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
