@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-15T15:14:30.791Z",
+  "lastUpdate": "2025-09-15T15:32:25.200Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISKELE-BIGADIC (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.15 18:08:08",
+      "lat": 39.4868,
+      "lng": 28.1765,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        28.1765,
+        39.4868
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1765,
+            39.4868
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "ISKELE-BIGADIC (BALIKESIR)",
+          "time": "2025.09.15 18:08:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.15",
+      "date_hour": "18:08:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "GOKEYUP-SALIHLI (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "ALEMBEY-ELBISTAN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.09.11 23:54:30",
-      "lat": 38.2663,
-      "lng": 37.175,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "29.4",
-      "coordinates": [
-        37.175,
-        38.2663
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.175,
-            38.2663
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ALEMBEY-ELBISTAN (KAHRAMANMARAS)",
-          "time": "2025.09.11 23:54:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.11",
-      "date_hour": "23:54:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
