@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-16T13:47:46.330Z",
+  "lastUpdate": "2025-09-16T13:56:31.941Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEMIRTAS-KIRKAGAC (MANISA)",
+      "type": "�lksel",
+      "date": "2025.09.16 16:42:59",
+      "lat": 39.3035,
+      "lng": 27.9315,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "8.2",
+      "coordinates": [
+        27.9315,
+        39.3035
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9315,
+            39.3035
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "DEMIRTAS-KIRKAGAC (MANISA)",
+          "time": "2025.09.16 16:42:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.16",
+      "date_hour": "16:42:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "MURATBAGI-KOVANCILAR (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.09.12 14:54:57",
-      "lat": 38.634,
-      "lng": 39.731,
-      "md": "-.-",
-      "ml": "3.3",
-      "mw": "3.4",
-      "depth": "5.0",
-      "coordinates": [
-        39.731,
-        38.634
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.731,
-            38.634
-          ]
-        },
-        "properties": {
-          "mag": "3.3",
-          "place": "MURATBAGI-KOVANCILAR (ELAZIG)",
-          "time": "2025.09.12 14:54:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.12",
-      "date_hour": "14:54:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
