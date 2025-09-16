@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-16T17:50:30.622Z",
+  "lastUpdate": "2025-09-16T17:58:51.304Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOKCEDERE-NURDAGI (GAZIANTEP)",
+      "type": "�lksel",
+      "date": "2025.09.16 20:41:23",
+      "lat": 37.1742,
+      "lng": 36.7182,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "9.8",
+      "coordinates": [
+        36.7182,
+        37.1742
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.7182,
+            37.1742
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "GOKCEDERE-NURDAGI (GAZIANTEP)",
+          "time": "2025.09.16 20:41:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.16",
+      "date_hour": "20:41:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "GAZIANTEP"
+    },
     {
       "title": "ISACA-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
+    },
+    {
+      "title": "ESENKIYI-ADILCEVAZ (BITLIS)",
+      "type": "�lksel",
+      "date": "2025.09.16 20:16:24",
+      "lat": 38.7355,
+      "lng": 43.0238,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "3.7",
+      "coordinates": [
+        43.0238,
+        38.7355
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.0238,
+            38.7355
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "ESENKIYI-ADILCEVAZ (BITLIS)",
+          "time": "2025.09.16 20:16:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.16",
+      "date_hour": "20:16:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BITLIS"
     },
     {
       "title": "HANPASA-AKHISAR (MANISA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.12 18:03:25",
-      "lat": 39.1503,
-      "lng": 28.2362,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "17.7",
-      "coordinates": [
-        28.2362,
-        39.1503
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2362,
-            39.1503
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.12 18:03:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.12",
-      "date_hour": "18:03:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.12 17:54:45",
-      "lat": 39.2135,
-      "lng": 27.9923,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "4.4",
-      "coordinates": [
-        27.9923,
-        39.2135
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9923,
-            39.2135
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "SAHINKAYA-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.12 17:54:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.12",
-      "date_hour": "17:54:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
