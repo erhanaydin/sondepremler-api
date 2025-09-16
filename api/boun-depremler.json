@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-16T05:32:40.411Z",
+  "lastUpdate": "2025-09-16T05:43:05.272Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.16 08:26:36",
+      "lat": 39.1617,
+      "lng": 28.1133,
+      "md": "-.-",
+      "ml": "3.0",
+      "mw": "3.0",
+      "depth": "12.0",
+      "coordinates": [
+        28.1133,
+        39.1617
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1133,
+            39.1617
+          ]
+        },
+        "properties": {
+          "mag": "3.0",
+          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.16 08:26:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.16",
+      "date_hour": "08:26:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KIZILGUR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ISTANBUL"
-    },
-    {
-      "title": "ILICA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.12 10:37:39",
-      "lat": 39.1818,
-      "lng": 28.2302,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "17.1",
-      "coordinates": [
-        28.2302,
-        39.1818
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2302,
-            39.1818
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ILICA-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.12 10:37:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.12",
-      "date_hour": "10:37:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
