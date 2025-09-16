@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-16T06:52:05.785Z",
+  "lastUpdate": "2025-09-16T07:00:20.748Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YORUKOGLU-(MUGLA)",
+      "type": "�lksel",
+      "date": "2025.09.16 09:49:57",
+      "lat": 37.2342,
+      "lng": 28.689,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "9.0",
+      "coordinates": [
+        28.689,
+        37.2342
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.689,
+            37.2342
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "YORUKOGLU-(MUGLA)",
+          "time": "2025.09.16 09:49:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.16",
+      "date_hour": "09:49:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "OSMANLAR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
-    },
-    {
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.09.12 11:07:05",
-      "lat": 37.9133,
-      "lng": 27.2373,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        27.2373,
-        37.9133
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.2373,
-            37.9133
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "KUSADASI KORFEZI (EGE DENIZI)",
-          "time": "2025.09.12 11:07:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.12",
-      "date_hour": "11:07:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
