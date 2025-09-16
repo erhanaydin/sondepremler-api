@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-16T14:37:16.688Z",
+  "lastUpdate": "2025-09-16T14:47:57.817Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
+    },
+    {
+      "title": "SIRINKOY-GOKCEADA (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2025.09.16 16:52:10",
+      "lat": 40.0188,
+      "lng": 25.8143,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "9.5",
+      "coordinates": [
+        25.8143,
+        40.0188
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.8143,
+            40.0188
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "SIRINKOY-GOKCEADA (CANAKKALE)",
+          "time": "2025.09.16 16:52:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.16",
+      "date_hour": "16:52:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
     },
     {
       "title": "SIRINKOY-GOKCEADA (CANAKKALE)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.12 15:12:10",
-      "lat": 39.203,
-      "lng": 28.1865,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "17.9",
-      "coordinates": [
-        28.1865,
-        39.203
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1865,
-            39.203
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.12 15:12:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.12",
-      "date_hour": "15:12:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
