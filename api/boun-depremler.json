@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-09-16T18:31:51.843Z",
+  "lastUpdate": "2025-09-16T18:48:40.935Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.16 21:30:10",
+      "lat": 39.221,
+      "lng": 28.1123,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "12.2",
+      "coordinates": [
+        28.1123,
+        39.221
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1123,
+            39.221
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.16 21:30:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.16",
+      "date_hour": "21:30:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "KAPIKAYA-(AMASYA)",
+      "type": "�lksel",
+      "date": "2025.09.16 21:14:08",
+      "lat": 40.5658,
+      "lng": 35.7845,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "4.0",
+      "coordinates": [
+        35.7845,
+        40.5658
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.7845,
+            40.5658
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "KAPIKAYA-(AMASYA)",
+          "time": "2025.09.16 21:14:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.16",
+      "date_hour": "21:14:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AMASYA"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SANCAK-(BINGOL)",
-      "type": "�lksel",
-      "date": "2025.09.12 19:54:44",
-      "lat": 39.0687,
-      "lng": 40.3723,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "10.3",
-      "coordinates": [
-        40.3723,
-        39.0687
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.3723,
-            39.0687
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "SANCAK-(BINGOL)",
-          "time": "2025.09.12 19:54:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.12",
-      "date_hour": "19:54:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
-    },
-    {
-      "title": "HACET-KIRKAGAC (MANISA)",
-      "type": "�lksel",
-      "date": "2025.09.12 19:37:43",
-      "lat": 39.2163,
-      "lng": 27.9855,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "8.6",
-      "coordinates": [
-        27.9855,
-        39.2163
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9855,
-            39.2163
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "HACET-KIRKAGAC (MANISA)",
-          "time": "2025.09.12 19:37:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.12",
-      "date_hour": "19:37:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
