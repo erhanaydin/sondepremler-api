@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-17T13:45:35.536Z",
+  "lastUpdate": "2025-09-17T13:54:00.574Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.17 16:32:46",
+      "lat": 39.1945,
+      "lng": 28.1365,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "12.0",
+      "coordinates": [
+        28.1365,
+        39.1945
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1365,
+            39.1945
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.17 16:32:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.17",
+      "date_hour": "16:32:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "CEVIZDERE-(ELAZIG)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "TATLAR-NURHAK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.09.13 08:01:13",
-      "lat": 38.0483,
-      "lng": 37.5397,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "6.8",
-      "coordinates": [
-        37.5397,
-        38.0483
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.5397,
-            38.0483
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "TATLAR-NURHAK (KAHRAMANMARAS)",
-          "time": "2025.09.13 08:01:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.13",
-      "date_hour": "08:01:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
