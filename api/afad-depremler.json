@@ -36,6 +36,42 @@
     "city": "Adana"
   },
   {
+    "title": "Pazarcık (Kahramanmaraş)",
+    "type": "İlksel",
+    "date": "2025-09-15 18:20:13",
+    "lat": 37.29389,
+    "lng": 37.02361,
+    "md": "-.-",
+    "ml": "1.8",
+    "mw": "-.-",
+    "depth": 7.02,
+    "coordinates": [
+      37.02361,
+      37.29389
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.02361,
+          37.29389
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Pazarcık (Kahramanmaraş) (Kahramanmaraş)",
+        "time": 1757960413000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-09-15",
+    "date_hour": "18:20:13",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kahramanmaraş"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-09-15 18:06:53",
@@ -17962,41 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Murgul (Artvin)",
-    "type": "İlksel",
-    "date": "2025-09-12 20:40:03",
-    "lat": 41.24306,
-    "lng": 41.60639,
-    "md": "-.-",
-    "ml": "1",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      41.60639,
-      41.24306
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.60639,
-          41.24306
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Murgul (Artvin) (Artvin)",
-        "time": 1757709603000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-12",
-    "date_hour": "20:40:03",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Artvin"
   }
 ]
