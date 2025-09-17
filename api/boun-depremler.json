@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-17T08:54:56.782Z",
+  "lastUpdate": "2025-09-17T09:14:25.154Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.17 12:00:02",
+      "lat": 39.1732,
+      "lng": 28.2542,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "8.6",
+      "coordinates": [
+        28.2542,
+        39.1732
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2542,
+            39.1732
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.17 12:00:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.17",
+      "date_hour": "12:00:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SOGUTLU-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.09.13 04:52:33",
-      "lat": 38.2142,
-      "lng": 38.6182,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "3.2",
-      "coordinates": [
-        38.6182,
-        38.2142
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.6182,
-            38.2142
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "SOGUTLU-PUTURGE (MALATYA)",
-          "time": "2025.09.13 04:52:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.13",
-      "date_hour": "04:52:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
