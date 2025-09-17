@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-17T03:47:57.806Z",
+  "lastUpdate": "2025-09-17T03:56:26.907Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.17 06:44:14",
+      "lat": 39.2273,
+      "lng": 28.1735,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "11.5",
+      "coordinates": [
+        28.1735,
+        39.2273
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1735,
+            39.2273
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "SINDIRGI (BALIKESIR)",
+          "time": "2025.09.17 06:44:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.17",
+      "date_hour": "06:44:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YALINCAK-(TRABZON)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIVAS"
-    },
-    {
-      "title": "BELENBASI-BUCA (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.09.13 03:14:53",
-      "lat": 38.3132,
-      "lng": 27.2457,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "17.8",
-      "coordinates": [
-        27.2457,
-        38.3132
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.2457,
-            38.3132
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "BELENBASI-BUCA (IZMIR)",
-          "time": "2025.09.13 03:14:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.13",
-      "date_hour": "03:14:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
