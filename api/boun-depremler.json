@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-18T20:43:15.279Z",
+  "lastUpdate": "2025-09-18T20:51:25.787Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HORZUM-ODEMIS (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.09.18 23:23:50",
+      "lat": 38.3925,
+      "lng": 27.89,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "8.6",
+      "coordinates": [
+        27.89,
+        38.3925
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.89,
+            38.3925
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "HORZUM-ODEMIS (IZMIR)",
+          "time": "2025.09.18 23:23:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.18",
+      "date_hour": "23:23:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "TURKIYE-IRAN SINIR BOLGESI",
-      "type": "�lksel",
-      "date": "2025.09.14 11:43:27",
-      "lat": 38.3103,
-      "lng": 44.849,
-      "md": "-.-",
-      "ml": "3.6",
-      "mw": "3.6",
-      "depth": "3.6",
-      "coordinates": [
-        44.849,
-        38.3103
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            44.849,
-            38.3103
-          ]
-        },
-        "properties": {
-          "mag": "3.6",
-          "place": "TURKIYE-IRAN SINIR BOLGESI",
-          "time": "2025.09.14 11:43:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.14",
-      "date_hour": "11:43:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
