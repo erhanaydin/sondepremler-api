@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-18T20:31:17.401Z",
+  "lastUpdate": "2025-09-18T20:43:15.279Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -579,6 +579,42 @@
       "city": "ELAZIG"
     },
     {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.18 20:31:19",
+      "lat": 39.185,
+      "lng": 28.1917,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "15.3",
+      "coordinates": [
+        28.1917,
+        39.185
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1917,
+            39.185
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.18 20:31:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.18",
+      "date_hour": "20:31:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
       "title": "SOGUTLU-PAZARCIK (KAHRAMANMARAS)",
       "type": "�lksel",
       "date": "2025.09.18 20:26:46",
@@ -865,6 +901,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "ANIL-CEMISGEZEK (TUNCELI)",
+      "type": "�lksel",
+      "date": "2025.09.18 18:58:39",
+      "lat": 39.1583,
+      "lng": 38.881,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "18.9",
+      "coordinates": [
+        38.881,
+        39.1583
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.881,
+            39.1583
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "ANIL-CEMISGEZEK (TUNCELI)",
+          "time": "2025.09.18 18:58:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.18",
+      "date_hour": "18:58:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "TUNCELI"
     },
     {
       "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.14 11:36:54",
-      "lat": 39.2002,
-      "lng": 28.1447,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "7.9",
-      "coordinates": [
-        28.1447,
-        39.2002
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1447,
-            39.2002
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.14 11:36:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.14",
-      "date_hour": "11:36:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "ORTAKOY-AKCADAG (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.09.14 11:13:51",
-      "lat": 38.2663,
-      "lng": 37.8152,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "4.6",
-      "coordinates": [
-        37.8152,
-        38.2663
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.8152,
-            38.2663
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "ORTAKOY-AKCADAG (MALATYA)",
-          "time": "2025.09.14 11:13:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.14",
-      "date_hour": "11:13:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
