@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-18T19:36:54.952Z",
+  "lastUpdate": "2025-09-18T19:45:34.471Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -397,6 +397,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
+    },
+    {
+      "title": "DORTBOLUK-SIVRICE (ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.09.18 20:37:01",
+      "lat": 38.3835,
+      "lng": 39.2398,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        39.2398,
+        38.3835
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.2398,
+            38.3835
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "DORTBOLUK-SIVRICE (ELAZIG)",
+          "time": "2025.09.18 20:37:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.18",
+      "date_hour": "20:37:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
     },
     {
       "title": "SOGUTLU-PAZARCIK (KAHRAMANMARAS)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CORUM"
-    },
-    {
-      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.14 09:50:33",
-      "lat": 39.2188,
-      "lng": 28.1105,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "14.4",
-      "coordinates": [
-        28.1105,
-        39.2188
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1105,
-            39.2188
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.14 09:50:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.14",
-      "date_hour": "09:50:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
