@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-18T19:26:49.545Z",
+  "lastUpdate": "2025-09-18T19:36:54.952Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -361,6 +361,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "DAGDEMIR-KALECIK (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.09.18 21:08:50",
+      "lat": 40.245,
+      "lng": 33.4202,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "5.7",
+      "coordinates": [
+        33.4202,
+        40.245
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.4202,
+            40.245
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "DAGDEMIR-KALECIK (ANKARA)",
+          "time": "2025.09.18 21:08:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.18",
+      "date_hour": "21:08:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
     },
     {
       "title": "SOGUTLU-PAZARCIK (KAHRAMANMARAS)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "DEGIRMENKAYA-KALECIK (ANKARA)",
-      "type": "�lksel",
-      "date": "2025.09.14 09:50:00",
-      "lat": 40.2187,
-      "lng": 33.3523,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "8.3",
-      "coordinates": [
-        33.3523,
-        40.2187
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.3523,
-            40.2187
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "DEGIRMENKAYA-KALECIK (ANKARA)",
-          "time": "2025.09.14 09:50:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.14",
-      "date_hour": "09:50:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
