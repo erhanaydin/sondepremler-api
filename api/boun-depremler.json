@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-18T08:44:21.750Z",
+  "lastUpdate": "2025-09-18T08:54:09.730Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.18 11:43:09",
+      "lat": 39.2118,
+      "lng": 28.1327,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "10.8",
+      "coordinates": [
+        28.1327,
+        39.2118
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1327,
+            39.2118
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.18 11:43:09"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.18",
+      "date_hour": "11:43:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "YENIKOY-(BOLU)",
-      "type": "�lksel",
-      "date": "2025.09.14 05:08:51",
-      "lat": 40.7527,
-      "lng": 31.6382,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "11.5",
-      "coordinates": [
-        31.6382,
-        40.7527
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.6382,
-            40.7527
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "YENIKOY-(BOLU)",
-          "time": "2025.09.14 05:08:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.14",
-      "date_hour": "05:08:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BOLU"
     }
   ]
 }
