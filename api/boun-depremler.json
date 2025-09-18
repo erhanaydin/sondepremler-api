@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-18T04:33:51.265Z",
+  "lastUpdate": "2025-09-18T04:45:23.687Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -577,6 +577,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "CAMDERE-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.09.18 03:45:22",
+      "lat": 38.116,
+      "lng": 36.5452,
+      "md": "-.-",
+      "ml": "0.9",
+      "mw": "-.-",
+      "depth": "2.2",
+      "coordinates": [
+        36.5452,
+        38.116
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.5452,
+            38.116
+          ]
+        },
+        "properties": {
+          "mag": "0.9",
+          "place": "CAMDERE-GOKSUN (KAHRAMANMARAS)",
+          "time": "2025.09.18 03:45:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.18",
+      "date_hour": "03:45:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
     },
     {
       "title": "ISACA-AKHISAR (MANISA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BAKACAKLICIFTLIGI-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.09.14 03:29:16",
-      "lat": 40.18,
-      "lng": 27.2577,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "9.9",
-      "coordinates": [
-        27.2577,
-        40.18
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.2577,
-            40.18
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "BAKACAKLICIFTLIGI-BIGA (CANAKKALE)",
-          "time": "2025.09.14 03:29:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.14",
-      "date_hour": "03:29:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
