@@ -1,5 +1,149 @@
 [
   {
+    "title": "Soma (Manisa)",
+    "type": "İlksel",
+    "date": "2025-09-16 07:43:35",
+    "lat": 39.09,
+    "lng": 27.555,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 6.99,
+    "coordinates": [
+      27.555,
+      39.09
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.555,
+          39.09
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Soma (Manisa) (Manisa)",
+        "time": 1758008615000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-09-16",
+    "date_hour": "07:43:35",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Manisa"
+  },
+  {
+    "title": "Akdeniz - [54.36 km] Fethiye (Muğla)",
+    "type": "İlksel",
+    "date": "2025-09-16 07:38:51",
+    "lat": 36.12472,
+    "lng": 28.70222,
+    "md": "-.-",
+    "ml": "1.8",
+    "mw": "-.-",
+    "depth": 5.21,
+    "coordinates": [
+      28.70222,
+      36.12472
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.70222,
+          36.12472
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Akdeniz - [54.36 km] Fethiye (Muğla) (Muğla)",
+        "time": 1758008331000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-09-16",
+    "date_hour": "07:38:51",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Muğla"
+  },
+  {
+    "title": "Sındırgı (Balıkesir)",
+    "type": "İlksel",
+    "date": "2025-09-16 07:07:41",
+    "lat": 39.15556,
+    "lng": 28.17361,
+    "md": "-.-",
+    "ml": "1.6",
+    "mw": "-.-",
+    "depth": 4.78,
+    "coordinates": [
+      28.17361,
+      39.15556
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.17361,
+          39.15556
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sındırgı (Balıkesir) (Balıkesir)",
+        "time": 1758006461000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-09-16",
+    "date_hour": "07:07:41",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Balıkesir"
+  },
+  {
+    "title": "Sındırgı (Balıkesir)",
+    "type": "İlksel",
+    "date": "2025-09-16 07:04:48",
+    "lat": 39.21833,
+    "lng": 28.16111,
+    "md": "-.-",
+    "ml": "1.8",
+    "mw": "-.-",
+    "depth": 7.05,
+    "coordinates": [
+      28.16111,
+      39.21833
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.16111,
+          39.21833
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sındırgı (Balıkesir) (Balıkesir)",
+        "time": 1758006288000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-09-16",
+    "date_hour": "07:04:48",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Balıkesir"
+  },
+  {
     "title": "Menteşe (Muğla)",
     "type": "İlksel",
     "date": "2025-09-16 06:49:56",
@@ -3852,42 +3996,6 @@
     "city": "Balıkesir"
   },
   {
-    "title": "Gölbaşı (Adıyaman)",
-    "type": "İlksel",
-    "date": "2025-09-15 16:28:16",
-    "lat": 37.75833,
-    "lng": 37.55083,
-    "md": "-.-",
-    "ml": "2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      37.55083,
-      37.75833
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.55083,
-          37.75833
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Gölbaşı (Adıyaman) (Adıyaman)",
-        "time": 1757953696000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-15",
-    "date_hour": "16:28:16",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Adıyaman"
-  },
-  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-09-15 16:28:16",
@@ -3922,6 +4030,42 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
+  },
+  {
+    "title": "Gölbaşı (Adıyaman)",
+    "type": "İlksel",
+    "date": "2025-09-15 16:28:16",
+    "lat": 37.75833,
+    "lng": 37.55083,
+    "md": "-.-",
+    "ml": "2",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      37.55083,
+      37.75833
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.55083,
+          37.75833
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Gölbaşı (Adıyaman) (Adıyaman)",
+        "time": 1757953696000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-09-15",
+    "date_hour": "16:28:16",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Adıyaman"
   },
   {
     "title": "Sındırgı (Balıkesir)",
@@ -17854,149 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Muğla"
-  },
-  {
-    "title": "Akdeniz - [71.23 km] Seydikemer (Muğla)",
-    "type": "İlksel",
-    "date": "2025-09-13 08:43:25",
-    "lat": 36.00917,
-    "lng": 28.57806,
-    "md": "-.-",
-    "ml": "2.3",
-    "mw": "-.-",
-    "depth": 7.58,
-    "coordinates": [
-      28.57806,
-      36.00917
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.57806,
-          36.00917
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akdeniz - [71.23 km] Seydikemer (Muğla) (Muğla)",
-        "time": 1757753005000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-13",
-    "date_hour": "08:43:25",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-09-13 08:34:30",
-    "lat": 39.1825,
-    "lng": 28.25333,
-    "md": "-.-",
-    "ml": "1.8",
-    "mw": "-.-",
-    "depth": 5.9,
-    "coordinates": [
-      28.25333,
-      39.1825
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.25333,
-          39.1825
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1757752470000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-13",
-    "date_hour": "08:34:30",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-09-13 08:33:38",
-    "lat": 39.18889,
-    "lng": 28.25056,
-    "md": "-.-",
-    "ml": "2.1",
-    "mw": "-.-",
-    "depth": 5.89,
-    "coordinates": [
-      28.25056,
-      39.18889
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.25056,
-          39.18889
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1757752418000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-13",
-    "date_hour": "08:33:38",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-09-13 08:31:17",
-    "lat": 39.18944,
-    "lng": 28.25278,
-    "md": "-.-",
-    "ml": "2.9",
-    "mw": "-.-",
-    "depth": 8.18,
-    "coordinates": [
-      28.25278,
-      39.18944
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.25278,
-          39.18944
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1757752277000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-13",
-    "date_hour": "08:31:17",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
