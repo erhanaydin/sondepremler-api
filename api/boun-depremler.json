@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-19T16:41:31.556Z",
+  "lastUpdate": "2025-09-19T16:51:51.056Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.09.19 19:31:41",
+      "lat": 40.2805,
+      "lng": 24.1112,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "5.9",
+      "coordinates": [
+        24.1112,
+        40.2805
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.1112,
+            40.2805
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "YUNANISTAN",
+          "time": "2025.09.19 19:31:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.19",
+      "date_hour": "19:31:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "BEKERECI-KADIRLI (OSMANIYE)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "KOCAOZU-HEKIMHAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.09.15 04:16:30",
-      "lat": 38.7632,
-      "lng": 37.9565,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        37.9565,
-        38.7632
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.9565,
-            38.7632
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "KOCAOZU-HEKIMHAN (MALATYA)",
-          "time": "2025.09.15 04:16:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.15",
-      "date_hour": "04:16:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
