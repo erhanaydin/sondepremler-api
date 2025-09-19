@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-19T19:51:06.132Z",
+  "lastUpdate": "2025-09-19T19:59:10.776Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.19 22:52:27",
+      "lat": 39.217,
+      "lng": 28.1595,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "7.5",
+      "coordinates": [
+        28.1595,
+        39.217
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1595,
+            39.217
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.19 22:52:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.19",
+      "date_hour": "22:52:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
-    },
-    {
-      "title": "KAZANDERE-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.09.15 06:22:56",
-      "lat": 37.9663,
-      "lng": 36.3112,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        36.3112,
-        37.9663
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.3112,
-            37.9663
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KAZANDERE-GOKSUN (KAHRAMANMARAS)",
-          "time": "2025.09.15 06:22:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.15",
-      "date_hour": "06:22:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
