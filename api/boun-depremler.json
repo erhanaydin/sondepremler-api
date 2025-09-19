@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-19T10:48:15.834Z",
+  "lastUpdate": "2025-09-19T10:56:33.038Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KINIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.19 13:28:39",
+      "lat": 39.1258,
+      "lng": 28.1475,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "10.1",
+      "coordinates": [
+        28.1475,
+        39.1258
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1475,
+            39.1258
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "KINIK-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.19 13:28:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.19",
+      "date_hour": "13:28:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.09.14 23:41:03",
-      "lat": 35.6772,
-      "lng": 28.6118,
-      "md": "-.-",
-      "ml": "3.2",
-      "mw": "3.3",
-      "depth": "8.5",
-      "coordinates": [
-        28.6118,
-        35.6772
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.6118,
-            35.6772
-          ]
-        },
-        "properties": {
-          "mag": "3.2",
-          "place": "AKDENIZ",
-          "time": "2025.09.14 23:41:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.14",
-      "date_hour": "23:41:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
