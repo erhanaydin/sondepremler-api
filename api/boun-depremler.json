@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-19T12:19:27.261Z",
+  "lastUpdate": "2025-09-19T12:58:32.332Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.19 15:39:23",
+      "lat": 39.163,
+      "lng": 28.1832,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "10.1",
+      "coordinates": [
+        28.1832,
+        39.163
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1832,
+            39.163
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.19 15:39:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.19",
+      "date_hour": "15:39:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -649,6 +685,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DIYARBAKIR"
+    },
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.19 11:00:06",
+      "lat": 39.167,
+      "lng": 28.144,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "12.3",
+      "coordinates": [
+        28.144,
+        39.167
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.144,
+            39.167
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.19 11:00:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.19",
+      "date_hour": "11:00:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "YENIGUN-KADIRLI (OSMANIYE)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "KARASALKIM-PALU (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.09.15 01:25:16",
-      "lat": 38.5985,
-      "lng": 39.8595,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "4.9",
-      "coordinates": [
-        39.8595,
-        38.5985
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.8595,
-            38.5985
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KARASALKIM-PALU (ELAZIG)",
-          "time": "2025.09.15 01:25:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.15",
-      "date_hour": "01:25:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
-    },
-    {
-      "title": "ALADIKME-BASKIL (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.09.15 01:19:22",
-      "lat": 38.4515,
-      "lng": 38.9212,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "4.4",
-      "coordinates": [
-        38.9212,
-        38.4515
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.9212,
-            38.4515
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ALADIKME-BASKIL (ELAZIG)",
-          "time": "2025.09.15 01:19:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.15",
-      "date_hour": "01:19:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
