@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-19T21:34:27.763Z",
+  "lastUpdate": "2025-09-19T21:42:26.350Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.20 00:30:57",
+      "lat": 39.173,
+      "lng": 28.1363,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "26.5",
+      "coordinates": [
+        28.1363,
+        39.173
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1363,
+            39.173
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.20 00:30:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.20",
+      "date_hour": "00:30:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -145,6 +181,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CORUM"
+    },
+    {
+      "title": "KIZILOZ-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.09.19 23:10:08",
+      "lat": 38.0252,
+      "lng": 36.6782,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "9.3",
+      "coordinates": [
+        36.6782,
+        38.0252
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.6782,
+            38.0252
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KIZILOZ-GOKSUN (KAHRAMANMARAS)",
+          "time": "2025.09.19 23:10:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.19",
+      "date_hour": "23:10:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
     },
     {
       "title": "SARAYCIK-GOKSUN (KAHRAMANMARAS)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.15 09:22:13",
-      "lat": 39.2252,
-      "lng": 28.054,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "10.6",
-      "coordinates": [
-        28.054,
-        39.2252
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.054,
-            39.2252
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.15 09:22:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.15",
-      "date_hour": "09:22:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "ALACAATLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.15 09:20:00",
-      "lat": 39.2583,
-      "lng": 28.07,
-      "md": "-.-",
-      "ml": "3.4",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        28.07,
-        39.2583
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.07,
-            39.2583
-          ]
-        },
-        "properties": {
-          "mag": "3.4",
-          "place": "ALACAATLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.15 09:20:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.15",
-      "date_hour": "09:20:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
