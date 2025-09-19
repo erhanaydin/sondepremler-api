@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-19T14:44:27.238Z",
+  "lastUpdate": "2025-09-19T14:52:47.464Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.19 17:15:41",
+      "lat": 39.1782,
+      "lng": 28.2855,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "15.1",
+      "coordinates": [
+        28.2855,
+        39.1782
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2855,
+            39.1782
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.19 17:15:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.19",
+      "date_hour": "17:15:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AKPINAR-CAMELI (DENIZLI)",
-      "type": "�lksel",
-      "date": "2025.09.15 03:03:48",
-      "lat": 36.9825,
-      "lng": 29.1272,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "25.7",
-      "coordinates": [
-        29.1272,
-        36.9825
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1272,
-            36.9825
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "AKPINAR-CAMELI (DENIZLI)",
-          "time": "2025.09.15 03:03:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.15",
-      "date_hour": "03:03:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
