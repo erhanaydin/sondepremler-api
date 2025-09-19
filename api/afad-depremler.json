@@ -144,6 +144,42 @@
     "city": "Manisa"
   },
   {
+    "title": "Ege Denizi",
+    "type": "İlksel",
+    "date": "2025-09-17 19:46:02",
+    "lat": 36.77194,
+    "lng": 26.11917,
+    "md": "-.-",
+    "ml": "2.3",
+    "mw": "-.-",
+    "depth": 7.2,
+    "coordinates": [
+      26.11917,
+      36.77194
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.11917,
+          36.77194
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi (Muğla)",
+        "time": 1758138362000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-09-17",
+    "date_hour": "19:46:02",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Muğla"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-09-17 19:23:41",
@@ -8247,23 +8283,23 @@
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-09-16 08:30:28",
-    "lat": 39.15333,
-    "lng": 28.16056,
+    "lat": 39.13778,
+    "lng": 28.13528,
     "md": "-.-",
-    "ml": "1.7",
+    "ml": "1.8",
     "mw": "-.-",
-    "depth": 7,
+    "depth": 5.8,
     "coordinates": [
-      28.16056,
-      39.15333
+      28.13528,
+      39.13778
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.16056,
-          39.15333
+          28.13528,
+          39.13778
         ]
       },
       "properties": {
@@ -8283,23 +8319,23 @@
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-09-16 08:30:28",
-    "lat": 39.13778,
-    "lng": 28.13528,
+    "lat": 39.15333,
+    "lng": 28.16056,
     "md": "-.-",
-    "ml": "1.8",
+    "ml": "1.7",
     "mw": "-.-",
-    "depth": 5.8,
+    "depth": 7,
     "coordinates": [
-      28.13528,
-      39.13778
+      28.16056,
+      39.15333
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.13528,
-          39.13778
+          28.16056,
+          39.15333
         ]
       },
       "properties": {
@@ -17962,41 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Hekimhan (Malatya)",
-    "type": "İlksel",
-    "date": "2025-09-14 16:29:59",
-    "lat": 38.78972,
-    "lng": 38.00917,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 7.21,
-    "coordinates": [
-      38.00917,
-      38.78972
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.00917,
-          38.78972
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Hekimhan (Malatya) (Malatya)",
-        "time": 1757867399000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-14",
-    "date_hour": "16:29:59",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
   }
 ]
