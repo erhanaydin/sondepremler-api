@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-20T03:34:40.376Z",
+  "lastUpdate": "2025-09-20T03:47:41.930Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAOMER-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.09.20 06:35:27",
+      "lat": 38.1313,
+      "lng": 36.6653,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        36.6653,
+        38.1313
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.6653,
+            38.1313
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KARAOMER-GOKSUN (KAHRAMANMARAS)",
+          "time": "2025.09.20 06:35:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.20",
+      "date_hour": "06:35:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KIZILELLER-IHSANGAZI (KASTAMONU)",
-      "type": "�lksel",
-      "date": "2025.09.15 16:06:38",
-      "lat": 41.0473,
-      "lng": 33.6273,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "10.3",
-      "coordinates": [
-        33.6273,
-        41.0473
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.6273,
-            41.0473
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "KIZILELLER-IHSANGAZI (KASTAMONU)",
-          "time": "2025.09.15 16:06:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.15",
-      "date_hour": "16:06:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KASTAMONU"
     }
   ]
 }
