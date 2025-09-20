@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-20T15:37:59.279Z",
+  "lastUpdate": "2025-09-20T15:46:03.799Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "FETHIYE KORFEZI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.09.20 18:25:23",
+      "lat": 36.6177,
+      "lng": 28.9273,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "16.2",
+      "coordinates": [
+        28.9273,
+        36.6177
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9273,
+            36.6177
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "FETHIYE KORFEZI (AKDENIZ)",
+          "time": "2025.09.20 18:25:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.20",
+      "date_hour": "18:25:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "GOZLEKCILER-YAYLADAGI (HATAY)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
-    },
-    {
-      "title": "CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.09.15 21:20:14",
-      "lat": 37.2963,
-      "lng": 37.0002,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        37.0002,
-        37.2963
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.0002,
-            37.2963
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
-          "time": "2025.09.15 21:20:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.15",
-      "date_hour": "21:20:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
