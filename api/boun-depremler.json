@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-21T20:51:15.092Z",
+  "lastUpdate": "2025-09-21T20:59:21.381Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TOPSOGUT-(MALATYA)",
+      "type": "�lksel",
+      "date": "2025.09.21 23:47:24",
+      "lat": 38.3418,
+      "lng": 38.244,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "16.8",
+      "coordinates": [
+        38.244,
+        38.3418
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.244,
+            38.3418
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "TOPSOGUT-(MALATYA)",
+          "time": "2025.09.21 23:47:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.21",
+      "date_hour": "23:47:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.17 11:43:30",
-      "lat": 39.1553,
-      "lng": 28.2823,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "8.0",
-      "coordinates": [
-        28.2823,
-        39.1553
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2823,
-            39.1553
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.17 11:43:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.17",
-      "date_hour": "11:43:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
