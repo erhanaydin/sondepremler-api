@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-21T14:09:37.999Z",
+  "lastUpdate": "2025-09-21T14:27:12.455Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "SURIYE",
+      "type": "�lksel",
+      "date": "2025.09.21 15:58:03",
+      "lat": 36.5778,
+      "lng": 38.51,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "9.9",
+      "coordinates": [
+        38.51,
+        36.5778
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.51,
+            36.5778
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "SURIYE",
+          "time": "2025.09.21 15:58:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.21",
+      "date_hour": "15:58:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "EGE DENIZI",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIVAS"
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.17 04:04:06",
-      "lat": 39.1717,
-      "lng": 28.1098,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "9.0",
-      "coordinates": [
-        28.1098,
-        39.1717
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1098,
-            39.1717
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.17 04:04:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.17",
-      "date_hour": "04:04:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
