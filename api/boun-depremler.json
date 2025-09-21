@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-21T12:34:26.888Z",
+  "lastUpdate": "2025-09-21T13:00:38.871Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.09.21 15:32:19",
+      "lat": 38.7738,
+      "lng": 26.4257,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "6.3",
+      "coordinates": [
+        26.4257,
+        38.7738
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.4257,
+            38.7738
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "EGE DENIZI",
+          "time": "2025.09.21 15:32:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.21",
+      "date_hour": "15:32:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.17 03:47:55",
-      "lat": 39.1713,
-      "lng": 28.134,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "4.8",
-      "coordinates": [
-        28.134,
-        39.1713
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.134,
-            39.1713
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.17 03:47:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.17",
-      "date_hour": "03:47:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
