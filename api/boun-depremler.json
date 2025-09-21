@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-21T14:45:43.501Z",
+  "lastUpdate": "2025-09-21T14:54:00.421Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISACA-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2025.09.21 17:18:34",
+      "lat": 39.149,
+      "lng": 28.0702,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "7.7",
+      "coordinates": [
+        28.0702,
+        39.149
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0702,
+            39.149
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "ISACA-AKHISAR (MANISA)",
+          "time": "2025.09.21 17:18:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.21",
+      "date_hour": "17:18:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ESKIHAMAL-GURUN (SIVAS)",
-      "type": "�lksel",
-      "date": "2025.09.17 04:04:06",
-      "lat": 38.8828,
-      "lng": 37.4705,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        37.4705,
-        38.8828
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.4705,
-            38.8828
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ESKIHAMAL-GURUN (SIVAS)",
-          "time": "2025.09.17 04:04:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.17",
-      "date_hour": "04:04:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
     }
   ]
 }
