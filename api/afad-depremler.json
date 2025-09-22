@@ -828,6 +828,42 @@
     "city": "Balıkesir"
   },
   {
+    "title": "Simav (Kütahya)",
+    "type": "İlksel",
+    "date": "2025-09-21 00:15:31",
+    "lat": 39.25194,
+    "lng": 29.00139,
+    "md": "-.-",
+    "ml": "1.2",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      29.00139,
+      39.25194
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.00139,
+          39.25194
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Simav (Kütahya) (Kütahya)",
+        "time": 1758413731000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-09-21",
+    "date_hour": "00:15:31",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-09-21 00:11:51",
@@ -17962,41 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Karadeniz - [02.15 km] Arsin (Trabzon)",
-    "type": "İlksel",
-    "date": "2025-09-17 03:11:22",
-    "lat": 40.96694,
-    "lng": 39.91167,
-    "md": "-.-",
-    "ml": "2",
-    "mw": "-.-",
-    "depth": 7.25,
-    "coordinates": [
-      39.91167,
-      40.96694
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.91167,
-          40.96694
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Karadeniz - [02.15 km] Arsin (Trabzon) (Trabzon)",
-        "time": 1758078682000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-17",
-    "date_hour": "03:11:22",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Trabzon"
   }
 ]
