@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-22T23:38:58.520Z",
+  "lastUpdate": "2025-09-22T23:47:27.916Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.09.23 02:15:52",
+      "lat": 37.3182,
+      "lng": 37.0252,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "6.3",
+      "coordinates": [
+        37.0252,
+        37.3182
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.0252,
+            37.3182
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
+          "time": "2025.09.23 02:15:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.23",
+      "date_hour": "02:15:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
     },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "BASKARCI-(DENIZLI)",
-      "type": "�lksel",
-      "date": "2025.09.20 07:27:30",
-      "lat": 37.7475,
-      "lng": 29.021,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "13.1",
-      "coordinates": [
-        29.021,
-        37.7475
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.021,
-            37.7475
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "BASKARCI-(DENIZLI)",
-          "time": "2025.09.20 07:27:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.20",
-      "date_hour": "07:27:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
