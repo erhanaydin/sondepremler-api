@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-22T19:50:03.051Z",
+  "lastUpdate": "2025-09-22T19:58:09.638Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -358,6 +358,42 @@
       "location_properties": "",
       "date_day": "2025.09.22",
       "date_hour": "21:29:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.22 21:12:02",
+      "lat": 39.16,
+      "lng": 28.194,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "13.5",
+      "coordinates": [
+        28.194,
+        39.16
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.194,
+            39.16
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.22 21:12:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.22",
+      "date_hour": "21:12:02",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CORUM"
-    },
-    {
-      "title": "KIZILOZ-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.09.19 23:10:08",
-      "lat": 38.0252,
-      "lng": 36.6782,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "9.3",
-      "coordinates": [
-        36.6782,
-        38.0252
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.6782,
-            38.0252
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KIZILOZ-GOKSUN (KAHRAMANMARAS)",
-          "time": "2025.09.19 23:10:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.19",
-      "date_hour": "23:10:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
