@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-22T05:43:12.713Z",
+  "lastUpdate": "2025-09-22T05:51:51.246Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.22 08:30:06",
+      "lat": 39.2017,
+      "lng": 28.1863,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.4",
+      "coordinates": [
+        28.1863,
+        39.2017
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1863,
+            39.2017
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.22 08:30:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.22",
+      "date_hour": "08:30:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BUNYANOSMANIYE-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.09.18 13:53:42",
-      "lat": 38.9647,
-      "lng": 27.7203,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "11.1",
-      "coordinates": [
-        27.7203,
-        38.9647
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7203,
-            38.9647
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "BUNYANOSMANIYE-AKHISAR (MANISA)",
-          "time": "2025.09.18 13:53:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.18",
-      "date_hour": "13:53:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
