@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-23T18:49:01.019Z",
+  "lastUpdate": "2025-09-23T18:57:04.206Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.23 21:39:20",
+      "lat": 39.1557,
+      "lng": 28.1705,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "18.5",
+      "coordinates": [
+        28.1705,
+        39.1557
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1705,
+            39.1557
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.23 21:39:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.23",
+      "date_hour": "21:39:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.09.21 12:18:48",
-      "lat": 38.4588,
-      "lng": 25.6488,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "1.0",
-      "coordinates": [
-        25.6488,
-        38.4588
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.6488,
-            38.4588
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "EGE DENIZI",
-          "time": "2025.09.21 12:18:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.21",
-      "date_hour": "12:18:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
