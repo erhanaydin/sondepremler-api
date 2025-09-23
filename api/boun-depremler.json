@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-23T17:49:17.908Z",
+  "lastUpdate": "2025-09-23T17:57:50.104Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.09.23 20:36:47",
+      "lat": 35.153,
+      "lng": 24.1775,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        24.1775,
+        35.153
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.1775,
+            35.153
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2025.09.23 20:36:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.23",
+      "date_hour": "20:36:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
     },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIVAS"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.21 10:01:02",
-      "lat": 39.1772,
-      "lng": 28.1617,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "10.0",
-      "coordinates": [
-        28.1617,
-        39.1772
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1617,
-            39.1772
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.21 10:01:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.21",
-      "date_hour": "10:01:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
