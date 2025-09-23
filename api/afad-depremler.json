@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ege Denizi",
+    "type": "İlksel",
+    "date": "2025-09-22 01:19:59",
+    "lat": 40.36833,
+    "lng": 24.12028,
+    "md": "-.-",
+    "ml": "4.8",
+    "mw": "-.-",
+    "depth": 8.99,
+    "coordinates": [
+      24.12028,
+      40.36833
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.12028,
+          40.36833
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi (Çanakkale)",
+        "time": 1758503999000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-09-22",
+    "date_hour": "01:19:59",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Çanakkale"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-09-22 01:03:27",
@@ -17962,41 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Konya"
-  },
-  {
-    "title": "Tavşanlı (Kütahya)",
-    "type": "İlksel",
-    "date": "2025-09-18 09:51:50",
-    "lat": 39.67917,
-    "lng": 29.45667,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 6.95,
-    "coordinates": [
-      29.45667,
-      39.67917
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.45667,
-          39.67917
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Tavşanlı (Kütahya) (Kütahya)",
-        "time": 1758189110000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-18",
-    "date_hour": "09:51:50",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kütahya"
   }
 ]
