@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-24T09:52:24.030Z",
+  "lastUpdate": "2025-09-24T10:01:12.152Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "CIFTLIKKALE-EKINOZU (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.09.24 12:36:09",
+      "lat": 38.0197,
+      "lng": 37.1702,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "6.6",
+      "coordinates": [
+        37.1702,
+        38.0197
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.1702,
+            38.0197
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "CIFTLIKKALE-EKINOZU (KAHRAMANMARAS)",
+          "time": "2025.09.24 12:36:09"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.24",
+      "date_hour": "12:36:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
     },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.09.22 04:19:59",
-      "lat": 40.2867,
-      "lng": 24.125,
-      "md": "-.-",
-      "ml": "4.8",
-      "mw": "5.0",
-      "depth": "9.8",
-      "coordinates": [
-        24.125,
-        40.2867
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.125,
-            40.2867
-          ]
-        },
-        "properties": {
-          "mag": "4.8",
-          "place": "YUNANISTAN",
-          "time": "2025.09.22 04:19:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.22",
-      "date_hour": "04:19:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
