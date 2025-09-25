@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-25T23:39:13.684Z",
+  "lastUpdate": "2025-09-25T23:47:48.190Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKPINAR-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2025.09.26 02:30:12",
+      "lat": 38.934,
+      "lng": 28.3315,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "2.8",
+      "coordinates": [
+        28.3315,
+        38.934
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3315,
+            38.934
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "AKPINAR-GORDES (MANISA)",
+          "time": "2025.09.26 02:30:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.26",
+      "date_hour": "02:30:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "ILICA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SOGUTLU-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.09.22 22:55:20",
-      "lat": 39.1797,
-      "lng": 28.0543,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "11.2",
-      "coordinates": [
-        28.0543,
-        39.1797
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0543,
-            39.1797
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "SOGUTLU-AKHISAR (MANISA)",
-          "time": "2025.09.22 22:55:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.22",
-      "date_hour": "22:55:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
