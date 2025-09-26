@@ -1,5 +1,77 @@
 [
   {
+    "title": "Onikişubat (Kahramanmaraş)",
+    "type": "İlksel",
+    "date": "2025-09-23 11:39:32",
+    "lat": 37.80556,
+    "lng": 36.57306,
+    "md": "-.-",
+    "ml": "2",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      36.57306,
+      37.80556
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.57306,
+          37.80556
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Onikişubat (Kahramanmaraş) (Kahramanmaraş)",
+        "time": 1758627572000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-09-23",
+    "date_hour": "11:39:32",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kahramanmaraş"
+  },
+  {
+    "title": "Sındırgı (Balıkesir)",
+    "type": "İlksel",
+    "date": "2025-09-23 11:39:15",
+    "lat": 39.19694,
+    "lng": 28.20444,
+    "md": "-.-",
+    "ml": "1.4",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      28.20444,
+      39.19694
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.20444,
+          39.19694
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sındırgı (Balıkesir) (Balıkesir)",
+        "time": 1758627555000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-09-23",
+    "date_hour": "11:39:15",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Balıkesir"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-09-23 11:36:16",
@@ -759,23 +831,23 @@
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-09-23 09:42:20",
-    "lat": 39.18806,
-    "lng": 28.19583,
+    "lat": 39.19083,
+    "lng": 28.18,
     "md": "-.-",
     "ml": "1.2",
     "mw": "-.-",
     "depth": 7,
     "coordinates": [
-      28.19583,
-      39.18806
+      28.18,
+      39.19083
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.19583,
-          39.18806
+          28.18,
+          39.19083
         ]
       },
       "properties": {
@@ -795,23 +867,23 @@
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-09-23 09:42:20",
-    "lat": 39.19083,
-    "lng": 28.18,
+    "lat": 39.18806,
+    "lng": 28.19583,
     "md": "-.-",
     "ml": "1.2",
     "mw": "-.-",
     "depth": 7,
     "coordinates": [
-      28.18,
-      39.19083
+      28.19583,
+      39.18806
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.18,
-          39.19083
+          28.19583,
+          39.18806
         ]
       },
       "properties": {
@@ -17926,77 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kahramanmaraş"
-  },
-  {
-    "title": "İncirliova (Aydın)",
-    "type": "İlksel",
-    "date": "2025-09-21 10:43:08",
-    "lat": 37.80806,
-    "lng": 27.77278,
-    "md": "-.-",
-    "ml": "2.3",
-    "mw": "-.-",
-    "depth": 27.32,
-    "coordinates": [
-      27.77278,
-      37.80806
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.77278,
-          37.80806
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "İncirliova (Aydın) (Aydın)",
-        "time": 1758451388000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-21",
-    "date_hour": "10:43:08",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Aydın"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-09-21 10:36:10",
-    "lat": 39.16333,
-    "lng": 28.1525,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.1525,
-      39.16333
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.1525,
-          39.16333
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1758450970000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-21",
-    "date_hour": "10:36:10",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
