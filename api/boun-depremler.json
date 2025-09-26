@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-26T05:59:31.911Z",
+  "lastUpdate": "2025-09-26T06:34:43.800Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ESMEDERE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.26 09:18:32",
+      "lat": 39.3457,
+      "lng": 28.0357,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "8.1",
+      "coordinates": [
+        28.0357,
+        39.3457
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0357,
+            39.3457
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ESMEDERE-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.26 09:18:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.26",
+      "date_hour": "09:18:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "PURSUNLER-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.09.23 01:58:58",
-      "lat": 38.4178,
-      "lng": 25.3458,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "4.9",
-      "coordinates": [
-        25.3458,
-        38.4178
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.3458,
-            38.4178
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "EGE DENIZI",
-          "time": "2025.09.23 01:58:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.23",
-      "date_hour": "01:58:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
