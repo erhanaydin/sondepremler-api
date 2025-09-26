@@ -36,6 +36,42 @@
     "city": "Balıkesir"
   },
   {
+    "title": "Kozan (Adana)",
+    "type": "İlksel",
+    "date": "2025-09-23 15:04:34",
+    "lat": 37.65556,
+    "lng": 35.87,
+    "md": "-.-",
+    "ml": "1.7",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      35.87,
+      37.65556
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.87,
+          37.65556
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Kozan (Adana) (Adana)",
+        "time": 1758639874000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-09-23",
+    "date_hour": "15:04:34",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Adana"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-09-23 15:02:16",
@@ -2127,23 +2163,23 @@
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-09-23 09:42:20",
-    "lat": 39.19083,
-    "lng": 28.18,
+    "lat": 39.18806,
+    "lng": 28.19583,
     "md": "-.-",
     "ml": "1.2",
     "mw": "-.-",
     "depth": 7,
     "coordinates": [
-      28.18,
-      39.19083
+      28.19583,
+      39.18806
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.18,
-          39.19083
+          28.19583,
+          39.18806
         ]
       },
       "properties": {
@@ -2163,23 +2199,23 @@
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-09-23 09:42:20",
-    "lat": 39.18806,
-    "lng": 28.19583,
+    "lat": 39.19083,
+    "lng": 28.18,
     "md": "-.-",
     "ml": "1.2",
     "mw": "-.-",
     "depth": 7,
     "coordinates": [
-      28.19583,
-      39.18806
+      28.18,
+      39.19083
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.19583,
-          39.18806
+          28.18,
+          39.19083
         ]
       },
       "properties": {
@@ -17962,41 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Adıyaman"
-  },
-  {
-    "title": "Sivrice (Elazığ)",
-    "type": "İlksel",
-    "date": "2025-09-21 19:31:20",
-    "lat": 38.4475,
-    "lng": 39.23944,
-    "md": "-.-",
-    "ml": "1",
-    "mw": "-.-",
-    "depth": 7.5,
-    "coordinates": [
-      39.23944,
-      38.4475
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.23944,
-          38.4475
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sivrice (Elazığ) (Elazığ)",
-        "time": 1758483080000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-21",
-    "date_hour": "19:31:20",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Elazığ"
   }
 ]
