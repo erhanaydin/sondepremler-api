@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-28T14:51:44.818Z",
+  "lastUpdate": "2025-09-28T15:00:08.516Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.09.28 17:45:04",
+      "lat": 39.2362,
+      "lng": 29.0163,
+      "md": "-.-",
+      "ml": "3.5",
+      "mw": "-.-",
+      "depth": "10.5",
+      "coordinates": [
+        29.0163,
+        39.2362
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0163,
+            39.2362
+          ]
+        },
+        "properties": {
+          "mag": "3.5",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.09.28 17:45:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.28",
+      "date_hour": "17:45:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "EFIR-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.09.28 17:16:04",
+      "lat": 39.21,
+      "lng": 28.815,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "18.0",
+      "coordinates": [
+        28.815,
+        39.21
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.815,
+            39.21
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "EFIR-SIMAV (KUTAHYA)",
+          "time": "2025.09.28 17:16:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.28",
+      "date_hour": "17:16:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "KARACAOREN-SIMAV (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.24 22:14:04",
-      "lat": 39.1728,
-      "lng": 28.1378,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "11.9",
-      "coordinates": [
-        28.1378,
-        39.1728
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1378,
-            39.1728
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.24 22:14:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.24",
-      "date_hour": "22:14:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.24 22:12:12",
-      "lat": 39.1695,
-      "lng": 28.1605,
-      "md": "-.-",
-      "ml": "2.9",
-      "mw": "-.-",
-      "depth": "14.0",
-      "coordinates": [
-        28.1605,
-        39.1695
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1605,
-            39.1695
-          ]
-        },
-        "properties": {
-          "mag": "2.9",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.24 22:12:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.24",
-      "date_hour": "22:12:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
