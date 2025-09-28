@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-09-28T19:47:55.910Z",
+  "lastUpdate": "2025-09-28T19:56:31.302Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.28 22:39:18",
+      "lat": 39.1972,
+      "lng": 28.0677,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "4.7",
+      "coordinates": [
+        28.0677,
+        39.1972
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0677,
+            39.1972
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.28 22:39:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.28",
+      "date_hour": "22:39:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "YESILDERE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.09.28 22:36:16",
+      "lat": 39.255,
+      "lng": 29.0053,
+      "md": "-.-",
+      "ml": "3.4",
+      "mw": "3.1",
+      "depth": "5.5",
+      "coordinates": [
+        29.0053,
+        39.255
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0053,
+            39.255
+          ]
+        },
+        "properties": {
+          "mag": "3.4",
+          "place": "YESILDERE-SIMAV (KUTAHYA)",
+          "time": "2025.09.28 22:36:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.28",
+      "date_hour": "22:36:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "HAMZABEY-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "TEKEDERESI-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.09.25 16:52:26",
-      "lat": 38.1622,
-      "lng": 38.6048,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "15.9",
-      "coordinates": [
-        38.6048,
-        38.1622
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.6048,
-            38.1622
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "TEKEDERESI-PUTURGE (MALATYA)",
-          "time": "2025.09.25 16:52:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.25",
-      "date_hour": "16:52:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "YAYLANLI-BASKIL (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.09.25 16:50:21",
-      "lat": 38.3913,
-      "lng": 38.8835,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "17.2",
-      "coordinates": [
-        38.8835,
-        38.3913
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.8835,
-            38.3913
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YAYLANLI-BASKIL (ELAZIG)",
-          "time": "2025.09.25 16:50:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.25",
-      "date_hour": "16:50:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
