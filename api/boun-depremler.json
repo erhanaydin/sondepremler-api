@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-28T05:41:21.935Z",
+  "lastUpdate": "2025-09-28T05:49:44.837Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.09.28 08:27:36",
+      "lat": 35.7998,
+      "lng": 31.6963,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        31.6963,
+        35.7998
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.6963,
+            35.7998
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "AKDENIZ",
+          "time": "2025.09.28 08:27:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.28",
+      "date_hour": "08:27:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "GORGU-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.09.24 12:20:59",
-      "lat": 38.286,
-      "lng": 38.1047,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "11.8",
-      "coordinates": [
-        38.1047,
-        38.286
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.1047,
-            38.286
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "GORGU-YESILYURT (MALATYA)",
-          "time": "2025.09.24 12:20:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.24",
-      "date_hour": "12:20:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
