@@ -36,6 +36,78 @@
     "city": "Kahramanmaraş"
   },
   {
+    "title": "Sındırgı (Balıkesir)",
+    "type": "İlksel",
+    "date": "2025-09-26 01:15:49",
+    "lat": 39.20611,
+    "lng": 28.19611,
+    "md": "-.-",
+    "ml": "1.2",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      28.19611,
+      39.20611
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.19611,
+          39.20611
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sındırgı (Balıkesir) (Balıkesir)",
+        "time": 1758849349000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-09-26",
+    "date_hour": "01:15:49",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Balıkesir"
+  },
+  {
+    "title": "Ege Denizi - [70.41 km] Datça (Muğla)",
+    "type": "İlksel",
+    "date": "2025-09-26 01:06:14",
+    "lat": 36.06861,
+    "lng": 27.3175,
+    "md": "-.-",
+    "ml": "1.7",
+    "mw": "-.-",
+    "depth": 11.19,
+    "coordinates": [
+      27.3175,
+      36.06861
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3175,
+          36.06861
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi - [70.41 km] Datça (Muğla) (Muğla)",
+        "time": 1758848774000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-09-26",
+    "date_hour": "01:06:14",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Muğla"
+  },
+  {
     "title": "Menteşe (Muğla)",
     "type": "İlksel",
     "date": "2025-09-26 00:57:52",
@@ -17926,77 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Güney (Denizli)",
-    "type": "İlksel",
-    "date": "2025-09-23 09:51:32",
-    "lat": 38.18389,
-    "lng": 28.93833,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.93833,
-      38.18389
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.93833,
-          38.18389
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Güney (Denizli) (Denizli)",
-        "time": 1758621092000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-23",
-    "date_hour": "09:51:32",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Denizli"
-  },
-  {
-    "title": "Kırkağaç (Manisa)",
-    "type": "İlksel",
-    "date": "2025-09-23 09:47:22",
-    "lat": 39.1575,
-    "lng": 27.7375,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      27.7375,
-      39.1575
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.7375,
-          39.1575
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Kırkağaç (Manisa) (Manisa)",
-        "time": 1758620842000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-23",
-    "date_hour": "09:47:22",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Manisa"
   }
 ]
