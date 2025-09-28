@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-28T07:25:11.880Z",
+  "lastUpdate": "2025-09-28T07:34:10.996Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALTINYAPRAK-EKINOZU (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.09.28 10:18:09",
+      "lat": 38.0192,
+      "lng": 37.2082,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "6.5",
+      "coordinates": [
+        37.2082,
+        38.0192
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.2082,
+            38.0192
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "ALTINYAPRAK-EKINOZU (KAHRAMANMARAS)",
+          "time": "2025.09.28 10:18:09"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.28",
+      "date_hour": "10:18:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "SULTANGAZI (ISTANBUL)",
-      "type": "�lksel",
-      "date": "2025.09.24 14:03:53",
-      "lat": 41.1215,
-      "lng": 28.881,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        28.881,
-        41.1215
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.881,
-            41.1215
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "SULTANGAZI (ISTANBUL)",
-          "time": "2025.09.24 14:03:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.24",
-      "date_hour": "14:03:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ISTANBUL"
     }
   ]
 }
