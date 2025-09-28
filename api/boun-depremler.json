@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-09-28T21:52:42.015Z",
+  "lastUpdate": "2025-09-28T22:07:39.011Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOZLU-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.09.29 00:52:38",
+      "lat": 39.2237,
+      "lng": 28.0873,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "9.6",
+      "coordinates": [
+        28.0873,
+        39.2237
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0873,
+            39.2237
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "KOZLU-SINDIRGI (BALIKESIR)",
+          "time": "2025.09.29 00:52:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.29",
+      "date_hour": "00:52:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.09.29 00:49:53",
+      "lat": 39.2505,
+      "lng": 29.0237,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "11.1",
+      "coordinates": [
+        29.0237,
+        39.2505
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0237,
+            39.2505
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KATRANDAGI-EMET (KUTAHYA)",
+          "time": "2025.09.29 00:49:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.29",
+      "date_hour": "00:49:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "TOKAT-HISARCIK (KUTAHYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AYDIN"
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.25 20:13:17",
-      "lat": 39.1588,
-      "lng": 28.1085,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "10.0",
-      "coordinates": [
-        28.1085,
-        39.1588
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1085,
-            39.1588
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.25 20:13:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.25",
-      "date_hour": "20:13:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "CANAKCI-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.09.25 20:04:33",
-      "lat": 39.0762,
-      "lng": 27.936,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "11.2",
-      "coordinates": [
-        27.936,
-        39.0762
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.936,
-            39.0762
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "CANAKCI-AKHISAR (MANISA)",
-          "time": "2025.09.25 20:04:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.25",
-      "date_hour": "20:04:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
