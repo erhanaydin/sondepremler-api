@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-28T15:20:52.567Z",
+  "lastUpdate": "2025-09-28T15:29:48.330Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -34,6 +34,42 @@
       "location_properties": "",
       "date_day": "2025.09.28",
       "date_hour": "17:45:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.09.28 17:43:19",
+      "lat": 39.2385,
+      "lng": 28.991,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "9.6",
+      "coordinates": [
+        28.991,
+        39.2385
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.991,
+            39.2385
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.09.28 17:43:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.28",
+      "date_hour": "17:43:19",
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "YAYKIN-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.09.24 22:49:28",
-      "lat": 39.1622,
-      "lng": 27.9293,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        27.9293,
-        39.1622
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9293,
-            39.1622
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "YAYKIN-AKHISAR (MANISA)",
-          "time": "2025.09.24 22:49:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.24",
-      "date_hour": "22:49:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
