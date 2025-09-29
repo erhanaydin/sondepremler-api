@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-29T11:45:10.881Z",
+  "lastUpdate": "2025-09-29T11:53:20.621Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.09.29 14:33:33",
+      "lat": 39.207,
+      "lng": 29.0263,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "10.6",
+      "coordinates": [
+        29.0263,
+        39.207
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0263,
+            39.207
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.09.29 14:33:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.29",
+      "date_hour": "14:33:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "HAMZABEY-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "VAN"
-    },
-    {
-      "title": "CETENLI-ALTINOZU (HATAY)",
-      "type": "�lksel",
-      "date": "2025.09.27 20:16:18",
-      "lat": 36.1142,
-      "lng": 36.2812,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.6",
-      "coordinates": [
-        36.2812,
-        36.1142
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.2812,
-            36.1142
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "CETENLI-ALTINOZU (HATAY)",
-          "time": "2025.09.27 20:16:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.27",
-      "date_hour": "20:16:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
