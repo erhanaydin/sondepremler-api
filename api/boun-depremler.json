@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-09-29T23:43:29.181Z",
+  "lastUpdate": "2025-09-29T23:51:50.691Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.09.30 02:21:18",
+      "lat": 39.2278,
+      "lng": 29.052,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "3.6",
+      "coordinates": [
+        29.052,
+        39.2278
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.052,
+            39.2278
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KATRANDAGI-EMET (KUTAHYA)",
+          "time": "2025.09.30 02:21:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.30",
+      "date_hour": "02:21:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KARAAGIL-HISARCIK (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ALTINYAPRAK-EKINOZU (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.09.28 10:18:09",
-      "lat": 38.0192,
-      "lng": 37.2082,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "6.5",
-      "coordinates": [
-        37.2082,
-        38.0192
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.2082,
-            38.0192
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ALTINYAPRAK-EKINOZU (KAHRAMANMARAS)",
-          "time": "2025.09.28 10:18:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.28",
-      "date_hour": "10:18:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
