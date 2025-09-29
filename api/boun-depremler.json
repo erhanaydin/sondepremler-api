@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-29T04:50:20.118Z",
+  "lastUpdate": "2025-09-29T04:58:29.566Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -145,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "YESILDERE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.09.29 07:21:39",
+      "lat": 39.2537,
+      "lng": 29.0078,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "6.0",
+      "coordinates": [
+        29.0078,
+        39.2537
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0078,
+            39.2537
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "YESILDERE-SIMAV (KUTAHYA)",
+          "time": "2025.09.29 07:21:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.09.29",
+      "date_hour": "07:21:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "KARAKOCA-SIMAV (KUTAHYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ONIKI ADALAR (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.09.26 20:30:43",
-      "lat": 36.3797,
-      "lng": 27.1463,
-      "md": "-.-",
-      "ml": "3.2",
-      "mw": "3.2",
-      "depth": "7.9",
-      "coordinates": [
-        27.1463,
-        36.3797
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1463,
-            36.3797
-          ]
-        },
-        "properties": {
-          "mag": "3.2",
-          "place": "ONIKI ADALAR (EGE DENIZI)",
-          "time": "2025.09.26 20:30:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.26",
-      "date_hour": "20:30:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
