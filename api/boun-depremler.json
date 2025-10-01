@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-01T20:54:50.102Z",
+  "lastUpdate": "2025-10-01T21:11:21.353Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.10.01 23:52:54",
+      "lat": 38.3912,
+      "lng": 37.4813,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "3.0",
+      "coordinates": [
+        37.4813,
+        38.3912
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.4813,
+            38.3912
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+          "time": "2025.10.01 23:52:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.01",
+      "date_hour": "23:52:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.09.29 09:39:50",
-      "lat": 39.2683,
-      "lng": 28.9378,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "1.5",
-      "coordinates": [
-        28.9378,
-        39.2683
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9378,
-            39.2683
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "KARAKOCA-SIMAV (KUTAHYA)",
-          "time": "2025.09.29 09:39:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.29",
-      "date_hour": "09:39:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
