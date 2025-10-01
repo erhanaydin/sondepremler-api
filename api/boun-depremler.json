@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-01T13:49:16.368Z",
+  "lastUpdate": "2025-10-01T13:57:23.189Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YENILER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.01 16:37:56",
+      "lat": 39.2548,
+      "lng": 28.9515,
+      "md": "-.-",
+      "ml": "3.6",
+      "mw": "3.5",
+      "depth": "8.1",
+      "coordinates": [
+        28.9515,
+        39.2548
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9515,
+            39.2548
+          ]
+        },
+        "properties": {
+          "mag": "3.6",
+          "place": "YENILER-SIMAV (KUTAHYA)",
+          "time": "2025.10.01 16:37:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.01",
+      "date_hour": "16:37:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KOBAKLAR-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2025.09.29 07:16:33",
-      "lat": 39.0905,
-      "lng": 28.3915,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.1",
-      "coordinates": [
-        28.3915,
-        39.0905
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3915,
-            39.0905
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KOBAKLAR-GORDES (MANISA)",
-          "time": "2025.09.29 07:16:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.29",
-      "date_hour": "07:16:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
