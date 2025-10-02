@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-02T21:51:13.389Z",
+  "lastUpdate": "2025-10-02T21:59:23.938Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAKOCA-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.03 00:46:56",
+      "lat": 39.2707,
+      "lng": 28.936,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "11.0",
+      "coordinates": [
+        28.936,
+        39.2707
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.936,
+            39.2707
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KARAKOCA-SIMAV (KUTAHYA)",
+          "time": "2025.10.03 00:46:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.03",
+      "date_hour": "00:46:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KAVAKTEPE-(ELAZIG)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "PAZAR ACIKLARI-RIZE (KARADENIZ)",
-      "type": "�lksel",
-      "date": "2025.09.30 04:31:25",
-      "lat": 41.4152,
-      "lng": 40.9925,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "8.6",
-      "coordinates": [
-        40.9925,
-        41.4152
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.9925,
-            41.4152
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "PAZAR ACIKLARI-RIZE (KARADENIZ)",
-          "time": "2025.09.30 04:31:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.30",
-      "date_hour": "04:31:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KARADENIZ"
     }
   ]
 }
