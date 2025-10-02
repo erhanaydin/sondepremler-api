@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-02T09:09:32.903Z",
+  "lastUpdate": "2025-10-02T09:28:39.204Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.02 11:19:24",
+      "lat": 39.1897,
+      "lng": 28.1585,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "15.5",
+      "coordinates": [
+        28.1585,
+        39.1897
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1585,
+            39.1897
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.02 11:19:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.02",
+      "date_hour": "11:19:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "ESMETAS-SOLHAN (BINGOL)",
-      "type": "�lksel",
-      "date": "2025.09.29 19:28:00",
-      "lat": 38.8747,
-      "lng": 41.0797,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        41.0797,
-        38.8747
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            41.0797,
-            38.8747
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "ESMETAS-SOLHAN (BINGOL)",
-          "time": "2025.09.29 19:28:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.29",
-      "date_hour": "19:28:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
