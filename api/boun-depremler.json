@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-02T17:45:09.587Z",
+  "lastUpdate": "2025-10-02T17:53:36.492Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.02 20:41:33",
+      "lat": 39.1998,
+      "lng": 28.057,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "11.9",
+      "coordinates": [
+        28.057,
+        39.1998
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.057,
+            39.1998
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "SAHINKAYA-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.02 20:41:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.02",
+      "date_hour": "20:41:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "MARMARA EREGLISI ACIKLARI-TEKIRDAG (MARMARA",
       "type": "DENIZI�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.09.30 02:19:49",
-      "lat": 39.2312,
-      "lng": 29.0257,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "6.7",
-      "coordinates": [
-        29.0257,
-        39.2312
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0257,
-            39.2312
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.09.30 02:19:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.30",
-      "date_hour": "02:19:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
