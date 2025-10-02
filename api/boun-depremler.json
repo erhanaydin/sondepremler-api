@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-02T09:57:07.262Z",
+  "lastUpdate": "2025-10-02T10:18:19.736Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
+    },
+    {
+      "title": "KUSDOGAN-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.10.02 12:11:59",
+      "lat": 38.3407,
+      "lng": 38.1303,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "14.2",
+      "coordinates": [
+        38.1303,
+        38.3407
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.1303,
+            38.3407
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KUSDOGAN-YESILYURT (MALATYA)",
+          "time": "2025.10.02 12:11:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.02",
+      "date_hour": "12:11:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "ILICA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.29 20:45:50",
-      "lat": 39.1842,
-      "lng": 28.2343,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "9.4",
-      "coordinates": [
-        28.2343,
-        39.1842
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2343,
-            39.1842
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "ILICA-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.29 20:45:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.29",
-      "date_hour": "20:45:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
