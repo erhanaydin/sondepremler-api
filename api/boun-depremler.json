@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-02T19:42:03.315Z",
+  "lastUpdate": "2025-10-02T19:50:42.797Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.02 22:38:34",
+      "lat": 39.2188,
+      "lng": 29.0158,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "10.2",
+      "coordinates": [
+        29.0158,
+        39.2188
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0158,
+            39.2188
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.10.02 22:38:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.02",
+      "date_hour": "22:38:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "GOKGOZ-KOZAN (ADANA)",
-      "type": "�lksel",
-      "date": "2025.09.30 03:30:01",
-      "lat": 37.577,
-      "lng": 35.578,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "4.2",
-      "coordinates": [
-        35.578,
-        37.577
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.578,
-            37.577
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "GOKGOZ-KOZAN (ADANA)",
-          "time": "2025.09.30 03:30:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.30",
-      "date_hour": "03:30:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
