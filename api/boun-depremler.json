@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-02T21:42:36.781Z",
+  "lastUpdate": "2025-10-02T21:51:13.389Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAVAKTEPE-(ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.10.03 00:38:19",
+      "lat": 38.5213,
+      "lng": 39.2157,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "7.5",
+      "coordinates": [
+        39.2157,
+        38.5213
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.2157,
+            38.5213
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "KAVAKTEPE-(ELAZIG)",
+          "time": "2025.10.03 00:38:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.03",
+      "date_hour": "00:38:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "YENILER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KARADENIZ"
-    },
-    {
-      "title": "KOYUNOBA-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.09.30 04:20:59",
-      "lat": 39.2282,
-      "lng": 28.8925,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        28.8925,
-        39.2282
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.8925,
-            39.2282
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "KOYUNOBA-SIMAV (KUTAHYA)",
-          "time": "2025.09.30 04:20:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.30",
-      "date_hour": "04:20:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
