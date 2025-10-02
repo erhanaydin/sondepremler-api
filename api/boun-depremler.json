@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-02T09:48:58.293Z",
+  "lastUpdate": "2025-10-02T09:57:07.262Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISIKLI-SILIFKE (MERSIN)",
+      "type": "�lksel",
+      "date": "2025.10.02 12:39:50",
+      "lat": 36.2758,
+      "lng": 33.706,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        33.706,
+        36.2758
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.706,
+            36.2758
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "ISIKLI-SILIFKE (MERSIN)",
+          "time": "2025.10.02 12:39:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.02",
+      "date_hour": "12:39:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MERSIN"
+    },
     {
       "title": "KIYIGOREN-ALTINOZU (HATAY)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KARADENIZ",
-      "type": "�lksel",
-      "date": "2025.09.29 20:27:01",
-      "lat": 41.967,
-      "lng": 29.9468,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "12.1",
-      "coordinates": [
-        29.9468,
-        41.967
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.9468,
-            41.967
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "KARADENIZ",
-          "time": "2025.09.29 20:27:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.29",
-      "date_hour": "20:27:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
