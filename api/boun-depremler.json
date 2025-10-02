@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-02T11:58:57.276Z",
+  "lastUpdate": "2025-10-02T12:07:14.960Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.10.02 14:55:03",
+      "lat": 40.803,
+      "lng": 27.9462,
+      "md": "-.-",
+      "ml": "5.3",
+      "mw": "-.-",
+      "depth": "12.5",
+      "coordinates": [
+        27.9462,
+        40.803
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9462,
+            40.803
+          ]
+        },
+        "properties": {
+          "mag": "5.3",
+          "place": "MARMARA DENIZI",
+          "time": "2025.10.02 14:55:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.02",
+      "date_hour": "14:55:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "SAPCI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.29 21:51:23",
-      "lat": 39.1747,
-      "lng": 28.417,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "23.1",
-      "coordinates": [
-        28.417,
-        39.1747
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.417,
-            39.1747
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "SAPCI-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.29 21:51:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.29",
-      "date_hour": "21:51:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
