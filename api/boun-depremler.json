@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-02T14:32:25.751Z",
+  "lastUpdate": "2025-10-02T14:45:04.462Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.10.02 17:27:14",
+      "lat": 40.8052,
+      "lng": 27.948,
+      "md": "-.-",
+      "ml": "4.1",
+      "mw": "3.9",
+      "depth": "8.5",
+      "coordinates": [
+        27.948,
+        40.8052
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.948,
+            40.8052
+          ]
+        },
+        "properties": {
+          "mag": "4.1",
+          "place": "MARMARA DENIZI",
+          "time": "2025.10.02 17:27:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.02",
+      "date_hour": "17:27:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.30 01:12:53",
-      "lat": 39.202,
-      "lng": 28.1917,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "7.7",
-      "coordinates": [
-        28.1917,
-        39.202
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1917,
-            39.202
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.30 01:12:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.30",
-      "date_hour": "01:12:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
