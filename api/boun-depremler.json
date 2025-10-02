@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-02T13:45:31.513Z",
+  "lastUpdate": "2025-10-02T13:53:44.320Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.10.02 16:32:20",
+      "lat": 40.7465,
+      "lng": 28.0265,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        28.0265,
+        40.7465
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0265,
+            40.7465
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "MARMARA DENIZI",
+          "time": "2025.10.02 16:32:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.02",
+      "date_hour": "16:32:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "SOGUTLU-PUTURGE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.30 00:39:45",
-      "lat": 39.0928,
-      "lng": 28.276,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "13.3",
-      "coordinates": [
-        28.276,
-        39.0928
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.276,
-            39.0928
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.30 00:39:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.30",
-      "date_hour": "00:39:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
