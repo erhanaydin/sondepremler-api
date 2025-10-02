@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-02T19:33:54.455Z",
+  "lastUpdate": "2025-10-02T19:42:03.315Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.02 22:32:55",
+      "lat": 39.2293,
+      "lng": 29.0047,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "14.0",
+      "coordinates": [
+        29.0047,
+        39.2293
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0047,
+            39.2293
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.02 22:32:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.02",
+      "date_hour": "22:32:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KARAKOCA-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
-    },
-    {
-      "title": "ILICA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.30 03:16:33",
-      "lat": 39.183,
-      "lng": 28.2227,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "7.5",
-      "coordinates": [
-        28.2227,
-        39.183
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2227,
-            39.183
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "ILICA-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.30 03:16:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.30",
-      "date_hour": "03:16:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
