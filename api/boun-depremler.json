@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-03T20:42:23.825Z",
+  "lastUpdate": "2025-10-03T20:50:45.956Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEMIRCI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.03 23:37:52",
+      "lat": 39.0902,
+      "lng": 28.904,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "19.8",
+      "coordinates": [
+        28.904,
+        39.0902
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.904,
+            39.0902
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "DEMIRCI-SIMAV (KUTAHYA)",
+          "time": "2025.10.03 23:37:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.03",
+      "date_hour": "23:37:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.01 01:39:57",
-      "lat": 39.2455,
-      "lng": 29.0178,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "15.1",
-      "coordinates": [
-        29.0178,
-        39.2455
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0178,
-            39.2455
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.10.01 01:39:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.01",
-      "date_hour": "01:39:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
