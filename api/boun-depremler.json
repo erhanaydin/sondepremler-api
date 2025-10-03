@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-03T18:46:55.725Z",
+  "lastUpdate": "2025-10-03T18:54:53.574Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "SOFULAR-CAMELI (DENIZLI)",
+      "type": "�lksel",
+      "date": "2025.10.03 21:33:06",
+      "lat": 37.0088,
+      "lng": 29.3493,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        29.3493,
+        37.0088
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.3493,
+            37.0088
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "SOFULAR-CAMELI (DENIZLI)",
+          "time": "2025.10.03 21:33:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.03",
+      "date_hour": "21:33:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
     },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "KIZILGUR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.30 23:21:38",
-      "lat": 39.2422,
-      "lng": 27.9997,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "7.9",
-      "coordinates": [
-        27.9997,
-        39.2422
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9997,
-            39.2422
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "KIZILGUR-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.30 23:21:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.30",
-      "date_hour": "23:21:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
