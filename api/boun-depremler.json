@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-03T15:11:53.409Z",
+  "lastUpdate": "2025-10-03T15:29:45.431Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KURUCAOVA-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.10.03 18:16:44",
+      "lat": 37.9848,
+      "lng": 38.0873,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.0873,
+        37.9848
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.0873,
+            37.9848
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "KURUCAOVA-DOGANSEHIR (MALATYA)",
+          "time": "2025.10.03 18:16:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.03",
+      "date_hour": "18:16:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "SULTANGAZI (ISTANBUL)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ISTANBUL"
+    },
+    {
+      "title": "KARAKOCA-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.03 17:49:47",
+      "lat": 39.2805,
+      "lng": 28.9513,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "15.0",
+      "coordinates": [
+        28.9513,
+        39.2805
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9513,
+            39.2805
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KARAKOCA-SIMAV (KUTAHYA)",
+          "time": "2025.10.03 17:49:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.03",
+      "date_hour": "17:49:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "RESADIYE-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.09.30 19:02:11",
-      "lat": 37.9712,
-      "lng": 38.0015,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "8.4",
-      "coordinates": [
-        38.0015,
-        37.9712
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.0015,
-            37.9712
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "RESADIYE-DOGANSEHIR (MALATYA)",
-          "time": "2025.09.30 19:02:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.30",
-      "date_hour": "19:02:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.09.30 18:52:09",
-      "lat": 39.261,
-      "lng": 28.9482,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        28.9482,
-        39.261
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9482,
-            39.261
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KARAKOCA-SIMAV (KUTAHYA)",
-          "time": "2025.09.30 18:52:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.30",
-      "date_hour": "18:52:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
