@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-03T21:37:57.721Z",
+  "lastUpdate": "2025-10-03T21:46:33.705Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.04 00:38:18",
+      "lat": 39.22,
+      "lng": 29.0178,
+      "md": "-.-",
+      "ml": "0.9",
+      "mw": "-.-",
+      "depth": "11.9",
+      "coordinates": [
+        29.0178,
+        39.22
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0178,
+            39.22
+          ]
+        },
+        "properties": {
+          "mag": "0.9",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.10.04 00:38:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.04",
+      "date_hour": "00:38:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "KINIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.01 02:22:49",
-      "lat": 39.1088,
-      "lng": 28.1872,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "13.9",
-      "coordinates": [
-        28.1872,
-        39.1088
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1872,
-            39.1088
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KINIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.01 02:22:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.01",
-      "date_hour": "02:22:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
