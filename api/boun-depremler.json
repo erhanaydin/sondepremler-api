@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-03T13:58:22.050Z",
+  "lastUpdate": "2025-10-03T14:19:14.682Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.03 16:58:45",
+      "lat": 39.115,
+      "lng": 28.1207,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "17.1",
+      "coordinates": [
+        28.1207,
+        39.115
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1207,
+            39.115
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.03 16:58:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.03",
+      "date_hour": "16:58:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KURUCAOVA-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.09.30 18:01:55",
-      "lat": 37.9737,
-      "lng": 38.1038,
-      "md": "-.-",
-      "ml": "3.1",
-      "mw": "3.2",
-      "depth": "5.0",
-      "coordinates": [
-        38.1038,
-        37.9737
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.1038,
-            37.9737
-          ]
-        },
-        "properties": {
-          "mag": "3.1",
-          "place": "KURUCAOVA-DOGANSEHIR (MALATYA)",
-          "time": "2025.09.30 18:01:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.30",
-      "date_hour": "18:01:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
