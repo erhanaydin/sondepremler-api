@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-03T11:37:24.659Z",
+  "lastUpdate": "2025-10-03T11:45:53.393Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SOGUT-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.03 14:35:44",
+      "lat": 39.1455,
+      "lng": 29.1162,
+      "md": "-.-",
+      "ml": "0.8",
+      "mw": "-.-",
+      "depth": "11.9",
+      "coordinates": [
+        29.1162,
+        39.1455
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1162,
+            39.1455
+          ]
+        },
+        "properties": {
+          "mag": "0.8",
+          "place": "SOGUT-SIMAV (KUTAHYA)",
+          "time": "2025.10.03 14:35:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.03",
+      "date_hour": "14:35:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "SOGUTLU-PUTURGE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.09.30 16:30:48",
-      "lat": 39.5228,
-      "lng": 25.9323,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "13.3",
-      "coordinates": [
-        25.9323,
-        39.5228
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.9323,
-            39.5228
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
-          "time": "2025.09.30 16:30:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.30",
-      "date_hour": "16:30:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
