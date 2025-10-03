@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-03T17:20:59.254Z",
+  "lastUpdate": "2025-10-03T17:32:04.730Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.03 20:10:44",
+      "lat": 39.2337,
+      "lng": 28.9663,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "11.2",
+      "coordinates": [
+        28.9663,
+        39.2337
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9663,
+            39.2337
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.03 20:10:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.03",
+      "date_hour": "20:10:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.09.30 22:24:51",
-      "lat": 38.941,
-      "lng": 26.5207,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        26.5207,
-        38.941
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.5207,
-            38.941
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-          "time": "2025.09.30 22:24:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.30",
-      "date_hour": "22:24:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
