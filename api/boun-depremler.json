@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-03T10:10:45.224Z",
+  "lastUpdate": "2025-10-03T10:32:12.227Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI REVIZE01 (2025.10.03",
+      "type": "13:02:04)",
+      "date": "2025.10.03 13:02:04",
+      "lat": 40.8165,
+      "lng": 28.3123,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "17.5",
+      "coordinates": [
+        28.3123,
+        40.8165
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3123,
+            40.8165
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "MARMARA DENIZI REVIZE01 (2025.10.03",
+          "time": "2025.10.03 13:02:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.03",
+      "date_hour": "13:02:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YOLCUPINAR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.09.30 14:18:26",
-      "lat": 39.218,
-      "lng": 29.0128,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "13.2",
-      "coordinates": [
-        29.0128,
-        39.218
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0128,
-            39.218
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.09.30 14:18:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.30",
-      "date_hour": "14:18:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
