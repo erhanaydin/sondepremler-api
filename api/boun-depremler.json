@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-03T21:46:33.705Z",
+  "lastUpdate": "2025-10-03T21:54:32.942Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.10.04 00:44:43",
+      "lat": 40.8003,
+      "lng": 27.9412,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "9.4",
+      "coordinates": [
+        27.9412,
+        40.8003
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9412,
+            40.8003
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "MARMARA DENIZI",
+          "time": "2025.10.04 00:44:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.04",
+      "date_hour": "00:44:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "HAMIDIYE-KARACABEY (BURSA)",
-      "type": "�lksel",
-      "date": "2025.10.01 02:32:14",
-      "lat": 40.1177,
-      "lng": 28.1912,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "15.5",
-      "coordinates": [
-        28.1912,
-        40.1177
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1912,
-            40.1177
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "HAMIDIYE-KARACABEY (BURSA)",
-          "time": "2025.10.01 02:32:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.01",
-      "date_hour": "02:32:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
     }
   ]
 }
