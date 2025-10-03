@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-03T19:30:17.484Z",
+  "lastUpdate": "2025-10-03T19:39:15.144Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -1117,6 +1117,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.10.03 18:15:40",
+      "lat": 38.7158,
+      "lng": 25.5128,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "8.5",
+      "coordinates": [
+        25.5128,
+        38.7158
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.5128,
+            38.7158
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "EGE DENIZI",
+          "time": "2025.10.03 18:15:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.03",
+      "date_hour": "18:15:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SOGUTLU-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.09.30 23:59:18",
-      "lat": 39.1802,
-      "lng": 28.0472,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "22.9",
-      "coordinates": [
-        28.0472,
-        39.1802
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0472,
-            39.1802
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "SOGUTLU-AKHISAR (MANISA)",
-          "time": "2025.09.30 23:59:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.30",
-      "date_hour": "23:59:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
