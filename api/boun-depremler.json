@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-03T11:19:10.153Z",
+  "lastUpdate": "2025-10-03T11:27:52.725Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SOGUTLU-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.10.03 14:16:04",
+      "lat": 38.2337,
+      "lng": 38.6073,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "7.4",
+      "coordinates": [
+        38.6073,
+        38.2337
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.6073,
+            38.2337
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "SOGUTLU-PUTURGE (MALATYA)",
+          "time": "2025.10.03 14:16:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.03",
+      "date_hour": "14:16:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.30 16:24:17",
-      "lat": 39.1657,
-      "lng": 28.111,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        28.111,
-        39.1657
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.111,
-            39.1657
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.30 16:24:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.30",
-      "date_hour": "16:24:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
