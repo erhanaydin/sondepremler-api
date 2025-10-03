@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-03T10:32:12.227Z",
+  "lastUpdate": "2025-10-03T10:43:20.935Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BUYUKECELI-GULNAR (MERSIN)",
+      "type": "�lksel",
+      "date": "2025.10.03 13:34:27",
+      "lat": 36.1157,
+      "lng": 33.5745,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        33.5745,
+        36.1157
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.5745,
+            36.1157
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "BUYUKECELI-GULNAR (MERSIN)",
+          "time": "2025.10.03 13:34:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.03",
+      "date_hour": "13:34:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MERSIN"
+    },
     {
       "title": "MARMARA DENIZI REVIZE01 (2025.10.03",
       "type": "13:02:04)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.09.30 14:42:30",
-      "lat": 39.1848,
-      "lng": 28.2893,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "10.1",
-      "coordinates": [
-        28.2893,
-        39.1848
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2893,
-            39.1848
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
-          "time": "2025.09.30 14:42:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.09.30",
-      "date_hour": "14:42:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
