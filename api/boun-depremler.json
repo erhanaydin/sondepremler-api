@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-03T19:55:50.320Z",
+  "lastUpdate": "2025-10-03T20:16:02.714Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.10.03 22:52:00",
+      "lat": 40.7872,
+      "lng": 27.9607,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "10.5",
+      "coordinates": [
+        27.9607,
+        40.7872
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9607,
+            40.7872
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "MARMARA DENIZI",
+          "time": "2025.10.03 22:52:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.03",
+      "date_hour": "22:52:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KUMARLI-(KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CANKAYA (ANKARA)",
-      "type": "�lksel",
-      "date": "2025.10.01 00:44:40",
-      "lat": 39.8697,
-      "lng": 32.7595,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "7.2",
-      "coordinates": [
-        32.7595,
-        39.8697
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.7595,
-            39.8697
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "CANKAYA (ANKARA)",
-          "time": "2025.10.01 00:44:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.01",
-      "date_hour": "00:44:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
