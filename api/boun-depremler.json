@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-04T02:41:29.689Z",
+  "lastUpdate": "2025-10-04T03:13:37.322Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ILICA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.04 05:32:18",
+      "lat": 39.1987,
+      "lng": 28.2262,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "12.8",
+      "coordinates": [
+        28.2262,
+        39.1987
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2262,
+            39.1987
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "ILICA-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.04 05:32:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.04",
+      "date_hour": "05:32:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SELDIREN-SAMANDAG (HATAY)",
-      "type": "�lksel",
-      "date": "2025.10.01 07:44:24",
-      "lat": 36.2318,
-      "lng": 36,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "16.5",
-      "coordinates": [
-        36,
-        36.2318
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36,
-            36.2318
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "SELDIREN-SAMANDAG (HATAY)",
-          "time": "2025.10.01 07:44:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.01",
-      "date_hour": "07:44:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
