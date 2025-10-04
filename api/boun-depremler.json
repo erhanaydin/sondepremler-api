@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-04T16:44:18.596Z",
+  "lastUpdate": "2025-10-04T16:52:49.642Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "NASA-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.04 19:40:02",
+      "lat": 39.1727,
+      "lng": 28.9822,
+      "md": "-.-",
+      "ml": "0.8",
+      "mw": "-.-",
+      "depth": "16.3",
+      "coordinates": [
+        28.9822,
+        39.1727
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9822,
+            39.1727
+          ]
+        },
+        "properties": {
+          "mag": "0.8",
+          "place": "NASA-SIMAV (KUTAHYA)",
+          "time": "2025.10.04 19:40:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.04",
+      "date_hour": "19:40:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YAKAKOY-DATCA (MUGLA)",
       "type": "�lksel",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "IMRALLI-CIVRIL (DENIZLI)",
+      "type": "�lksel",
+      "date": "2025.10.04 19:17:00",
+      "lat": 38.176,
+      "lng": 29.5893,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "8.1",
+      "coordinates": [
+        29.5893,
+        38.176
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.5893,
+            38.176
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "IMRALLI-CIVRIL (DENIZLI)",
+          "time": "2025.10.04 19:17:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.04",
+      "date_hour": "19:17:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
     },
     {
       "title": "EGE DENIZI",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.01 13:51:39",
-      "lat": 39.234,
-      "lng": 29.0442,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        29.0442,
-        39.234
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0442,
-            39.234
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.10.01 13:51:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.01",
-      "date_hour": "13:51:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.01 13:45:02",
-      "lat": 39.2297,
-      "lng": 29.0648,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "11.1",
-      "coordinates": [
-        29.0648,
-        39.2297
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0648,
-            39.2297
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.10.01 13:45:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.01",
-      "date_hour": "13:45:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
