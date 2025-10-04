@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-04T13:51:05.833Z",
+  "lastUpdate": "2025-10-04T13:59:01.145Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ORTACA-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.04 16:49:56",
+      "lat": 39.3025,
+      "lng": 28.9365,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "7.7",
+      "coordinates": [
+        28.9365,
+        39.3025
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9365,
+            39.3025
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "ORTACA-SIMAV (KUTAHYA)",
+          "time": "2025.10.04 16:49:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.04",
+      "date_hour": "16:49:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KIBRIS-ISKELE",
-      "type": "�lksel",
-      "date": "2025.10.01 12:13:57",
-      "lat": 35.339,
-      "lng": 33.699,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "17.0",
-      "coordinates": [
-        33.699,
-        35.339
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.699,
-            35.339
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "KIBRIS-ISKELE",
-          "time": "2025.10.01 12:13:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.01",
-      "date_hour": "12:13:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
