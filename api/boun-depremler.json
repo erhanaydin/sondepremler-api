@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-04T08:55:57.783Z",
+  "lastUpdate": "2025-10-04T09:14:16.530Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAKOCA-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.04 11:43:41",
+      "lat": 39.257,
+      "lng": 28.9383,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "7.6",
+      "coordinates": [
+        28.9383,
+        39.257
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9383,
+            39.257
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "KARAKOCA-SIMAV (KUTAHYA)",
+          "time": "2025.10.04 11:43:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.04",
+      "date_hour": "11:43:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "GOKOVA KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.10.01 10:17:31",
-      "lat": 36.9398,
-      "lng": 27.7915,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "4.1",
-      "coordinates": [
-        27.7915,
-        36.9398
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7915,
-            36.9398
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "GOKOVA KORFEZI (EGE DENIZI)",
-          "time": "2025.10.01 10:17:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.01",
-      "date_hour": "10:17:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
