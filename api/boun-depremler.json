@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-04T13:34:41.248Z",
+  "lastUpdate": "2025-10-04T13:42:49.099Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.04 16:27:41",
+      "lat": 39.1965,
+      "lng": 28.1133,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "10.9",
+      "coordinates": [
+        28.1133,
+        39.1965
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1133,
+            39.1965
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.04 16:27:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.04",
+      "date_hour": "16:27:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "AKSAZ-BIGA (CANAKKALE)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.01 12:00:59",
-      "lat": 39.2723,
-      "lng": 28.913,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        28.913,
-        39.2723
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.913,
-            39.2723
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "KARAKOCA-SIMAV (KUTAHYA)",
-          "time": "2025.10.01 12:00:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.01",
-      "date_hour": "12:00:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
