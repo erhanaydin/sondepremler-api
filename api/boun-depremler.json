@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-04T20:15:20.264Z",
+  "lastUpdate": "2025-10-04T20:29:53.596Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "NADIRKOY-AFSIN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.10.04 23:13:41",
+      "lat": 38.165,
+      "lng": 36.9435,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "11.7",
+      "coordinates": [
+        36.9435,
+        38.165
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.9435,
+            38.165
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "NADIRKOY-AFSIN (KAHRAMANMARAS)",
+          "time": "2025.10.04 23:13:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.04",
+      "date_hour": "23:13:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "KARAGOL-CELIKHAN (ADIYAMAN)",
       "type": "�lksel",
@@ -1117,6 +1153,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.10.04 20:39:05",
+      "lat": 34.9188,
+      "lng": 23.4767,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "26.5",
+      "coordinates": [
+        23.4767,
+        34.9188
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.4767,
+            34.9188
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2025.10.04 20:39:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.04",
+      "date_hour": "20:39:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
     },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KERTIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.01 20:26:58",
-      "lat": 39.2153,
-      "lng": 28.0935,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "9.2",
-      "coordinates": [
-        28.0935,
-        39.2153
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0935,
-            39.2153
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KERTIL-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.01 20:26:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.01",
-      "date_hour": "20:26:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.01 20:18:51",
-      "lat": 39.2048,
-      "lng": 28.1722,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "7.4",
-      "coordinates": [
-        28.1722,
-        39.2048
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1722,
-            39.2048
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.01 20:18:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.01",
-      "date_hour": "20:18:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
