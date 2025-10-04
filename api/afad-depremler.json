@@ -1,5 +1,113 @@
 [
   {
+    "title": "Sındırgı (Balıkesir)",
+    "type": "İlksel",
+    "date": "2025-10-01 11:00:46",
+    "lat": 39.23021,
+    "lng": 28.13585,
+    "md": "-.-",
+    "ml": "1.2",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      28.13585,
+      39.23021
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.13585,
+          39.23021
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sındırgı (Balıkesir) (Balıkesir)",
+        "time": 1759316446000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-01",
+    "date_hour": "11:00:46",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Balıkesir"
+  },
+  {
+    "title": "Simav (Kütahya)",
+    "type": "İlksel",
+    "date": "2025-10-01 10:51:38",
+    "lat": 39.24086,
+    "lng": 28.93983,
+    "md": "-.-",
+    "ml": "1",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      28.93983,
+      39.24086
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.93983,
+          39.24086
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Simav (Kütahya) (Kütahya)",
+        "time": 1759315898000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-01",
+    "date_hour": "10:51:38",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
+  },
+  {
+    "title": "Elbistan (Kahramanmaraş)",
+    "type": "İlksel",
+    "date": "2025-10-01 10:47:25",
+    "lat": 38.37062,
+    "lng": 37.43389,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 7.06,
+    "coordinates": [
+      37.43389,
+      38.37062
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.43389,
+          38.37062
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Elbistan (Kahramanmaraş) (Kahramanmaraş)",
+        "time": 1759315645000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-01",
+    "date_hour": "10:47:25",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kahramanmaraş"
+  },
+  {
     "title": "Elbistan (Kahramanmaraş)",
     "type": "İlksel",
     "date": "2025-10-01 10:46:37",
@@ -14220,42 +14328,6 @@
     "city": "Balıkesir"
   },
   {
-    "title": "Simav (Kütahya)",
-    "type": "İlksel",
-    "date": "2025-09-29 18:46:07",
-    "lat": 39.23355,
-    "lng": 28.98038,
-    "md": "-.-",
-    "ml": "1.9",
-    "mw": "-.-",
-    "depth": 7.16,
-    "coordinates": [
-      28.98038,
-      39.23355
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.98038,
-          39.23355
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Simav (Kütahya) (Kütahya)",
-        "time": 1759171567000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-29",
-    "date_hour": "18:46:07",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kütahya"
-  },
-  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-09-29 18:46:07",
@@ -14290,6 +14362,42 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
+  },
+  {
+    "title": "Simav (Kütahya)",
+    "type": "İlksel",
+    "date": "2025-09-29 18:46:07",
+    "lat": 39.23355,
+    "lng": 28.98038,
+    "md": "-.-",
+    "ml": "1.9",
+    "mw": "-.-",
+    "depth": 7.16,
+    "coordinates": [
+      28.98038,
+      39.23355
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.98038,
+          39.23355
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Simav (Kütahya) (Kütahya)",
+        "time": 1759171567000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-09-29",
+    "date_hour": "18:46:07",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
   },
   {
     "title": "Simav (Kütahya)",
@@ -17887,114 +17995,6 @@
     "location_properties": "",
     "date_day": "2025-09-29",
     "date_hour": "07:02:57",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kütahya"
-  },
-  {
-    "title": "Akdeniz - [231.08 km] Datça (Muğla)",
-    "type": "İlksel",
-    "date": "2025-09-29 06:50:57",
-    "lat": 34.74901,
-    "lng": 26.51388,
-    "md": "-.-",
-    "ml": "2.4",
-    "mw": "-.-",
-    "depth": 7.58,
-    "coordinates": [
-      26.51388,
-      34.74901
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.51388,
-          34.74901
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akdeniz - [231.08 km] Datça (Muğla) (Muğla)",
-        "time": 1759128657000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-29",
-    "date_hour": "06:50:57",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
-  },
-  {
-    "title": "Simav (Kütahya)",
-    "type": "İlksel",
-    "date": "2025-09-29 06:47:51",
-    "lat": 39.21501,
-    "lng": 29.01328,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7.06,
-    "coordinates": [
-      29.01328,
-      39.21501
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.01328,
-          39.21501
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Simav (Kütahya) (Kütahya)",
-        "time": 1759128471000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-29",
-    "date_hour": "06:47:51",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kütahya"
-  },
-  {
-    "title": "Simav (Kütahya)",
-    "type": "İlksel",
-    "date": "2025-09-29 06:45:31",
-    "lat": 39.24852,
-    "lng": 28.96861,
-    "md": "-.-",
-    "ml": "1.9",
-    "mw": "-.-",
-    "depth": 15.74,
-    "coordinates": [
-      28.96861,
-      39.24852
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.96861,
-          39.24852
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Simav (Kütahya) (Kütahya)",
-        "time": 1759128331000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-09-29",
-    "date_hour": "06:45:31",
     "timestamp": false,
     "location_tz": "",
     "city": "Kütahya"
