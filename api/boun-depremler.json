@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-04T09:36:43.628Z",
+  "lastUpdate": "2025-10-04T09:44:40.864Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -109,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "KUP-ALADAG (ADANA)",
+      "type": "�lksel",
+      "date": "2025.10.04 11:23:52",
+      "lat": 37.6623,
+      "lng": 35.448,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        35.448,
+        37.6623
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.448,
+            37.6623
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KUP-ALADAG (ADANA)",
+          "time": "2025.10.04 11:23:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.04",
+      "date_hour": "11:23:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
     },
     {
       "title": "YENILER-SIMAV (KUTAHYA)",
@@ -17962,42 +17998,6 @@
       "location_properties": "",
       "date_day": "2025.10.01",
       "date_hour": "10:32:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.01 10:23:45",
-      "lat": 39.2423,
-      "lng": 29.0112,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "12.0",
-      "coordinates": [
-        29.0112,
-        39.2423
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0112,
-            39.2423
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.10.01 10:23:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.01",
-      "date_hour": "10:23:45",
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
