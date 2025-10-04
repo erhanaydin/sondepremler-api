@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-04T09:53:13.303Z",
+  "lastUpdate": "2025-10-04T10:08:45.108Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "DODURGA-BOZUYUK (BILECIK)",
+      "type": "�lksel",
+      "date": "2025.10.04 11:59:37",
+      "lat": 39.8182,
+      "lng": 29.9137,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "8.1",
+      "coordinates": [
+        29.9137,
+        39.8182
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.9137,
+            39.8182
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "DODURGA-BOZUYUK (BILECIK)",
+          "time": "2025.10.04 11:59:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.04",
+      "date_hour": "11:59:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BILECIK"
     },
     {
       "title": "KINIK-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.01 10:33:59",
-      "lat": 39.2412,
-      "lng": 29.0442,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        29.0442,
-        39.2412
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0442,
-            39.2412
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.10.01 10:33:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.01",
-      "date_hour": "10:33:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
