@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-05T09:12:43.218Z",
+  "lastUpdate": "2025-10-05T09:26:31.114Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.05 12:18:27",
+      "lat": 39.1605,
+      "lng": 28.1707,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "14.3",
+      "coordinates": [
+        28.1707,
+        39.1605
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1707,
+            39.1605
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.05 12:18:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.05",
+      "date_hour": "12:18:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
+    },
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.10.05 11:49:03",
+      "lat": 34.9518,
+      "lng": 25.8258,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        25.8258,
+        34.9518
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.8258,
+            34.9518
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2025.10.05 11:49:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.05",
+      "date_hour": "11:49:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
     },
     {
       "title": "YESILDERE-SIMAV (KUTAHYA)",
@@ -17926,78 +17998,6 @@
       "location_properties": "",
       "date_day": "2025.10.02",
       "date_hour": "11:00:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "UCOCAK-ARICAK (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.10.02 10:39:19",
-      "lat": 38.4963,
-      "lng": 40.2787,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "16.8",
-      "coordinates": [
-        40.2787,
-        38.4963
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.2787,
-            38.4963
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "UCOCAK-ARICAK (ELAZIG)",
-          "time": "2025.10.02 10:39:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.02",
-      "date_hour": "10:39:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.02 10:34:17",
-      "lat": 39.1965,
-      "lng": 28.9975,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "18.1",
-      "coordinates": [
-        28.9975,
-        39.1965
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9975,
-            39.1965
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.10.02 10:34:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.02",
-      "date_hour": "10:34:17",
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
