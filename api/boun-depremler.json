@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-05T21:53:00.251Z",
+  "lastUpdate": "2025-10-05T22:08:06.534Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAKOCA-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.06 00:53:52",
+      "lat": 39.2623,
+      "lng": 28.969,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "14.0",
+      "coordinates": [
+        28.969,
+        39.2623
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.969,
+            39.2623
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KARAKOCA-SIMAV (KUTAHYA)",
+          "time": "2025.10.06 00:53:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.06",
+      "date_hour": "00:53:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KAVAKKOY-SIVRICE (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.10.02 20:43:03",
-      "lat": 38.4365,
-      "lng": 39.1643,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "3.2",
-      "coordinates": [
-        39.1643,
-        38.4365
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.1643,
-            38.4365
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KAVAKKOY-SIVRICE (ELAZIG)",
-          "time": "2025.10.02 20:43:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.02",
-      "date_hour": "20:43:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
