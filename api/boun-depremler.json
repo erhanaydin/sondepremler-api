@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-05T10:39:37.565Z",
+  "lastUpdate": "2025-10-05T10:48:03.270Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAKOCA-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.05 13:23:58",
+      "lat": 39.2542,
+      "lng": 28.9343,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "5.6",
+      "coordinates": [
+        28.9343,
+        39.2542
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9343,
+            39.2542
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "KARAKOCA-SIMAV (KUTAHYA)",
+          "time": "2025.10.05 13:23:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.05",
+      "date_hour": "13:23:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.05 13:12:55",
+      "lat": 39.1525,
+      "lng": 28.1447,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "11.5",
+      "coordinates": [
+        28.1447,
+        39.1525
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1447,
+            39.1525
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.05 13:12:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.05",
+      "date_hour": "13:12:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BADEMLI-BIGADIC (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.02 11:34:15",
-      "lat": 39.2183,
-      "lng": 28.0173,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "11.2",
-      "coordinates": [
-        28.0173,
-        39.2183
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0173,
-            39.2183
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "SAHINKAYA-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.02 11:34:15"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.02",
-      "date_hour": "11:34:15",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "BARAKMUSLU-ILGIN (KONYA)",
-      "type": "�lksel",
-      "date": "2025.10.02 11:24:56",
-      "lat": 38.1535,
-      "lng": 32.0783,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "7.8",
-      "coordinates": [
-        32.0783,
-        38.1535
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.0783,
-            38.1535
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "BARAKMUSLU-ILGIN (KONYA)",
-          "time": "2025.10.02 11:24:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.02",
-      "date_hour": "11:24:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KONYA"
     }
   ]
 }
