@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-05T06:55:04.512Z",
+  "lastUpdate": "2025-10-05T07:11:39.907Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.05 10:03:26",
+      "lat": 39.2315,
+      "lng": 28.9592,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "8.7",
+      "coordinates": [
+        28.9592,
+        39.2315
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9592,
+            39.2315
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.05 10:03:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.05",
+      "date_hour": "10:03:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
+    },
+    {
+      "title": "DARIPINAR-KALE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.10.05 08:50:04",
+      "lat": 38.4078,
+      "lng": 38.7088,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "14.3",
+      "coordinates": [
+        38.7088,
+        38.4078
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.7088,
+            38.4078
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "DARIPINAR-KALE (MALATYA)",
+          "time": "2025.10.05 08:50:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.05",
+      "date_hour": "08:50:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "BOLUKKAYA-PUTURGE (MALATYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "SADIKLI-YAZIHAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.10.02 09:29:34",
-      "lat": 38.5325,
-      "lng": 37.987,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "17.6",
-      "coordinates": [
-        37.987,
-        38.5325
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.987,
-            38.5325
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "SADIKLI-YAZIHAN (MALATYA)",
-          "time": "2025.10.02 09:29:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.02",
-      "date_hour": "09:29:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "KERTIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.02 09:26:48",
-      "lat": 39.1907,
-      "lng": 28.0865,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "11.1",
-      "coordinates": [
-        28.0865,
-        39.1907
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0865,
-            39.1907
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "KERTIL-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.02 09:26:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.02",
-      "date_hour": "09:26:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
