@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-05T07:58:17.874Z",
+  "lastUpdate": "2025-10-05T08:23:48.334Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YALINDAMLAR-(ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.10.05 11:10:10",
+      "lat": 38.4723,
+      "lng": 38.9487,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "4.0",
+      "coordinates": [
+        38.9487,
+        38.4723
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.9487,
+            38.4723
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "YALINDAMLAR-(ELAZIG)",
+          "time": "2025.10.05 11:10:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.05",
+      "date_hour": "11:10:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.05 10:55:30",
+      "lat": 39.1903,
+      "lng": 29.0117,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "10.0",
+      "coordinates": [
+        29.0117,
+        39.1903
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0117,
+            39.1903
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.10.05 10:55:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.05",
+      "date_hour": "10:55:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KOCAOZU-HEKIMHAN (MALATYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YESILOVA-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.02 10:06:38",
-      "lat": 39.1192,
-      "lng": 28.9783,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "17.0",
-      "coordinates": [
-        28.9783,
-        39.1192
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9783,
-            39.1192
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YESILOVA-SIMAV (KUTAHYA)",
-          "time": "2025.10.02 10:06:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.02",
-      "date_hour": "10:06:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "HAVUTBASI-BALYA (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.02 09:59:00",
-      "lat": 39.7885,
-      "lng": 27.467,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "13.7",
-      "coordinates": [
-        27.467,
-        39.7885
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.467,
-            39.7885
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "HAVUTBASI-BALYA (BALIKESIR)",
-          "time": "2025.10.02 09:59:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.02",
-      "date_hour": "09:59:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
