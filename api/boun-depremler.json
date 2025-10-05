@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-05T11:22:52.776Z",
+  "lastUpdate": "2025-10-05T11:31:45.377Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.05 14:23:01",
+      "lat": 39.2427,
+      "lng": 28.9702,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "12.1",
+      "coordinates": [
+        28.9702,
+        39.2427
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9702,
+            39.2427
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.05 14:23:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.05",
+      "date_hour": "14:23:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "MARMARA EREGLISI ACIKLARI-TEKIRDAG (MARMARA",
       "type": "DENIZI�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KIYIGOREN-ALTINOZU (HATAY)",
-      "type": "�lksel",
-      "date": "2025.10.02 12:20:52",
-      "lat": 36.1188,
-      "lng": 36.3727,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "3.3",
-      "coordinates": [
-        36.3727,
-        36.1188
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.3727,
-            36.1188
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KIYIGOREN-ALTINOZU (HATAY)",
-          "time": "2025.10.02 12:20:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.02",
-      "date_hour": "12:20:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
