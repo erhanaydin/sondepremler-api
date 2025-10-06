@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-06T09:13:10.341Z",
+  "lastUpdate": "2025-10-06T09:33:04.497Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "PURSUNLER-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.06 12:14:01",
+      "lat": 39.2327,
+      "lng": 28.1978,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "7.6",
+      "coordinates": [
+        28.1978,
+        39.2327
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1978,
+            39.2327
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "PURSUNLER-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.06 12:14:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.06",
+      "date_hour": "12:14:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KARACAOREN-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YAYAKIRILDIK-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.10.03 04:40:18",
-      "lat": 38.8868,
-      "lng": 28.0575,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "20.2",
-      "coordinates": [
-        28.0575,
-        38.8868
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0575,
-            38.8868
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YAYAKIRILDIK-AKHISAR (MANISA)",
-          "time": "2025.10.03 04:40:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.03",
-      "date_hour": "04:40:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
