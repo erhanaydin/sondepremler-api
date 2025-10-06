@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-06T15:32:19.965Z",
+  "lastUpdate": "2025-10-06T15:43:53.346Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,78 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.06 18:21:15",
+      "lat": 39.1695,
+      "lng": 28.1823,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "16.7",
+      "coordinates": [
+        28.1823,
+        39.1695
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1823,
+            39.1695
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.06 18:21:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.06",
+      "date_hour": "18:21:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "ARSLANCA-GOLOVA (SIVAS)",
+      "type": "�lksel",
+      "date": "2025.10.06 18:09:51",
+      "lat": 40.0517,
+      "lng": 38.76,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "4.8",
+      "coordinates": [
+        38.76,
+        40.0517
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.76,
+            40.0517
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "ARSLANCA-GOLOVA (SIVAS)",
+          "time": "2025.10.06 18:09:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.06",
+      "date_hour": "18:09:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SIVAS"
     },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.03 09:10:49",
-      "lat": 39.2573,
-      "lng": 28.9472,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "11.4",
-      "coordinates": [
-        28.9472,
-        39.2573
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9472,
-            39.2573
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KARAKOCA-SIMAV (KUTAHYA)",
-          "time": "2025.10.03 09:10:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.03",
-      "date_hour": "09:10:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "DENIZOVA (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.10.03 09:00:40",
-      "lat": 37.0787,
-      "lng": 28.1643,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "3.5",
-      "coordinates": [
-        28.1643,
-        37.0787
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1643,
-            37.0787
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "DENIZOVA (MUGLA)",
-          "time": "2025.10.03 09:00:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.03",
-      "date_hour": "09:00:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
