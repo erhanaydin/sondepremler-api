@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-06T15:14:43.180Z",
+  "lastUpdate": "2025-10-06T15:32:19.965Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAKOCA-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.06 18:22:38",
+      "lat": 39.2605,
+      "lng": 28.9632,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "10.0",
+      "coordinates": [
+        28.9632,
+        39.2605
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9632,
+            39.2605
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "KARAKOCA-SIMAV (KUTAHYA)",
+          "time": "2025.10.06 18:22:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.06",
+      "date_hour": "18:22:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.03 09:00:20",
-      "lat": 39.2613,
-      "lng": 28.9538,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "9.5",
-      "coordinates": [
-        28.9538,
-        39.2613
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9538,
-            39.2613
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KARAKOCA-SIMAV (KUTAHYA)",
-          "time": "2025.10.03 09:00:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.03",
-      "date_hour": "09:00:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
