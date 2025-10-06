@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-06T20:43:34.336Z",
+  "lastUpdate": "2025-10-06T20:52:09.328Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.06 23:36:38",
+      "lat": 39.217,
+      "lng": 28.1692,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "14.7",
+      "coordinates": [
+        28.1692,
+        39.217
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1692,
+            39.217
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.06 23:36:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.06",
+      "date_hour": "23:36:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "CIGLIK-DOGANSEHIR (MALATYA)",
       "type": "�lksel",
@@ -325,6 +361,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "BOLUKKAYA-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.10.06 22:01:29",
+      "lat": 38.3138,
+      "lng": 38.8257,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "4.8",
+      "coordinates": [
+        38.8257,
+        38.3138
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.8257,
+            38.3138
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "BOLUKKAYA-PUTURGE (MALATYA)",
+          "time": "2025.10.06 22:01:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.06",
+      "date_hour": "22:01:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KINIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.03 13:38:59",
-      "lat": 39.1198,
-      "lng": 28.1967,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "8.3",
-      "coordinates": [
-        28.1967,
-        39.1198
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1967,
-            39.1198
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "KINIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.03 13:38:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.03",
-      "date_hour": "13:38:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "BUYUKECELI-GULNAR (MERSIN)",
-      "type": "�lksel",
-      "date": "2025.10.03 13:34:27",
-      "lat": 36.1157,
-      "lng": 33.5745,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        33.5745,
-        36.1157
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.5745,
-            36.1157
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "BUYUKECELI-GULNAR (MERSIN)",
-          "time": "2025.10.03 13:34:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.03",
-      "date_hour": "13:34:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
     }
   ]
 }
