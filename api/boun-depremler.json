@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-07T23:28:59.912Z",
+  "lastUpdate": "2025-10-07T23:38:25.956Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.10.08 02:28:52",
+      "lat": 40.7942,
+      "lng": 27.9382,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "8.6",
+      "coordinates": [
+        27.9382,
+        40.7942
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9382,
+            40.7942
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "MARMARA DENIZI",
+          "time": "2025.10.08 02:28:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.08",
+      "date_hour": "02:28:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KAVAKTEPE-(ELAZIG)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.04 07:35:20",
-      "lat": 39.246,
-      "lng": 28.991,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "5.5",
-      "coordinates": [
-        28.991,
-        39.246
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.991,
-            39.246
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.10.04 07:35:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.04",
-      "date_hour": "07:35:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
