@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-07T21:39:11.225Z",
+  "lastUpdate": "2025-10-07T21:47:49.660Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CICEKLI-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2025.10.08 00:08:53",
+      "lat": 39.0707,
+      "lng": 28.1748,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "15.8",
+      "coordinates": [
+        28.1748,
+        39.0707
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1748,
+            39.0707
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "CICEKLI-GORDES (MANISA)",
+          "time": "2025.10.08 00:08:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.08",
+      "date_hour": "00:08:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "KOZLU-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "ISACA-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.10.04 05:10:08",
-      "lat": 39.1162,
-      "lng": 28.0448,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "19.6",
-      "coordinates": [
-        28.0448,
-        39.1162
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0448,
-            39.1162
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "ISACA-AKHISAR (MANISA)",
-          "time": "2025.10.04 05:10:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.04",
-      "date_hour": "05:10:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
