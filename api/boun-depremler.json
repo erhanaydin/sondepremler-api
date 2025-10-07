@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-07T03:43:09.918Z",
+  "lastUpdate": "2025-10-07T03:53:06.401Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -145,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "TOKAT"
+    },
+    {
+      "title": "YENIKOY-DARENDE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.10.07 06:02:13",
+      "lat": 38.5022,
+      "lng": 37.3335,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "9.6",
+      "coordinates": [
+        37.3335,
+        38.5022
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.3335,
+            38.5022
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "YENIKOY-DARENDE (MALATYA)",
+          "time": "2025.10.07 06:02:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.07",
+      "date_hour": "06:02:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "DUMLU-HEKIMHAN (MALATYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2025.10.03 21:02:01",
-      "lat": 40.7427,
-      "lng": 27.9192,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "4.8",
-      "coordinates": [
-        27.9192,
-        40.7427
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9192,
-            40.7427
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "MARMARA DENIZI",
-          "time": "2025.10.03 21:02:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.03",
-      "date_hour": "21:02:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
