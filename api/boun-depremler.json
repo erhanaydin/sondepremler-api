@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-07T10:45:50.767Z",
+  "lastUpdate": "2025-10-07T10:54:19.901Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIZILKAYA-BUCAK (BURDUR)",
+      "type": "�lksel",
+      "date": "2025.10.07 13:33:16",
+      "lat": 37.2977,
+      "lng": 30.4647,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "105.6",
+      "coordinates": [
+        30.4647,
+        37.2977
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4647,
+            37.2977
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "KIZILKAYA-BUCAK (BURDUR)",
+          "time": "2025.10.07 13:33:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.07",
+      "date_hour": "13:33:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURDUR"
+    },
     {
       "title": "HAMITBEY-CEYHAN (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KUMARLI (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.10.04 00:06:52",
-      "lat": 37.8313,
-      "lng": 36.4872,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        36.4872,
-        37.8313
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.4872,
-            37.8313
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KUMARLI (KAHRAMANMARAS)",
-          "time": "2025.10.04 00:06:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.04",
-      "date_hour": "00:06:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
