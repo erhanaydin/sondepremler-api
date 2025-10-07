@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-07T08:56:09.548Z",
+  "lastUpdate": "2025-10-07T09:17:27.935Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YETIMLI-ALADAG (ADANA)",
+      "type": "�lksel",
+      "date": "2025.10.07 11:48:45",
+      "lat": 37.6087,
+      "lng": 35.386,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "7.8",
+      "coordinates": [
+        35.386,
+        37.6087
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.386,
+            37.6087
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "YETIMLI-ALADAG (ADANA)",
+          "time": "2025.10.07 11:48:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.07",
+      "date_hour": "11:48:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KUMARLI (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.10.03 22:45:00",
-      "lat": 37.8512,
-      "lng": 36.4652,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "5.9",
-      "coordinates": [
-        36.4652,
-        37.8512
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.4652,
-            37.8512
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "KUMARLI (KAHRAMANMARAS)",
-          "time": "2025.10.03 22:45:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.03",
-      "date_hour": "22:45:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
