@@ -1,5 +1,41 @@
 [
   {
+    "title": "Marmara Denizi",
+    "type": "İlksel",
+    "date": "2025-10-05 17:43:57",
+    "lat": 40.80333,
+    "lng": 27.91667,
+    "md": "-.-",
+    "ml": "1.9",
+    "mw": "-.-",
+    "depth": 6.81,
+    "coordinates": [
+      27.91667,
+      40.80333
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.91667,
+          40.80333
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Marmara Denizi (Tekirdağ)",
+        "time": 1759686237000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-05",
+    "date_hour": "17:43:57",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Tekirdağ"
+  },
+  {
     "title": "Hekimhan (Malatya)",
     "type": "İlksel",
     "date": "2025-10-05 17:36:29",
@@ -17962,41 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Malatya"
-  },
-  {
-    "title": "Simav (Kütahya)",
-    "type": "İlksel",
-    "date": "2025-10-02 22:47:38",
-    "lat": 39.25306,
-    "lng": 28.96361,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7.19,
-    "coordinates": [
-      28.96361,
-      39.25306
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.96361,
-          39.25306
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Simav (Kütahya) (Kütahya)",
-        "time": 1759445258000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-10-02",
-    "date_hour": "22:47:38",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kütahya"
   }
 ]
