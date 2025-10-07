@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-07T16:26:20.918Z",
+  "lastUpdate": "2025-10-07T16:44:47.813Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAKOCA-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.07 19:30:57",
+      "lat": 39.2632,
+      "lng": 28.9297,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "12.7",
+      "coordinates": [
+        28.9297,
+        39.2632
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9297,
+            39.2632
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "KARAKOCA-SIMAV (KUTAHYA)",
+          "time": "2025.10.07 19:30:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.07",
+      "date_hour": "19:30:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KOZLU-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2025.10.04 01:23:32",
-      "lat": 40.7777,
-      "lng": 27.968,
-      "md": "-.-",
-      "ml": "3.3",
-      "mw": "-.-",
-      "depth": "11.0",
-      "coordinates": [
-        27.968,
-        40.7777
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.968,
-            40.7777
-          ]
-        },
-        "properties": {
-          "mag": "3.3",
-          "place": "MARMARA DENIZI",
-          "time": "2025.10.04 01:23:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.04",
-      "date_hour": "01:23:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
