@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-08T14:47:34.522Z",
+  "lastUpdate": "2025-10-08T14:56:03.983Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.08 17:34:32",
+      "lat": 39.2568,
+      "lng": 28.968,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "9.7",
+      "coordinates": [
+        28.968,
+        39.2568
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.968,
+            39.2568
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.08 17:34:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.08",
+      "date_hour": "17:34:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "ARPAHAN-(HATAY)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
+    },
+    {
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.08 17:06:01",
+      "lat": 39.245,
+      "lng": 29.027,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "14.1",
+      "coordinates": [
+        29.027,
+        39.245
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.027,
+            39.245
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KATRANDAGI-EMET (KUTAHYA)",
+          "time": "2025.10.08 17:06:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.08",
+      "date_hour": "17:06:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "EVRENCIK-VIZE (KIRKLARELI)",
-      "type": "�lksel",
-      "date": "2025.10.04 22:25:57",
-      "lat": 41.672,
-      "lng": 27.7427,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "6.5",
-      "coordinates": [
-        27.7427,
-        41.672
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7427,
-            41.672
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "EVRENCIK-VIZE (KIRKLARELI)",
-          "time": "2025.10.04 22:25:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.04",
-      "date_hour": "22:25:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KIRKLARELI"
-    },
-    {
-      "title": "YESILYURT-ALASEHIR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.10.04 22:24:14",
-      "lat": 38.3317,
-      "lng": 28.6623,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "10.4",
-      "coordinates": [
-        28.6623,
-        38.3317
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.6623,
-            38.3317
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YESILYURT-ALASEHIR (MANISA)",
-          "time": "2025.10.04 22:24:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.04",
-      "date_hour": "22:24:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
