@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-08T23:40:00.989Z",
+  "lastUpdate": "2025-10-08T23:48:35.388Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SARIKAMIS-(ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.10.09 02:25:18",
+      "lat": 38.6058,
+      "lng": 39.6932,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "3.8",
+      "coordinates": [
+        39.6932,
+        38.6058
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.6932,
+            38.6058
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "SARIKAMIS-(ELAZIG)",
+          "time": "2025.10.09 02:25:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.09",
+      "date_hour": "02:25:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "IBILLER-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "CILE-MENDERES (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.10.05 06:26:42",
-      "lat": 38.0142,
-      "lng": 27.156,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "9.3",
-      "coordinates": [
-        27.156,
-        38.0142
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.156,
-            38.0142
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "CILE-MENDERES (IZMIR)",
-          "time": "2025.10.05 06:26:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.05",
-      "date_hour": "06:26:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
