@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-08T03:52:12.282Z",
+  "lastUpdate": "2025-10-08T04:01:02.243Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SIRINKOY-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.10.08 06:44:39",
+      "lat": 37.0282,
+      "lng": 28.371,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "7.3",
+      "coordinates": [
+        28.371,
+        37.0282
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.371,
+            37.0282
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "SIRINKOY-ULA (MUGLA)",
+          "time": "2025.10.08 06:44:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.08",
+      "date_hour": "06:44:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
+    {
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.08 06:44:34",
+      "lat": 39.2235,
+      "lng": 28.1093,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "16.7",
+      "coordinates": [
+        28.1093,
+        39.2235
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1093,
+            39.2235
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.08 06:44:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.08",
+      "date_hour": "06:44:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KARAKIRAN-SARAYKOY (DENIZLI)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "YENILER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.04 15:16:10",
-      "lat": 39.2412,
-      "lng": 28.9453,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "4.1",
-      "coordinates": [
-        28.9453,
-        39.2412
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9453,
-            39.2412
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "YENILER-SIMAV (KUTAHYA)",
-          "time": "2025.10.04 15:16:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.04",
-      "date_hour": "15:16:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.04 15:06:45",
-      "lat": 39.174,
-      "lng": 28.1902,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "11.5",
-      "coordinates": [
-        28.1902,
-        39.174
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1902,
-            39.174
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "AKTAS-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.04 15:06:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.04",
-      "date_hour": "15:06:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
