@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-08T13:44:02.044Z",
+  "lastUpdate": "2025-10-08T13:52:40.096Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.08 16:44:46",
+      "lat": 39.2057,
+      "lng": 28.0832,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "8.1",
+      "coordinates": [
+        28.0832,
+        39.2057
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0832,
+            39.2057
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.08 16:44:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.08",
+      "date_hour": "16:44:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YENILER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.10.04 22:14:25",
-      "lat": 37.4803,
-      "lng": 26.9827,
-      "md": "-.-",
-      "ml": "3.4",
-      "mw": "3.3",
-      "depth": "7.3",
-      "coordinates": [
-        26.9827,
-        37.4803
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.9827,
-            37.4803
-          ]
-        },
-        "properties": {
-          "mag": "3.4",
-          "place": "EGE DENIZI",
-          "time": "2025.10.04 22:14:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.04",
-      "date_hour": "22:14:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
