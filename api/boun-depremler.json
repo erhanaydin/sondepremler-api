@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-08T16:16:49.632Z",
+  "lastUpdate": "2025-10-08T16:40:52.824Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -109,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "KOCKALE-(ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.10.08 18:50:26",
+      "lat": 38.5737,
+      "lng": 39.4938,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "8.4",
+      "coordinates": [
+        39.4938,
+        38.5737
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.4938,
+            38.5737
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "KOCKALE-(ELAZIG)",
+          "time": "2025.10.08 18:50:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.08",
+      "date_hour": "18:50:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
     },
     {
       "title": "KOYUNOBA-SIMAV (KUTAHYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "KARAGOL-CELIKHAN (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.10.04 23:07:33",
-      "lat": 38.1,
-      "lng": 38.411,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "8.1",
-      "coordinates": [
-        38.411,
-        38.1
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.411,
-            38.1
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KARAGOL-CELIKHAN (ADIYAMAN)",
-          "time": "2025.10.04 23:07:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.04",
-      "date_hour": "23:07:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
