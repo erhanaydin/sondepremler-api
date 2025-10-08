@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-08T22:33:37.134Z",
+  "lastUpdate": "2025-10-08T22:43:16.943Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEVECIKARGIN-ARTOVA (TOKAT)",
+      "type": "�lksel",
+      "date": "2025.10.09 01:22:36",
+      "lat": 40.0832,
+      "lng": 36.0912,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "1.6",
+      "coordinates": [
+        36.0912,
+        40.0832
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.0912,
+            40.0832
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "DEVECIKARGIN-ARTOVA (TOKAT)",
+          "time": "2025.10.09 01:22:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.09",
+      "date_hour": "01:22:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "TOKAT"
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2025.10.05 05:14:39",
-      "lat": 40.7727,
-      "lng": 27.9543,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        27.9543,
-        40.7727
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9543,
-            40.7727
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "MARMARA DENIZI",
-          "time": "2025.10.05 05:14:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.05",
-      "date_hour": "05:14:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
