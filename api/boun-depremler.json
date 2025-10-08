@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-08T14:33:44.743Z",
+  "lastUpdate": "2025-10-08T14:47:34.522Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ARPAHAN-(HATAY)",
+      "type": "�lksel",
+      "date": "2025.10.08 17:34:22",
+      "lat": 36.3438,
+      "lng": 36.2365,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        36.2365,
+        36.3438
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.2365,
+            36.3438
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "ARPAHAN-(HATAY)",
+          "time": "2025.10.08 17:34:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.08",
+      "date_hour": "17:34:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
     {
       "title": "SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.04 22:19:38",
-      "lat": 39.2007,
-      "lng": 28.9828,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "11.6",
-      "coordinates": [
-        28.9828,
-        39.2007
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9828,
-            39.2007
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.10.04 22:19:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.04",
-      "date_hour": "22:19:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
