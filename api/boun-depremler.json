@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-09T13:42:21.899Z",
+  "lastUpdate": "2025-10-09T13:52:58.168Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOZLU-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.09 16:40:43",
+      "lat": 39.2297,
+      "lng": 28.082,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "9.8",
+      "coordinates": [
+        28.082,
+        39.2297
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.082,
+            39.2297
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KOZLU-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.09 16:40:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.09",
+      "date_hour": "16:40:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YESILDERE-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "ERDEK KORFEZI (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2025.10.06 04:46:16",
-      "lat": 40.3783,
-      "lng": 27.6233,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "16.6",
-      "coordinates": [
-        27.6233,
-        40.3783
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.6233,
-            40.3783
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "ERDEK KORFEZI (MARMARA DENIZI)",
-          "time": "2025.10.06 04:46:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.06",
-      "date_hour": "04:46:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
     }
   ]
 }
