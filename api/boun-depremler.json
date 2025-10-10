@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-10T19:56:30.964Z",
+  "lastUpdate": "2025-10-10T20:18:09.273Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.10 23:03:08",
+      "lat": 39.2505,
+      "lng": 28.9713,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "11.1",
+      "coordinates": [
+        28.9713,
+        39.2505
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9713,
+            39.2505
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.10 23:03:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.10",
+      "date_hour": "23:03:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "YESILDERE-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.07 20:47:11",
-      "lat": 39.2732,
-      "lng": 29.01,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "16.0",
-      "coordinates": [
-        29.01,
-        39.2732
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.01,
-            39.2732
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "YESILDERE-SIMAV (KUTAHYA)",
-          "time": "2025.10.07 20:47:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.07",
-      "date_hour": "20:47:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
