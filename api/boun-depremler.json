@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-10T21:21:27.419Z",
+  "lastUpdate": "2025-10-10T21:30:03.054Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.11 00:20:08",
+      "lat": 39.252,
+      "lng": 29.0343,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "10.6",
+      "coordinates": [
+        29.0343,
+        39.252
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0343,
+            39.252
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KATRANDAGI-EMET (KUTAHYA)",
+          "time": "2025.10.11 00:20:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.11",
+      "date_hour": "00:20:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KARACAOREN-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.07 21:29:39",
-      "lat": 39.2415,
-      "lng": 28.9938,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "11.1",
-      "coordinates": [
-        28.9938,
-        39.2415
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9938,
-            39.2415
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.10.07 21:29:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.07",
-      "date_hour": "21:29:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
