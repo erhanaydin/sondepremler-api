@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-10T05:13:49.984Z",
+  "lastUpdate": "2025-10-10T05:32:24.644Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SOGUT-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.10 08:17:06",
+      "lat": 39.148,
+      "lng": 29.0945,
+      "md": "-.-",
+      "ml": "0.7",
+      "mw": "-.-",
+      "depth": "10.3",
+      "coordinates": [
+        29.0945,
+        39.148
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0945,
+            39.148
+          ]
+        },
+        "properties": {
+          "mag": "0.7",
+          "place": "SOGUT-SIMAV (KUTAHYA)",
+          "time": "2025.10.10 08:17:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.10",
+      "date_hour": "08:17:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KARAKOCA-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -363,6 +399,42 @@
       "city": "BALIKESIR"
     },
     {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.10.10 06:35:19",
+      "lat": 36.7107,
+      "lng": 25.5928,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        25.5928,
+        36.7107
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.5928,
+            36.7107
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "EGE DENIZI",
+          "time": "2025.10.10 06:35:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.10",
+      "date_hour": "06:35:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
       "title": "KARAGUNDUZ-(VAN)",
       "type": "�lksel",
       "date": "2025.10.10 06:22:53",
@@ -577,6 +649,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.10.10 06:10:18",
+      "lat": 35.822,
+      "lng": 25.5383,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        25.5383,
+        35.822
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.5383,
+            35.822
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "EGE DENIZI",
+          "time": "2025.10.10 06:10:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.10",
+      "date_hour": "06:10:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
@@ -17893,114 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.06 22:54:08",
-      "lat": 39.2318,
-      "lng": 29.0013,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        29.0013,
-        39.2318
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0013,
-            39.2318
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.10.06 22:54:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.06",
-      "date_hour": "22:54:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "KIZILGUR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.06 22:43:14",
-      "lat": 39.2463,
-      "lng": 28.0303,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        28.0303,
-        39.2463
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0303,
-            39.2463
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KIZILGUR-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.06 22:43:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.06",
-      "date_hour": "22:43:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "KOCKALE-(ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.10.06 22:42:35",
-      "lat": 38.5598,
-      "lng": 39.502,
-      "md": "-.-",
-      "ml": "3.2",
-      "mw": "3.3",
-      "depth": "5.4",
-      "coordinates": [
-        39.502,
-        38.5598
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.502,
-            38.5598
-          ]
-        },
-        "properties": {
-          "mag": "3.2",
-          "place": "KOCKALE-(ELAZIG)",
-          "time": "2025.10.06 22:42:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.06",
-      "date_hour": "22:42:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
