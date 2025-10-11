@@ -1,5 +1,41 @@
 [
   {
+    "title": "Bala (Ankara)",
+    "type": "İlksel",
+    "date": "2025-10-09 03:17:04",
+    "lat": 39.47,
+    "lng": 32.94389,
+    "md": "-.-",
+    "ml": "1.2",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      32.94389,
+      39.47
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.94389,
+          39.47
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Bala (Ankara) (Ankara)",
+        "time": 1759979824000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-09",
+    "date_hour": "03:17:04",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Ankara"
+  },
+  {
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2025-10-09 03:05:27",
@@ -4755,23 +4791,23 @@
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2025-10-08 09:02:51",
-    "lat": 39.29806,
-    "lng": 28.97306,
+    "lat": 39.29417,
+    "lng": 28.99583,
     "md": "-.-",
-    "ml": "1.4",
+    "ml": "1.3",
     "mw": "-.-",
-    "depth": 9.39,
+    "depth": 10.97,
     "coordinates": [
-      28.97306,
-      39.29806
+      28.99583,
+      39.29417
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.97306,
-          39.29806
+          28.99583,
+          39.29417
         ]
       },
       "properties": {
@@ -4791,23 +4827,23 @@
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2025-10-08 09:02:51",
-    "lat": 39.29417,
-    "lng": 28.99583,
+    "lat": 39.29806,
+    "lng": 28.97306,
     "md": "-.-",
-    "ml": "1.3",
+    "ml": "1.4",
     "mw": "-.-",
-    "depth": 10.97,
+    "depth": 9.39,
     "coordinates": [
-      28.99583,
-      39.29417
+      28.97306,
+      39.29806
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.99583,
-          39.29417
+          28.97306,
+          39.29806
         ]
       },
       "properties": {
@@ -17962,41 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kütahya"
-  },
-  {
-    "title": "Çelikhan (Adıyaman)",
-    "type": "İlksel",
-    "date": "2025-10-06 04:37:52",
-    "lat": 38.10083,
-    "lng": 38.4525,
-    "md": "-.-",
-    "ml": "0.8",
-    "mw": "-.-",
-    "depth": 6.91,
-    "coordinates": [
-      38.4525,
-      38.10083
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.4525,
-          38.10083
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Çelikhan (Adıyaman) (Adıyaman)",
-        "time": 1759725472000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-10-06",
-    "date_hour": "04:37:52",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Adıyaman"
   }
 ]
