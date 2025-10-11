@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-11T07:59:54.541Z",
+  "lastUpdate": "2025-10-11T08:28:08.853Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HARMANLI-ERDEK (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.11 11:00:31",
+      "lat": 40.4815,
+      "lng": 27.5482,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "9.4",
+      "coordinates": [
+        27.5482,
+        40.4815
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.5482,
+            40.4815
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "HARMANLI-ERDEK (BALIKESIR)",
+          "time": "2025.10.11 11:00:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.11",
+      "date_hour": "11:00:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "KURTULUS ACIKLARI-MERSIN (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.10.11 10:52:26",
+      "lat": 36.326,
+      "lng": 34.3005,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "3.0",
+      "depth": "29.3",
+      "coordinates": [
+        34.3005,
+        36.326
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.3005,
+            36.326
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "KURTULUS ACIKLARI-MERSIN (AKDENIZ)",
+          "time": "2025.10.11 10:52:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.11",
+      "date_hour": "10:52:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "YENILER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.08 04:23:36",
-      "lat": 39.2432,
-      "lng": 28.9897,
-      "md": "-.-",
-      "ml": "0.7",
-      "mw": "-.-",
-      "depth": "11.5",
-      "coordinates": [
-        28.9897,
-        39.2432
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9897,
-            39.2432
-          ]
-        },
-        "properties": {
-          "mag": "0.7",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.10.08 04:23:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.08",
-      "date_hour": "04:23:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.08 04:19:51",
-      "lat": 39.2273,
-      "lng": 29.0648,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "11.0",
-      "coordinates": [
-        29.0648,
-        39.2273
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0648,
-            39.2273
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.10.08 04:19:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.08",
-      "date_hour": "04:19:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
