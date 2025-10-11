@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-11T14:08:01.571Z",
+  "lastUpdate": "2025-10-11T14:25:10.575Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SOGUT-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.11 16:50:48",
+      "lat": 39.1648,
+      "lng": 29.1037,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "9.1",
+      "coordinates": [
+        29.1037,
+        39.1648
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1037,
+            39.1648
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "SOGUT-SIMAV (KUTAHYA)",
+          "time": "2025.10.11 16:50:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.11",
+      "date_hour": "16:50:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "CALIK-KEBAN (ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.10.11 16:47:49",
+      "lat": 38.7692,
+      "lng": 38.809,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.809,
+        38.7692
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.809,
+            38.7692
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "CALIK-KEBAN (ELAZIG)",
+          "time": "2025.10.11 16:47:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.11",
+      "date_hour": "16:47:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "EGRIDERE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.08 07:07:04",
-      "lat": 39.262,
-      "lng": 28.9162,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "7.3",
-      "coordinates": [
-        28.9162,
-        39.262
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9162,
-            39.262
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KARAKOCA-SIMAV (KUTAHYA)",
-          "time": "2025.10.08 07:07:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.08",
-      "date_hour": "07:07:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "SIRINKOY-ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.10.08 06:44:39",
-      "lat": 37.0282,
-      "lng": 28.371,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "7.3",
-      "coordinates": [
-        28.371,
-        37.0282
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.371,
-            37.0282
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "SIRINKOY-ULA (MUGLA)",
-          "time": "2025.10.08 06:44:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.08",
-      "date_hour": "06:44:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
