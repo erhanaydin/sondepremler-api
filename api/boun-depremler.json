@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-11T14:42:41.289Z",
+  "lastUpdate": "2025-10-11T14:51:00.055Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.10.11 17:18:12",
+      "lat": 34.7793,
+      "lng": 23.2908,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "23.0",
+      "coordinates": [
+        23.2908,
+        34.7793
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.2908,
+            34.7793
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2025.10.11 17:18:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.11",
+      "date_hour": "17:18:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "SOGUT-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "BOLUKKAYA-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.10.08 07:09:07",
-      "lat": 38.29,
-      "lng": 38.835,
-      "md": "-.-",
-      "ml": "3.6",
-      "mw": "3.6",
-      "depth": "5.0",
-      "coordinates": [
-        38.835,
-        38.29
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.835,
-            38.29
-          ]
-        },
-        "properties": {
-          "mag": "3.6",
-          "place": "BOLUKKAYA-PUTURGE (MALATYA)",
-          "time": "2025.10.08 07:09:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.08",
-      "date_hour": "07:09:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
