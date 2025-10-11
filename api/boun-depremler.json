@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-11T05:00:19.561Z",
+  "lastUpdate": "2025-10-11T05:23:14.086Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAYALIDERE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.11 08:10:23",
+      "lat": 39.2582,
+      "lng": 28.9117,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "4.9",
+      "coordinates": [
+        28.9117,
+        39.2582
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9117,
+            39.2582
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "KAYALIDERE-SIMAV (KUTAHYA)",
+          "time": "2025.10.11 08:10:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.11",
+      "date_hour": "08:10:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.11 08:03:45",
+      "lat": 39.147,
+      "lng": 28.158,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "14.4",
+      "coordinates": [
+        28.158,
+        39.147
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.158,
+            39.147
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.11 08:03:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.11",
+      "date_hour": "08:03:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.08 03:27:21",
-      "lat": 39.2217,
-      "lng": 29.0473,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "11.1",
-      "coordinates": [
-        29.0473,
-        39.2217
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0473,
-            39.2217
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.10.08 03:27:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.08",
-      "date_hour": "03:27:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.08 03:20:22",
-      "lat": 39.2463,
-      "lng": 28.1443,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "10.1",
-      "coordinates": [
-        28.1443,
-        39.2463
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1443,
-            39.2463
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.08 03:20:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.08",
-      "date_hour": "03:20:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
