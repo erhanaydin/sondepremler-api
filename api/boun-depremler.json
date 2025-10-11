@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-11T15:47:04.340Z",
+  "lastUpdate": "2025-10-11T15:55:16.889Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YENIKOY-BIGADIC (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.11 18:25:12",
+      "lat": 39.5143,
+      "lng": 28.1473,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "8.7",
+      "coordinates": [
+        28.1473,
+        39.5143
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1473,
+            39.5143
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "YENIKOY-BIGADIC (BALIKESIR)",
+          "time": "2025.10.11 18:25:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.11",
+      "date_hour": "18:25:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "KOVANOLUK-SAMSAT (ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2025.10.11 18:10:07",
+      "lat": 37.5532,
+      "lng": 38.5577,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "9.5",
+      "coordinates": [
+        38.5577,
+        37.5532
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.5577,
+            37.5532
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KOVANOLUK-SAMSAT (ADIYAMAN)",
+          "time": "2025.10.11 18:10:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.11",
+      "date_hour": "18:10:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
+    },
     {
       "title": "KARAKOCA-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KARAAGAC-KALE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.10.08 07:46:53",
-      "lat": 38.3768,
-      "lng": 38.8268,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "8.3",
-      "coordinates": [
-        38.8268,
-        38.3768
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.8268,
-            38.3768
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KARAAGAC-KALE (MALATYA)",
-          "time": "2025.10.08 07:46:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.08",
-      "date_hour": "07:46:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2025.10.08 07:39:49",
-      "lat": 40.7818,
-      "lng": 27.946,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "11.4",
-      "coordinates": [
-        27.946,
-        40.7818
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.946,
-            40.7818
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "MARMARA DENIZI",
-          "time": "2025.10.08 07:39:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.08",
-      "date_hour": "07:39:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
