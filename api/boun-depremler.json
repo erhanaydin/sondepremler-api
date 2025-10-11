@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-11T14:51:00.055Z",
+  "lastUpdate": "2025-10-11T14:59:17.759Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.10.11 17:08:59",
+      "lat": 39.4147,
+      "lng": 25.5978,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.1",
+      "coordinates": [
+        25.5978,
+        39.4147
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.5978,
+            39.4147
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "EGE DENIZI",
+          "time": "2025.10.11 17:08:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.11",
+      "date_hour": "17:08:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "SOGUT-SIMAV (KUTAHYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.08 07:10:06",
-      "lat": 39.2602,
-      "lng": 28.9172,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        28.9172,
-        39.2602
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9172,
-            39.2602
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KARAKOCA-SIMAV (KUTAHYA)",
-          "time": "2025.10.08 07:10:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.08",
-      "date_hour": "07:10:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
