@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-12T12:51:54.315Z",
+  "lastUpdate": "2025-10-12T13:13:23.230Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.12 16:07:00",
+      "lat": 39.2417,
+      "lng": 28.979,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        28.979,
+        39.2417
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.979,
+            39.2417
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.12 16:07:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.12",
+      "date_hour": "16:07:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "DENIZLI",
+      "type": "�lksel",
+      "date": "2025.10.12 15:48:48",
+      "lat": 37.7363,
+      "lng": 29.1322,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "13.6",
+      "coordinates": [
+        29.1322,
+        37.7363
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1322,
+            37.7363
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "DENIZLI",
+          "time": "2025.10.12 15:48:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.12",
+      "date_hour": "15:48:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YESILDERE-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.09 09:05:43",
-      "lat": 39.2602,
-      "lng": 29.0197,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "6.6",
-      "coordinates": [
-        29.0197,
-        39.2602
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0197,
-            39.2602
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "YESILDERE-SIMAV (KUTAHYA)",
-          "time": "2025.10.09 09:05:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.09",
-      "date_hour": "09:05:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "CANDIR-SELCUKLU (KONYA)",
-      "type": "�lksel",
-      "date": "2025.10.09 08:58:32",
-      "lat": 38.1307,
-      "lng": 32.633,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "11.2",
-      "coordinates": [
-        32.633,
-        38.1307
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.633,
-            38.1307
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "CANDIR-SELCUKLU (KONYA)",
-          "time": "2025.10.09 08:58:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.09",
-      "date_hour": "08:58:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KONYA"
     }
   ]
 }
