@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-12T14:29:45.305Z",
+  "lastUpdate": "2025-10-12T14:39:29.243Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TOKAT-HISARCIK (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.12 17:02:00",
+      "lat": 39.1928,
+      "lng": 29.1127,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "10.9",
+      "coordinates": [
+        29.1127,
+        39.1928
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1127,
+            39.1928
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "TOKAT-HISARCIK (KUTAHYA)",
+          "time": "2025.10.12 17:02:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.12",
+      "date_hour": "17:02:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "ARICILAR-ULA (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "NOGAYLAR-NURDAGI (GAZIANTEP)",
-      "type": "�lksel",
-      "date": "2025.10.09 10:06:53",
-      "lat": 37.242,
-      "lng": 36.8868,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "9.1",
-      "coordinates": [
-        36.8868,
-        37.242
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.8868,
-            37.242
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "NOGAYLAR-NURDAGI (GAZIANTEP)",
-          "time": "2025.10.09 10:06:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.09",
-      "date_hour": "10:06:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "GAZIANTEP"
     }
   ]
 }
