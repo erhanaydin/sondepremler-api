@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-12T07:28:40.573Z",
+  "lastUpdate": "2025-10-12T07:38:11.055Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CAMLI-MARMARIS (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.10.12 10:26:36",
+      "lat": 36.9353,
+      "lng": 28.2772,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "45.7",
+      "coordinates": [
+        28.2772,
+        36.9353
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2772,
+            36.9353
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "CAMLI-MARMARIS (MUGLA)",
+          "time": "2025.10.12 10:26:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.12",
+      "date_hour": "10:26:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "DAGBELI-DOSEMEALTI (ANTALYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "KARACAOREN-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.09 06:06:32",
-      "lat": 39.1972,
-      "lng": 29.0527,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.5",
-      "coordinates": [
-        29.0527,
-        39.1972
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0527,
-            39.1972
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KARACAOREN-SIMAV (KUTAHYA)",
-          "time": "2025.10.09 06:06:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.09",
-      "date_hour": "06:06:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
