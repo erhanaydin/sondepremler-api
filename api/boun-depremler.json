@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-12T06:42:12.535Z",
+  "lastUpdate": "2025-10-12T06:51:08.182Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.12 09:33:34",
+      "lat": 39.2132,
+      "lng": 28.0993,
+      "md": "-.-",
+      "ml": "3.6",
+      "mw": "3.4",
+      "depth": "5.4",
+      "coordinates": [
+        28.0993,
+        39.2132
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0993,
+            39.2132
+          ]
+        },
+        "properties": {
+          "mag": "3.6",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.12 09:33:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.12",
+      "date_hour": "09:33:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "ZAFERLER-KOYCEGIZ (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.10.12 09:25:49",
+      "lat": 36.9712,
+      "lng": 28.6268,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "12.5",
+      "coordinates": [
+        28.6268,
+        36.9712
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.6268,
+            36.9712
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "ZAFERLER-KOYCEGIZ (MUGLA)",
+          "time": "2025.10.12 09:25:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.12",
+      "date_hour": "09:25:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.09 05:42:58",
-      "lat": 39.224,
-      "lng": 28.9712,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "17.6",
-      "coordinates": [
-        28.9712,
-        39.224
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9712,
-            39.224
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.10.09 05:42:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.09",
-      "date_hour": "05:42:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "KOLAK-CAMELI (DENIZLI)",
-      "type": "�lksel",
-      "date": "2025.10.09 05:42:21",
-      "lat": 37.0698,
-      "lng": 29.1817,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "7.8",
-      "coordinates": [
-        29.1817,
-        37.0698
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1817,
-            37.0698
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KOLAK-CAMELI (DENIZLI)",
-          "time": "2025.10.09 05:42:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.09",
-      "date_hour": "05:42:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
