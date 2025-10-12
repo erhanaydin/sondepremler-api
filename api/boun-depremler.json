@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-12T17:58:46.504Z",
+  "lastUpdate": "2025-10-12T18:27:55.153Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SUYUGUZEL-BALA (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.10.12 21:11:04",
+      "lat": 39.3638,
+      "lng": 33.1748,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        33.1748,
+        39.3638
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.1748,
+            39.3638
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "SUYUGUZEL-BALA (ANKARA)",
+          "time": "2025.10.12 21:11:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.12",
+      "date_hour": "21:11:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
+    },
+    {
+      "title": "SANCAK-(BINGOL)",
+      "type": "�lksel",
+      "date": "2025.10.12 21:02:37",
+      "lat": 39.0903,
+      "lng": 40.4115,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        40.4115,
+        39.0903
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.4115,
+            39.0903
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "SANCAK-(BINGOL)",
+          "time": "2025.10.12 21:02:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.12",
+      "date_hour": "21:02:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGOL"
+    },
     {
       "title": "HACIAHMETOGLU-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.09 12:04:05",
-      "lat": 39.2495,
-      "lng": 29.0122,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "10.1",
-      "coordinates": [
-        29.0122,
-        39.2495
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0122,
-            39.2495
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.10.09 12:04:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.09",
-      "date_hour": "12:04:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "CAKIRALAN-MILAS (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.10.09 12:00:52",
-      "lat": 37.0948,
-      "lng": 27.9238,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        27.9238,
-        37.0948
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9238,
-            37.0948
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "CAKIRALAN-MILAS (MUGLA)",
-          "time": "2025.10.09 12:00:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.09",
-      "date_hour": "12:00:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
