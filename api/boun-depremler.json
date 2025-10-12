@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-12T03:45:08.627Z",
+  "lastUpdate": "2025-10-12T03:54:02.353Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAYLASOGUT-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.10.12 06:40:58",
+      "lat": 37.1433,
+      "lng": 28.5898,
+      "md": "-.-",
+      "ml": "4.1",
+      "mw": "3.9",
+      "depth": "9.3",
+      "coordinates": [
+        28.5898,
+        37.1433
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.5898,
+            37.1433
+          ]
+        },
+        "properties": {
+          "mag": "4.1",
+          "place": "YAYLASOGUT-ULA (MUGLA)",
+          "time": "2025.10.12 06:40:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.12",
+      "date_hour": "06:40:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YEMISLIK-(ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.10.08 19:35:31",
-      "lat": 38.6,
-      "lng": 39.2117,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "8.0",
-      "coordinates": [
-        39.2117,
-        38.6
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.2117,
-            38.6
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YEMISLIK-(ELAZIG)",
-          "time": "2025.10.08 19:35:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.08",
-      "date_hour": "19:35:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
