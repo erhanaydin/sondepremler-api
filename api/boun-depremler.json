@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-13T23:42:17.709Z",
+  "lastUpdate": "2025-10-13T23:50:48.613Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.14 02:36:54",
+      "lat": 39.1975,
+      "lng": 28.0988,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "9.8",
+      "coordinates": [
+        28.0988,
+        39.1975
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0988,
+            39.1975
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.14 02:36:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.14",
+      "date_hour": "02:36:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "IBILLER-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KARAGUNDUZ (VAN)",
-      "type": "�lksel",
-      "date": "2025.10.10 06:22:53",
-      "lat": 38.7163,
-      "lng": 43.652,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        43.652,
-        38.7163
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.652,
-            38.7163
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KARAGUNDUZ (VAN)",
-          "time": "2025.10.10 06:22:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.10",
-      "date_hour": "06:22:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "VAN"
     }
   ]
 }
