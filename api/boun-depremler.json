@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-13T03:49:20.955Z",
+  "lastUpdate": "2025-10-13T03:59:33.316Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAKOCA-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.13 06:43:28",
+      "lat": 39.2678,
+      "lng": 28.915,
+      "md": "-.-",
+      "ml": "3.2",
+      "mw": "3.2",
+      "depth": "3.5",
+      "coordinates": [
+        28.915,
+        39.2678
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.915,
+            39.2678
+          ]
+        },
+        "properties": {
+          "mag": "3.2",
+          "place": "KARAKOCA-SIMAV (KUTAHYA)",
+          "time": "2025.10.13 06:43:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.13",
+      "date_hour": "06:43:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADIYAMAN"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.09 18:12:58",
-      "lat": 39.2367,
-      "lng": 28.998,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "6.9",
-      "coordinates": [
-        28.998,
-        39.2367
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.998,
-            39.2367
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.10.09 18:12:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.09",
-      "date_hour": "18:12:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
