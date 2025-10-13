@@ -1,5 +1,41 @@
 [
   {
+    "title": "Pazarcık (Kahramanmaraş)",
+    "type": "İlksel",
+    "date": "2025-10-11 08:20:59",
+    "lat": 37.31389,
+    "lng": 37.11722,
+    "md": "-.-",
+    "ml": "1.7",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      37.11722,
+      37.31389
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.11722,
+          37.31389
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Pazarcık (Kahramanmaraş) (Kahramanmaraş)",
+        "time": 1760170859000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-11",
+    "date_hour": "08:20:59",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kahramanmaraş"
+  },
+  {
     "title": "Marmara Denizi - [02.57 km] Marmara (Balıkesir)",
     "type": "İlksel",
     "date": "2025-10-11 08:00:32",
@@ -4143,23 +4179,23 @@
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2025-10-10 12:04:08",
-    "lat": 39.2825,
-    "lng": 28.97389,
+    "lat": 39.27722,
+    "lng": 28.96667,
     "md": "-.-",
-    "ml": "1.2",
+    "ml": "1.1",
     "mw": "-.-",
-    "depth": 7.16,
+    "depth": 7,
     "coordinates": [
-      28.97389,
-      39.2825
+      28.96667,
+      39.27722
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.97389,
-          39.2825
+          28.96667,
+          39.27722
         ]
       },
       "properties": {
@@ -4179,23 +4215,23 @@
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2025-10-10 12:04:08",
-    "lat": 39.27722,
-    "lng": 28.96667,
+    "lat": 39.2825,
+    "lng": 28.97389,
     "md": "-.-",
-    "ml": "1.1",
+    "ml": "1.2",
     "mw": "-.-",
-    "depth": 7,
+    "depth": 7.16,
     "coordinates": [
-      28.96667,
-      39.27722
+      28.97389,
+      39.2825
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.96667,
-          39.27722
+          28.97389,
+          39.2825
         ]
       },
       "properties": {
@@ -17962,41 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Kale (Malatya)",
-    "type": "İlksel",
-    "date": "2025-10-08 17:15:35",
-    "lat": 38.34583,
-    "lng": 38.87806,
-    "md": "-.-",
-    "ml": "1.9",
-    "mw": "-.-",
-    "depth": 11.9,
-    "coordinates": [
-      38.87806,
-      38.34583
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.87806,
-          38.34583
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Kale (Malatya) (Malatya)",
-        "time": 1759943735000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-10-08",
-    "date_hour": "17:15:35",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
   }
 ]
