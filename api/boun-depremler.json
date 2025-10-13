@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-13T11:39:45.616Z",
+  "lastUpdate": "2025-10-13T11:48:29.103Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HAMZABEY-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.13 14:33:42",
+      "lat": 39.2098,
+      "lng": 28.9307,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "15.5",
+      "coordinates": [
+        28.9307,
+        39.2098
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9307,
+            39.2098
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "HAMZABEY-SIMAV (KUTAHYA)",
+          "time": "2025.10.13 14:33:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.13",
+      "date_hour": "14:33:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "CANDARLI KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.10 02:10:03",
-      "lat": 39.1662,
-      "lng": 28.1535,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "17.7",
-      "coordinates": [
-        28.1535,
-        39.1662
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1535,
-            39.1662
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.10 02:10:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.10",
-      "date_hour": "02:10:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
