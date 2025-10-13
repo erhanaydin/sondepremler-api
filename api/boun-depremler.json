@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-13T13:17:28.592Z",
+  "lastUpdate": "2025-10-13T13:42:50.372Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.13 16:19:04",
+      "lat": 39.1945,
+      "lng": 28.1062,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "10.0",
+      "coordinates": [
+        28.1062,
+        39.1945
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1062,
+            39.1945
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.13 16:19:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.13",
+      "date_hour": "16:19:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "KIBRIS RUM KESIMI",
-      "type": "�lksel",
-      "date": "2025.10.10 03:13:12",
-      "lat": 35.114,
-      "lng": 32.4617,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "2.9",
-      "coordinates": [
-        32.4617,
-        35.114
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.4617,
-            35.114
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KIBRIS RUM KESIMI",
-          "time": "2025.10.10 03:13:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.10",
-      "date_hour": "03:13:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
