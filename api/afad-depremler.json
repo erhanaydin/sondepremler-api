@@ -1,5 +1,41 @@
 [
   {
+    "title": "Simav (Kütahya)",
+    "type": "İlksel",
+    "date": "2025-10-11 08:34:56",
+    "lat": 39.23111,
+    "lng": 28.97556,
+    "md": "-.-",
+    "ml": "0.8",
+    "mw": "-.-",
+    "depth": 7.81,
+    "coordinates": [
+      28.97556,
+      39.23111
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97556,
+          39.23111
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Simav (Kütahya) (Kütahya)",
+        "time": 1760171696000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-11",
+    "date_hour": "08:34:56",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
+  },
+  {
     "title": "Pazarcık (Kahramanmaraş)",
     "type": "İlksel",
     "date": "2025-10-11 08:20:59",
@@ -4179,23 +4215,23 @@
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2025-10-10 12:04:08",
-    "lat": 39.27722,
-    "lng": 28.96667,
+    "lat": 39.2825,
+    "lng": 28.97389,
     "md": "-.-",
-    "ml": "1.1",
+    "ml": "1.2",
     "mw": "-.-",
-    "depth": 7,
+    "depth": 7.16,
     "coordinates": [
-      28.96667,
-      39.27722
+      28.97389,
+      39.2825
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.96667,
-          39.27722
+          28.97389,
+          39.2825
         ]
       },
       "properties": {
@@ -4215,23 +4251,23 @@
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2025-10-10 12:04:08",
-    "lat": 39.2825,
-    "lng": 28.97389,
+    "lat": 39.27722,
+    "lng": 28.96667,
     "md": "-.-",
-    "ml": "1.2",
+    "ml": "1.1",
     "mw": "-.-",
-    "depth": 7.16,
+    "depth": 7,
     "coordinates": [
-      28.97389,
-      39.2825
+      28.96667,
+      39.27722
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.97389,
-          39.2825
+          28.96667,
+          39.27722
         ]
       },
       "properties": {
@@ -17962,41 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kahramanmaraş"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-10-08 17:39:20",
-    "lat": 39.27444,
-    "lng": 28.09361,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 6.61,
-    "coordinates": [
-      28.09361,
-      39.27444
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.09361,
-          39.27444
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1759945160000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-10-08",
-    "date_hour": "17:39:20",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
