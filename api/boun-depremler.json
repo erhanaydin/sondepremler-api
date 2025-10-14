@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-14T15:11:54.840Z",
+  "lastUpdate": "2025-10-14T15:32:12.794Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HACIHUSEYINLER-BASKIL (ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.10.14 18:06:55",
+      "lat": 38.4095,
+      "lng": 38.8808,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "3.4",
+      "coordinates": [
+        38.8808,
+        38.4095
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.8808,
+            38.4095
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "HACIHUSEYINLER-BASKIL (ELAZIG)",
+          "time": "2025.10.14 18:06:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.14",
+      "date_hour": "18:06:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "MIDILLI ADASI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MERSIN"
-    },
-    {
-      "title": "FINDIKLI-ORHANGAZI (BURSA)",
-      "type": "�lksel",
-      "date": "2025.10.10 12:28:17",
-      "lat": 40.4932,
-      "lng": 29.2732,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        29.2732,
-        40.4932
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.2732,
-            40.4932
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "FINDIKLI-ORHANGAZI (BURSA)",
-          "time": "2025.10.10 12:28:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.10",
-      "date_hour": "12:28:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
     }
   ]
 }
