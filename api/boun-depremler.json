@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-14T10:40:07.724Z",
+  "lastUpdate": "2025-10-14T10:50:28.003Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AYDINLAR-AKCADAG (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.10.14 13:12:55",
+      "lat": 38.3038,
+      "lng": 38.1015,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "20.2",
+      "coordinates": [
+        38.1015,
+        38.3038
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.1015,
+            38.3038
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "AYDINLAR-AKCADAG (MALATYA)",
+          "time": "2025.10.14 13:12:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.14",
+      "date_hour": "13:12:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "ALIBEYUSAGI-(KAHRAMANMARAS) REVIZE01 (2025.10.14",
       "type": "13:07:07)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "SOGUT-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.10 11:09:40",
-      "lat": 39.1382,
-      "lng": 29.0888,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "4.1",
-      "coordinates": [
-        29.0888,
-        39.1382
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0888,
-            39.1382
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "SOGUT-SIMAV (KUTAHYA)",
-          "time": "2025.10.10 11:09:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.10",
-      "date_hour": "11:09:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
