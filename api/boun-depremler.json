@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-14T20:43:28.898Z",
+  "lastUpdate": "2025-10-14T20:51:57.454Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -469,6 +469,78 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.10.14 19:17:45",
+      "lat": 36.342,
+      "lng": 28.8517,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "12.1",
+      "coordinates": [
+        28.8517,
+        36.342
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8517,
+            36.342
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "AKDENIZ",
+          "time": "2025.10.14 19:17:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.14",
+      "date_hour": "19:17:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "ISACA-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2025.10.14 19:11:05",
+      "lat": 39.144,
+      "lng": 28.0642,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "17.0",
+      "coordinates": [
+        28.0642,
+        39.144
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0642,
+            39.144
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "ISACA-AKHISAR (MANISA)",
+          "time": "2025.10.14 19:11:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.14",
+      "date_hour": "19:11:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
     },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "SAZOBA-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.10.10 14:44:40",
-      "lat": 38.809,
-      "lng": 27.8182,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        27.8182,
-        38.809
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.8182,
-            38.809
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "SAZOBA-AKHISAR (MANISA)",
-          "time": "2025.10.10 14:44:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.10",
-      "date_hour": "14:44:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
-    },
-    {
-      "title": "ULUKOY (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.10.10 14:27:51",
-      "lat": 38.1665,
-      "lng": 38.5583,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        38.5583,
-        38.1665
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.5583,
-            38.1665
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "ULUKOY (MALATYA)",
-          "time": "2025.10.10 14:27:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.10",
-      "date_hour": "14:27:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
