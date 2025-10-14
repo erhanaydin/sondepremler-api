@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-14T05:59:42.994Z",
+  "lastUpdate": "2025-10-14T06:36:03.851Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YENILER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.14 09:20:11",
+      "lat": 39.2342,
+      "lng": 28.936,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "19.2",
+      "coordinates": [
+        28.936,
+        39.2342
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.936,
+            39.2342
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YENILER-SIMAV (KUTAHYA)",
+          "time": "2025.10.14 09:20:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.14",
+      "date_hour": "09:20:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "IRISLER-DEMIRCI (MANISA)",
-      "type": "�lksel",
-      "date": "2025.10.10 09:54:30",
-      "lat": 39.0407,
-      "lng": 28.8725,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "24.9",
-      "coordinates": [
-        28.8725,
-        39.0407
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.8725,
-            39.0407
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "IRISLER-DEMIRCI (MANISA)",
-          "time": "2025.10.10 09:54:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.10",
-      "date_hour": "09:54:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
