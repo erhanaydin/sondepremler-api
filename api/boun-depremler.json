@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-14T07:00:01.563Z",
+  "lastUpdate": "2025-10-14T07:25:23.136Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.14 09:44:56",
+      "lat": 39.12,
+      "lng": 28.126,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        28.126,
+        39.12
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.126,
+            39.12
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.14 09:44:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.14",
+      "date_hour": "09:44:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "DEMIROREN-ANAMUR (MERSIN)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "BUYUKGECIT-ASKALE (ERZURUM)",
-      "type": "�lksel",
-      "date": "2025.10.10 10:04:19",
-      "lat": 39.9902,
-      "lng": 40.799,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        40.799,
-        39.9902
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.799,
-            39.9902
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "BUYUKGECIT-ASKALE (ERZURUM)",
-          "time": "2025.10.10 10:04:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.10",
-      "date_hour": "10:04:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZURUM"
     }
   ]
 }
