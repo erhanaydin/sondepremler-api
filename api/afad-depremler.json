@@ -1,5 +1,41 @@
 [
   {
+    "title": "Köyceğiz (Muğla)",
+    "type": "İlksel",
+    "date": "2025-10-12 05:58:32",
+    "lat": 37.0925,
+    "lng": 28.58417,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 12.31,
+    "coordinates": [
+      28.58417,
+      37.0925
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.58417,
+          37.0925
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Köyceğiz (Muğla) (Muğla)",
+        "time": 1760248712000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-12",
+    "date_hour": "05:58:32",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Muğla"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-10-12 05:32:33",
@@ -9759,23 +9795,23 @@
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2025-10-10 12:04:08",
-    "lat": 39.2825,
-    "lng": 28.97389,
+    "lat": 39.27722,
+    "lng": 28.96667,
     "md": "-.-",
-    "ml": "1.2",
+    "ml": "1.1",
     "mw": "-.-",
-    "depth": 7.16,
+    "depth": 7,
     "coordinates": [
-      28.97389,
-      39.2825
+      28.96667,
+      39.27722
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.97389,
-          39.2825
+          28.96667,
+          39.27722
         ]
       },
       "properties": {
@@ -9795,23 +9831,23 @@
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2025-10-10 12:04:08",
-    "lat": 39.27722,
-    "lng": 28.96667,
+    "lat": 39.2825,
+    "lng": 28.97389,
     "md": "-.-",
-    "ml": "1.1",
+    "ml": "1.2",
     "mw": "-.-",
-    "depth": 7,
+    "depth": 7.16,
     "coordinates": [
-      28.96667,
-      39.27722
+      28.97389,
+      39.2825
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.96667,
-          39.27722
+          28.97389,
+          39.2825
         ]
       },
       "properties": {
@@ -17962,41 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kütahya"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-10-09 08:44:50",
-    "lat": 39.16611,
-    "lng": 28.23944,
-    "md": "-.-",
-    "ml": "2.1",
-    "mw": "-.-",
-    "depth": 7.36,
-    "coordinates": [
-      28.23944,
-      39.16611
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.23944,
-          39.16611
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1759999490000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-10-09",
-    "date_hour": "08:44:50",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
