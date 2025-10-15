@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ege Denizi",
+    "type": "İlksel",
+    "date": "2025-10-14 04:57:13",
+    "lat": 39.30583,
+    "lng": 25.89111,
+    "md": "-.-",
+    "ml": "2.4",
+    "mw": "-.-",
+    "depth": 7.07,
+    "coordinates": [
+      25.89111,
+      39.30583
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.89111,
+          39.30583
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi (Çanakkale)",
+        "time": 1760417833000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-14",
+    "date_hour": "04:57:13",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Çanakkale"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-10-14 04:48:27",
@@ -17962,41 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kütahya"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-10-10 16:37:05",
-    "lat": 39.22333,
-    "lng": 28.0075,
-    "md": "-.-",
-    "ml": "0.9",
-    "mw": "-.-",
-    "depth": 12.83,
-    "coordinates": [
-      28.0075,
-      39.22333
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.0075,
-          39.22333
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1760114225000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-10-10",
-    "date_hour": "16:37:05",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
