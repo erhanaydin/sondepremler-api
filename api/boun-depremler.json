@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-15T23:46:13.090Z",
+  "lastUpdate": "2025-10-15T23:54:25.887Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.16 02:44:19",
+      "lat": 39.2452,
+      "lng": 29.0033,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "4.2",
+      "coordinates": [
+        29.0033,
+        39.2452
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0033,
+            39.2452
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.16 02:44:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "02:44:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "ASLANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.10.11 17:48:26",
-      "lat": 34.629,
-      "lng": 23.402,
-      "md": "-.-",
-      "ml": "2.9",
-      "mw": "-.-",
-      "depth": "19.8",
-      "coordinates": [
-        23.402,
-        34.629
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            23.402,
-            34.629
-          ]
-        },
-        "properties": {
-          "mag": "2.9",
-          "place": "GIRIT ADASI (AKDENIZ)",
-          "time": "2025.10.11 17:48:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.11",
-      "date_hour": "17:48:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
