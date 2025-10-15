@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-15T07:51:15.919Z",
+  "lastUpdate": "2025-10-15T07:59:37.912Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BESEVLER-SERDIVAN (SAKARYA)",
+      "type": "�lksel",
+      "date": "2025.10.15 10:12:50",
+      "lat": 40.8462,
+      "lng": 30.2453,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        30.2453,
+        40.8462
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2453,
+            40.8462
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "BESEVLER-SERDIVAN (SAKARYA)",
+          "time": "2025.10.15 10:12:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.15",
+      "date_hour": "10:12:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SAKARYA"
+    },
     {
       "title": "KIZILGUR-SINDIRGI (BALIKESIR) REVIZE01 (2025.10.15",
       "type": "09:21:47)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2025.10.11 01:48:39",
-      "lat": 40.7975,
-      "lng": 27.9738,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "2.2",
-      "coordinates": [
-        27.9738,
-        40.7975
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9738,
-            40.7975
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "MARMARA DENIZI",
-          "time": "2025.10.11 01:48:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.11",
-      "date_hour": "01:48:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
