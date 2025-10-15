@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-15T10:11:24.986Z",
+  "lastUpdate": "2025-10-15T10:36:22.239Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -217,6 +217,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
+    },
+    {
+      "title": "CAMLIBELEN-MILAS (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.10.15 12:00:21",
+      "lat": 37.2432,
+      "lng": 27.9132,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "10.1",
+      "coordinates": [
+        27.9132,
+        37.2432
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9132,
+            37.2432
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "CAMLIBELEN-MILAS (MUGLA)",
+          "time": "2025.10.15 12:00:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.15",
+      "date_hour": "12:00:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
     },
     {
       "title": "SOMA (MANISA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2025.10.11 03:36:48",
-      "lat": 40.811,
-      "lng": 27.8718,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "11.0",
-      "coordinates": [
-        27.8718,
-        40.811
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.8718,
-            40.811
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "MARMARA DENIZI",
-          "time": "2025.10.11 03:36:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.11",
-      "date_hour": "03:36:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
