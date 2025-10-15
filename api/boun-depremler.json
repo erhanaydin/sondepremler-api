@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-15T23:15:34.624Z",
+  "lastUpdate": "2025-10-15T23:28:15.120Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TEMURAGA-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.10.16 02:12:22",
+      "lat": 38.0513,
+      "lng": 36.5577,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "6.2",
+      "coordinates": [
+        36.5577,
+        38.0513
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.5577,
+            38.0513
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "TEMURAGA-GOKSUN (KAHRAMANMARAS)",
+          "time": "2025.10.16 02:12:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "02:12:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "BOREZ-GORDES (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.11 17:40:23",
-      "lat": 39.21,
-      "lng": 29.0168,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "15.8",
-      "coordinates": [
-        29.0168,
-        39.21
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0168,
-            39.21
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.10.11 17:40:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.11",
-      "date_hour": "17:40:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
