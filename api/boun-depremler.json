@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-15T13:41:20.046Z",
+  "lastUpdate": "2025-10-15T13:52:51.986Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YESILDERE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.15 16:41:17",
+      "lat": 39.269,
+      "lng": 28.9967,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        28.9967,
+        39.269
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9967,
+            39.269
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "YESILDERE-SIMAV (KUTAHYA)",
+          "time": "2025.10.15 16:41:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.15",
+      "date_hour": "16:41:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "ICME-(ELAZIG)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.11 08:51:34",
-      "lat": 39.1863,
-      "lng": 28.1903,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "8.6",
-      "coordinates": [
-        28.1903,
-        39.1863
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1903,
-            39.1863
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.11 08:51:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.11",
-      "date_hour": "08:51:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
