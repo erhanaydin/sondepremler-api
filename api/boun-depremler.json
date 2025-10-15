@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-15T19:55:12.096Z",
+  "lastUpdate": "2025-10-15T20:16:25.180Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CAPAR-SABANOZU (CANKIRI)",
+      "type": "�lksel",
+      "date": "2025.10.15 22:45:59",
+      "lat": 40.505,
+      "lng": 33.4188,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        33.4188,
+        40.505
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.4188,
+            40.505
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "CAPAR-SABANOZU (CANKIRI)",
+          "time": "2025.10.15 22:45:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.15",
+      "date_hour": "22:45:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANKIRI"
+    },
     {
       "title": "ASLANBEYCIFTLIGI-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "DAMLICA-DEMIROZU (BAYBURT)",
-      "type": "�lksel",
-      "date": "2025.10.11 14:18:35",
-      "lat": 39.9717,
-      "lng": 39.7938,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "9.0",
-      "coordinates": [
-        39.7938,
-        39.9717
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.7938,
-            39.9717
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "DAMLICA-DEMIROZU (BAYBURT)",
-          "time": "2025.10.11 14:18:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.11",
-      "date_hour": "14:18:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BAYBURT"
     }
   ]
 }
