@@ -1,7 +1,115 @@
 {
-  "lastUpdate": "2025-10-16T16:21:10.231Z",
+  "lastUpdate": "2025-10-16T16:43:02.057Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "VAN GOLU",
+      "type": "�lksel",
+      "date": "2025.10.16 19:33:21",
+      "lat": 38.566,
+      "lng": 43.161,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "23.0",
+      "coordinates": [
+        43.161,
+        38.566
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.161,
+            38.566
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "VAN GOLU",
+          "time": "2025.10.16 19:33:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "19:33:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "KAVAKCALI-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.10.16 19:23:12",
+      "lat": 37.0913,
+      "lng": 28.6225,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "7.4",
+      "coordinates": [
+        28.6225,
+        37.0913
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.6225,
+            37.0913
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KAVAKCALI-ULA (MUGLA)",
+          "time": "2025.10.16 19:23:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "19:23:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.16 19:21:24",
+      "lat": 39.2337,
+      "lng": 28.9837,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "10.2",
+      "coordinates": [
+        28.9837,
+        39.2337
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9837,
+            39.2337
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.16 19:21:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "19:21:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "CITOREN-(VAN)",
       "type": "�lksel",
@@ -17893,114 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2025.10.12 06:25:28",
-      "lat": 40.8037,
-      "lng": 27.925,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "7.9",
-      "coordinates": [
-        27.925,
-        40.8037
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.925,
-            40.8037
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "MARMARA DENIZI",
-          "time": "2025.10.12 06:25:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "06:25:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "KOYUNOBA-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.12 06:10:50",
-      "lat": 39.2348,
-      "lng": 28.9077,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "12.3",
-      "coordinates": [
-        28.9077,
-        39.2348
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9077,
-            39.2348
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KOYUNOBA-SIMAV (KUTAHYA)",
-          "time": "2025.10.12 06:10:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "06:10:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "KARACAOREN-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.12 06:09:06",
-      "lat": 39.2007,
-      "lng": 29.058,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "13.0",
-      "coordinates": [
-        29.058,
-        39.2007
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.058,
-            39.2007
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "KARACAOREN-SIMAV (KUTAHYA)",
-          "time": "2025.10.12 06:09:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "06:09:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
