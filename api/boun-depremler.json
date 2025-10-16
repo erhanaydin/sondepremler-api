@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-16T13:44:24.591Z",
+  "lastUpdate": "2025-10-16T13:54:19.348Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAVAKCALI-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.10.16 16:38:33",
+      "lat": 37.1123,
+      "lng": 28.6342,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "7.5",
+      "coordinates": [
+        28.6342,
+        37.1123
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.6342,
+            37.1123
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KAVAKCALI-ULA (MUGLA)",
+          "time": "2025.10.16 16:38:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "16:38:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -325,6 +361,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AYDIN"
+    },
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.10.16 14:58:00",
+      "lat": 40.7457,
+      "lng": 27.9167,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "11.9",
+      "coordinates": [
+        27.9167,
+        40.7457
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9167,
+            40.7457
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "MARMARA DENIZI",
+          "time": "2025.10.16 14:58:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "14:58:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KUP-ALADAG (ADANA)",
-      "type": "�lksel",
-      "date": "2025.10.12 04:32:00",
-      "lat": 37.648,
-      "lng": 35.4802,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        35.4802,
-        37.648
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.4802,
-            37.648
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "KUP-ALADAG (ADANA)",
-          "time": "2025.10.12 04:32:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "04:32:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
-    },
-    {
-      "title": "CIVRIL-YAZIHAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.10.12 04:24:07",
-      "lat": 38.5498,
-      "lng": 38.0323,
-      "md": "-.-",
-      "ml": "2.9",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        38.0323,
-        38.5498
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.0323,
-            38.5498
-          ]
-        },
-        "properties": {
-          "mag": "2.9",
-          "place": "CIVRIL-YAZIHAN (MALATYA)",
-          "time": "2025.10.12 04:24:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "04:24:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
