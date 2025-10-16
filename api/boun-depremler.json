@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-16T09:37:53.564Z",
+  "lastUpdate": "2025-10-16T09:47:59.400Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -363,6 +363,42 @@
       "city": "MUGLA"
     },
     {
+      "title": "HEKIMHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.10.16 09:39:46",
+      "lat": 38.8162,
+      "lng": 37.9307,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "11.8",
+      "coordinates": [
+        37.9307,
+        38.8162
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.9307,
+            38.8162
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "HEKIMHAN (MALATYA)",
+          "time": "2025.10.16 09:39:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "09:39:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
       "title": "TOPARLAR-KOYCEGIZ (MUGLA)",
       "type": "�lksel",
       "date": "2025.10.16 09:37:47",
@@ -433,6 +469,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
+    },
+    {
+      "title": "DEGIRMENDERE-SAPHANE (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.16 09:32:51",
+      "lat": 39.0622,
+      "lng": 29.251,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "9.5",
+      "coordinates": [
+        29.251,
+        39.0622
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.251,
+            39.0622
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "DEGIRMENDERE-SAPHANE (KUTAHYA)",
+          "time": "2025.10.16 09:32:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "09:32:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "KAVAKCALI-ULA (MUGLA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
-    },
-    {
-      "title": "KAYALIDERE-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.12 01:35:09",
-      "lat": 39.2562,
-      "lng": 28.8947,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "17.7",
-      "coordinates": [
-        28.8947,
-        39.2562
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.8947,
-            39.2562
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "KAYALIDERE-SIMAV (KUTAHYA)",
-          "time": "2025.10.12 01:35:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "01:35:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.10.12 01:30:16",
-      "lat": 34.7087,
-      "lng": 24.5962,
-      "md": "-.-",
-      "ml": "3.1",
-      "mw": "-.-",
-      "depth": "11.1",
-      "coordinates": [
-        24.5962,
-        34.7087
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.5962,
-            34.7087
-          ]
-        },
-        "properties": {
-          "mag": "3.1",
-          "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-          "time": "2025.10.12 01:30:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "01:30:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
