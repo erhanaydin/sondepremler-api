@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-16T09:47:59.400Z",
+  "lastUpdate": "2025-10-16T09:56:29.797Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.16 12:44:22",
+      "lat": 39.2043,
+      "lng": 28.1735,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "8.4",
+      "coordinates": [
+        28.1735,
+        39.2043
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1735,
+            39.2043
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.16 12:44:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "12:44:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KARAKOCA-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -541,6 +577,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
+    },
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.16 09:16:34",
+      "lat": 39.212,
+      "lng": 29.021,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "11.3",
+      "coordinates": [
+        29.021,
+        39.212
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.021,
+            39.212
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.10.16 09:16:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "09:16:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "ALHANUSAGI-(MALATYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2025.10.12 01:41:03",
-      "lat": 40.8512,
-      "lng": 28.2692,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "8.5",
-      "coordinates": [
-        28.2692,
-        40.8512
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2692,
-            40.8512
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-          "time": "2025.10.12 01:41:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "01:41:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "DEMREK-HASSA (HATAY)",
-      "type": "�lksel",
-      "date": "2025.10.12 01:38:13",
-      "lat": 36.6675,
-      "lng": 36.42,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "6.7",
-      "coordinates": [
-        36.42,
-        36.6675
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.42,
-            36.6675
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "DEMREK-HASSA (HATAY)",
-          "time": "2025.10.12 01:38:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "01:38:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
