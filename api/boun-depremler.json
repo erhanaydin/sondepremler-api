@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-16T14:49:19.092Z",
+  "lastUpdate": "2025-10-16T14:57:40.431Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAVAKCALI-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.10.16 17:38:24",
+      "lat": 37.0607,
+      "lng": 28.6562,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "24.5",
+      "coordinates": [
+        28.6562,
+        37.0607
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.6562,
+            37.0607
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KAVAKCALI-ULA (MUGLA)",
+          "time": "2025.10.16 17:38:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "17:38:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "TOKMANAKLI-FEKE (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "HAMZABEY-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.12 05:17:34",
-      "lat": 39.2168,
-      "lng": 28.9547,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "15.5",
-      "coordinates": [
-        28.9547,
-        39.2168
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9547,
-            39.2168
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "HAMZABEY-SIMAV (KUTAHYA)",
-          "time": "2025.10.12 05:17:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "05:17:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
