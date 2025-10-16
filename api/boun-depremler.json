@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-16T19:54:41.189Z",
+  "lastUpdate": "2025-10-16T20:14:15.536Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SOMA (MANISA)",
+      "type": "�lksel",
+      "date": "2025.10.16 23:04:45",
+      "lat": 39.171,
+      "lng": 27.6322,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "13.4",
+      "coordinates": [
+        27.6322,
+        39.171
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.6322,
+            39.171
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "SOMA (MANISA)",
+          "time": "2025.10.16 23:04:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "23:04:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.12 09:54:57",
-      "lat": 39.1567,
-      "lng": 28.138,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "11.5",
-      "coordinates": [
-        28.138,
-        39.1567
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.138,
-            39.1567
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.12 09:54:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "09:54:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
