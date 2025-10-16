@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-16T20:14:15.536Z",
+  "lastUpdate": "2025-10-16T20:32:52.978Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.16 23:19:23",
+      "lat": 39.2265,
+      "lng": 28.1208,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "7.4",
+      "coordinates": [
+        28.1208,
+        39.2265
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1208,
+            39.2265
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.16 23:19:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "23:19:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.16 23:06:18",
+      "lat": 39.234,
+      "lng": 29.0237,
+      "md": "-.-",
+      "ml": "0.9",
+      "mw": "-.-",
+      "depth": "13.0",
+      "coordinates": [
+        29.0237,
+        39.234
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0237,
+            39.234
+          ]
+        },
+        "properties": {
+          "mag": "0.9",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.16 23:06:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "23:06:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "SOMA (MANISA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "DAGBELI-DOSEMEALTI (ANTALYA)",
-      "type": "�lksel",
-      "date": "2025.10.12 10:05:25",
-      "lat": 37.1743,
-      "lng": 30.4933,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "6.7",
-      "coordinates": [
-        30.4933,
-        37.1743
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.4933,
-            37.1743
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "DAGBELI-DOSEMEALTI (ANTALYA)",
-          "time": "2025.10.12 10:05:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "10:05:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANTALYA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.12 10:02:09",
-      "lat": 39.216,
-      "lng": 28.968,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "10.9",
-      "coordinates": [
-        28.968,
-        39.216
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.968,
-            39.216
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.10.12 10:02:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "10:02:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
