@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-16T21:49:38.908Z",
+  "lastUpdate": "2025-10-16T21:57:57.940Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.17 00:47:52",
+      "lat": 39.2598,
+      "lng": 28.9738,
+      "md": "-.-",
+      "ml": "0.8",
+      "mw": "-.-",
+      "depth": "12.5",
+      "coordinates": [
+        28.9738,
+        39.2598
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9738,
+            39.2598
+          ]
+        },
+        "properties": {
+          "mag": "0.8",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.17 00:47:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.17",
+      "date_hour": "00:47:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "ARICILAR-ULA (MUGLA)",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.10.17 00:20:45",
+      "lat": 36.2928,
+      "lng": 28.7395,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "9.0",
+      "coordinates": [
+        28.7395,
+        36.2928
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.7395,
+            36.2928
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "AKDENIZ",
+          "time": "2025.10.17 00:20:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.17",
+      "date_hour": "00:20:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "HAYDARIYE-GEMLIK (BURSA)",
-      "type": "�lksel",
-      "date": "2025.10.12 13:05:20",
-      "lat": 40.4927,
-      "lng": 29.1442,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        29.1442,
-        40.4927
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1442,
-            40.4927
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "HAYDARIYE-GEMLIK (BURSA)",
-          "time": "2025.10.12 13:05:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "13:05:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
-    },
-    {
-      "title": "BASKONAK-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.12 12:53:40",
-      "lat": 39.0962,
-      "lng": 29.1638,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "17.2",
-      "coordinates": [
-        29.1638,
-        39.0962
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1638,
-            39.0962
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "BASKONAK-SIMAV (KUTAHYA)",
-          "time": "2025.10.12 12:53:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "12:53:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
