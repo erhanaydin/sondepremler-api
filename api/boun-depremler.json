@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-16T16:43:02.057Z",
+  "lastUpdate": "2025-10-16T16:55:19.144Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKCALIUSAGI-KOZAN (ADANA)",
+      "type": "�lksel",
+      "date": "2025.10.16 19:39:32",
+      "lat": 37.6967,
+      "lng": 36.061,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "24.8",
+      "coordinates": [
+        36.061,
+        37.6967
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.061,
+            37.6967
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "AKCALIUSAGI-KOZAN (ADANA)",
+          "time": "2025.10.16 19:39:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "19:39:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "VAN GOLU",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "ARICILAR-ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.10.12 06:40:58",
-      "lat": 37.1043,
-      "lng": 28.6052,
-      "md": "-.-",
-      "ml": "4.0",
-      "mw": "4.0",
-      "depth": "9.1",
-      "coordinates": [
-        28.6052,
-        37.1043
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.6052,
-            37.1043
-          ]
-        },
-        "properties": {
-          "mag": "4.0",
-          "place": "ARICILAR-ULA (MUGLA)",
-          "time": "2025.10.12 06:40:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "06:40:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
