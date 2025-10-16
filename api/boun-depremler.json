@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-16T15:56:04.517Z",
+  "lastUpdate": "2025-10-16T16:21:10.231Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CITOREN-(VAN)",
+      "type": "�lksel",
+      "date": "2025.10.16 19:14:12",
+      "lat": 38.6118,
+      "lng": 43.1603,
+      "md": "-.-",
+      "ml": "3.5",
+      "mw": "3.5",
+      "depth": "5.0",
+      "coordinates": [
+        43.1603,
+        38.6118
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.1603,
+            38.6118
+          ]
+        },
+        "properties": {
+          "mag": "3.5",
+          "place": "CITOREN-(VAN)",
+          "time": "2025.10.16 19:14:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "19:14:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "VAN"
+    },
+    {
+      "title": "ARICILAR-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.10.16 18:47:50",
+      "lat": 37.1003,
+      "lng": 28.6088,
+      "md": "-.-",
+      "ml": "3.2",
+      "mw": "3.2",
+      "depth": "5.8",
+      "coordinates": [
+        28.6088,
+        37.1003
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.6088,
+            37.1003
+          ]
+        },
+        "properties": {
+          "mag": "3.2",
+          "place": "ARICILAR-ULA (MUGLA)",
+          "time": "2025.10.16 18:47:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "18:47:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "KARAKOCA-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.12 06:08:37",
-      "lat": 39.249,
-      "lng": 28.9668,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "12.6",
-      "coordinates": [
-        28.9668,
-        39.249
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9668,
-            39.249
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.10.12 06:08:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "06:08:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.12 05:55:18",
-      "lat": 39.1918,
-      "lng": 28.1275,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "8.6",
-      "coordinates": [
-        28.1275,
-        39.1918
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1275,
-            39.1918
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.12 05:55:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "05:55:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
