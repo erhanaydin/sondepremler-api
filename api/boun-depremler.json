@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-16T14:35:16.826Z",
+  "lastUpdate": "2025-10-16T14:49:19.092Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TOKMANAKLI-FEKE (ADANA)",
+      "type": "�lksel",
+      "date": "2025.10.16 17:36:22",
+      "lat": 37.7248,
+      "lng": 36.0687,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        36.0687,
+        37.7248
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.0687,
+            37.7248
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "TOKMANAKLI-FEKE (ADANA)",
+          "time": "2025.10.16 17:36:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "17:36:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "ARICILAR-ULA (MUGLA)",
       "type": "�lksel",
@@ -145,6 +181,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "YALOVA"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.10.16 16:45:36",
+      "lat": 35.6777,
+      "lng": 27.9528,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        27.9528,
+        35.6777
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9528,
+            35.6777
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "AKDENIZ",
+          "time": "2025.10.16 16:45:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "16:45:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "KAVAKCALI-ULA (MUGLA)",
@@ -17926,78 +17998,6 @@
       "location_properties": "",
       "date_day": "2025.10.12",
       "date_hour": "05:17:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.12 05:14:21",
-      "lat": 39.1742,
-      "lng": 28.1578,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "9.3",
-      "coordinates": [
-        28.1578,
-        39.1742
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1578,
-            39.1742
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.12 05:14:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "05:14:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.12 05:01:55",
-      "lat": 39.2232,
-      "lng": 29.0062,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "10.8",
-      "coordinates": [
-        29.0062,
-        39.2232
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0062,
-            39.2232
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.10.12 05:01:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "05:01:55",
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
