@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-16T04:57:11.196Z",
+  "lastUpdate": "2025-10-16T05:18:18.184Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ARICILAR-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.10.16 08:01:24",
+      "lat": 37.0977,
+      "lng": 28.5993,
+      "md": "-.-",
+      "ml": "3.4",
+      "mw": "3.3",
+      "depth": "5.0",
+      "coordinates": [
+        28.5993,
+        37.0977
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.5993,
+            37.0977
+          ]
+        },
+        "properties": {
+          "mag": "3.4",
+          "place": "ARICILAR-ULA (MUGLA)",
+          "time": "2025.10.16 08:01:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "08:01:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
+    {
+      "title": "DAGDERE-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2025.10.16 08:01:01",
+      "lat": 38.9992,
+      "lng": 28.1138,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "25.0",
+      "coordinates": [
+        28.1138,
+        38.9992
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1138,
+            38.9992
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "DAGDERE-AKHISAR (MANISA)",
+          "time": "2025.10.16 08:01:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.16",
+      "date_hour": "08:01:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KADILI-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.10.11 21:31:10",
-      "lat": 38.0083,
-      "lng": 37.7958,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "12.1",
-      "coordinates": [
-        37.7958,
-        38.0083
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.7958,
-            38.0083
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KADILI-DOGANSEHIR (MALATYA)",
-          "time": "2025.10.11 21:31:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.11",
-      "date_hour": "21:31:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.11 21:10:32",
-      "lat": 39.1517,
-      "lng": 28.1882,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "9.8",
-      "coordinates": [
-        28.1882,
-        39.1517
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1882,
-            39.1517
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "AKTAS-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.11 21:10:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.11",
-      "date_hour": "21:10:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
