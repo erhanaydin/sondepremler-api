@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-17T09:12:05.934Z",
+  "lastUpdate": "2025-10-17T09:31:22.545Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDERE-SILIFKE (MERSIN)",
+      "type": "�lksel",
+      "date": "2025.10.17 12:18:25",
+      "lat": 36.2675,
+      "lng": 33.7243,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        33.7243,
+        36.2675
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.7243,
+            36.2675
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "AKDERE-SILIFKE (MERSIN)",
+          "time": "2025.10.17 12:18:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.17",
+      "date_hour": "12:18:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MERSIN"
+    },
     {
       "title": "GUZELYURT-(KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.12 22:44:02",
-      "lat": 39.257,
-      "lng": 28.9523,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "4.8",
-      "coordinates": [
-        28.9523,
-        39.257
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9523,
-            39.257
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "KARAKOCA-SIMAV (KUTAHYA)",
-          "time": "2025.10.12 22:44:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "22:44:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
