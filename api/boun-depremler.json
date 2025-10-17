@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-17T09:51:32.805Z",
+  "lastUpdate": "2025-10-17T09:59:30.917Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.17 12:47:37",
+      "lat": 39.1792,
+      "lng": 28.138,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "8.4",
+      "coordinates": [
+        28.138,
+        39.1792
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.138,
+            39.1792
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.17 12:47:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.17",
+      "date_hour": "12:47:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA) REVIZE01 (2025.10.17",
       "type": "12:29:35)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "NIGDE"
-    },
-    {
-      "title": "CETIBELI-MARMARIS (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.10.12 23:08:17",
-      "lat": 36.9722,
-      "lng": 28.3055,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "55.5",
-      "coordinates": [
-        28.3055,
-        36.9722
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3055,
-            36.9722
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "CETIBELI-MARMARIS (MUGLA)",
-          "time": "2025.10.12 23:08:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "23:08:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
