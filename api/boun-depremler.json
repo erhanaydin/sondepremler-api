@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-17T13:35:45.682Z",
+  "lastUpdate": "2025-10-17T13:46:39.243Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+      "type": "�lksel",
+      "date": "2025.10.17 16:34:01",
+      "lat": 40.6735,
+      "lng": 27.5188,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "9.7",
+      "coordinates": [
+        27.5188,
+        40.6735
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.5188,
+            40.6735
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+          "time": "2025.10.17 16:34:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.17",
+      "date_hour": "16:34:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARMARA DENIZI"
+    },
     {
       "title": "KARAAGIL-HISARCIK (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "GUNEYKOY-SIVRICE (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.10.12 23:49:25",
-      "lat": 38.4742,
-      "lng": 39.3508,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.5",
-      "coordinates": [
-        39.3508,
-        38.4742
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.3508,
-            38.4742
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "GUNEYKOY-SIVRICE (ELAZIG)",
-          "time": "2025.10.12 23:49:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "23:49:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
