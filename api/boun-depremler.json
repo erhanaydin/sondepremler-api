@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-17T03:54:07.178Z",
+  "lastUpdate": "2025-10-17T04:14:26.483Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.10.17 06:55:48",
+      "lat": 35.5587,
+      "lng": 23.5453,
+      "md": "-.-",
+      "ml": "3.9",
+      "mw": "-.-",
+      "depth": "7.0",
+      "coordinates": [
+        23.5453,
+        35.5587
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.5453,
+            35.5587
+          ]
+        },
+        "properties": {
+          "mag": "3.9",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2025.10.17 06:55:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.17",
+      "date_hour": "06:55:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KARABOGURTLEN-ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.10.12 16:36:09",
-      "lat": 37.0287,
-      "lng": 28.542,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "16.7",
-      "coordinates": [
-        28.542,
-        37.0287
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.542,
-            37.0287
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KARABOGURTLEN-ULA (MUGLA)",
-          "time": "2025.10.12 16:36:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "16:36:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
