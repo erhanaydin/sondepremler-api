@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-17T05:32:34.350Z",
+  "lastUpdate": "2025-10-17T05:43:11.540Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.17 08:23:44",
+      "lat": 39.2638,
+      "lng": 28.978,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        28.978,
+        39.2638
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.978,
+            39.2638
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.17 08:23:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.17",
+      "date_hour": "08:23:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KUSSARAY-(CORUM)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "SANCAK-(BINGOL)",
-      "type": "�lksel",
-      "date": "2025.10.12 21:02:37",
-      "lat": 39.0903,
-      "lng": 40.4115,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        40.4115,
-        39.0903
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.4115,
-            39.0903
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "SANCAK-(BINGOL)",
-          "time": "2025.10.12 21:02:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "21:02:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
