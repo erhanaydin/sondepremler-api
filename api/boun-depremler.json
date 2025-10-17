@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-17T08:40:26.442Z",
+  "lastUpdate": "2025-10-17T08:53:29.782Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GUZELYURT-(KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.10.17 11:34:52",
+      "lat": 37.4908,
+      "lng": 37.0325,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "6.5",
+      "coordinates": [
+        37.0325,
+        37.4908
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.0325,
+            37.4908
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "GUZELYURT-(KAHRAMANMARAS)",
+          "time": "2025.10.17 11:34:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.17",
+      "date_hour": "11:34:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "SOGANLI-AHLAT (BITLIS)",
+      "type": "�lksel",
+      "date": "2025.10.17 10:10:35",
+      "lat": 38.6903,
+      "lng": 42.6398,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        42.6398,
+        38.6903
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            42.6398,
+            38.6903
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "SOGANLI-AHLAT (BITLIS)",
+          "time": "2025.10.17 10:10:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.17",
+      "date_hour": "10:10:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BITLIS"
     },
     {
       "title": "YESILKOY-YAHYALI (KAYSERI)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.12 21:58:18",
-      "lat": 39.2528,
-      "lng": 28.9232,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "12.0",
-      "coordinates": [
-        28.9232,
-        39.2528
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9232,
-            39.2528
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KARAKOCA-SIMAV (KUTAHYA)",
-          "time": "2025.10.12 21:58:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "21:58:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "DOGUSBELEN-KOYCEGIZ (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.10.12 21:48:47",
-      "lat": 37.001,
-      "lng": 28.6125,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "13.8",
-      "coordinates": [
-        28.6125,
-        37.001
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.6125,
-            37.001
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "DOGUSBELEN-KOYCEGIZ (MUGLA)",
-          "time": "2025.10.12 21:48:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "21:48:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
