@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-17T06:36:48.788Z",
+  "lastUpdate": "2025-10-17T06:51:51.421Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAYALIDERE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.17 09:39:45",
+      "lat": 39.2752,
+      "lng": 28.8857,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        28.8857,
+        39.2752
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8857,
+            39.2752
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "KAYALIDERE-SIMAV (KUTAHYA)",
+          "time": "2025.10.17 09:39:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.17",
+      "date_hour": "09:39:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "SUYUGUZEL-BALA (ANKARA)",
-      "type": "�lksel",
-      "date": "2025.10.12 21:11:04",
-      "lat": 39.3638,
-      "lng": 33.1748,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        33.1748,
-        39.3638
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.1748,
-            39.3638
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "SUYUGUZEL-BALA (ANKARA)",
-          "time": "2025.10.12 21:11:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.12",
-      "date_hour": "21:11:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
