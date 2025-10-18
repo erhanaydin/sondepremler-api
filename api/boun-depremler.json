@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-18T19:56:29.814Z",
+  "lastUpdate": "2025-10-18T20:16:52.723Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+      "type": "�lksel",
+      "date": "2025.10.18 22:54:35",
+      "lat": 40.747,
+      "lng": 27.5163,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "12.0",
+      "coordinates": [
+        27.5163,
+        40.747
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.5163,
+            40.747
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+          "time": "2025.10.18 22:54:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.18",
+      "date_hour": "22:54:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARMARA DENIZI"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KURTULUS-SILIFKE (MERSIN)",
-      "type": "�lksel",
-      "date": "2025.10.13 23:12:36",
-      "lat": 36.302,
-      "lng": 34.0453,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "8.9",
-      "coordinates": [
-        34.0453,
-        36.302
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.0453,
-            36.302
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "KURTULUS-SILIFKE (MERSIN)",
-          "time": "2025.10.13 23:12:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.13",
-      "date_hour": "23:12:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
     }
   ]
 }
