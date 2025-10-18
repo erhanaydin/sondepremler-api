@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-18T07:52:36.025Z",
+  "lastUpdate": "2025-10-18T08:10:40.120Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.18 10:33:08",
+      "lat": 39.236,
+      "lng": 28.0447,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "13.1",
+      "coordinates": [
+        28.0447,
+        39.236
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0447,
+            39.236
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.18 10:33:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.18",
+      "date_hour": "10:33:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "KORU-CINARCIK (YALOVA)",
-      "type": "�lksel",
-      "date": "2025.10.13 12:34:15",
-      "lat": 40.6717,
-      "lng": 29.2023,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        29.2023,
-        40.6717
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.2023,
-            40.6717
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "KORU-CINARCIK (YALOVA)",
-          "time": "2025.10.13 12:34:15"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.13",
-      "date_hour": "12:34:15",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "YALOVA"
     }
   ]
 }
