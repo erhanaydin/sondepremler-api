@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-18T12:18:31.474Z",
+  "lastUpdate": "2025-10-18T12:54:45.628Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.18 14:57:30",
+      "lat": 39.1387,
+      "lng": 28.2715,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "2.1",
+      "coordinates": [
+        28.2715,
+        39.1387
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2715,
+            39.1387
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.18 14:57:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.18",
+      "date_hour": "14:57:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.10.18 14:07:44",
+      "lat": 36.1612,
+      "lng": 25.7887,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "28.6",
+      "coordinates": [
+        25.7887,
+        36.1612
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.7887,
+            36.1612
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "EGE DENIZI",
+          "time": "2025.10.18 14:07:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.18",
+      "date_hour": "14:07:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "BAZLAMA-KARAKOCAN (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.10.13 19:13:21",
-      "lat": 39.0917,
-      "lng": 40.1938,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "16.3",
-      "coordinates": [
-        40.1938,
-        39.0917
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.1938,
-            39.0917
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BAZLAMA-KARAKOCAN (ELAZIG)",
-          "time": "2025.10.13 19:13:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.13",
-      "date_hour": "19:13:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
-    },
-    {
-      "title": "HISARKALE-DARENDE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.10.13 18:57:44",
-      "lat": 38.4712,
-      "lng": 37.7117,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        37.7117,
-        38.4712
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.7117,
-            38.4712
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "HISARKALE-DARENDE (MALATYA)",
-          "time": "2025.10.13 18:57:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.13",
-      "date_hour": "18:57:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
