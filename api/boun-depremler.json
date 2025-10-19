@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-19T07:37:53.345Z",
+  "lastUpdate": "2025-10-19T07:46:02.866Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.19 10:30:19",
+      "lat": 39.2417,
+      "lng": 29.0337,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "12.5",
+      "coordinates": [
+        29.0337,
+        39.2417
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0337,
+            39.2417
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KATRANDAGI-EMET (KUTAHYA)",
+          "time": "2025.10.19 10:30:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.19",
+      "date_hour": "10:30:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KINIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "DALAMAN ACIKLARI-MUGLA (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.10.14 14:58:06",
-      "lat": 36.628,
-      "lng": 28.6905,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "9.3",
-      "coordinates": [
-        28.6905,
-        36.628
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.6905,
-            36.628
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "DALAMAN ACIKLARI-MUGLA (AKDENIZ)",
-          "time": "2025.10.14 14:58:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.14",
-      "date_hour": "14:58:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
