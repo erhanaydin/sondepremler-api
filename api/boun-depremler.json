@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-19T13:40:24.353Z",
+  "lastUpdate": "2025-10-19T13:48:43.666Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -469,6 +469,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.10.19 14:24:34",
+      "lat": 39.3527,
+      "lng": 25.913,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "13.4",
+      "coordinates": [
+        25.913,
+        39.3527
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.913,
+            39.3527
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+          "time": "2025.10.19 14:24:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.19",
+      "date_hour": "14:24:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
     },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.10.14 21:58:50",
-      "lat": 36.6713,
-      "lng": 25.7088,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "8.4",
-      "coordinates": [
-        25.7088,
-        36.6713
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.7088,
-            36.6713
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "EGE DENIZI",
-          "time": "2025.10.14 21:58:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.14",
-      "date_hour": "21:58:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
