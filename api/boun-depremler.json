@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-19T14:30:34.439Z",
+  "lastUpdate": "2025-10-19T14:40:49.359Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.19 17:28:27",
+      "lat": 39.2098,
+      "lng": 28.9693,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "12.9",
+      "coordinates": [
+        28.9693,
+        39.2098
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9693,
+            39.2098
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.10.19 17:28:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.19",
+      "date_hour": "17:28:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "KAYALIDERE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.19 17:00:01",
+      "lat": 39.2407,
+      "lng": 28.9102,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "9.1",
+      "coordinates": [
+        28.9102,
+        39.2407
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9102,
+            39.2407
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KAYALIDERE-SIMAV (KUTAHYA)",
+          "time": "2025.10.19 17:00:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.19",
+      "date_hour": "17:00:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ORDEKKOY-AFSIN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.10.14 22:07:31",
-      "lat": 38.185,
-      "lng": 36.8582,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "3.7",
-      "coordinates": [
-        36.8582,
-        38.185
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.8582,
-            38.185
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "ORDEKKOY-AFSIN (KAHRAMANMARAS)",
-          "time": "2025.10.14 22:07:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.14",
-      "date_hour": "22:07:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "ANTALYA KORFEZI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.10.14 22:01:46",
-      "lat": 36.401,
-      "lng": 31.5377,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "76.4",
-      "coordinates": [
-        31.5377,
-        36.401
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.5377,
-            36.401
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "ANTALYA KORFEZI (AKDENIZ)",
-          "time": "2025.10.14 22:01:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.14",
-      "date_hour": "22:01:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
