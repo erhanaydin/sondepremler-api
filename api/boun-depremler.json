@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-19T09:44:22.950Z",
+  "lastUpdate": "2025-10-19T09:52:28.354Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOLCUK-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.10.19 12:43:34",
+      "lat": 37.1315,
+      "lng": 28.5642,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "18.7",
+      "coordinates": [
+        28.5642,
+        37.1315
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.5642,
+            37.1315
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "GOLCUK-ULA (MUGLA)",
+          "time": "2025.10.19 12:43:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.19",
+      "date_hour": "12:43:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.19 12:32:47",
+      "lat": 39.2467,
+      "lng": 29.0033,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "10.3",
+      "coordinates": [
+        29.0033,
+        39.2467
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0033,
+            39.2467
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.19 12:32:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.19",
+      "date_hour": "12:32:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.14 18:15:02",
-      "lat": 39.1602,
-      "lng": 28.1785,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "19.7",
-      "coordinates": [
-        28.1785,
-        39.1602
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1785,
-            39.1602
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "AKTAS-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.14 18:15:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.14",
-      "date_hour": "18:15:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "HACIHUSEYINLER-BASKIL (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.10.14 18:06:55",
-      "lat": 38.4095,
-      "lng": 38.8808,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "3.4",
-      "coordinates": [
-        38.8808,
-        38.4095
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.8808,
-            38.4095
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "HACIHUSEYINLER-BASKIL (ELAZIG)",
-          "time": "2025.10.14 18:06:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.14",
-      "date_hour": "18:06:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
