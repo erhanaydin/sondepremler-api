@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-19T08:53:19.053Z",
+  "lastUpdate": "2025-10-19T09:09:41.202Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.19 12:00:32",
+      "lat": 39.2348,
+      "lng": 29.0032,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        29.0032,
+        39.2348
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0032,
+            39.2348
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.19 12:00:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.19",
+      "date_hour": "12:00:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BOLU"
-    },
-    {
-      "title": "DUDAS-BEYPAZARI (ANKARA)",
-      "type": "�lksel",
-      "date": "2025.10.14 17:24:01",
-      "lat": 40.2953,
-      "lng": 31.6715,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "6.9",
-      "coordinates": [
-        31.6715,
-        40.2953
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.6715,
-            40.2953
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "DUDAS-BEYPAZARI (ANKARA)",
-          "time": "2025.10.14 17:24:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.14",
-      "date_hour": "17:24:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
