@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-19T11:24:52.159Z",
+  "lastUpdate": "2025-10-19T11:34:44.295Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.19 14:28:08",
+      "lat": 39.2405,
+      "lng": 28.9725,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "12.5",
+      "coordinates": [
+        28.9725,
+        39.2405
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9725,
+            39.2405
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.19 14:28:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.19",
+      "date_hour": "14:28:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YENILER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.14 18:38:34",
-      "lat": 39.243,
-      "lng": 28.9413,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "11.1",
-      "coordinates": [
-        28.9413,
-        39.243
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9413,
-            39.243
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YENILER-SIMAV (KUTAHYA)",
-          "time": "2025.10.14 18:38:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.14",
-      "date_hour": "18:38:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
