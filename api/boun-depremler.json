@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-19T19:24:15.965Z",
+  "lastUpdate": "2025-10-19T19:34:08.455Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YESILDERE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.19 22:16:17",
+      "lat": 39.2563,
+      "lng": 29.011,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "6.9",
+      "coordinates": [
+        29.011,
+        39.2563
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.011,
+            39.2563
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "YESILDERE-SIMAV (KUTAHYA)",
+          "time": "2025.10.19 22:16:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.19",
+      "date_hour": "22:16:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "TOKMANAKLI-FEKE (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "TOKAT-HISARCIK (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.15 02:00:15",
-      "lat": 39.1925,
-      "lng": 29.085,
-      "md": "-.-",
-      "ml": "0.7",
-      "mw": "-.-",
-      "depth": "2.4",
-      "coordinates": [
-        29.085,
-        39.1925
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.085,
-            39.1925
-          ]
-        },
-        "properties": {
-          "mag": "0.7",
-          "place": "TOKAT-HISARCIK (KUTAHYA)",
-          "time": "2025.10.15 02:00:15"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.15",
-      "date_hour": "02:00:15",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
