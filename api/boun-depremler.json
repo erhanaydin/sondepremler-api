@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-19T17:45:29.334Z",
+  "lastUpdate": "2025-10-19T17:53:39.498Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ARIKONAK-SINCIK (ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2025.10.19 20:37:15",
+      "lat": 38.1343,
+      "lng": 38.5775,
+      "md": "-.-",
+      "ml": "3.0",
+      "mw": "-.-",
+      "depth": "1.7",
+      "coordinates": [
+        38.5775,
+        38.1343
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.5775,
+            38.1343
+          ]
+        },
+        "properties": {
+          "mag": "3.0",
+          "place": "ARIKONAK-SINCIK (ADIYAMAN)",
+          "time": "2025.10.19 20:37:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.19",
+      "date_hour": "20:37:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
+    },
     {
       "title": "TORUN-ANDIRIN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZURUM"
-    },
-    {
-      "title": "TUZLA-AYVACIK (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.10.14 22:23:03",
-      "lat": 39.5683,
-      "lng": 26.1223,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "11.6",
-      "coordinates": [
-        26.1223,
-        39.5683
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.1223,
-            39.5683
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "TUZLA-AYVACIK (CANAKKALE)",
-          "time": "2025.10.14 22:23:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.14",
-      "date_hour": "22:23:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
