@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-19T19:42:22.040Z",
+  "lastUpdate": "2025-10-19T19:50:48.134Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -145,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "GIRMELER-FETHIYE (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.10.19 21:08:24",
+      "lat": 36.5895,
+      "lng": 29.4125,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        29.4125,
+        36.5895
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.4125,
+            36.5895
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "GIRMELER-FETHIYE (MUGLA)",
+          "time": "2025.10.19 21:08:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.19",
+      "date_hour": "21:08:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
     },
     {
       "title": "PURSUNLER-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "OTMANLAR-KOYCEGIZ (MUGLA) REVIZE01 (2025.10.15",
-      "type": "02:26:27)",
-      "date": "2025.10.15 02:26:27",
-      "lat": 37.1247,
-      "lng": 28.9093,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "2.4",
-      "coordinates": [
-        28.9093,
-        37.1247
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9093,
-            37.1247
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "OTMANLAR-KOYCEGIZ (MUGLA) REVIZE01 (2025.10.15",
-          "time": "2025.10.15 02:26:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.15",
-      "date_hour": "02:26:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
