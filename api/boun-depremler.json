@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-19T06:42:57.865Z",
+  "lastUpdate": "2025-10-19T06:51:45.966Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
+    },
+    {
+      "title": "GURCISTAN",
+      "type": "�lksel",
+      "date": "2025.10.19 09:21:47",
+      "lat": 41.3362,
+      "lng": 43.9067,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "7.2",
+      "coordinates": [
+        43.9067,
+        41.3362
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.9067,
+            41.3362
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "GURCISTAN",
+          "time": "2025.10.19 09:21:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.19",
+      "date_hour": "09:21:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "KOCAKAGAN-AKHISAR (MANISA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "AKTOPRAK-GOLBASI (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.10.14 13:44:05",
-      "lat": 37.8495,
-      "lng": 37.6657,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "13.0",
-      "coordinates": [
-        37.6657,
-        37.8495
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.6657,
-            37.8495
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "AKTOPRAK-GOLBASI (ADIYAMAN)",
-          "time": "2025.10.14 13:44:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.14",
-      "date_hour": "13:44:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
