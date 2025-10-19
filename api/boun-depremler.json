@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-19T06:51:45.966Z",
+  "lastUpdate": "2025-10-19T06:59:55.659Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.19 09:45:39",
+      "lat": 39.2385,
+      "lng": 29.0158,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "11.7",
+      "coordinates": [
+        29.0158,
+        39.2385
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0158,
+            39.2385
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.19 09:45:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.19",
+      "date_hour": "09:45:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KIYRA-ULA (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BITLIS"
-    },
-    {
-      "title": "HEKIMHAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.10.14 13:56:49",
-      "lat": 38.8157,
-      "lng": 37.9142,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "11.4",
-      "coordinates": [
-        37.9142,
-        38.8157
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.9142,
-            38.8157
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "HEKIMHAN (MALATYA)",
-          "time": "2025.10.14 13:56:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.14",
-      "date_hour": "13:56:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
