@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-19T06:59:55.659Z",
+  "lastUpdate": "2025-10-19T07:20:26.476Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ILICA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.19 09:54:32",
+      "lat": 39.1943,
+      "lng": 28.26,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "13.1",
+      "coordinates": [
+        28.26,
+        39.1943
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.26,
+            39.1943
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "ILICA-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.19 09:54:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.19",
+      "date_hour": "09:54:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "AKCAOREN-AHLAT (BITLIS)",
-      "type": "�lksel",
-      "date": "2025.10.14 14:11:02",
-      "lat": 38.922,
-      "lng": 42.4675,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "3.2",
-      "depth": "5.0",
-      "coordinates": [
-        42.4675,
-        38.922
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.4675,
-            38.922
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "AKCAOREN-AHLAT (BITLIS)",
-          "time": "2025.10.14 14:11:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.14",
-      "date_hour": "14:11:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BITLIS"
     }
   ]
 }
