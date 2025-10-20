@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-20T10:45:16.935Z",
+  "lastUpdate": "2025-10-20T10:51:38.004Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALIFAKI-KIRKAGAC (MANISA)",
+      "type": "�lksel",
+      "date": "2025.10.20 13:34:48",
+      "lat": 39.1008,
+      "lng": 27.857,
+      "md": "-.-",
+      "ml": "0.8",
+      "mw": "-.-",
+      "depth": "15.9",
+      "coordinates": [
+        27.857,
+        39.1008
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.857,
+            39.1008
+          ]
+        },
+        "properties": {
+          "mag": "0.8",
+          "place": "ALIFAKI-KIRKAGAC (MANISA)",
+          "time": "2025.10.20 13:34:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.20",
+      "date_hour": "13:34:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "ISACA-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KERTIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.15 21:47:57",
-      "lat": 39.2065,
-      "lng": 28.1073,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "12.2",
-      "coordinates": [
-        28.1073,
-        39.2065
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1073,
-            39.2065
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KERTIL-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.15 21:47:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.15",
-      "date_hour": "21:47:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
