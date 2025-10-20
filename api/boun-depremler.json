@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-20T06:22:38.301Z",
+  "lastUpdate": "2025-10-20T06:47:30.042Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.20 09:34:06",
+      "lat": 39.1508,
+      "lng": 28.0933,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "22.2",
+      "coordinates": [
+        28.0933,
+        39.1508
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0933,
+            39.1508
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.20 09:34:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.20",
+      "date_hour": "09:34:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "KAVAKCALI-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.10.20 09:21:44",
+      "lat": 37.1078,
+      "lng": 28.699,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        28.699,
+        37.1078
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.699,
+            37.1078
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "KAVAKCALI-ULA (MUGLA)",
+          "time": "2025.10.20 09:21:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.20",
+      "date_hour": "09:21:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "KOCAKAGAN-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.10.15 14:49:32",
-      "lat": 39.0888,
-      "lng": 28.0788,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        28.0788,
-        39.0888
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0788,
-            39.0888
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KOCAKAGAN-AKHISAR (MANISA)",
-          "time": "2025.10.15 14:49:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.15",
-      "date_hour": "14:49:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
-    },
-    {
-      "title": "KINIK-KIRKAGAC (MANISA)",
-      "type": "�lksel",
-      "date": "2025.10.15 14:45:51",
-      "lat": 39.2055,
-      "lng": 27.8598,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        27.8598,
-        39.2055
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.8598,
-            39.2055
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "KINIK-KIRKAGAC (MANISA)",
-          "time": "2025.10.15 14:45:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.15",
-      "date_hour": "14:45:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
