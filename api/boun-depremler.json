@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-20T16:20:13.438Z",
+  "lastUpdate": "2025-10-20T16:42:34.864Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.10.20 19:24:13",
+      "lat": 35.6867,
+      "lng": 28.2193,
+      "md": "-.-",
+      "ml": "3.2",
+      "mw": "3.2",
+      "depth": "29.6",
+      "coordinates": [
+        28.2193,
+        35.6867
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2193,
+            35.6867
+          ]
+        },
+        "properties": {
+          "mag": "3.2",
+          "place": "AKDENIZ",
+          "time": "2025.10.20 19:24:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.20",
+      "date_hour": "19:24:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "SISAM ADASI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.10.20 19:07:14",
+      "lat": 37.7748,
+      "lng": 26.8885,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.9",
+      "coordinates": [
+        26.8885,
+        37.7748
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.8885,
+            37.7748
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "SISAM ADASI (EGE DENIZI)",
+          "time": "2025.10.20 19:07:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.20",
+      "date_hour": "19:07:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "UCGOZE-YESILYURT (MALATYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "KERTIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.16 04:24:32",
-      "lat": 39.1877,
-      "lng": 28.0977,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "3.3",
-      "coordinates": [
-        28.0977,
-        39.1877
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0977,
-            39.1877
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KERTIL-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.16 04:24:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.16",
-      "date_hour": "04:24:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.16 04:14:41",
-      "lat": 39.166,
-      "lng": 28.2035,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        28.2035,
-        39.166
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2035,
-            39.166
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "AKTAS-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.16 04:14:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.16",
-      "date_hour": "04:14:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
