@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-20T23:43:31.820Z",
+  "lastUpdate": "2025-10-20T23:52:00.731Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.21 02:37:36",
+      "lat": 39.1418,
+      "lng": 28.1095,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "11.8",
+      "coordinates": [
+        28.1095,
+        39.1418
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1095,
+            39.1418
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.21 02:37:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "02:37:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "CAYKOY-PUTURGE (MALATYA)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.21 02:24:47",
+      "lat": 39.1902,
+      "lng": 29.012,
+      "md": "-.-",
+      "ml": "0.7",
+      "mw": "-.-",
+      "depth": "15.2",
+      "coordinates": [
+        29.012,
+        39.1902
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.012,
+            39.1902
+          ]
+        },
+        "properties": {
+          "mag": "0.7",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.10.21 02:24:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "02:24:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "ORTACA-SIMAV (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "SINIRTEKE-INCIRLIOVA (AYDIN)",
-      "type": "�lksel",
-      "date": "2025.10.16 15:01:18",
-      "lat": 37.8408,
-      "lng": 27.6585,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        27.6585,
-        37.8408
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.6585,
-            37.8408
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "SINIRTEKE-INCIRLIOVA (AYDIN)",
-          "time": "2025.10.16 15:01:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.16",
-      "date_hour": "15:01:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AYDIN"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2025.10.16 14:58:00",
-      "lat": 40.7457,
-      "lng": 27.9167,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "11.9",
-      "coordinates": [
-        27.9167,
-        40.7457
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9167,
-            40.7457
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "MARMARA DENIZI",
-          "time": "2025.10.16 14:58:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.16",
-      "date_hour": "14:58:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
