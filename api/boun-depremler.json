@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-20T22:35:58.893Z",
+  "lastUpdate": "2025-10-20T22:44:40.146Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -111,6 +111,42 @@
       "city": "KUTAHYA"
     },
     {
+      "title": "GOLOVA-MENDERES (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.10.21 00:45:23",
+      "lat": 37.9877,
+      "lng": 27.2098,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "20.5",
+      "coordinates": [
+        27.2098,
+        37.9877
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.2098,
+            37.9877
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "GOLOVA-MENDERES (IZMIR)",
+          "time": "2025.10.21 00:45:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "00:45:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
+    {
       "title": "GIRIT ADASI (AKDENIZ)",
       "type": "�lksel",
       "date": "2025.10.21 00:41:30",
@@ -145,6 +181,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
+    },
+    {
+      "title": "IZMIR KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.10.21 00:24:48",
+      "lat": 38.4058,
+      "lng": 26.6497,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "12.0",
+      "coordinates": [
+        26.6497,
+        38.4058
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.6497,
+            38.4058
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "IZMIR KORFEZI (EGE DENIZI)",
+          "time": "2025.10.21 00:24:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "00:24:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
     },
     {
       "title": "SOGUT-SIMAV (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.16 11:00:13",
-      "lat": 39.2215,
-      "lng": 28.1063,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "7.7",
-      "coordinates": [
-        28.1063,
-        39.2215
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1063,
-            39.2215
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.16 11:00:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.16",
-      "date_hour": "11:00:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "YAYLASOGUT-ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.10.16 10:36:30",
-      "lat": 37.1485,
-      "lng": 28.5967,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "8.8",
-      "coordinates": [
-        28.5967,
-        37.1485
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.5967,
-            37.1485
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "YAYLASOGUT-ULA (MUGLA)",
-          "time": "2025.10.16 10:36:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.16",
-      "date_hour": "10:36:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
