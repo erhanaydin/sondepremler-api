@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-20T10:59:38.975Z",
+  "lastUpdate": "2025-10-20T11:21:34.442Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "PASALI-FEKE (ADANA)",
+      "type": "�lksel",
+      "date": "2025.10.20 13:56:20",
+      "lat": 37.7765,
+      "lng": 35.9812,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        35.9812,
+        37.7765
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.9812,
+            37.7765
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "PASALI-FEKE (ADANA)",
+          "time": "2025.10.20 13:56:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.20",
+      "date_hour": "13:56:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "KABAKOZ-GORDES (MANISA)",
       "type": "�lksel",
@@ -181,6 +217,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
+    },
+    {
+      "title": "CUKURLU-SUNGURLU (CORUM)",
+      "type": "�lksel",
+      "date": "2025.10.20 13:32:16",
+      "lat": 40.0587,
+      "lng": 34.3463,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "8.7",
+      "coordinates": [
+        34.3463,
+        40.0587
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.3463,
+            40.0587
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "CUKURLU-SUNGURLU (CORUM)",
+          "time": "2025.10.20 13:32:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.20",
+      "date_hour": "13:32:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CORUM"
     },
     {
       "title": "ISIKLAR-ALASEHIR (MANISA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANKIRI"
-    },
-    {
-      "title": "ASLANBEYCIFTLIGI-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.10.15 22:34:31",
-      "lat": 38.0043,
-      "lng": 36.55,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        36.55,
-        38.0043
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.55,
-            38.0043
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "ASLANBEYCIFTLIGI-GOKSUN (KAHRAMANMARAS)",
-          "time": "2025.10.15 22:34:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.15",
-      "date_hour": "22:34:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.15 22:32:10",
-      "lat": 39.2205,
-      "lng": 28.9922,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "12.2",
-      "coordinates": [
-        28.9922,
-        39.2205
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9922,
-            39.2205
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.10.15 22:32:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.15",
-      "date_hour": "22:32:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
