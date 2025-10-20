@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-20T06:57:41.098Z",
+  "lastUpdate": "2025-10-20T07:20:22.016Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARABOGURTLEN-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.10.20 10:02:40",
+      "lat": 37.0352,
+      "lng": 28.531,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "4.9",
+      "coordinates": [
+        28.531,
+        37.0352
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.531,
+            37.0352
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KARABOGURTLEN-ULA (MUGLA)",
+          "time": "2025.10.20 10:02:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.20",
+      "date_hour": "10:02:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
+    {
+      "title": "RODOS ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.10.20 09:58:11",
+      "lat": 36.1047,
+      "lng": 28.0762,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "2.5",
+      "coordinates": [
+        28.0762,
+        36.1047
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0762,
+            36.1047
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "RODOS ADASI (AKDENIZ)",
+          "time": "2025.10.20 09:58:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.20",
+      "date_hour": "09:58:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KARACAKAS-SOMA (MANISA)",
-      "type": "�lksel",
-      "date": "2025.10.15 15:02:59",
-      "lat": 39.2182,
-      "lng": 27.813,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        27.813,
-        39.2182
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.813,
-            39.2182
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "KARACAKAS-SOMA (MANISA)",
-          "time": "2025.10.15 15:02:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.15",
-      "date_hour": "15:02:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
-    },
-    {
-      "title": "KOCABAS-HONAZ (DENIZLI)",
-      "type": "�lksel",
-      "date": "2025.10.15 14:53:30",
-      "lat": 37.8473,
-      "lng": 29.349,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "19.2",
-      "coordinates": [
-        29.349,
-        37.8473
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.349,
-            37.8473
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "KOCABAS-HONAZ (DENIZLI)",
-          "time": "2025.10.15 14:53:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.15",
-      "date_hour": "14:53:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
