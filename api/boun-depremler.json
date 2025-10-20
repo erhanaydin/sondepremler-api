@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-20T08:36:00.842Z",
+  "lastUpdate": "2025-10-20T08:56:25.228Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KONYA"
+    },
+    {
+      "title": "GUNDEGER-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.10.20 11:12:49",
+      "lat": 38.2987,
+      "lng": 38.8592,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "4.5",
+      "coordinates": [
+        38.8592,
+        38.2987
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.8592,
+            38.2987
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "GUNDEGER-PUTURGE (MALATYA)",
+          "time": "2025.10.20 11:12:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.20",
+      "date_hour": "11:12:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "OTMANLAR-KOYCEGIZ (MUGLA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2025.10.15 17:50:41",
-      "lat": 40.8213,
-      "lng": 28.7672,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "14.6",
-      "coordinates": [
-        28.7672,
-        40.8213
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7672,
-            40.8213
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "MARMARA DENIZI",
-          "time": "2025.10.15 17:50:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.15",
-      "date_hour": "17:50:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
