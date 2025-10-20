@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-20T16:42:34.864Z",
+  "lastUpdate": "2025-10-20T16:53:59.020Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "ALACAM-KESTEL (BURSA)",
+      "type": "�lksel",
+      "date": "2025.10.20 19:18:03",
+      "lat": 40.1245,
+      "lng": 29.3038,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        29.3038,
+        40.1245
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.3038,
+            40.1245
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ALACAM-KESTEL (BURSA)",
+          "time": "2025.10.20 19:18:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.20",
+      "date_hour": "19:18:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
     },
     {
       "title": "SISAM ADASI (EGE DENIZI)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BALCILAR-KOYCEGIZ (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.10.16 04:36:10",
-      "lat": 37.0618,
-      "lng": 28.555,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "15.1",
-      "coordinates": [
-        28.555,
-        37.0618
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.555,
-            37.0618
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "BALCILAR-KOYCEGIZ (MUGLA)",
-          "time": "2025.10.16 04:36:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.16",
-      "date_hour": "04:36:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
