@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-20T21:00:27.892Z",
+  "lastUpdate": "2025-10-20T21:23:43.476Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.20 23:36:19",
+      "lat": 39.1557,
+      "lng": 28.2597,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "11.6",
+      "coordinates": [
+        28.2597,
+        39.1557
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2597,
+            39.1557
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.20 23:36:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.20",
+      "date_hour": "23:36:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KOZLU-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -682,6 +718,42 @@
       "location_properties": "",
       "date_day": "2025.10.20",
       "date_hour": "19:58:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.10.20 19:38:13",
+      "lat": 35.4192,
+      "lng": 28.5203,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "6.7",
+      "coordinates": [
+        28.5203,
+        35.4192
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.5203,
+            35.4192
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "AKDENIZ",
+          "time": "2025.10.20 19:38:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.20",
+      "date_hour": "19:38:13",
       "timestamp": false,
       "location_tz": "",
       "city": ""
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "BALCILAR-KOYCEGIZ (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.10.16 09:33:01",
-      "lat": 37.0885,
-      "lng": 28.5838,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "13.2",
-      "coordinates": [
-        28.5838,
-        37.0885
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.5838,
-            37.0885
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "BALCILAR-KOYCEGIZ (MUGLA)",
-          "time": "2025.10.16 09:33:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.16",
-      "date_hour": "09:33:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
-    },
-    {
-      "title": "DEGIRMENDERE-SAPHANE (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.16 09:32:51",
-      "lat": 39.0622,
-      "lng": 29.251,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.5",
-      "coordinates": [
-        29.251,
-        39.0622
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.251,
-            39.0622
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "DEGIRMENDERE-SAPHANE (KUTAHYA)",
-          "time": "2025.10.16 09:32:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.16",
-      "date_hour": "09:32:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
