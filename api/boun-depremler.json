@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-20T04:15:38.067Z",
+  "lastUpdate": "2025-10-20T04:39:41.600Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BUYUKBOLATLI-SUNGURLU (CORUM)",
+      "type": "�lksel",
+      "date": "2025.10.20 07:29:47",
+      "lat": 40.0415,
+      "lng": 34.2713,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.5",
+      "coordinates": [
+        34.2713,
+        40.0415
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.2713,
+            40.0415
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "BUYUKBOLATLI-SUNGURLU (CORUM)",
+          "time": "2025.10.20 07:29:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.20",
+      "date_hour": "07:29:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CORUM"
+    },
     {
       "title": "AGCASAR-NURHAK (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.10.20 06:39:05",
+      "lat": 35.2703,
+      "lng": 27.195,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "12.7",
+      "coordinates": [
+        27.195,
+        35.2703
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.195,
+            35.2703
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "AKDENIZ",
+          "time": "2025.10.20 06:39:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.20",
+      "date_hour": "06:39:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.15 13:31:08",
-      "lat": 39.2317,
-      "lng": 29.058,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "2.3",
-      "coordinates": [
-        29.058,
-        39.2317
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.058,
-            39.2317
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.10.15 13:31:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.15",
-      "date_hour": "13:31:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "GOCEK-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.10.15 13:21:27",
-      "lat": 38.917,
-      "lng": 28.0545,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "20.3",
-      "coordinates": [
-        28.0545,
-        38.917
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0545,
-            38.917
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "GOCEK-AKHISAR (MANISA)",
-          "time": "2025.10.15 13:21:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.15",
-      "date_hour": "13:21:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
