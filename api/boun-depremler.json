@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-20T17:42:20.520Z",
+  "lastUpdate": "2025-10-20T17:50:26.891Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YARBASI-GOLBASI (ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2025.10.20 20:25:43",
+      "lat": 37.7713,
+      "lng": 37.6677,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        37.6677,
+        37.7713
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.6677,
+            37.7713
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "YARBASI-GOLBASI (ADIYAMAN)",
+          "time": "2025.10.20 20:25:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.20",
+      "date_hour": "20:25:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
+    },
     {
       "title": "GUZELKOY-DOGANSEHIR (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.10.16 05:50:28",
-      "lat": 34.7472,
-      "lng": 29.1908,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "10.6",
-      "coordinates": [
-        29.1908,
-        34.7472
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1908,
-            34.7472
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "AKDENIZ",
-          "time": "2025.10.16 05:50:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.16",
-      "date_hour": "05:50:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
