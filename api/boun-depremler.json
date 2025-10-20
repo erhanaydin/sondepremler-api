@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-20T21:43:02.890Z",
+  "lastUpdate": "2025-10-20T21:51:31.539Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SOGUT-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.21 00:15:34",
+      "lat": 39.1482,
+      "lng": 29.0677,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "8.2",
+      "coordinates": [
+        29.0677,
+        39.1482
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0677,
+            39.1482
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "SOGUT-SIMAV (KUTAHYA)",
+          "time": "2025.10.21 00:15:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "00:15:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "YAYLASOGUT-ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.10.16 09:45:07",
-      "lat": 37.1527,
-      "lng": 28.6,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "20.0",
-      "coordinates": [
-        28.6,
-        37.1527
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.6,
-            37.1527
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YAYLASOGUT-ULA (MUGLA)",
-          "time": "2025.10.16 09:45:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.16",
-      "date_hour": "09:45:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
