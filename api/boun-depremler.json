@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-20T15:38:58.790Z",
+  "lastUpdate": "2025-10-20T15:47:34.469Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CAKILOBA-BEYPAZARI (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.10.20 17:46:31",
+      "lat": 40.1862,
+      "lng": 31.8177,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "8.0",
+      "coordinates": [
+        31.8177,
+        40.1862
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.8177,
+            40.1862
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "CAKILOBA-BEYPAZARI (ANKARA)",
+          "time": "2025.10.20 17:46:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.20",
+      "date_hour": "17:46:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
+    },
     {
       "title": "SINCAN-DORTYOL (HATAY)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.16 02:44:19",
-      "lat": 39.2452,
-      "lng": 29.0033,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "4.2",
-      "coordinates": [
-        29.0033,
-        39.2452
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0033,
-            39.2452
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.10.16 02:44:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.16",
-      "date_hour": "02:44:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
