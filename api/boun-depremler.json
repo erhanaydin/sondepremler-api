@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-21T13:08:40.110Z",
+  "lastUpdate": "2025-10-21T13:44:06.243Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.10.21 16:00:25",
+      "lat": 40.779,
+      "lng": 27.984,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        27.984,
+        40.779
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.984,
+            40.779
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "MARMARA DENIZI",
+          "time": "2025.10.21 16:00:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "16:00:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "BALCILAR-KOYCEGIZ (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.10.21 15:29:01",
+      "lat": 37.0602,
+      "lng": 28.5975,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "4.6",
+      "coordinates": [
+        28.5975,
+        37.0602
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.5975,
+            37.0602
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "BALCILAR-KOYCEGIZ (MUGLA)",
+          "time": "2025.10.21 15:29:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "15:29:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "BALIKESIR",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "GOLBAGI-CELIKHAN (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.10.17 02:47:56",
-      "lat": 38.0615,
-      "lng": 38.2032,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "14.6",
-      "coordinates": [
-        38.2032,
-        38.0615
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.2032,
-            38.0615
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "GOLBAGI-CELIKHAN (ADIYAMAN)",
-          "time": "2025.10.17 02:47:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "02:47:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
-    },
-    {
-      "title": "GAZELLER-(MUGLA)",
-      "type": "�lksel",
-      "date": "2025.10.17 02:46:23",
-      "lat": 37.3035,
-      "lng": 28.6743,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "12.6",
-      "coordinates": [
-        28.6743,
-        37.3035
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.6743,
-            37.3035
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "GAZELLER-(MUGLA)",
-          "time": "2025.10.17 02:46:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "02:46:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
