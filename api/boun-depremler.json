@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-21T06:17:20.278Z",
+  "lastUpdate": "2025-10-21T06:45:34.350Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAKOCA-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.21 09:18:05",
+      "lat": 39.2655,
+      "lng": 28.9535,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "14.1",
+      "coordinates": [
+        28.9535,
+        39.2655
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9535,
+            39.2655
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "KARAKOCA-SIMAV (KUTAHYA)",
+          "time": "2025.10.21 09:18:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "09:18:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "KARAGOL-CELIKHAN (ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2025.10.21 09:14:23",
+      "lat": 38.1057,
+      "lng": 38.437,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "6.8",
+      "coordinates": [
+        38.437,
+        38.1057
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.437,
+            38.1057
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "KARAGOL-CELIKHAN (ADIYAMAN)",
+          "time": "2025.10.21 09:14:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "09:14:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "TOKAT-HISARCIK (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.16 22:26:46",
-      "lat": 39.183,
-      "lng": 29.0853,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "12.3",
-      "coordinates": [
-        29.0853,
-        39.183
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0853,
-            39.183
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "TOKAT-HISARCIK (KUTAHYA)",
-          "time": "2025.10.16 22:26:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.16",
-      "date_hour": "22:26:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "GULUMUSAGI-(MALATYA)",
-      "type": "�lksel",
-      "date": "2025.10.16 22:22:12",
-      "lat": 38.2387,
-      "lng": 38.5717,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "12.6",
-      "coordinates": [
-        38.5717,
-        38.2387
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.5717,
-            38.2387
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "GULUMUSAGI-(MALATYA)",
-          "time": "2025.10.16 22:22:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.16",
-      "date_hour": "22:22:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
