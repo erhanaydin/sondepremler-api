@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-21T03:44:01.521Z",
+  "lastUpdate": "2025-10-21T03:55:44.968Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SULUCA-TOSYA (KASTAMONU)",
+      "type": "�lksel",
+      "date": "2025.10.21 06:44:03",
+      "lat": 41.0213,
+      "lng": 33.9137,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        33.9137,
+        41.0213
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.9137,
+            41.0213
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "SULUCA-TOSYA (KASTAMONU)",
+          "time": "2025.10.21 06:44:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "06:44:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KASTAMONU"
+    },
     {
       "title": "YARBASI-GOLBASI (ADIYAMAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YAYLA-KOYCEGIZ (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.10.16 21:04:25",
-      "lat": 37.083,
-      "lng": 28.7888,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "16.4",
-      "coordinates": [
-        28.7888,
-        37.083
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7888,
-            37.083
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YAYLA-KOYCEGIZ (MUGLA)",
-          "time": "2025.10.16 21:04:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.16",
-      "date_hour": "21:04:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
