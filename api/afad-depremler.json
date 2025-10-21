@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ege Denizi - [14.95 km] Foça (İzmir)",
+    "type": "İlksel",
+    "date": "2025-10-20 01:46:25",
+    "lat": 38.80389,
+    "lng": 26.66917,
+    "md": "-.-",
+    "ml": "1.2",
+    "mw": "-.-",
+    "depth": 7.01,
+    "coordinates": [
+      26.66917,
+      38.80389
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.66917,
+          38.80389
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi - [14.95 km] Foça (İzmir) (İzmir)",
+        "time": 1760924785000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-20",
+    "date_hour": "01:46:25",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "İzmir"
+  },
+  {
     "title": "Akdeniz - [57.63 km] Demre (Antalya)",
     "type": "İlksel",
     "date": "2025-10-20 01:35:21",
@@ -15483,23 +15519,23 @@
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-10-17 01:27:31",
-    "lat": 39.19472,
-    "lng": 28.19,
+    "lat": 39.22333,
+    "lng": 28.17806,
     "md": "-.-",
-    "ml": "0.9",
+    "ml": "1",
     "mw": "-.-",
-    "depth": 5.69,
+    "depth": 8.35,
     "coordinates": [
-      28.19,
-      39.19472
+      28.17806,
+      39.22333
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.19,
-          39.19472
+          28.17806,
+          39.22333
         ]
       },
       "properties": {
@@ -15519,23 +15555,23 @@
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-10-17 01:27:31",
-    "lat": 39.22333,
-    "lng": 28.17806,
+    "lat": 39.19472,
+    "lng": 28.19,
     "md": "-.-",
-    "ml": "1",
+    "ml": "0.9",
     "mw": "-.-",
-    "depth": 8.35,
+    "depth": 5.69,
     "coordinates": [
-      28.17806,
-      39.22333
+      28.19,
+      39.19472
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.17806,
-          39.22333
+          28.19,
+          39.19472
         ]
       },
       "properties": {
@@ -17962,41 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Şanlıurfa"
-  },
-  {
-    "title": "Tuşba (Van)",
-    "type": "İlksel",
-    "date": "2025-10-16 16:14:13",
-    "lat": 38.62417,
-    "lng": 43.13333,
-    "md": "-.-",
-    "ml": "3.4",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      43.13333,
-      38.62417
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.13333,
-          38.62417
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Tuşba (Van) (Van)",
-        "time": 1760631253000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-10-16",
-    "date_hour": "16:14:13",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Van"
   }
 ]
