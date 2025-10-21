@@ -1,5 +1,41 @@
 [
   {
+    "title": "Göksun (Kahramanmaraş)",
+    "type": "İlksel",
+    "date": "2025-10-20 01:33:33",
+    "lat": 37.96028,
+    "lng": 36.23972,
+    "md": "-.-",
+    "ml": "2.2",
+    "mw": "-.-",
+    "depth": 5.51,
+    "coordinates": [
+      36.23972,
+      37.96028
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.23972,
+          37.96028
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Göksun (Kahramanmaraş) (Kahramanmaraş)",
+        "time": 1760924013000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-20",
+    "date_hour": "01:33:33",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kahramanmaraş"
+  },
+  {
     "title": "Hekimhan (Malatya)",
     "type": "İlksel",
     "date": "2025-10-20 01:30:13",
@@ -15411,23 +15447,23 @@
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-10-17 01:27:31",
-    "lat": 39.19472,
-    "lng": 28.19,
+    "lat": 39.22333,
+    "lng": 28.17806,
     "md": "-.-",
-    "ml": "0.9",
+    "ml": "1",
     "mw": "-.-",
-    "depth": 5.69,
+    "depth": 8.35,
     "coordinates": [
-      28.19,
-      39.19472
+      28.17806,
+      39.22333
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.19,
-          39.19472
+          28.17806,
+          39.22333
         ]
       },
       "properties": {
@@ -15447,23 +15483,23 @@
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-10-17 01:27:31",
-    "lat": 39.22333,
-    "lng": 28.17806,
+    "lat": 39.19472,
+    "lng": 28.19,
     "md": "-.-",
-    "ml": "1",
+    "ml": "0.9",
     "mw": "-.-",
-    "depth": 8.35,
+    "depth": 5.69,
     "coordinates": [
-      28.17806,
-      39.22333
+      28.19,
+      39.19472
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.17806,
-          39.22333
+          28.19,
+          39.19472
         ]
       },
       "properties": {
@@ -17962,41 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Muğla"
-  },
-  {
-    "title": "Pütürge (Malatya)",
-    "type": "İlksel",
-    "date": "2025-10-16 15:42:51",
-    "lat": 38.12194,
-    "lng": 38.61083,
-    "md": "-.-",
-    "ml": "1.1",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      38.61083,
-      38.12194
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.61083,
-          38.12194
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Pütürge (Malatya) (Malatya)",
-        "time": 1760629371000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-10-16",
-    "date_hour": "15:42:51",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
   }
 ]
