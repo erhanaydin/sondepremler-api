@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-21T20:38:40.582Z",
+  "lastUpdate": "2025-10-21T20:48:41.604Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -75,6 +75,42 @@
       "city": "MALATYA"
     },
     {
+      "title": "KARAAGIL-HISARCIK (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.21 22:22:43",
+      "lat": 39.211,
+      "lng": 29.0788,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "12.1",
+      "coordinates": [
+        29.0788,
+        39.211
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0788,
+            39.211
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "KARAAGIL-HISARCIK (KUTAHYA)",
+          "time": "2025.10.21 22:22:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "22:22:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
       "title": "PAYAS-DORTYOL (HATAY)",
       "type": "�lksel",
       "date": "2025.10.21 22:07:55",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
+    },
+    {
+      "title": "ARICILAR-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.10.21 22:04:34",
+      "lat": 37.1105,
+      "lng": 28.5822,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "18.3",
+      "coordinates": [
+        28.5822,
+        37.1105
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.5822,
+            37.1105
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ARICILAR-ULA (MUGLA)",
+          "time": "2025.10.21 22:04:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "22:04:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
     },
     {
       "title": "GOLCUK-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BITLIS"
-    },
-    {
-      "title": "SOGANLI-AHLAT (BITLIS)",
-      "type": "�lksel",
-      "date": "2025.10.17 06:23:46",
-      "lat": 38.7078,
-      "lng": 42.6153,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        42.6153,
-        38.7078
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.6153,
-            38.7078
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "SOGANLI-AHLAT (BITLIS)",
-          "time": "2025.10.17 06:23:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "06:23:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BITLIS"
-    },
-    {
-      "title": "UYANIK-KALE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.10.17 06:20:30",
-      "lat": 38.3342,
-      "lng": 38.8505,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "17.3",
-      "coordinates": [
-        38.8505,
-        38.3342
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.8505,
-            38.3342
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "UYANIK-KALE (MALATYA)",
-          "time": "2025.10.17 06:20:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "06:20:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
