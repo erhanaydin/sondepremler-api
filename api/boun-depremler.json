@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-21T08:34:12.436Z",
+  "lastUpdate": "2025-10-21T08:52:42.367Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HACET-KIRKAGAC (MANISA)",
+      "type": "�lksel",
+      "date": "2025.10.21 11:41:30",
+      "lat": 39.2283,
+      "lng": 27.9438,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "7.5",
+      "coordinates": [
+        27.9438,
+        39.2283
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9438,
+            39.2283
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "HACET-KIRKAGAC (MANISA)",
+          "time": "2025.10.21 11:41:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "11:41:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "BUZAGILIK-SUSURLUK (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "ARICILAR-ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.10.17 00:25:09",
-      "lat": 37.1353,
-      "lng": 28.5868,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "9.8",
-      "coordinates": [
-        28.5868,
-        37.1353
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.5868,
-            37.1353
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ARICILAR-ULA (MUGLA)",
-          "time": "2025.10.17 00:25:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "00:25:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
