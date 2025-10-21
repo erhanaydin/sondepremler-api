@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-21T19:19:43.398Z",
+  "lastUpdate": "2025-10-21T19:29:41.237Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "PAYAS-DORTYOL (HATAY)",
+      "type": "�lksel",
+      "date": "2025.10.21 22:07:55",
+      "lat": 36.7173,
+      "lng": 36.0838,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "3.2",
+      "coordinates": [
+        36.0838,
+        36.7173
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.0838,
+            36.7173
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "PAYAS-DORTYOL (HATAY)",
+          "time": "2025.10.21 22:07:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "22:07:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
     {
       "title": "YAMANLAR-YENICAGA (BOLU)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CIVRIL-YAZIHAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.10.17 05:07:22",
-      "lat": 38.5688,
-      "lng": 38.031,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        38.031,
-        38.5688
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.031,
-            38.5688
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "CIVRIL-YAZIHAN (MALATYA)",
-          "time": "2025.10.17 05:07:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "05:07:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
