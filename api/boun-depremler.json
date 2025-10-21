@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-21T05:45:26.280Z",
+  "lastUpdate": "2025-10-21T05:53:43.745Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.10.21 08:41:58",
+      "lat": 40.7983,
+      "lng": 27.9165,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "15.4",
+      "coordinates": [
+        27.9165,
+        40.7983
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9165,
+            40.7983
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "MARMARA DENIZI",
+          "time": "2025.10.21 08:41:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "08:41:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "KOZLU-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.16 22:09:27",
-      "lat": 39.2322,
-      "lng": 28.0895,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "11.2",
-      "coordinates": [
-        28.0895,
-        39.2322
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0895,
-            39.2322
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KOZLU-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.16 22:09:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.16",
-      "date_hour": "22:09:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
