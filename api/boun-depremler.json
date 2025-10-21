@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-21T09:45:23.027Z",
+  "lastUpdate": "2025-10-21T09:53:52.238Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EVRI-PAZARCIK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.10.21 12:05:35",
+      "lat": 37.2252,
+      "lng": 37.0787,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        37.0787,
+        37.2252
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.0787,
+            37.2252
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "EVRI-PAZARCIK (KAHRAMANMARAS)",
+          "time": "2025.10.21 12:05:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "12:05:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "YESILBELDE-MARMARIS (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KARACAOREN-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.17 00:54:28",
-      "lat": 39.1885,
-      "lng": 29.0467,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "15.3",
-      "coordinates": [
-        29.0467,
-        39.1885
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0467,
-            39.1885
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "KARACAOREN-SIMAV (KUTAHYA)",
-          "time": "2025.10.17 00:54:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "00:54:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
