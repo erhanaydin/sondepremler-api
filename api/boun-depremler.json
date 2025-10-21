@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-21T20:20:53.965Z",
+  "lastUpdate": "2025-10-21T20:38:40.582Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -109,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
+    },
+    {
+      "title": "GOLCUK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.21 21:50:38",
+      "lat": 39.3248,
+      "lng": 27.9997,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "11.4",
+      "coordinates": [
+        27.9997,
+        39.3248
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9997,
+            39.3248
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "GOLCUK-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.21 21:50:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "21:50:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "YAMANLAR-YENICAGA (BOLU)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.10.17 06:15:50",
-      "lat": 40.4032,
-      "lng": 24.0918,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "3.7",
-      "coordinates": [
-        24.0918,
-        40.4032
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.0918,
-            40.4032
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "YUNANISTAN",
-          "time": "2025.10.17 06:15:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "06:15:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
