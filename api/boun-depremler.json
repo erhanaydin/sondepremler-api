@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-21T11:54:42.650Z",
+  "lastUpdate": "2025-10-21T12:27:52.115Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.10.21 14:54:12",
+      "lat": 35.8212,
+      "lng": 25.6065,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "18.4",
+      "coordinates": [
+        25.6065,
+        35.8212
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.6065,
+            35.8212
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "EGE DENIZI",
+          "time": "2025.10.21 14:54:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "14:54:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "BAHCEDERE-ADILCEVAZ (BITLIS)",
-      "type": "�lksel",
-      "date": "2025.10.17 02:23:17",
-      "lat": 38.7005,
-      "lng": 42.6582,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "10.2",
-      "coordinates": [
-        42.6582,
-        38.7005
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.6582,
-            38.7005
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "BAHCEDERE-ADILCEVAZ (BITLIS)",
-          "time": "2025.10.17 02:23:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "02:23:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BITLIS"
     }
   ]
 }
