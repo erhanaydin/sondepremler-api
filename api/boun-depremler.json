@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-21T23:18:55.153Z",
+  "lastUpdate": "2025-10-21T23:31:30.734Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.10.22 02:21:53",
+      "lat": 40.7827,
+      "lng": 27.9558,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "6.8",
+      "coordinates": [
+        27.9558,
+        40.7827
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9558,
+            40.7827
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "MARMARA DENIZI",
+          "time": "2025.10.22 02:21:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "02:21:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "IZGIN-ELBISTAN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SEYITUSAGI-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.10.17 10:15:02",
-      "lat": 38.2693,
-      "lng": 38.1875,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        38.1875,
-        38.2693
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.1875,
-            38.2693
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "SEYITUSAGI-YESILYURT (MALATYA)",
-          "time": "2025.10.17 10:15:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "10:15:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
