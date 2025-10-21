@@ -1,5 +1,41 @@
 [
   {
+    "title": "Pazarcık (Kahramanmaraş)",
+    "type": "İlksel",
+    "date": "2025-10-20 04:37:32",
+    "lat": 37.60806,
+    "lng": 37.27944,
+    "md": "-.-",
+    "ml": "2.2",
+    "mw": "-.-",
+    "depth": 7.05,
+    "coordinates": [
+      37.27944,
+      37.60806
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.27944,
+          37.60806
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Pazarcık (Kahramanmaraş) (Kahramanmaraş)",
+        "time": 1760935052000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-20",
+    "date_hour": "04:37:32",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kahramanmaraş"
+  },
+  {
     "title": "Sungurlu (Çorum)",
     "type": "İlksel",
     "date": "2025-10-20 04:32:35",
@@ -16275,23 +16311,23 @@
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-10-17 01:27:31",
-    "lat": 39.22333,
-    "lng": 28.17806,
+    "lat": 39.19472,
+    "lng": 28.19,
     "md": "-.-",
-    "ml": "1",
+    "ml": "0.9",
     "mw": "-.-",
-    "depth": 8.35,
+    "depth": 5.69,
     "coordinates": [
-      28.17806,
-      39.22333
+      28.19,
+      39.19472
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.17806,
-          39.22333
+          28.19,
+          39.19472
         ]
       },
       "properties": {
@@ -16311,23 +16347,23 @@
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-10-17 01:27:31",
-    "lat": 39.19472,
-    "lng": 28.19,
+    "lat": 39.22333,
+    "lng": 28.17806,
     "md": "-.-",
-    "ml": "0.9",
+    "ml": "1",
     "mw": "-.-",
-    "depth": 5.69,
+    "depth": 8.35,
     "coordinates": [
-      28.19,
-      39.19472
+      28.17806,
+      39.22333
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.19,
-          39.19472
+          28.17806,
+          39.22333
         ]
       },
       "properties": {
@@ -17962,41 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kütahya"
-  },
-  {
-    "title": "Köyceğiz (Muğla)",
-    "type": "İlksel",
-    "date": "2025-10-16 18:36:26",
-    "lat": 37.10639,
-    "lng": 28.59194,
-    "md": "-.-",
-    "ml": "1.3",
-    "mw": "-.-",
-    "depth": 6.99,
-    "coordinates": [
-      28.59194,
-      37.10639
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.59194,
-          37.10639
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Köyceğiz (Muğla) (Muğla)",
-        "time": 1760639786000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-10-16",
-    "date_hour": "18:36:26",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
   }
 ]
