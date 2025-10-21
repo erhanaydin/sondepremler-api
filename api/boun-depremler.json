@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-21T10:56:24.585Z",
+  "lastUpdate": "2025-10-21T11:14:04.273Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.21 13:19:27",
+      "lat": 39.2217,
+      "lng": 28.0555,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "14.6",
+      "coordinates": [
+        28.0555,
+        39.2217
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0555,
+            39.2217
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.21 13:19:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "13:19:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "YARIS-EMET (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.21 13:12:09",
+      "lat": 39.299,
+      "lng": 29.4235,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.8",
+      "coordinates": [
+        29.4235,
+        39.299
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.4235,
+            39.299
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YARIS-EMET (KUTAHYA)",
+          "time": "2025.10.21 13:12:09"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.21",
+      "date_hour": "13:12:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "KADIKOY-BIGADIC (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BITLIS"
-    },
-    {
-      "title": "IPEKYOLU-HEKIMHAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.10.17 01:58:53",
-      "lat": 38.7223,
-      "lng": 37.98,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "1.3",
-      "coordinates": [
-        37.98,
-        38.7223
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.98,
-            38.7223
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "IPEKYOLU-HEKIMHAN (MALATYA)",
-          "time": "2025.10.17 01:58:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "01:58:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "KARACAOREN-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.17 01:54:21",
-      "lat": 39.2023,
-      "lng": 29.065,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "10.4",
-      "coordinates": [
-        29.065,
-        39.2023
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.065,
-            39.2023
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KARACAOREN-SIMAV (KUTAHYA)",
-          "time": "2025.10.17 01:54:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "01:54:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
