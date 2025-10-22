@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-22T17:42:28.313Z",
+  "lastUpdate": "2025-10-22T17:50:39.461Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.10.22 19:08:17",
+      "lat": 38.523,
+      "lng": 25.3452,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "5.5",
+      "coordinates": [
+        25.3452,
+        38.523
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.3452,
+            38.523
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "EGE DENIZI",
+          "time": "2025.10.22 19:08:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "19:08:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.18 19:19:51",
-      "lat": 39.2513,
-      "lng": 29.0273,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.6",
-      "coordinates": [
-        29.0273,
-        39.2513
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0273,
-            39.2513
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.10.18 19:19:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.18",
-      "date_hour": "19:19:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
