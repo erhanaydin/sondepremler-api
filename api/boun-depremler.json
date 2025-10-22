@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-22T11:43:38.884Z",
+  "lastUpdate": "2025-10-22T11:52:05.782Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -613,6 +613,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.10.22 11:13:55",
+      "lat": 35.8307,
+      "lng": 25.5973,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "7.6",
+      "coordinates": [
+        25.5973,
+        35.8307
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.5973,
+            35.8307
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "EGE DENIZI",
+          "time": "2025.10.22 11:13:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "11:13:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "ORMANICI-(ADIYAMAN)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KIRTIL-SILIFKE (MERSIN)",
-      "type": "�lksel",
-      "date": "2025.10.18 12:00:43",
-      "lat": 36.288,
-      "lng": 33.7353,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "12.6",
-      "coordinates": [
-        33.7353,
-        36.288
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.7353,
-            36.288
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "KIRTIL-SILIFKE (MERSIN)",
-          "time": "2025.10.18 12:00:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.18",
-      "date_hour": "12:00:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
     }
   ]
 }
