@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-22T06:58:28.292Z",
+  "lastUpdate": "2025-10-22T07:21:21.843Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ERICEK-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.10.22 09:45:13",
+      "lat": 38.032,
+      "lng": 36.8862,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "17.4",
+      "coordinates": [
+        36.8862,
+        38.032
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8862,
+            38.032
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ERICEK-GOKSUN (KAHRAMANMARAS)",
+          "time": "2025.10.22 09:45:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "09:45:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "CAKILKOY-DOMANIC (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.10.18 05:12:27",
-      "lat": 36.0623,
-      "lng": 26.768,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "8.7",
-      "coordinates": [
-        26.768,
-        36.0623
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.768,
-            36.0623
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "EGE DENIZI",
-          "time": "2025.10.18 05:12:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.18",
-      "date_hour": "05:12:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
