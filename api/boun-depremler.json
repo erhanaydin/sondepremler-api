@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-22T07:52:31.196Z",
+  "lastUpdate": "2025-10-22T08:00:03.072Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GULLUCE-GUMUSHACIKOY (AMASYA)",
+      "type": "�lksel",
+      "date": "2025.10.22 10:42:38",
+      "lat": 40.719,
+      "lng": 35.192,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "8.0",
+      "coordinates": [
+        35.192,
+        40.719
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.192,
+            40.719
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "GULLUCE-GUMUSHACIKOY (AMASYA)",
+          "time": "2025.10.22 10:42:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "10:42:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AMASYA"
+    },
     {
       "title": "ERICEK-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "KARAGUR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.18 05:23:36",
-      "lat": 39.2505,
-      "lng": 28.1022,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        28.1022,
-        39.2505
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1022,
-            39.2505
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "KARAGUR-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.18 05:23:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.18",
-      "date_hour": "05:23:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
