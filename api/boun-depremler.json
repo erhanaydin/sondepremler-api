@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-22T08:35:40.981Z",
+  "lastUpdate": "2025-10-22T08:54:18.150Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAMISTAS-(MALATYA)",
+      "type": "�lksel",
+      "date": "2025.10.22 11:39:47",
+      "lat": 38.2983,
+      "lng": 38.7337,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "1.2",
+      "coordinates": [
+        38.7337,
+        38.2983
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.7337,
+            38.2983
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KAMISTAS-(MALATYA)",
+          "time": "2025.10.22 11:39:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "11:39:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "ORMANICI-(ADIYAMAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YENILER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.18 06:33:28",
-      "lat": 39.238,
-      "lng": 28.9392,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "12.9",
-      "coordinates": [
-        28.9392,
-        39.238
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9392,
-            39.238
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YENILER-SIMAV (KUTAHYA)",
-          "time": "2025.10.18 06:33:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.18",
-      "date_hour": "06:33:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
