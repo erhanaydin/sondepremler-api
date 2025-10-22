@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-22T05:33:38.684Z",
+  "lastUpdate": "2025-10-22T05:45:17.486Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKKOCALI-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2025.10.22 08:23:25",
+      "lat": 39.1823,
+      "lng": 27.946,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "13.1",
+      "coordinates": [
+        27.946,
+        39.1823
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.946,
+            39.1823
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "AKKOCALI-AKHISAR (MANISA)",
+          "time": "2025.10.22 08:23:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "08:23:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "KARAKOCEK-HEKIMHAN (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.10.18 03:45:17",
-      "lat": 36.025,
-      "lng": 31.6107,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "8.9",
-      "coordinates": [
-        31.6107,
-        36.025
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.6107,
-            36.025
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "AKDENIZ",
-          "time": "2025.10.18 03:45:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.18",
-      "date_hour": "03:45:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
