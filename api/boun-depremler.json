@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-22T19:22:31.679Z",
+  "lastUpdate": "2025-10-22T19:31:11.365Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEDEBURNU-(BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.22 22:18:00",
+      "lat": 39.3843,
+      "lng": 27.9047,
+      "md": "-.-",
+      "ml": "3.0",
+      "mw": "-.-",
+      "depth": "7.2",
+      "coordinates": [
+        27.9047,
+        39.3843
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9047,
+            39.3843
+          ]
+        },
+        "properties": {
+          "mag": "3.0",
+          "place": "DEDEBURNU-(BALIKESIR)",
+          "time": "2025.10.22 22:18:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "22:18:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "HACET-KIRKAGAC (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADIYAMAN"
-    },
-    {
-      "title": "SOGUTLU-PAZARCIK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.10.19 00:44:33",
-      "lat": 37.4927,
-      "lng": 37.1838,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "6.7",
-      "coordinates": [
-        37.1838,
-        37.4927
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.1838,
-            37.4927
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "SOGUTLU-PAZARCIK (KAHRAMANMARAS)",
-          "time": "2025.10.19 00:44:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.19",
-      "date_hour": "00:44:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
