@@ -1,7 +1,547 @@
 {
-  "lastUpdate": "2025-10-21T23:57:42.081Z",
+  "lastUpdate": "2025-10-22T01:39:23.735Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.10.22 04:30:30",
+      "lat": 34.5908,
+      "lng": 32.8147,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "19.7",
+      "coordinates": [
+        32.8147,
+        34.5908
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.8147,
+            34.5908
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "AKDENIZ",
+          "time": "2025.10.22 04:30:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "04:30:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.22 04:15:50",
+      "lat": 39.243,
+      "lng": 28.9865,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.9",
+      "coordinates": [
+        28.9865,
+        39.243
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9865,
+            39.243
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.22 04:15:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "04:15:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "YENILER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.22 04:04:52",
+      "lat": 39.2465,
+      "lng": 28.9218,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "7.5",
+      "coordinates": [
+        28.9218,
+        39.2465
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9218,
+            39.2465
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YENILER-SIMAV (KUTAHYA)",
+          "time": "2025.10.22 04:04:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "04:04:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "BALLIKAYA-HEKIMHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.10.22 04:04:51",
+      "lat": 38.8722,
+      "lng": 38.1225,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "15.6",
+      "coordinates": [
+        38.1225,
+        38.8722
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.1225,
+            38.8722
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "BALLIKAYA-HEKIMHAN (MALATYA)",
+          "time": "2025.10.22 04:04:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "04:04:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
+      "title": "YENIKOY-TORBALI (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.10.22 04:03:26",
+      "lat": 38.1113,
+      "lng": 27.339,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "13.2",
+      "coordinates": [
+        27.339,
+        38.1113
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.339,
+            38.1113
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "YENIKOY-TORBALI (IZMIR)",
+          "time": "2025.10.22 04:03:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "04:03:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
+    {
+      "title": "BALLIKAYA-HEKIMHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.10.22 04:03:04",
+      "lat": 38.8812,
+      "lng": 38.0938,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "9.9",
+      "coordinates": [
+        38.0938,
+        38.8812
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.0938,
+            38.8812
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "BALLIKAYA-HEKIMHAN (MALATYA)",
+          "time": "2025.10.22 04:03:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "04:03:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
+      "title": "TOKAT-HISARCIK (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.22 04:01:55",
+      "lat": 39.1682,
+      "lng": 29.1068,
+      "md": "-.-",
+      "ml": "0.8",
+      "mw": "-.-",
+      "depth": "17.9",
+      "coordinates": [
+        29.1068,
+        39.1682
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1068,
+            39.1682
+          ]
+        },
+        "properties": {
+          "mag": "0.8",
+          "place": "TOKAT-HISARCIK (KUTAHYA)",
+          "time": "2025.10.22 04:01:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "04:01:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.22 04:00:19",
+      "lat": 39.1582,
+      "lng": 28.0873,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "21.2",
+      "coordinates": [
+        28.0873,
+        39.1582
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0873,
+            39.1582
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.22 04:00:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "04:00:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "IGDIR-HEKIMHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.10.22 03:58:19",
+      "lat": 38.8315,
+      "lng": 38.0543,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "12.8",
+      "coordinates": [
+        38.0543,
+        38.8315
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.0543,
+            38.8315
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "IGDIR-HEKIMHAN (MALATYA)",
+          "time": "2025.10.22 03:58:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "03:58:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
+      "title": "BALLIKAYA-HEKIMHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.10.22 03:54:08",
+      "lat": 38.8673,
+      "lng": 38.0968,
+      "md": "-.-",
+      "ml": "3.6",
+      "mw": "3.6",
+      "depth": "5.0",
+      "coordinates": [
+        38.0968,
+        38.8673
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.0968,
+            38.8673
+          ]
+        },
+        "properties": {
+          "mag": "3.6",
+          "place": "BALLIKAYA-HEKIMHAN (MALATYA)",
+          "time": "2025.10.22 03:54:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "03:54:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
+      "title": "KARAKOCA-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.22 03:43:30",
+      "lat": 39.2613,
+      "lng": 28.92,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.8",
+      "coordinates": [
+        28.92,
+        39.2613
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.92,
+            39.2613
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KARAKOCA-SIMAV (KUTAHYA)",
+          "time": "2025.10.22 03:43:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "03:43:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.22 03:40:34",
+      "lat": 39.1568,
+      "lng": 28.18,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "8.8",
+      "coordinates": [
+        28.18,
+        39.1568
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.18,
+            39.1568
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.22 03:40:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "03:40:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.22 03:16:26",
+      "lat": 39.2463,
+      "lng": 29.001,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "12.0",
+      "coordinates": [
+        29.001,
+        39.2463
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.001,
+            39.2463
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.22 03:16:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "03:16:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "GUDUL-DARENDE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.10.22 03:05:50",
+      "lat": 38.5095,
+      "lng": 37.5115,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "16.9",
+      "coordinates": [
+        37.5115,
+        38.5095
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.5115,
+            38.5095
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "GUDUL-DARENDE (MALATYA)",
+          "time": "2025.10.22 03:05:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "03:05:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
+      "title": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+      "type": "�lksel",
+      "date": "2025.10.22 02:59:01",
+      "lat": 40.6477,
+      "lng": 27.453,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "5.7",
+      "coordinates": [
+        27.453,
+        40.6477
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.453,
+            40.6477
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+          "time": "2025.10.22 02:59:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "02:59:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARMARA DENIZI"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17461,546 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.17 16:46:37",
-      "lat": 39.1463,
-      "lng": 28.2243,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "9.0",
-      "coordinates": [
-        28.2243,
-        39.1463
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2243,
-            39.1463
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.17 16:46:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "16:46:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2025.10.17 16:34:01",
-      "lat": 40.6735,
-      "lng": 27.5188,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        27.5188,
-        40.6735
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.5188,
-            40.6735
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-          "time": "2025.10.17 16:34:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "16:34:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "KARAAGIL-HISARCIK (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.17 14:42:08",
-      "lat": 39.2227,
-      "lng": 29.1072,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "11.2",
-      "coordinates": [
-        29.1072,
-        39.2227
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1072,
-            39.2227
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KARAAGIL-HISARCIK (KUTAHYA)",
-          "time": "2025.10.17 14:42:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "14:42:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "BEGRE-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.10.17 13:56:01",
-      "lat": 38.0642,
-      "lng": 37.6492,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "11.0",
-      "coordinates": [
-        37.6492,
-        38.0642
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.6492,
-            38.0642
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "BEGRE-DOGANSEHIR (MALATYA)",
-          "time": "2025.10.17 13:56:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "13:56:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.17 13:21:58",
-      "lat": 39.2365,
-      "lng": 29.0123,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        29.0123,
-        39.2365
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0123,
-            39.2365
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.10.17 13:21:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "13:21:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "ALACAATLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.17 13:17:44",
-      "lat": 39.2445,
-      "lng": 28.0702,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "7.5",
-      "coordinates": [
-        28.0702,
-        39.2445
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0702,
-            39.2445
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "ALACAATLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.17 13:17:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "13:17:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.17 13:10:27",
-      "lat": 39.2627,
-      "lng": 28.9817,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        28.9817,
-        39.2627
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9817,
-            39.2627
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.10.17 13:10:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "13:10:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "OMERFAKI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.17 13:03:13",
-      "lat": 39.2627,
-      "lng": 29.4228,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.3",
-      "coordinates": [
-        29.4228,
-        39.2627
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.4228,
-            39.2627
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "OMERFAKI-EMET (KUTAHYA)",
-          "time": "2025.10.17 13:03:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "13:03:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "ISACA-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.10.17 13:00:17",
-      "lat": 39.1357,
-      "lng": 28.0973,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "11.0",
-      "coordinates": [
-        28.0973,
-        39.1357
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0973,
-            39.1357
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "ISACA-AKHISAR (MANISA)",
-          "time": "2025.10.17 13:00:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "13:00:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.17 12:47:37",
-      "lat": 39.1792,
-      "lng": 28.138,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "8.4",
-      "coordinates": [
-        28.138,
-        39.1792
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.138,
-            39.1792
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.17 12:47:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "12:47:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.17 12:29:35",
-      "lat": 39.1995,
-      "lng": 28.9967,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "12.1",
-      "coordinates": [
-        28.9967,
-        39.1995
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9967,
-            39.1995
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.10.17 12:29:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "12:29:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.17 12:25:16",
-      "lat": 39.2325,
-      "lng": 29.0338,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "10.7",
-      "coordinates": [
-        29.0338,
-        39.2325
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0338,
-            39.2325
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.10.17 12:25:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "12:25:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "AKDERE-SILIFKE (MERSIN)",
-      "type": "�lksel",
-      "date": "2025.10.17 12:18:25",
-      "lat": 36.2675,
-      "lng": 33.7243,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        33.7243,
-        36.2675
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.7243,
-            36.2675
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "AKDERE-SILIFKE (MERSIN)",
-          "time": "2025.10.17 12:18:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "12:18:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
-    },
-    {
-      "title": "GUZELYURT-(KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.10.17 11:34:52",
-      "lat": 37.4908,
-      "lng": 37.0325,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "6.5",
-      "coordinates": [
-        37.0325,
-        37.4908
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.0325,
-            37.4908
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "GUZELYURT-(KAHRAMANMARAS)",
-          "time": "2025.10.17 11:34:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "11:34:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.17 11:08:08",
-      "lat": 39.2255,
-      "lng": 28.1327,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        28.1327,
-        39.2255
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1327,
-            39.2255
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.17 11:08:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.17",
-      "date_hour": "11:08:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
