@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-22T22:38:17.551Z",
+  "lastUpdate": "2025-10-22T22:46:44.819Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.10.23 01:31:27",
+      "lat": 37.1018,
+      "lng": 28.4357,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "9.3",
+      "coordinates": [
+        28.4357,
+        37.1018
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.4357,
+            37.1018
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ULA (MUGLA)",
+          "time": "2025.10.23 01:31:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.23",
+      "date_hour": "01:31:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BALCILAR-KOYCEGIZ (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.10.19 04:42:09",
-      "lat": 37.0887,
-      "lng": 28.5915,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "15.2",
-      "coordinates": [
-        28.5915,
-        37.0887
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.5915,
-            37.0887
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "BALCILAR-KOYCEGIZ (MUGLA)",
-          "time": "2025.10.19 04:42:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.19",
-      "date_hour": "04:42:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
