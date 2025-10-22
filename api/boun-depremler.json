@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-22T19:31:11.365Z",
+  "lastUpdate": "2025-10-22T19:41:40.107Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -34,6 +34,42 @@
       "location_properties": "",
       "date_day": "2025.10.22",
       "date_hour": "22:18:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "KOCABEY-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.22 21:23:52",
+      "lat": 39.343,
+      "lng": 28.2038,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "14.2",
+      "coordinates": [
+        28.2038,
+        39.343
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2038,
+            39.343
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "KOCABEY-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.22 21:23:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.22",
+      "date_hour": "21:23:52",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BAGLARBASI-GOLBASI (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.10.19 00:53:41",
-      "lat": 37.768,
-      "lng": 37.5837,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "14.1",
-      "coordinates": [
-        37.5837,
-        37.768
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.5837,
-            37.768
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "BAGLARBASI-GOLBASI (ADIYAMAN)",
-          "time": "2025.10.19 00:53:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.19",
-      "date_hour": "00:53:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
