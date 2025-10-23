@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-23T11:49:07.193Z",
+  "lastUpdate": "2025-10-23T11:57:23.138Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOCAKOY-AYVACIK (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2025.10.23 14:48:56",
+      "lat": 39.5018,
+      "lng": 26.1215,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "14.0",
+      "coordinates": [
+        26.1215,
+        39.5018
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.1215,
+            39.5018
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KOCAKOY-AYVACIK (CANAKKALE)",
+          "time": "2025.10.23 14:48:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.23",
+      "date_hour": "14:48:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YAGCIK-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.19 13:04:13",
-      "lat": 39.352,
-      "lng": 29.2338,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "14.7",
-      "coordinates": [
-        29.2338,
-        39.352
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.2338,
-            39.352
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YAGCIK-EMET (KUTAHYA)",
-          "time": "2025.10.19 13:04:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.19",
-      "date_hour": "13:04:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
