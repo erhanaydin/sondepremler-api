@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-23T05:44:36.088Z",
+  "lastUpdate": "2025-10-23T05:52:50.811Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SARNICKOY-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2025.10.23 08:47:10",
+      "lat": 38.9648,
+      "lng": 28.0008,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "18.0",
+      "coordinates": [
+        28.0008,
+        38.9648
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0008,
+            38.9648
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "SARNICKOY-AKHISAR (MANISA)",
+          "time": "2025.10.23 08:47:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.23",
+      "date_hour": "08:47:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
+    {
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.23 08:44:05",
+      "lat": 39.1947,
+      "lng": 28.1323,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "9.9",
+      "coordinates": [
+        28.1323,
+        39.1947
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1323,
+            39.1947
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.23 08:44:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.23",
+      "date_hour": "08:44:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SAZOBA-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "IKIZKOY-MILAS (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.10.19 08:53:48",
-      "lat": 37.1867,
-      "lng": 27.8497,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        27.8497,
-        37.1867
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.8497,
-            37.1867
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "IKIZKOY-MILAS (MUGLA)",
-          "time": "2025.10.19 08:53:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.19",
-      "date_hour": "08:53:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2025.10.19 08:49:41",
-      "lat": 40.854,
-      "lng": 27.8693,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "7.4",
-      "coordinates": [
-        27.8693,
-        40.854
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.8693,
-            40.854
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "MARMARA DENIZI",
-          "time": "2025.10.19 08:49:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.19",
-      "date_hour": "08:49:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
