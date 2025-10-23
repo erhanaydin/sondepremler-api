@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-23T09:42:57.163Z",
+  "lastUpdate": "2025-10-23T09:51:19.066Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EVCILER-SOMA (MANISA)",
+      "type": "�lksel",
+      "date": "2025.10.23 12:34:57",
+      "lat": 39.2612,
+      "lng": 27.6857,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        27.6857,
+        39.2612
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.6857,
+            39.2612
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "EVCILER-SOMA (MANISA)",
+          "time": "2025.10.23 12:34:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.23",
+      "date_hour": "12:34:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "KOZLU-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "TURKIYE-SURIYE SINIR BOLGESI",
-      "type": "�lksel",
-      "date": "2025.10.19 12:29:05",
-      "lat": 36.5387,
-      "lng": 40.1385,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        40.1385,
-        36.5387
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.1385,
-            36.5387
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "TURKIYE-SURIYE SINIR BOLGESI",
-          "time": "2025.10.19 12:29:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.19",
-      "date_hour": "12:29:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
