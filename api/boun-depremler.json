@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-23T17:51:08.803Z",
+  "lastUpdate": "2025-10-23T17:59:23.667Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SUGUL-DARENDE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.10.23 20:51:40",
+      "lat": 38.4055,
+      "lng": 37.4805,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        37.4805,
+        38.4055
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.4805,
+            38.4055
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "SUGUL-DARENDE (MALATYA)",
+          "time": "2025.10.23 20:51:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.23",
+      "date_hour": "20:51:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "AKCAPINAR-ULA (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "TORUN-ANDIRIN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.10.19 18:50:53",
-      "lat": 37.4423,
-      "lng": 36.3732,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "3.1",
-      "coordinates": [
-        36.3732,
-        37.4423
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.3732,
-            37.4423
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "TORUN-ANDIRIN (KAHRAMANMARAS)",
-          "time": "2025.10.19 18:50:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.19",
-      "date_hour": "18:50:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
