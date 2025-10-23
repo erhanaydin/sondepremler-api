@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-23T15:56:29.235Z",
+  "lastUpdate": "2025-10-23T16:21:48.351Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAVAKLIDERE-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.10.23 18:44:54",
+      "lat": 38.2328,
+      "lng": 38.646,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.8",
+      "coordinates": [
+        38.646,
+        38.2328
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.646,
+            38.2328
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KAVAKLIDERE-PUTURGE (MALATYA)",
+          "time": "2025.10.23 18:44:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.23",
+      "date_hour": "18:44:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.10.19 16:07:27",
-      "lat": 35.5857,
-      "lng": 23.3397,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "29.4",
-      "coordinates": [
-        23.3397,
-        35.5857
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            23.3397,
-            35.5857
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "GIRIT ADASI (AKDENIZ)",
-          "time": "2025.10.19 16:07:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.19",
-      "date_hour": "16:07:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
