@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-23T23:48:15.850Z",
+  "lastUpdate": "2025-10-23T23:56:16.979Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.24 02:41:58",
+      "lat": 39.19,
+      "lng": 28.1323,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "12.3",
+      "coordinates": [
+        28.1323,
+        39.19
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1323,
+            39.19
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.24 02:41:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.24",
+      "date_hour": "02:41:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BADEMCAY-YAPRAKLI (CANKIRI)",
-      "type": "�lksel",
-      "date": "2025.10.20 01:53:44",
-      "lat": 40.7568,
-      "lng": 33.9672,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "8.9",
-      "coordinates": [
-        33.9672,
-        40.7568
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.9672,
-            40.7568
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "BADEMCAY-YAPRAKLI (CANKIRI)",
-          "time": "2025.10.20 01:53:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.20",
-      "date_hour": "01:53:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANKIRI"
     }
   ]
 }
