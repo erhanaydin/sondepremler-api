@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-24T16:57:14.941Z",
+  "lastUpdate": "2025-10-24T17:16:33.231Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -289,6 +289,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
+    },
+    {
+      "title": "DURASIL-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2025.10.24 17:32:13",
+      "lat": 38.9245,
+      "lng": 27.9623,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "18.0",
+      "coordinates": [
+        27.9623,
+        38.9245
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9623,
+            38.9245
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "DURASIL-AKHISAR (MANISA)",
+          "time": "2025.10.24 17:32:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.24",
+      "date_hour": "17:32:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
     },
     {
       "title": "TANISIK-(MALATYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "CEBISLER-AKPINAR (KIRSEHIR)",
-      "type": "�lksel",
-      "date": "2025.10.20 15:12:00",
-      "lat": 39.6202,
-      "lng": 33.884,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        33.884,
-        39.6202
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.884,
-            39.6202
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "CEBISLER-AKPINAR (KIRSEHIR)",
-          "time": "2025.10.20 15:12:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.20",
-      "date_hour": "15:12:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KIRSEHIR"
     }
   ]
 }
