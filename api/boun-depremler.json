@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-24T16:27:21.929Z",
+  "lastUpdate": "2025-10-24T16:46:58.336Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.10.24 19:10:46",
+      "lat": 36.068,
+      "lng": 28.994,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "8.7",
+      "coordinates": [
+        28.994,
+        36.068
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.994,
+            36.068
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "AKDENIZ",
+          "time": "2025.10.24 19:10:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.24",
+      "date_hour": "19:10:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.24 19:07:21",
+      "lat": 39.2162,
+      "lng": 28.1252,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "12.2",
+      "coordinates": [
+        28.1252,
+        39.2162
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1252,
+            39.2162
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.24 19:07:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.24",
+      "date_hour": "19:07:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.20 15:03:11",
-      "lat": 39.2203,
-      "lng": 29.051,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "4.4",
-      "coordinates": [
-        29.051,
-        39.2203
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.051,
-            39.2203
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.10.20 15:03:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.20",
-      "date_hour": "15:03:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "MORALILAR-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.10.20 14:53:34",
-      "lat": 38.8677,
-      "lng": 27.828,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "38.8",
-      "coordinates": [
-        27.828,
-        38.8677
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.828,
-            38.8677
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "MORALILAR-AKHISAR (MANISA)",
-          "time": "2025.10.20 14:53:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.20",
-      "date_hour": "14:53:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
