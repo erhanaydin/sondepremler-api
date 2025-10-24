@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-24T23:30:47.321Z",
+  "lastUpdate": "2025-10-24T23:40:16.851Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BOGAZ-KARACABEY (BURSA)",
+      "type": "�lksel",
+      "date": "2025.10.25 02:28:12",
+      "lat": 40.4212,
+      "lng": 28.451,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        28.451,
+        40.4212
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.451,
+            40.4212
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "BOGAZ-KARACABEY (BURSA)",
+          "time": "2025.10.25 02:28:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.25",
+      "date_hour": "02:28:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "AKTARLI-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.10.25 02:08:46",
+      "lat": 38.2792,
+      "lng": 38.8375,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "22.5",
+      "coordinates": [
+        38.8375,
+        38.2792
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.8375,
+            38.2792
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "AKTARLI-PUTURGE (MALATYA)",
+          "time": "2025.10.25 02:08:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.25",
+      "date_hour": "02:08:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.10.20 23:45:49",
-      "lat": 34.7308,
-      "lng": 23.883,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "19.1",
-      "coordinates": [
-        23.883,
-        34.7308
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            23.883,
-            34.7308
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "GIRIT ADASI (AKDENIZ)",
-          "time": "2025.10.20 23:45:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.20",
-      "date_hour": "23:45:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.20 23:36:19",
-      "lat": 39.1557,
-      "lng": 28.2597,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "11.6",
-      "coordinates": [
-        28.2597,
-        39.1557
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2597,
-            39.1557
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.20 23:36:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.20",
-      "date_hour": "23:36:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
