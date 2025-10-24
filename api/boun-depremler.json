@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-24T21:26:37.568Z",
+  "lastUpdate": "2025-10-24T21:36:55.633Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.10.25 00:24:20",
+      "lat": 34.9005,
+      "lng": 28.9185,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "3.3",
+      "depth": "8.8",
+      "coordinates": [
+        28.9185,
+        34.9005
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9185,
+            34.9005
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "AKDENIZ",
+          "time": "2025.10.25 00:24:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.25",
+      "date_hour": "00:24:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "SOGUT-DOGANSEHIR (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.10.20 19:58:25",
-      "lat": 38.7455,
-      "lng": 25.1405,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        25.1405,
-        38.7455
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.1405,
-            38.7455
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "EGE DENIZI",
-          "time": "2025.10.20 19:58:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.20",
-      "date_hour": "19:58:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
