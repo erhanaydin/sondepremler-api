@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-24T10:53:05.956Z",
+  "lastUpdate": "2025-10-24T11:09:03.649Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARACAOREN-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.24 13:44:04",
+      "lat": 39.1988,
+      "lng": 29.0607,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        29.0607,
+        39.1988
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0607,
+            39.1988
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KARACAOREN-SIMAV (KUTAHYA)",
+          "time": "2025.10.24 13:44:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.24",
+      "date_hour": "13:44:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.10.24 13:41:59",
+      "lat": 37.837,
+      "lng": 27.0143,
+      "md": "-.-",
+      "ml": "3.0",
+      "mw": "-.-",
+      "depth": "7.4",
+      "coordinates": [
+        27.0143,
+        37.837
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.0143,
+            37.837
+          ]
+        },
+        "properties": {
+          "mag": "3.0",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2025.10.24 13:41:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.24",
+      "date_hour": "13:41:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "TEPEKOY-SARAYKOY (DENIZLI)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "ISIKLI-SILIFKE (MERSIN)",
-      "type": "�lksel",
-      "date": "2025.10.20 12:06:33",
-      "lat": 36.2368,
-      "lng": 33.7177,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        33.7177,
-        36.2368
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.7177,
-            36.2368
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "ISIKLI-SILIFKE (MERSIN)",
-          "time": "2025.10.20 12:06:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.20",
-      "date_hour": "12:06:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
-    },
-    {
-      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
-      "type": "�lksel",
-      "date": "2025.10.20 12:02:06",
-      "lat": 40.1958,
-      "lng": 31.7562,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        31.7562,
-        40.1958
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.7562,
-            40.1958
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "HIRKATEPE-BEYPAZARI (ANKARA)",
-          "time": "2025.10.20 12:02:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.20",
-      "date_hour": "12:02:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
