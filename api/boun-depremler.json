@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-24T08:39:07.074Z",
+  "lastUpdate": "2025-10-24T08:53:11.052Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -109,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AYDIN"
+    },
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.10.24 11:08:25",
+      "lat": 37.9368,
+      "lng": 27.108,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "6.9",
+      "coordinates": [
+        27.108,
+        37.9368
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.108,
+            37.9368
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2025.10.24 11:08:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.24",
+      "date_hour": "11:08:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
     },
     {
       "title": "AKKOCALI-AKHISAR (MANISA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "RODOS ADASI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.10.20 09:58:11",
-      "lat": 36.1047,
-      "lng": 28.0762,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "2.5",
-      "coordinates": [
-        28.0762,
-        36.1047
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0762,
-            36.1047
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "RODOS ADASI (AKDENIZ)",
-          "time": "2025.10.20 09:58:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.20",
-      "date_hour": "09:58:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
