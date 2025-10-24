@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-24T07:44:17.254Z",
+  "lastUpdate": "2025-10-24T07:52:56.971Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.24 10:44:05",
+      "lat": 39.1923,
+      "lng": 28.0963,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "9.3",
+      "coordinates": [
+        28.0963,
+        39.1923
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0963,
+            39.1923
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.24 10:44:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.24",
+      "date_hour": "10:44:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -253,6 +289,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANKIRI"
+    },
+    {
+      "title": "GUZELYURT-PALANDOKEN (ERZURUM)",
+      "type": "�lksel",
+      "date": "2025.10.24 09:30:50",
+      "lat": 39.7977,
+      "lng": 41.0348,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "6.7",
+      "coordinates": [
+        41.0348,
+        39.7977
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.0348,
+            39.7977
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "GUZELYURT-PALANDOKEN (ERZURUM)",
+          "time": "2025.10.24 09:30:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.24",
+      "date_hour": "09:30:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZURUM"
     },
     {
       "title": "INKAYA-SIMAV (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.10.20 08:30:30",
-      "lat": 36.4903,
-      "lng": 25.9783,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "8.3",
-      "coordinates": [
-        25.9783,
-        36.4903
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.9783,
-            36.4903
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "EGE DENIZI",
-          "time": "2025.10.20 08:30:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.20",
-      "date_hour": "08:30:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.10.20 08:24:43",
-      "lat": 36.6412,
-      "lng": 25.6872,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "9.4",
-      "coordinates": [
-        25.6872,
-        36.6412
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.6872,
-            36.6412
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "EGE DENIZI",
-          "time": "2025.10.20 08:24:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.20",
-      "date_hour": "08:24:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
