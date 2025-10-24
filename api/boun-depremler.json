@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-24T11:37:12.874Z",
+  "lastUpdate": "2025-10-24T11:45:41.442Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BEKIRUSAGI-AKCADAG (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.10.24 14:29:56",
+      "lat": 38.315,
+      "lng": 37.7243,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "8.2",
+      "coordinates": [
+        37.7243,
+        38.315
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.7243,
+            38.315
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "BEKIRUSAGI-AKCADAG (MALATYA)",
+          "time": "2025.10.24 14:29:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.24",
+      "date_hour": "14:29:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "KARACAOREN-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KARAAHMET-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.10.20 12:32:24",
-      "lat": 38.002,
-      "lng": 36.5685,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "8.9",
-      "coordinates": [
-        36.5685,
-        38.002
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.5685,
-            38.002
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KARAAHMET-GOKSUN (KAHRAMANMARAS)",
-          "time": "2025.10.20 12:32:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.20",
-      "date_hour": "12:32:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
