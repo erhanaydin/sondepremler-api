@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-24T20:35:29.701Z",
+  "lastUpdate": "2025-10-24T20:46:06.141Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.24 23:07:29",
+      "lat": 39.2352,
+      "lng": 28.0345,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "6.6",
+      "coordinates": [
+        28.0345,
+        39.2352
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0345,
+            39.2352
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.24 23:07:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.24",
+      "date_hour": "23:07:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KARAKOCA-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.10.20 19:24:13",
-      "lat": 35.6867,
-      "lng": 28.2193,
-      "md": "-.-",
-      "ml": "3.2",
-      "mw": "3.2",
-      "depth": "29.6",
-      "coordinates": [
-        28.2193,
-        35.6867
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2193,
-            35.6867
-          ]
-        },
-        "properties": {
-          "mag": "3.2",
-          "place": "AKDENIZ",
-          "time": "2025.10.20 19:24:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.20",
-      "date_hour": "19:24:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
