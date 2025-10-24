@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-24T09:11:52.166Z",
+  "lastUpdate": "2025-10-24T09:31:51.905Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.10.24 12:07:26",
+      "lat": 34.737,
+      "lng": 34.3353,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "15.1",
+      "coordinates": [
+        34.3353,
+        34.737
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.3353,
+            34.737
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "AKDENIZ",
+          "time": "2025.10.24 12:07:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.24",
+      "date_hour": "12:07:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KIRAZLIYURT-TUFANBEYLI (ADANA)",
-      "type": "�lksel",
-      "date": "2025.10.20 10:14:32",
-      "lat": 38.0337,
-      "lng": 36.3012,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "14.1",
-      "coordinates": [
-        36.3012,
-        38.0337
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.3012,
-            38.0337
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KIRAZLIYURT-TUFANBEYLI (ADANA)",
-          "time": "2025.10.20 10:14:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.20",
-      "date_hour": "10:14:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
