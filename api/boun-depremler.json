@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-24T17:43:21.653Z",
+  "lastUpdate": "2025-10-24T17:52:07.052Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HAMIDIYE-BIGADIC (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.24 20:33:21",
+      "lat": 39.3737,
+      "lng": 27.9908,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        27.9908,
+        39.3737
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9908,
+            39.3737
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "HAMIDIYE-BIGADIC (BALIKESIR)",
+          "time": "2025.10.24 20:33:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.24",
+      "date_hour": "20:33:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
-    },
-    {
-      "title": "HACIKODAL-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.10.20 15:12:35",
-      "lat": 37.9092,
-      "lng": 36.2978,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "20.7",
-      "coordinates": [
-        36.2978,
-        37.9092
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.2978,
-            37.9092
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "HACIKODAL-GOKSUN (KAHRAMANMARAS)",
-          "time": "2025.10.20 15:12:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.20",
-      "date_hour": "15:12:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
