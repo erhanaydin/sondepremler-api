@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-24T12:24:22.177Z",
+  "lastUpdate": "2025-10-24T13:05:20.022Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "FOCA (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.10.24 15:31:29",
+      "lat": 38.6293,
+      "lng": 26.7205,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "6.5",
+      "coordinates": [
+        26.7205,
+        38.6293
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.7205,
+            38.6293
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "FOCA (IZMIR)",
+          "time": "2025.10.24 15:31:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.24",
+      "date_hour": "15:31:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
+    {
+      "title": "YESILDERE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.24 15:18:32",
+      "lat": 39.281,
+      "lng": 28.9913,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "12.3",
+      "coordinates": [
+        28.9913,
+        39.281
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9913,
+            39.281
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YESILDERE-SIMAV (KUTAHYA)",
+          "time": "2025.10.24 15:18:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.24",
+      "date_hour": "15:18:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KILILI-TURKOGLU (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AKCAKOY-(BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.20 13:00:33",
-      "lat": 39.4455,
-      "lng": 27.9437,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "25.2",
-      "coordinates": [
-        27.9437,
-        39.4455
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9437,
-            39.4455
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "AKCAKOY-(BALIKESIR)",
-          "time": "2025.10.20 13:00:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.20",
-      "date_hour": "13:00:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "GUROGLU-AYDINCIK (YOZGAT)",
-      "type": "�lksel",
-      "date": "2025.10.20 12:52:58",
-      "lat": 40.1815,
-      "lng": 35.2522,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "11.7",
-      "coordinates": [
-        35.2522,
-        40.1815
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.2522,
-            40.1815
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "GUROGLU-AYDINCIK (YOZGAT)",
-          "time": "2025.10.20 12:52:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.20",
-      "date_hour": "12:52:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "YOZGAT"
     }
   ]
 }
