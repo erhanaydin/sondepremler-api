@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-25T09:27:51.839Z",
+  "lastUpdate": "2025-10-25T09:37:15.105Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "PIRINCCI-EYUP (ISTANBUL)",
+      "type": "�lksel",
+      "date": "2025.10.25 12:22:32",
+      "lat": 41.1947,
+      "lng": 28.8362,
+      "md": "-.-",
+      "ml": "0.9",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        28.8362,
+        41.1947
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8362,
+            41.1947
+          ]
+        },
+        "properties": {
+          "mag": "0.9",
+          "place": "PIRINCCI-EYUP (ISTANBUL)",
+          "time": "2025.10.25 12:22:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.25",
+      "date_hour": "12:22:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ISTANBUL"
+    },
+    {
+      "title": "TEPEKOY-BALA (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.10.25 12:16:45",
+      "lat": 39.3555,
+      "lng": 33.4227,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        33.4227,
+        39.3555
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.4227,
+            39.3555
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "TEPEKOY-BALA (ANKARA)",
+          "time": "2025.10.25 12:16:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.25",
+      "date_hour": "12:16:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
+    },
     {
       "title": "KOZAGAC-BEYPAZARI (ANKARA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KADIKOY-BIGADIC (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.21 13:06:27",
-      "lat": 39.4592,
-      "lng": 28.1143,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "7.9",
-      "coordinates": [
-        28.1143,
-        39.4592
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1143,
-            39.4592
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KADIKOY-BIGADIC (BALIKESIR)",
-          "time": "2025.10.21 13:06:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.21",
-      "date_hour": "13:06:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "KAYADERE-MILAS (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.10.21 13:04:19",
-      "lat": 37.211,
-      "lng": 27.8912,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        27.8912,
-        37.211
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.8912,
-            37.211
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KAYADERE-MILAS (MUGLA)",
-          "time": "2025.10.21 13:04:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.21",
-      "date_hour": "13:04:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
