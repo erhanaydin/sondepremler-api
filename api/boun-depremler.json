@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-25T15:18:57.228Z",
+  "lastUpdate": "2025-10-25T15:30:39.634Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.25 18:14:35",
+      "lat": 39.24,
+      "lng": 29.005,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "11.6",
+      "coordinates": [
+        29.005,
+        39.24
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.005,
+            39.24
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.25 18:14:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.25",
+      "date_hour": "18:14:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "PAYAS-DORTYOL (HATAY)",
-      "type": "�lksel",
-      "date": "2025.10.21 22:07:55",
-      "lat": 36.7173,
-      "lng": 36.0838,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "3.2",
-      "coordinates": [
-        36.0838,
-        36.7173
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.0838,
-            36.7173
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "PAYAS-DORTYOL (HATAY)",
-          "time": "2025.10.21 22:07:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.21",
-      "date_hour": "22:07:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
