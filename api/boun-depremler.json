@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-25T19:26:10.792Z",
+  "lastUpdate": "2025-10-25T19:36:12.180Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -181,6 +181,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
+    },
+    {
+      "title": "BOZKOY-KARABURUN (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.10.25 20:32:43",
+      "lat": 38.7098,
+      "lng": 26.4795,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "10.2",
+      "coordinates": [
+        26.4795,
+        38.7098
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.4795,
+            38.7098
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "BOZKOY-KARABURUN (IZMIR)",
+          "time": "2025.10.25 20:32:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.25",
+      "date_hour": "20:32:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
     },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "ALANKOY-YESILOVA (BURDUR)",
-      "type": "�lksel",
-      "date": "2025.10.21 23:30:23",
-      "lat": 37.7038,
-      "lng": 29.8353,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "7.5",
-      "coordinates": [
-        29.8353,
-        37.7038
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.8353,
-            37.7038
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "ALANKOY-YESILOVA (BURDUR)",
-          "time": "2025.10.21 23:30:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.21",
-      "date_hour": "23:30:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURDUR"
     }
   ]
 }
