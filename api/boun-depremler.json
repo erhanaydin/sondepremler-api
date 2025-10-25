@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-25T17:55:31.613Z",
+  "lastUpdate": "2025-10-25T18:18:58.847Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.10.25 20:51:47",
+      "lat": 35.1845,
+      "lng": 26.6393,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "3.1",
+      "depth": "19.8",
+      "coordinates": [
+        26.6393,
+        35.1845
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.6393,
+            35.1845
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2025.10.25 20:51:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.25",
+      "date_hour": "20:51:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "BALIKESIR (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.21 22:47:48",
-      "lat": 39.6612,
-      "lng": 27.8573,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        27.8573,
-        39.6612
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.8573,
-            39.6612
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "BALIKESIR (BALIKESIR)",
-          "time": "2025.10.21 22:47:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.21",
-      "date_hour": "22:47:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
