@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-25T13:49:55.409Z",
+  "lastUpdate": "2025-10-25T13:58:16.226Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DENIZTEPESI-SERIK (ANTALYA)",
+      "type": "�lksel",
+      "date": "2025.10.25 16:43:37",
+      "lat": 36.9748,
+      "lng": 31.1298,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "77.2",
+      "coordinates": [
+        31.1298,
+        36.9748
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.1298,
+            36.9748
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "DENIZTEPESI-SERIK (ANTALYA)",
+          "time": "2025.10.25 16:43:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.25",
+      "date_hour": "16:43:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANTALYA"
+    },
     {
       "title": "KIRAZLIYURT-TUFANBEYLI (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "GOLCUK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.21 21:50:38",
-      "lat": 39.3248,
-      "lng": 27.9997,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "11.4",
-      "coordinates": [
-        27.9997,
-        39.3248
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9997,
-            39.3248
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "GOLCUK-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.21 21:50:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.21",
-      "date_hour": "21:50:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
