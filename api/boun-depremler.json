@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-25T13:41:46.402Z",
+  "lastUpdate": "2025-10-25T13:49:55.409Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIRAZLIYURT-TUFANBEYLI (ADANA)",
+      "type": "�lksel",
+      "date": "2025.10.25 16:37:50",
+      "lat": 38.042,
+      "lng": 36.288,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        36.288,
+        38.042
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.288,
+            38.042
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KIRAZLIYURT-TUFANBEYLI (ADANA)",
+          "time": "2025.10.25 16:37:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.25",
+      "date_hour": "16:37:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "CATALCA (ISTANBUL)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YAMANLAR-YENICAGA (BOLU)",
-      "type": "�lksel",
-      "date": "2025.10.21 21:23:29",
-      "lat": 40.8342,
-      "lng": 32.131,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "8.3",
-      "coordinates": [
-        32.131,
-        40.8342
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.131,
-            40.8342
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "YAMANLAR-YENICAGA (BOLU)",
-          "time": "2025.10.21 21:23:29"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.21",
-      "date_hour": "21:23:29",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BOLU"
     }
   ]
 }
