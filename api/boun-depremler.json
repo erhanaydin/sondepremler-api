@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-25T13:58:16.226Z",
+  "lastUpdate": "2025-10-25T14:17:40.596Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.25 16:57:35",
+      "lat": 39.2428,
+      "lng": 28.9915,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "10.3",
+      "coordinates": [
+        28.9915,
+        39.2428
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9915,
+            39.2428
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.25 16:57:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.25",
+      "date_hour": "16:57:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "DENIZTEPESI-SERIK (ANTALYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
-    },
-    {
-      "title": "ARICILAR-ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.10.21 22:04:34",
-      "lat": 37.1105,
-      "lng": 28.5822,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "18.3",
-      "coordinates": [
-        28.5822,
-        37.1105
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.5822,
-            37.1105
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "ARICILAR-ULA (MUGLA)",
-          "time": "2025.10.21 22:04:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.21",
-      "date_hour": "22:04:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
