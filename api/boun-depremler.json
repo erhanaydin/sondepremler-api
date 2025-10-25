@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-25T12:14:03.444Z",
+  "lastUpdate": "2025-10-25T12:53:03.977Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.25 15:16:32",
+      "lat": 39.2137,
+      "lng": 28.0535,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "14.7",
+      "coordinates": [
+        28.0535,
+        39.2137
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0535,
+            39.2137
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.25 15:16:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.25",
+      "date_hour": "15:16:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "GOLTEPESI-(BINGOL)",
+      "type": "�lksel",
+      "date": "2025.10.25 15:12:42",
+      "lat": 38.9588,
+      "lng": 40.6088,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "11.5",
+      "coordinates": [
+        40.6088,
+        38.9588
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.6088,
+            38.9588
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "GOLTEPESI-(BINGOL)",
+          "time": "2025.10.25 15:12:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.25",
+      "date_hour": "15:12:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGOL"
+    },
     {
       "title": "ALANGOR-YENISEHIR (DIYARBAKIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "GECITLI-SINCIK (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.10.21 18:42:36",
-      "lat": 38.1305,
-      "lng": 38.521,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "4.0",
-      "coordinates": [
-        38.521,
-        38.1305
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.521,
-            38.1305
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "GECITLI-SINCIK (ADIYAMAN)",
-          "time": "2025.10.21 18:42:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.21",
-      "date_hour": "18:42:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.21 17:42:51",
-      "lat": 39.2318,
-      "lng": 29.0227,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "9.0",
-      "coordinates": [
-        29.0227,
-        39.2318
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0227,
-            39.2318
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.10.21 17:42:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.21",
-      "date_hour": "17:42:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
