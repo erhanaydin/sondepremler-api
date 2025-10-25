@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-25T17:14:33.502Z",
+  "lastUpdate": "2025-10-25T17:28:59.576Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.25 20:15:44",
+      "lat": 39.1448,
+      "lng": 28.2407,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "10.6",
+      "coordinates": [
+        28.2407,
+        39.1448
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2407,
+            39.1448
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.25 20:15:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.25",
+      "date_hour": "20:15:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "KARAKOCA-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.25 20:11:58",
+      "lat": 39.2895,
+      "lng": 28.9528,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "5.5",
+      "coordinates": [
+        28.9528,
+        39.2895
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9528,
+            39.2895
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KARAKOCA-SIMAV (KUTAHYA)",
+          "time": "2025.10.25 20:11:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.25",
+      "date_hour": "20:11:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ERMENISTAN",
-      "type": "�lksel",
-      "date": "2025.10.21 22:37:16",
-      "lat": 41.0482,
-      "lng": 43.9698,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "16.4",
-      "coordinates": [
-        43.9698,
-        41.0482
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.9698,
-            41.0482
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "ERMENISTAN",
-          "time": "2025.10.21 22:37:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.21",
-      "date_hour": "22:37:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "DUMLU-HEKIMHAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.10.21 22:35:14",
-      "lat": 38.777,
-      "lng": 37.9798,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "1.7",
-      "coordinates": [
-        37.9798,
-        38.777
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.9798,
-            38.777
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "DUMLU-HEKIMHAN (MALATYA)",
-          "time": "2025.10.21 22:35:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.21",
-      "date_hour": "22:35:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
