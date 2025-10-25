@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-25T22:29:36.161Z",
+  "lastUpdate": "2025-10-25T22:39:58.824Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIZLAC-BAHCE (OSMANIYE)",
+      "type": "�lksel",
+      "date": "2025.10.26 01:29:33",
+      "lat": 37.1663,
+      "lng": 36.645,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.7",
+      "coordinates": [
+        36.645,
+        37.1663
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.645,
+            37.1663
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KIZLAC-BAHCE (OSMANIYE)",
+          "time": "2025.10.26 01:29:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.26",
+      "date_hour": "01:29:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "OSMANIYE"
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.10.22 00:56:48",
-      "lat": 40.0283,
-      "lng": 23.5913,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "12.2",
-      "coordinates": [
-        23.5913,
-        40.0283
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            23.5913,
-            40.0283
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YUNANISTAN",
-          "time": "2025.10.22 00:56:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.22",
-      "date_hour": "00:56:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
