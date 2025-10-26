@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-26T22:16:16.236Z",
+  "lastUpdate": "2025-10-26T22:33:22.264Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CEVIZDERE-(ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.10.27 01:10:38",
+      "lat": 38.5085,
+      "lng": 39.3953,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        39.3953,
+        38.5085
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.3953,
+            38.5085
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "CEVIZDERE-(ELAZIG)",
+          "time": "2025.10.27 01:10:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.27",
+      "date_hour": "01:10:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
+    {
+      "title": "SUREK-SIVRICE (ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.10.27 01:09:53",
+      "lat": 38.4865,
+      "lng": 39.396,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "4.4",
+      "coordinates": [
+        39.396,
+        38.4865
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.396,
+            38.4865
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "SUREK-SIVRICE (ELAZIG)",
+          "time": "2025.10.27 01:09:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.27",
+      "date_hour": "01:09:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.22 15:52:37",
-      "lat": 39.259,
-      "lng": 29.0255,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "7.1",
-      "coordinates": [
-        29.0255,
-        39.259
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0255,
-            39.259
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.10.22 15:52:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.22",
-      "date_hour": "15:52:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "USAKPINARI-SILIFKE (MERSIN)",
-      "type": "�lksel",
-      "date": "2025.10.22 15:51:47",
-      "lat": 36.2933,
-      "lng": 33.617,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        33.617,
-        36.2933
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.617,
-            36.2933
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "USAKPINARI-SILIFKE (MERSIN)",
-          "time": "2025.10.22 15:51:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.22",
-      "date_hour": "15:51:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
     }
   ]
 }
