@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-10-26T10:51:03.181Z",
+  "lastUpdate": "2025-10-26T10:59:10.697Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EFIR-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.26 12:26:49",
+      "lat": 39.214,
+      "lng": 28.8368,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "15.4",
+      "coordinates": [
+        28.8368,
+        39.214
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8368,
+            39.214
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "EFIR-SIMAV (KUTAHYA)",
+          "time": "2025.10.26 12:26:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.26",
+      "date_hour": "12:26:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "ARKUM-SILIFKE (MERSIN)",
+      "type": "�lksel",
+      "date": "2025.10.26 12:19:14",
+      "lat": 36.3458,
+      "lng": 34.0425,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "13.5",
+      "coordinates": [
+        34.0425,
+        36.3458
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.0425,
+            36.3458
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "ARKUM-SILIFKE (MERSIN)",
+          "time": "2025.10.26 12:19:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.26",
+      "date_hour": "12:19:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MERSIN"
+    },
     {
       "title": "ARABAALAN-BIGA (CANAKKALE)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.22 09:03:17",
-      "lat": 39.2223,
-      "lng": 29.0602,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "2.6",
-      "coordinates": [
-        29.0602,
-        39.2223
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0602,
-            39.2223
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.10.22 09:03:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.22",
-      "date_hour": "09:03:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "KARAGUR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.22 08:57:31",
-      "lat": 39.246,
-      "lng": 28.1093,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "8.8",
-      "coordinates": [
-        28.1093,
-        39.246
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1093,
-            39.246
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KARAGUR-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.22 08:57:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.22",
-      "date_hour": "08:57:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
