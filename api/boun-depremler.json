@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-26T23:50:57.939Z",
+  "lastUpdate": "2025-10-26T23:59:21.820Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.10.27 02:43:43",
+      "lat": 35.1125,
+      "lng": 27.6495,
+      "md": "-.-",
+      "ml": "3.6",
+      "mw": "3.7",
+      "depth": "9.9",
+      "coordinates": [
+        27.6495,
+        35.1125
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.6495,
+            35.1125
+          ]
+        },
+        "properties": {
+          "mag": "3.6",
+          "place": "AKDENIZ",
+          "time": "2025.10.27 02:43:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.27",
+      "date_hour": "02:43:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "HUGTAS-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "DERBENT (KONYA)",
-      "type": "�lksel",
-      "date": "2025.10.22 17:16:31",
-      "lat": 38.0373,
-      "lng": 32.0345,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "15.8",
-      "coordinates": [
-        32.0345,
-        38.0373
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.0345,
-            38.0373
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "DERBENT (KONYA)",
-          "time": "2025.10.22 17:16:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.22",
-      "date_hour": "17:16:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KONYA"
     }
   ]
 }
