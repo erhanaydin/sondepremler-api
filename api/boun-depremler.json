@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-26T17:15:48.621Z",
+  "lastUpdate": "2025-10-26T17:29:57.508Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CALIMLI-(VAN)",
+      "type": "�lksel",
+      "date": "2025.10.26 20:08:31",
+      "lat": 38.6343,
+      "lng": 43.7627,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        43.7627,
+        38.6343
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.7627,
+            38.6343
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "CALIMLI-(VAN)",
+          "time": "2025.10.26 20:08:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.26",
+      "date_hour": "20:08:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "VAN"
+    },
     {
       "title": "KARAKOCA-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "TUZLA (ISTANBUL)",
-      "type": "�lksel",
-      "date": "2025.10.22 13:13:54",
-      "lat": 40.8505,
-      "lng": 29.2917,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "6.6",
-      "coordinates": [
-        29.2917,
-        40.8505
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.2917,
-            40.8505
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "TUZLA (ISTANBUL)",
-          "time": "2025.10.22 13:13:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.22",
-      "date_hour": "13:13:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ISTANBUL"
     }
   ]
 }
