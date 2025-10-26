@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-26T19:07:20.842Z",
+  "lastUpdate": "2025-10-26T19:21:48.523Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.26 22:00:54",
+      "lat": 39.2208,
+      "lng": 28.1523,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "8.6",
+      "coordinates": [
+        28.1523,
+        39.2208
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1523,
+            39.2208
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.26 22:00:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.26",
+      "date_hour": "22:00:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "PASALI-FEKE (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2025.10.22 13:59:07",
-      "lat": 40.74,
-      "lng": 27.395,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "12.8",
-      "coordinates": [
-        27.395,
-        40.74
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.395,
-            40.74
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-          "time": "2025.10.22 13:59:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.22",
-      "date_hour": "13:59:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
     }
   ]
 }
