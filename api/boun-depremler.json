@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-26T10:42:38.520Z",
+  "lastUpdate": "2025-10-26T10:51:03.181Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ARABAALAN-BIGA (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2025.10.26 12:11:54",
+      "lat": 40.16,
+      "lng": 27.3192,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "16.7",
+      "coordinates": [
+        27.3192,
+        40.16
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.3192,
+            40.16
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "ARABAALAN-BIGA (CANAKKALE)",
+          "time": "2025.10.26 12:11:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.26",
+      "date_hour": "12:11:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
     {
       "title": "KAMISTAS-(MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YESILDERE-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.22 08:32:58",
-      "lat": 39.2588,
-      "lng": 28.9992,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "10.1",
-      "coordinates": [
-        28.9992,
-        39.2588
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9992,
-            39.2588
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YESILDERE-SIMAV (KUTAHYA)",
-          "time": "2025.10.22 08:32:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.22",
-      "date_hour": "08:32:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
