@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-26T16:57:31.949Z",
+  "lastUpdate": "2025-10-26T17:15:48.621Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAKOCA-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.26 20:01:20",
+      "lat": 39.2633,
+      "lng": 28.9758,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "10.4",
+      "coordinates": [
+        28.9758,
+        39.2633
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9758,
+            39.2633
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KARAKOCA-SIMAV (KUTAHYA)",
+          "time": "2025.10.26 20:01:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.26",
+      "date_hour": "20:01:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "ORMANLI ACIKLARI-ISTANBUL (KARADENIZ)",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "KAPLAN-BEYPAZARI (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.10.26 18:32:29",
+      "lat": 40.2313,
+      "lng": 31.8022,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "6.7",
+      "coordinates": [
+        31.8022,
+        40.2313
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.8022,
+            40.2313
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "KAPLAN-BEYPAZARI (ANKARA)",
+          "time": "2025.10.26 18:32:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.26",
+      "date_hour": "18:32:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
     },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ISTANBUL"
-    },
-    {
-      "title": "BAHATLAR-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.22 13:07:20",
-      "lat": 39.3285,
-      "lng": 29.3113,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        29.3113,
-        39.3285
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.3113,
-            39.3285
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "BAHATLAR-EMET (KUTAHYA)",
-          "time": "2025.10.22 13:07:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.22",
-      "date_hour": "13:07:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.22 13:05:22",
-      "lat": 39.244,
-      "lng": 29.0128,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "10.2",
-      "coordinates": [
-        29.0128,
-        39.244
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0128,
-            39.244
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.10.22 13:05:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.22",
-      "date_hour": "13:05:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
