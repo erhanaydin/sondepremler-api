@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-26T21:56:43.234Z",
+  "lastUpdate": "2025-10-26T22:16:16.236Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.27 01:01:38",
+      "lat": 39.1757,
+      "lng": 28.9877,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "13.8",
+      "coordinates": [
+        28.9877,
+        39.1757
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9877,
+            39.1757
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.10.27 01:01:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.27",
+      "date_hour": "01:01:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YESILDERE-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MERSIN"
-    },
-    {
-      "title": "KISLA-ULUBEY (USAK)",
-      "type": "�lksel",
-      "date": "2025.10.22 15:29:11",
-      "lat": 38.4788,
-      "lng": 29.1825,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "16.7",
-      "coordinates": [
-        29.1825,
-        38.4788
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1825,
-            38.4788
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "KISLA-ULUBEY (USAK)",
-          "time": "2025.10.22 15:29:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.22",
-      "date_hour": "15:29:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "USAK"
     }
   ]
 }
