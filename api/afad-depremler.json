@@ -1,5 +1,41 @@
 [
   {
+    "title": "Beypazarı (Ankara)",
+    "type": "Güncellenmiş",
+    "date": "2025-10-25 09:16:26",
+    "lat": 40.2025,
+    "lng": 31.70889,
+    "md": "-.-",
+    "ml": "2",
+    "mw": "-.-",
+    "depth": 6.94,
+    "coordinates": [
+      31.70889,
+      40.2025
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70889,
+          40.2025
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Beypazarı (Ankara) (Ankara)",
+        "time": 1761383786000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-25",
+    "date_hour": "09:16:26",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Ankara"
+  },
+  {
     "title": "Yeşilyurt (Malatya)",
     "type": "İlksel",
     "date": "2025-10-25 09:15:44",
@@ -3996,42 +4032,6 @@
     "city": "Malatya"
   },
   {
-    "title": "Eşme (Uşak)",
-    "type": "İlksel",
-    "date": "2025-10-24 14:26:06",
-    "lat": 38.4875,
-    "lng": 29.15611,
-    "md": "-.-",
-    "ml": "0.6",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      29.15611,
-      38.4875
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.15611,
-          38.4875
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Eşme (Uşak) (Uşak)",
-        "time": 1761315966000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-10-24",
-    "date_hour": "14:26:06",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Uşak"
-  },
-  {
     "title": "Ulubey (Uşak)",
     "type": "İlksel",
     "date": "2025-10-24 14:26:06",
@@ -4057,6 +4057,42 @@
       "properties": {
         "mag": 0,
         "place": "Ulubey (Uşak) (Uşak)",
+        "time": 1761315966000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-24",
+    "date_hour": "14:26:06",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Uşak"
+  },
+  {
+    "title": "Eşme (Uşak)",
+    "type": "İlksel",
+    "date": "2025-10-24 14:26:06",
+    "lat": 38.4875,
+    "lng": 29.15611,
+    "md": "-.-",
+    "ml": "0.6",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      29.15611,
+      38.4875
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.15611,
+          38.4875
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Eşme (Uşak) (Uşak)",
         "time": 1761315966000
       }
     },
@@ -17962,41 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Hatay"
-  },
-  {
-    "title": "Köyceğiz (Muğla)",
-    "type": "İlksel",
-    "date": "2025-10-21 19:04:34",
-    "lat": 37.09194,
-    "lng": 28.60306,
-    "md": "-.-",
-    "ml": "1.3",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.60306,
-      37.09194
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.60306,
-          37.09194
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Köyceğiz (Muğla) (Muğla)",
-        "time": 1761073474000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-10-21",
-    "date_hour": "19:04:34",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
   }
 ]
