@@ -1,5 +1,41 @@
 [
   {
+    "title": "Simav (Kütahya)",
+    "type": "İlksel",
+    "date": "2025-10-24 23:00:38",
+    "lat": 39.20611,
+    "lng": 28.93861,
+    "md": "-.-",
+    "ml": "1.2",
+    "mw": "-.-",
+    "depth": 7.12,
+    "coordinates": [
+      28.93861,
+      39.20611
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.93861,
+          39.20611
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Simav (Kütahya) (Kütahya)",
+        "time": 1761346838000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-24",
+    "date_hour": "23:00:38",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-10-24 22:56:24",
@@ -1764,42 +1800,6 @@
     "city": "Malatya"
   },
   {
-    "title": "Ulubey (Uşak)",
-    "type": "İlksel",
-    "date": "2025-10-24 14:26:06",
-    "lat": 38.50667,
-    "lng": 29.15139,
-    "md": "-.-",
-    "ml": "0.6",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      29.15139,
-      38.50667
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.15139,
-          38.50667
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ulubey (Uşak) (Uşak)",
-        "time": 1761315966000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-10-24",
-    "date_hour": "14:26:06",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Uşak"
-  },
-  {
     "title": "Eşme (Uşak)",
     "type": "İlksel",
     "date": "2025-10-24 14:26:06",
@@ -1825,6 +1825,42 @@
       "properties": {
         "mag": 0,
         "place": "Eşme (Uşak) (Uşak)",
+        "time": 1761315966000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-24",
+    "date_hour": "14:26:06",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Uşak"
+  },
+  {
+    "title": "Ulubey (Uşak)",
+    "type": "İlksel",
+    "date": "2025-10-24 14:26:06",
+    "lat": 38.50667,
+    "lng": 29.15139,
+    "md": "-.-",
+    "ml": "0.6",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      29.15139,
+      38.50667
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.15139,
+          38.50667
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ulubey (Uşak) (Uşak)",
         "time": 1761315966000
       }
     },
@@ -17962,41 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Adıyaman"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-10-21 05:55:44",
-    "lat": 39.24667,
-    "lng": 28.09583,
-    "md": "-.-",
-    "ml": "0.9",
-    "mw": "-.-",
-    "depth": 7.27,
-    "coordinates": [
-      28.09583,
-      39.24667
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.09583,
-          39.24667
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1761026144000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-10-21",
-    "date_hour": "05:55:44",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
