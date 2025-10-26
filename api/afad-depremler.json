@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sındırgı (Balıkesir)",
+    "type": "İlksel",
+    "date": "2025-10-24 22:40:48",
+    "lat": 39.18444,
+    "lng": 28.1675,
+    "md": "-.-",
+    "ml": "1",
+    "mw": "-.-",
+    "depth": 4.82,
+    "coordinates": [
+      28.1675,
+      39.18444
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1675,
+          39.18444
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sındırgı (Balıkesir) (Balıkesir)",
+        "time": 1761345648000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-24",
+    "date_hour": "22:40:48",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Balıkesir"
+  },
+  {
     "title": "Merkez (Bolu)",
     "type": "İlksel",
     "date": "2025-10-24 22:35:15",
@@ -1548,42 +1584,6 @@
     "city": "Malatya"
   },
   {
-    "title": "Ulubey (Uşak)",
-    "type": "İlksel",
-    "date": "2025-10-24 14:26:06",
-    "lat": 38.50667,
-    "lng": 29.15139,
-    "md": "-.-",
-    "ml": "0.6",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      29.15139,
-      38.50667
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.15139,
-          38.50667
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ulubey (Uşak) (Uşak)",
-        "time": 1761315966000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-10-24",
-    "date_hour": "14:26:06",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Uşak"
-  },
-  {
     "title": "Eşme (Uşak)",
     "type": "İlksel",
     "date": "2025-10-24 14:26:06",
@@ -1609,6 +1609,42 @@
       "properties": {
         "mag": 0,
         "place": "Eşme (Uşak) (Uşak)",
+        "time": 1761315966000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-24",
+    "date_hour": "14:26:06",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Uşak"
+  },
+  {
+    "title": "Ulubey (Uşak)",
+    "type": "İlksel",
+    "date": "2025-10-24 14:26:06",
+    "lat": 38.50667,
+    "lng": 29.15139,
+    "md": "-.-",
+    "ml": "0.6",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      29.15139,
+      38.50667
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.15139,
+          38.50667
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ulubey (Uşak) (Uşak)",
         "time": 1761315966000
       }
     },
@@ -17962,41 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Manisa"
-  },
-  {
-    "title": "Ege Denizi",
-    "type": "İlksel",
-    "date": "2025-10-21 04:39:30",
-    "lat": 36.82361,
-    "lng": 25.3925,
-    "md": "-.-",
-    "ml": "2",
-    "mw": "-.-",
-    "depth": 6.76,
-    "coordinates": [
-      25.3925,
-      36.82361
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.3925,
-          36.82361
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi (Muğla)",
-        "time": 1761021570000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-10-21",
-    "date_hour": "04:39:30",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
   }
 ]
