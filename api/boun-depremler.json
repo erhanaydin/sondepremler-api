@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-27T05:54:57.880Z",
+  "lastUpdate": "2025-10-27T06:23:07.795Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -34,6 +34,42 @@
       "location_properties": "",
       "date_day": "2025.10.27",
       "date_hour": "08:39:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.27 08:30:59",
+      "lat": 39.2438,
+      "lng": 29.0077,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "13.5",
+      "coordinates": [
+        29.0077,
+        39.2438
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0077,
+            39.2438
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.10.27 08:30:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.27",
+      "date_hour": "08:30:59",
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "CAKIRBAG-BAYRAMOREN (CANKIRI)",
-      "type": "�lksel",
-      "date": "2025.10.22 22:30:55",
-      "lat": 40.9728,
-      "lng": 33.0637,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "7.5",
-      "coordinates": [
-        33.0637,
-        40.9728
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.0637,
-            40.9728
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "CAKIRBAG-BAYRAMOREN (CANKIRI)",
-          "time": "2025.10.22 22:30:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.22",
-      "date_hour": "22:30:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANKIRI"
     }
   ]
 }
