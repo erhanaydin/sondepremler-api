@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-27T18:51:58.580Z",
+  "lastUpdate": "2025-10-27T19:00:16.204Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.27 21:31:33",
+      "lat": 39.1288,
+      "lng": 28.2732,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "10.2",
+      "coordinates": [
+        28.2732,
+        39.1288
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2732,
+            39.1288
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.27 21:31:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.27",
+      "date_hour": "21:31:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "KARAGUR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.23 08:13:26",
-      "lat": 39.2717,
-      "lng": 28.1073,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        28.1073,
-        39.2717
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1073,
-            39.2717
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "KARAGUR-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.23 08:13:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.23",
-      "date_hour": "08:13:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
