@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-27T11:46:50.145Z",
+  "lastUpdate": "2025-10-27T11:55:13.014Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.27 14:36:12",
+      "lat": 39.1652,
+      "lng": 28.2213,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "11.2",
+      "coordinates": [
+        28.2213,
+        39.1652
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2213,
+            39.1652
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.27 14:36:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.27",
+      "date_hour": "14:36:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAYLAKOY-KINIK (IZMIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.10.23 01:31:27",
-      "lat": 37.1018,
-      "lng": 28.4357,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "9.3",
-      "coordinates": [
-        28.4357,
-        37.1018
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.4357,
-            37.1018
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "ULA (MUGLA)",
-          "time": "2025.10.23 01:31:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.23",
-      "date_hour": "01:31:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
