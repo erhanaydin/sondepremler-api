@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-27T09:50:41.448Z",
+  "lastUpdate": "2025-10-27T09:58:59.976Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.27 12:30:13",
+      "lat": 39.2443,
+      "lng": 28.171,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        28.171,
+        39.2443
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.171,
+            39.2443
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "SINDIRGI (BALIKESIR)",
+          "time": "2025.10.27 12:30:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.27",
+      "date_hour": "12:30:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "HANPASA-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.10.23 00:47:36",
-      "lat": 39.0328,
-      "lng": 28.099,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "19.9",
-      "coordinates": [
-        28.099,
-        39.0328
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.099,
-            39.0328
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "HANPASA-AKHISAR (MANISA)",
-          "time": "2025.10.23 00:47:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.23",
-      "date_hour": "00:47:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
