@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-27T06:23:07.795Z",
+  "lastUpdate": "2025-10-27T06:51:13.802Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ARKUM-SILIFKE (MERSIN)",
+      "type": "�lksel",
+      "date": "2025.10.27 09:36:41",
+      "lat": 36.3172,
+      "lng": 34.0467,
+      "md": "-.-",
+      "ml": "3.9",
+      "mw": "-.-",
+      "depth": "6.9",
+      "coordinates": [
+        34.0467,
+        36.3172
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.0467,
+            36.3172
+          ]
+        },
+        "properties": {
+          "mag": "3.9",
+          "place": "ARKUM-SILIFKE (MERSIN)",
+          "time": "2025.10.27 09:36:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.27",
+      "date_hour": "09:36:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MERSIN"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "GOKOVA KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.10.22 22:54:04",
-      "lat": 36.9755,
-      "lng": 27.6858,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "8.8",
-      "coordinates": [
-        27.6858,
-        36.9755
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.6858,
-            36.9755
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "GOKOVA KORFEZI (EGE DENIZI)",
-          "time": "2025.10.22 22:54:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.22",
-      "date_hour": "22:54:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
