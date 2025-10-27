@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-27T13:54:23.154Z",
+  "lastUpdate": "2025-10-27T14:12:07.281Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CIFTLIKKOY (YALOVA)",
+      "type": "�lksel",
+      "date": "2025.10.27 16:46:04",
+      "lat": 40.6893,
+      "lng": 29.3087,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "10.5",
+      "coordinates": [
+        29.3087,
+        40.6893
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.3087,
+            40.6893
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "CIFTLIKKOY (YALOVA)",
+          "time": "2025.10.27 16:46:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.27",
+      "date_hour": "16:46:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "YALOVA"
+    },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KUCUKNACAR (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.10.23 02:09:12",
-      "lat": 37.6057,
-      "lng": 37.1888,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        37.1888,
-        37.6057
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.1888,
-            37.6057
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KUCUKNACAR (KAHRAMANMARAS)",
-          "time": "2025.10.23 02:09:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.23",
-      "date_hour": "02:09:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
