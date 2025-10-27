@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-27T09:58:59.976Z",
+  "lastUpdate": "2025-10-27T10:26:49.761Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SAHIN-TAVSANLI (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.10.27 12:58:07",
+      "lat": 39.4455,
+      "lng": 29.7782,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        29.7782,
+        39.4455
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.7782,
+            39.4455
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "SAHIN-TAVSANLI (KUTAHYA)",
+          "time": "2025.10.27 12:58:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.27",
+      "date_hour": "12:58:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -541,6 +577,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MERSIN"
+    },
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.27 09:29:55",
+      "lat": 39.1812,
+      "lng": 28.1832,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "11.3",
+      "coordinates": [
+        28.1832,
+        39.1812
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1832,
+            39.1812
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.27 09:29:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.27",
+      "date_hour": "09:29:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "HACET-KIRKAGAC (MANISA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.23 00:58:19",
-      "lat": 39.2322,
-      "lng": 29.0138,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        29.0138,
-        39.2322
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0138,
-            39.2322
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.10.23 00:58:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.23",
-      "date_hour": "00:58:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.23 00:49:10",
-      "lat": 39.2308,
-      "lng": 28.9533,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "3.9",
-      "coordinates": [
-        28.9533,
-        39.2308
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9533,
-            39.2308
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.10.23 00:49:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.23",
-      "date_hour": "00:49:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
