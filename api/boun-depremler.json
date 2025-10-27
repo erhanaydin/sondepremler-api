@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-27T21:52:38.844Z",
+  "lastUpdate": "2025-10-27T22:07:49.676Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.28 00:58:57",
+      "lat": 39.1892,
+      "lng": 28.1493,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "8.6",
+      "coordinates": [
+        28.1493,
+        39.1892
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1493,
+            39.1892
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.28 00:58:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.28",
+      "date_hour": "00:58:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -1549,6 +1585,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "SARNICKOY-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2025.10.27 22:50:38",
+      "lat": 38.9652,
+      "lng": 28.0295,
+      "md": "-.-",
+      "ml": "3.2",
+      "mw": "3.0",
+      "depth": "1.5",
+      "coordinates": [
+        28.0295,
+        38.9652
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0295,
+            38.9652
+          ]
+        },
+        "properties": {
+          "mag": "3.2",
+          "place": "SARNICKOY-AKHISAR (MANISA)",
+          "time": "2025.10.27 22:50:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.27",
+      "date_hour": "22:50:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
     },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR) REVIZE01 (2025.10.27",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "GOLLUHUYUK-TURKOGLU (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.10.23 22:08:33",
-      "lat": 37.3655,
-      "lng": 36.8982,
-      "md": "-.-",
-      "ml": "4.0",
-      "mw": "4.0",
-      "depth": "1.1",
-      "coordinates": [
-        36.8982,
-        37.3655
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.8982,
-            37.3655
-          ]
-        },
-        "properties": {
-          "mag": "4.0",
-          "place": "GOLLUHUYUK-TURKOGLU (KAHRAMANMARAS)",
-          "time": "2025.10.23 22:08:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.23",
-      "date_hour": "22:08:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)",
-      "type": "�lksel",
-      "date": "2025.10.23 22:00:20",
-      "lat": 36.9957,
-      "lng": 36.0897,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "9.8",
-      "coordinates": [
-        36.0897,
-        36.9957
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.0897,
-            36.9957
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)",
-          "time": "2025.10.23 22:00:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.23",
-      "date_hour": "22:00:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "OSMANIYE"
     }
   ]
 }
