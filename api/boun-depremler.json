@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-27T19:39:33.292Z",
+  "lastUpdate": "2025-10-27T19:48:10.096Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -181,6 +181,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "BALTASI-(ERZINCAN)",
+      "type": "�lksel",
+      "date": "2025.10.27 21:55:58",
+      "lat": 39.8455,
+      "lng": 39.1735,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "6.6",
+      "coordinates": [
+        39.1735,
+        39.8455
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.1735,
+            39.8455
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "BALTASI-(ERZINCAN)",
+          "time": "2025.10.27 21:55:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.27",
+      "date_hour": "21:55:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZINCAN"
     },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.10.23 09:55:45",
-      "lat": 39.2402,
-      "lng": 29.0387,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "13.9",
-      "coordinates": [
-        29.0387,
-        39.2402
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0387,
-            39.2402
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.10.23 09:55:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.23",
-      "date_hour": "09:55:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
