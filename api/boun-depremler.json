@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-28T09:40:18.604Z",
+  "lastUpdate": "2025-10-28T09:49:45.182Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.28 12:31:14",
+      "lat": 39.2037,
+      "lng": 28.1588,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "15.7",
+      "coordinates": [
+        28.1588,
+        39.2037
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1588,
+            39.2037
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.28 12:31:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.28",
+      "date_hour": "12:31:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "VAN"
-    },
-    {
-      "title": "SAPCI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.26 04:56:40",
-      "lat": 39.1837,
-      "lng": 28.4485,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "10.0",
-      "coordinates": [
-        28.4485,
-        39.1837
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.4485,
-            39.1837
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "SAPCI-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.26 04:56:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.26",
-      "date_hour": "04:56:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
