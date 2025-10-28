@@ -1,5 +1,113 @@
 [
   {
+    "title": "Elmalı (Antalya)",
+    "type": "İlksel",
+    "date": "2025-10-27 07:31:01",
+    "lat": 36.82639,
+    "lng": 30.07833,
+    "md": "-.-",
+    "ml": "1.7",
+    "mw": "-.-",
+    "depth": 7.35,
+    "coordinates": [
+      30.07833,
+      36.82639
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.07833,
+          36.82639
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Elmalı (Antalya) (Antalya)",
+        "time": 1761550261000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-27",
+    "date_hour": "07:31:01",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Antalya"
+  },
+  {
+    "title": "Ege Denizi - [13.45 km] Ayvacık (Çanakkale)",
+    "type": "İlksel",
+    "date": "2025-10-27 07:17:07",
+    "lat": 39.47,
+    "lng": 25.91,
+    "md": "-.-",
+    "ml": "3.7",
+    "mw": "-.-",
+    "depth": 13.19,
+    "coordinates": [
+      25.91,
+      39.47
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.91,
+          39.47
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi - [13.45 km] Ayvacık (Çanakkale) (Çanakkale)",
+        "time": 1761549427000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-27",
+    "date_hour": "07:17:07",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Çanakkale"
+  },
+  {
+    "title": "Ege Denizi - [12.83 km] Ayvacık (Çanakkale)",
+    "type": "İlksel",
+    "date": "2025-10-27 07:14:51",
+    "lat": 39.49528,
+    "lng": 25.91806,
+    "md": "-.-",
+    "ml": "2.8",
+    "mw": "-.-",
+    "depth": 14.34,
+    "coordinates": [
+      25.91806,
+      39.49528
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.91806,
+          39.49528
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi - [12.83 km] Ayvacık (Çanakkale) (Çanakkale)",
+        "time": 1761549291000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-27",
+    "date_hour": "07:14:51",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Çanakkale"
+  },
+  {
     "title": "Ege Denizi - [13.37 km] Ayvacık (Çanakkale)",
     "type": "İlksel",
     "date": "2025-10-27 07:12:26",
@@ -11736,42 +11844,6 @@
     "city": "Malatya"
   },
   {
-    "title": "Eşme (Uşak)",
-    "type": "İlksel",
-    "date": "2025-10-24 14:26:06",
-    "lat": 38.4875,
-    "lng": 29.15611,
-    "md": "-.-",
-    "ml": "0.6",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      29.15611,
-      38.4875
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.15611,
-          38.4875
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Eşme (Uşak) (Uşak)",
-        "time": 1761315966000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-10-24",
-    "date_hour": "14:26:06",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Uşak"
-  },
-  {
     "title": "Ulubey (Uşak)",
     "type": "İlksel",
     "date": "2025-10-24 14:26:06",
@@ -11797,6 +11869,42 @@
       "properties": {
         "mag": 0,
         "place": "Ulubey (Uşak) (Uşak)",
+        "time": 1761315966000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-10-24",
+    "date_hour": "14:26:06",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Uşak"
+  },
+  {
+    "title": "Eşme (Uşak)",
+    "type": "İlksel",
+    "date": "2025-10-24 14:26:06",
+    "lat": 38.4875,
+    "lng": 29.15611,
+    "md": "-.-",
+    "ml": "0.6",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      29.15611,
+      38.4875
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.15611,
+          38.4875
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Eşme (Uşak) (Uşak)",
         "time": 1761315966000
       }
     },
@@ -17890,113 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Çanakkale"
-  },
-  {
-    "title": "Simav (Kütahya)",
-    "type": "İlksel",
-    "date": "2025-10-23 10:13:20",
-    "lat": 39.23972,
-    "lng": 29.00222,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      29.00222,
-      39.23972
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.00222,
-          39.23972
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Simav (Kütahya) (Kütahya)",
-        "time": 1761214400000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-10-23",
-    "date_hour": "10:13:20",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kütahya"
-  },
-  {
-    "title": "Sulakyurt (Kırıkkale)",
-    "type": "İlksel",
-    "date": "2025-10-23 10:11:18",
-    "lat": 40.17417,
-    "lng": 33.93222,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      33.93222,
-      40.17417
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.93222,
-          40.17417
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sulakyurt (Kırıkkale) (Kırıkkale)",
-        "time": 1761214278000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-10-23",
-    "date_hour": "10:11:18",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kırıkkale"
-  },
-  {
-    "title": "Eşme (Uşak)",
-    "type": "İlksel",
-    "date": "2025-10-23 09:59:14",
-    "lat": 38.46306,
-    "lng": 29.05306,
-    "md": "-.-",
-    "ml": "0.7",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      29.05306,
-      38.46306
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.05306,
-          38.46306
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Eşme (Uşak) (Uşak)",
-        "time": 1761213554000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-10-23",
-    "date_hour": "09:59:14",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Uşak"
   }
 ]
