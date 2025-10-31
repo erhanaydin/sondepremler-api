@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-10-31T08:57:11.480Z",
+  "lastUpdate": "2025-10-31T09:20:26.111Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.10.31 11:54:19",
+      "lat": 39.2122,
+      "lng": 28.1545,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.3",
+      "coordinates": [
+        28.1545,
+        39.2122
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1545,
+            39.2122
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
+          "time": "2025.10.31 11:54:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.31",
+      "date_hour": "11:54:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KINIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -469,6 +505,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "BOREZ-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2025.10.31 10:48:18",
+      "lat": 39.015,
+      "lng": 28.2835,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "11.4",
+      "coordinates": [
+        28.2835,
+        39.015
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2835,
+            39.015
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "BOREZ-GORDES (MANISA)",
+          "time": "2025.10.31 10:48:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.10.31",
+      "date_hour": "10:48:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
     },
     {
       "title": "KINIK-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "KERTIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.30 03:39:54",
-      "lat": 39.206,
-      "lng": 28.1155,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "7.7",
-      "coordinates": [
-        28.1155,
-        39.206
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1155,
-            39.206
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KERTIL-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.30 03:39:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.30",
-      "date_hour": "03:39:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.30 03:38:55",
-      "lat": 39.1465,
-      "lng": 28.233,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "23.9",
-      "coordinates": [
-        28.233,
-        39.1465
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.233,
-            39.1465
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.30 03:38:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.30",
-      "date_hour": "03:38:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
