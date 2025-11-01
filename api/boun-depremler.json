@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-01T18:44:50.660Z",
+  "lastUpdate": "2025-11-01T18:53:19.515Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.01 21:40:45",
+      "lat": 39.1383,
+      "lng": 28.2295,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "9.7",
+      "coordinates": [
+        28.2295,
+        39.1383
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2295,
+            39.1383
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.01 21:40:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.01",
+      "date_hour": "21:40:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ORDU"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.10.31 04:53:43",
-      "lat": 35.6542,
-      "lng": 30.7562,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "6.0",
-      "coordinates": [
-        30.7562,
-        35.6542
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.7562,
-            35.6542
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "AKDENIZ",
-          "time": "2025.10.31 04:53:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.31",
-      "date_hour": "04:53:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
