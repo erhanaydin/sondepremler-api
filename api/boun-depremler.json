@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-02T22:29:53.321Z",
+  "lastUpdate": "2025-11-02T22:41:16.500Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.03 01:27:13",
+      "lat": 39.1783,
+      "lng": 28.2573,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "8.5",
+      "coordinates": [
+        28.2573,
+        39.1783
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2573,
+            39.1783
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.03 01:27:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.03",
+      "date_hour": "01:27:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "BOSTANKOLU-RESADIYE (TOKAT)",
+      "type": "�lksel",
+      "date": "2025.11.03 01:20:36",
+      "lat": 40.3355,
+      "lng": 37.3575,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.5",
+      "coordinates": [
+        37.3575,
+        40.3355
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.3575,
+            40.3355
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "BOSTANKOLU-RESADIYE (TOKAT)",
+          "time": "2025.11.03 01:20:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.03",
+      "date_hour": "01:20:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "TOKAT"
     },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "KERTIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.01 02:27:09",
-      "lat": 39.205,
-      "lng": 28.0993,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "20.7",
-      "coordinates": [
-        28.0993,
-        39.205
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0993,
-            39.205
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KERTIL-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.01 02:27:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.01",
-      "date_hour": "02:27:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.01 02:19:15",
-      "lat": 39.1008,
-      "lng": 28.2715,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "20.0",
-      "coordinates": [
-        28.2715,
-        39.1008
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2715,
-            39.1008
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.01 02:19:15"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.01",
-      "date_hour": "02:19:15",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
