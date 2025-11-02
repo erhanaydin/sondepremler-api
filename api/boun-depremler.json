@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-02T15:48:53.919Z",
+  "lastUpdate": "2025-11-02T15:57:32.346Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.02 18:46:32",
+      "lat": 39.1715,
+      "lng": 28.2265,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "11.5",
+      "coordinates": [
+        28.2265,
+        39.1715
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2265,
+            39.1715
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.02 18:46:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.02",
+      "date_hour": "18:46:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.31 18:21:35",
-      "lat": 39.1855,
-      "lng": 28.1533,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "10.3",
-      "coordinates": [
-        28.1533,
-        39.1855
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1533,
-            39.1855
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.31 18:21:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.31",
-      "date_hour": "18:21:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
