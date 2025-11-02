@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-02T23:39:28.727Z",
+  "lastUpdate": "2025-11-02T23:48:00.410Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -109,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "AKCALIUSAGI-KOZAN (ADANA)",
+      "type": "�lksel",
+      "date": "2025.11.03 02:16:27",
+      "lat": 37.707,
+      "lng": 36.1012,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "7.8",
+      "coordinates": [
+        36.1012,
+        37.707
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.1012,
+            37.707
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "AKCALIUSAGI-KOZAN (ADANA)",
+          "time": "2025.11.03 02:16:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.03",
+      "date_hour": "02:16:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
     },
     {
       "title": "CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KARAKOY-BULDAN (DENIZLI)",
-      "type": "�lksel",
-      "date": "2025.11.01 03:59:36",
-      "lat": 38.2067,
-      "lng": 28.896,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "8.7",
-      "coordinates": [
-        28.896,
-        38.2067
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.896,
-            38.2067
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KARAKOY-BULDAN (DENIZLI)",
-          "time": "2025.11.01 03:59:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.01",
-      "date_hour": "03:59:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
