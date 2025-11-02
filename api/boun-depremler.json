@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-02T15:30:31.709Z",
+  "lastUpdate": "2025-11-02T15:40:25.876Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.02 18:31:00",
+      "lat": 39.1647,
+      "lng": 28.3518,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "12.7",
+      "coordinates": [
+        28.3518,
+        39.1647
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3518,
+            39.1647
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.02 18:31:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.02",
+      "date_hour": "18:31:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KIRIKKALE"
-    },
-    {
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.10.31 18:12:19",
-      "lat": 39.1735,
-      "lng": 28.1782,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "14.2",
-      "coordinates": [
-        28.1782,
-        39.1735
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1782,
-            39.1735
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "AKTAS-SINDIRGI (BALIKESIR)",
-          "time": "2025.10.31 18:12:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.10.31",
-      "date_hour": "18:12:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
