@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-03T20:22:53.402Z",
+  "lastUpdate": "2025-11-03T20:27:45.027Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.03 23:20:31",
+      "lat": 39.1795,
+      "lng": 28.175,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "13.2",
+      "coordinates": [
+        28.175,
+        39.1795
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.175,
+            39.1795
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.03 23:20:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.03",
+      "date_hour": "23:20:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -289,6 +325,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "KOZAGAC-BEYPAZARI (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.11.03 22:03:50",
+      "lat": 40.2292,
+      "lng": 31.7533,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "10.3",
+      "coordinates": [
+        31.7533,
+        40.2292
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.7533,
+            40.2292
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "KOZAGAC-BEYPAZARI (ANKARA)",
+          "time": "2025.11.03 22:03:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.03",
+      "date_hour": "22:03:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
     },
     {
       "title": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.02 04:51:42",
-      "lat": 39.1847,
-      "lng": 28.1543,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "8.8",
-      "coordinates": [
-        28.1543,
-        39.1847
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1543,
-            39.1847
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.02 04:51:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.02",
-      "date_hour": "04:51:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.11.02 04:46:02",
-      "lat": 40.3097,
-      "lng": 24.16,
-      "md": "-.-",
-      "ml": "3.2",
-      "mw": "3.2",
-      "depth": "12.1",
-      "coordinates": [
-        24.16,
-        40.3097
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.16,
-            40.3097
-          ]
-        },
-        "properties": {
-          "mag": "3.2",
-          "place": "YUNANISTAN",
-          "time": "2025.11.02 04:46:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.02",
-      "date_hour": "04:46:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
