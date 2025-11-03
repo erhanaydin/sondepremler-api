@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-11-03T09:26:54.176Z",
+  "lastUpdate": "2025-11-03T09:44:21.249Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.03 12:33:39",
+      "lat": 39.149,
+      "lng": 28.3498,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "13.7",
+      "coordinates": [
+        28.3498,
+        39.149
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3498,
+            39.149
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.03 12:33:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.03",
+      "date_hour": "12:33:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "AKDERE-SILIFKE (MERSIN)",
+      "type": "�lksel",
+      "date": "2025.11.03 12:19:28",
+      "lat": 36.2757,
+      "lng": 33.7293,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        33.7293,
+        36.2757
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.7293,
+            36.2757
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "AKDERE-SILIFKE (MERSIN)",
+          "time": "2025.11.03 12:19:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.03",
+      "date_hour": "12:19:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MERSIN"
+    },
     {
       "title": "TASIT-DERIK (MARDIN)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ONIKI ADALAR (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.11.01 12:53:58",
-      "lat": 36.4718,
-      "lng": 27.1062,
-      "md": "-.-",
-      "ml": "3.1",
-      "mw": "3.2",
-      "depth": "3.3",
-      "coordinates": [
-        27.1062,
-        36.4718
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1062,
-            36.4718
-          ]
-        },
-        "properties": {
-          "mag": "3.1",
-          "place": "ONIKI ADALAR (EGE DENIZI)",
-          "time": "2025.11.01 12:53:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.01",
-      "date_hour": "12:53:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
-    },
-    {
-      "title": "KALEMOGLU-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2025.11.01 12:45:11",
-      "lat": 39.0262,
-      "lng": 28.2073,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "12.8",
-      "coordinates": [
-        28.2073,
-        39.0262
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2073,
-            39.0262
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KALEMOGLU-GORDES (MANISA)",
-          "time": "2025.11.01 12:45:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.01",
-      "date_hour": "12:45:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
