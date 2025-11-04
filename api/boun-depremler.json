@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-04T21:50:44.955Z",
+  "lastUpdate": "2025-11-04T21:59:02.871Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.11.05 00:39:53",
+      "lat": 35.8673,
+      "lng": 30.3097,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "10.9",
+      "coordinates": [
+        30.3097,
+        35.8673
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3097,
+            35.8673
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "AKDENIZ",
+          "time": "2025.11.05 00:39:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.05",
+      "date_hour": "00:39:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.03 05:57:36",
-      "lat": 39.2025,
-      "lng": 28.1403,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "9.4",
-      "coordinates": [
-        28.1403,
-        39.2025
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1403,
-            39.2025
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.03 05:57:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.03",
-      "date_hour": "05:57:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
