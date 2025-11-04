@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-11-04T19:41:27.264Z",
+  "lastUpdate": "2025-11-04T19:50:02.154Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.11.04 22:34:54",
+      "lat": 37.9633,
+      "lng": 27.1208,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "6.2",
+      "coordinates": [
+        27.1208,
+        37.9633
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.1208,
+            37.9633
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2025.11.04 22:34:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.04",
+      "date_hour": "22:34:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
+    {
+      "title": "MESTAN-(ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2025.11.04 22:30:54",
+      "lat": 37.9988,
+      "lng": 38.1997,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.1997,
+        37.9988
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.1997,
+            37.9988
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "MESTAN-(ADIYAMAN)",
+          "time": "2025.11.04 22:30:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.04",
+      "date_hour": "22:30:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
+    },
     {
       "title": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KORU-CINARCIK (YALOVA)",
-      "type": "�lksel",
-      "date": "2025.11.03 03:54:36",
-      "lat": 40.7303,
-      "lng": 29.1335,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "8.4",
-      "coordinates": [
-        29.1335,
-        40.7303
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1335,
-            40.7303
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KORU-CINARCIK (YALOVA)",
-          "time": "2025.11.03 03:54:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.03",
-      "date_hour": "03:54:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "YALOVA"
-    },
-    {
-      "title": "AKSU-SINCIK (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.11.03 03:51:46",
-      "lat": 38.1535,
-      "lng": 38.493,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "2.4",
-      "coordinates": [
-        38.493,
-        38.1535
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.493,
-            38.1535
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "AKSU-SINCIK (ADIYAMAN)",
-          "time": "2025.11.03 03:51:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.03",
-      "date_hour": "03:51:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
