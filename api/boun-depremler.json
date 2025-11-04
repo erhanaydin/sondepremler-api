@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-04T22:21:49.319Z",
+  "lastUpdate": "2025-11-04T22:37:53.860Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.05 00:41:20",
+      "lat": 39.2093,
+      "lng": 28.1013,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "8.1",
+      "coordinates": [
+        28.1013,
+        39.2093
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1013,
+            39.2093
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.05 00:41:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.05",
+      "date_hour": "00:41:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ONIKI ADALAR (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.11.03 06:07:44",
-      "lat": 36.4673,
-      "lng": 27.1575,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "-.-",
-      "depth": "14.1",
-      "coordinates": [
-        27.1575,
-        36.4673
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1575,
-            36.4673
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "ONIKI ADALAR (EGE DENIZI)",
-          "time": "2025.11.03 06:07:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.03",
-      "date_hour": "06:07:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
