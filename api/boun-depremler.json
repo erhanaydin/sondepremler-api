@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-05T11:38:21.695Z",
+  "lastUpdate": "2025-11-05T11:46:35.969Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MALAZ-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2025.11.05 14:35:48",
+      "lat": 39.0525,
+      "lng": 28.2778,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "16.9",
+      "coordinates": [
+        28.2778,
+        39.0525
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2778,
+            39.0525
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "MALAZ-GORDES (MANISA)",
+          "time": "2025.11.05 14:35:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.05",
+      "date_hour": "14:35:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.03 16:29:10",
-      "lat": 39.1967,
-      "lng": 28.3242,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "10.5",
-      "coordinates": [
-        28.3242,
-        39.1967
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3242,
-            39.1967
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.03 16:29:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.03",
-      "date_hour": "16:29:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
