@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-06T10:44:08.841Z",
+  "lastUpdate": "2025-11-06T10:53:51.861Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.06 13:26:58",
+      "lat": 39.1943,
+      "lng": 28.1372,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "12.3",
+      "coordinates": [
+        28.1372,
+        39.1943
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1372,
+            39.1943
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.06 13:26:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.06",
+      "date_hour": "13:26:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "PINARBASI-GORDES (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "IZMIR KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.11.04 05:18:02",
-      "lat": 38.6472,
-      "lng": 26.6275,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "13.2",
-      "coordinates": [
-        26.6275,
-        38.6472
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.6275,
-            38.6472
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "IZMIR KORFEZI (EGE DENIZI)",
-          "time": "2025.11.04 05:18:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.04",
-      "date_hour": "05:18:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
