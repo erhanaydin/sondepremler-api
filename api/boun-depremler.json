@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-06T19:39:58.292Z",
+  "lastUpdate": "2025-11-06T19:48:24.690Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.06 22:40:07",
+      "lat": 39.2202,
+      "lng": 28.1422,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "11.2",
+      "coordinates": [
+        28.1422,
+        39.2202
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1422,
+            39.2202
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.06 22:40:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.06",
+      "date_hour": "22:40:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YESILDERE-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.11.04 13:25:26",
-      "lat": 39.2533,
-      "lng": 29.0075,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "17.9",
-      "coordinates": [
-        29.0075,
-        39.2533
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0075,
-            39.2533
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YESILDERE-SIMAV (KUTAHYA)",
-          "time": "2025.11.04 13:25:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.04",
-      "date_hour": "13:25:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
