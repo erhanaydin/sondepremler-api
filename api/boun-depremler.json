@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-07T13:50:29.726Z",
+  "lastUpdate": "2025-11-07T13:59:02.116Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TOKAT-HISARCIK (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.11.07 16:49:11",
+      "lat": 39.201,
+      "lng": 29.0742,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "9.9",
+      "coordinates": [
+        29.0742,
+        39.201
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0742,
+            39.201
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "TOKAT-HISARCIK (KUTAHYA)",
+          "time": "2025.11.07 16:49:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.07",
+      "date_hour": "16:49:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR) REVIZE01 (2025.11.07",
       "type": "16:38:47)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "YESILDERE-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.11.05 09:54:42",
-      "lat": 39.2785,
-      "lng": 29.0227,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        29.0227,
-        39.2785
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0227,
-            39.2785
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "YESILDERE-SIMAV (KUTAHYA)",
-          "time": "2025.11.05 09:54:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.05",
-      "date_hour": "09:54:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
