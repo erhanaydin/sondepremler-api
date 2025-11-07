@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-07T18:56:46.591Z",
+  "lastUpdate": "2025-11-07T19:15:22.311Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.11.07 21:48:53",
+      "lat": 40.7822,
+      "lng": 27.8792,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "13.1",
+      "coordinates": [
+        27.8792,
+        40.7822
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.8792,
+            40.7822
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "MARMARA DENIZI",
+          "time": "2025.11.07 21:48:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.07",
+      "date_hour": "21:48:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -217,6 +253,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.11.07 20:45:52",
+      "lat": 36.6538,
+      "lng": 25.662,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        25.662,
+        36.6538
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.662,
+            36.6538
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "EGE DENIZI",
+          "time": "2025.11.07 20:45:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.07",
+      "date_hour": "20:45:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.05 13:51:51",
-      "lat": 39.117,
-      "lng": 28.2845,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "11.2",
-      "coordinates": [
-        28.2845,
-        39.117
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2845,
-            39.117
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.05 13:51:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.05",
-      "date_hour": "13:51:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "SARILAR-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.11.05 13:37:48",
-      "lat": 39.0877,
-      "lng": 28.0077,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        28.0077,
-        39.0877
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0077,
-            39.0877
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "SARILAR-AKHISAR (MANISA)",
-          "time": "2025.11.05 13:37:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.05",
-      "date_hour": "13:37:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
