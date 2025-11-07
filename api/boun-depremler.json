@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-07T19:37:21.056Z",
+  "lastUpdate": "2025-11-07T19:45:38.197Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.11.07 22:34:48",
+      "lat": 40.8038,
+      "lng": 28.1368,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "7.2",
+      "coordinates": [
+        28.1368,
+        40.8038
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1368,
+            40.8038
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "MARMARA DENIZI",
+          "time": "2025.11.07 22:34:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.07",
+      "date_hour": "22:34:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KULTAK-MILAS (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.11.05 14:01:33",
-      "lat": 37.0125,
-      "lng": 28.0307,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.6",
-      "coordinates": [
-        28.0307,
-        37.0125
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0307,
-            37.0125
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KULTAK-MILAS (MUGLA)",
-          "time": "2025.11.05 14:01:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.05",
-      "date_hour": "14:01:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
