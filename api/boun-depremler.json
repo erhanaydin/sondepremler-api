@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-07T17:09:16.287Z",
+  "lastUpdate": "2025-11-07T17:29:50.806Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CIRPI-(MUGLA)",
+      "type": "�lksel",
+      "date": "2025.11.07 20:13:03",
+      "lat": 37.1783,
+      "lng": 28.0683,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "10.8",
+      "coordinates": [
+        28.0683,
+        37.1783
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0683,
+            37.1783
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "CIRPI-(MUGLA)",
+          "time": "2025.11.07 20:13:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.07",
+      "date_hour": "20:13:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "ILICA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "KERTIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.05 12:27:18",
-      "lat": 39.1935,
-      "lng": 28.0998,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        28.0998,
-        39.1935
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0998,
-            39.1935
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "KERTIL-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.05 12:27:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.05",
-      "date_hour": "12:27:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
