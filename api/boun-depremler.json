@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-08T17:39:25.644Z",
+  "lastUpdate": "2025-11-08T17:48:05.148Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
+    },
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.08 20:10:00",
+      "lat": 39.1483,
+      "lng": 28.255,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "11.8",
+      "coordinates": [
+        28.255,
+        39.1483
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.255,
+            39.1483
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.08 20:10:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.08",
+      "date_hour": "20:10:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "YESILDERE-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.11.06 16:28:26",
-      "lat": 39.2798,
-      "lng": 28.9763,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "11.2",
-      "coordinates": [
-        28.9763,
-        39.2798
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9763,
-            39.2798
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YESILDERE-SIMAV (KUTAHYA)",
-          "time": "2025.11.06 16:28:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.06",
-      "date_hour": "16:28:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
