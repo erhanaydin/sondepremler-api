@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-08T09:11:23.630Z",
+  "lastUpdate": "2025-11-08T09:28:03.279Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.08 12:09:12",
+      "lat": 39.1547,
+      "lng": 28.2783,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "8.3",
+      "coordinates": [
+        28.2783,
+        39.1547
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2783,
+            39.1547
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.08 12:09:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.08",
+      "date_hour": "12:09:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BALPINARI-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.11.06 07:31:29",
-      "lat": 38.2722,
-      "lng": 38.7488,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "3.4",
-      "coordinates": [
-        38.7488,
-        38.2722
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.7488,
-            38.2722
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "BALPINARI-PUTURGE (MALATYA)",
-          "time": "2025.11.06 07:31:29"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.06",
-      "date_hour": "07:31:29",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
