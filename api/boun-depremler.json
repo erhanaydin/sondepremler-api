@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-09T07:27:07.971Z",
+  "lastUpdate": "2025-11-09T07:36:26.733Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -70,6 +70,42 @@
       "location_properties": "",
       "date_day": "2025.11.09",
       "date_hour": "09:52:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.09 09:40:58",
+      "lat": 39.1357,
+      "lng": 28.2923,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        28.2923,
+        39.1357
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2923,
+            39.1357
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.09 09:40:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.09",
+      "date_hour": "09:40:58",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KARAKECILI-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2025.11.06 23:55:03",
-      "lat": 38.8673,
-      "lng": 28.3125,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "3.5",
-      "coordinates": [
-        28.3125,
-        38.8673
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3125,
-            38.8673
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "KARAKECILI-GORDES (MANISA)",
-          "time": "2025.11.06 23:55:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.06",
-      "date_hour": "23:55:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
