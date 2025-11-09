@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-09T04:28:07.273Z",
+  "lastUpdate": "2025-11-09T04:42:59.024Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.09 07:29:13",
+      "lat": 39.1565,
+      "lng": 28.3388,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "11.9",
+      "coordinates": [
+        28.3388,
+        39.1565
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3388,
+            39.1565
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.09 07:29:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.09",
+      "date_hour": "07:29:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "MUSTAFACIK (SANLIURFA)",
-      "type": "�lksel",
-      "date": "2025.11.06 22:44:20",
-      "lat": 37.3238,
-      "lng": 38.7088,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        38.7088,
-        37.3238
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.7088,
-            37.3238
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "MUSTAFACIK (SANLIURFA)",
-          "time": "2025.11.06 22:44:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.06",
-      "date_hour": "22:44:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SANLIURFA"
     }
   ]
 }
