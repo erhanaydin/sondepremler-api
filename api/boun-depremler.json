@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-09T20:35:13.576Z",
+  "lastUpdate": "2025-11-09T20:43:48.759Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -70,6 +70,78 @@
       "location_properties": "",
       "date_day": "2025.11.09",
       "date_hour": "23:12:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "BABAKALE-AYVACIK (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2025.11.09 23:03:25",
+      "lat": 39.5232,
+      "lng": 26.049,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "7.8",
+      "coordinates": [
+        26.049,
+        39.5232
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.049,
+            39.5232
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "BABAKALE-AYVACIK (CANAKKALE)",
+          "time": "2025.11.09 23:03:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.09",
+      "date_hour": "23:03:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.09 23:01:35",
+      "lat": 39.1642,
+      "lng": 28.2692,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "9.2",
+      "coordinates": [
+        28.2692,
+        39.1642
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2692,
+            39.1642
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.09 23:01:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.09",
+      "date_hour": "23:01:35",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "PINARBASI-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2025.11.07 08:20:29",
-      "lat": 38.8753,
-      "lng": 28.322,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "1.1",
-      "coordinates": [
-        28.322,
-        38.8753
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.322,
-            38.8753
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "PINARBASI-GORDES (MANISA)",
-          "time": "2025.11.07 08:20:29"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.07",
-      "date_hour": "08:20:29",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.11.07 08:09:16",
-      "lat": 39.2365,
-      "lng": 29.0233,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "6.6",
-      "coordinates": [
-        29.0233,
-        39.2365
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0233,
-            39.2365
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.11.07 08:09:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.07",
-      "date_hour": "08:09:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
