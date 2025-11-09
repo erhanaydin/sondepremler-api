@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-09T19:50:17.779Z",
+  "lastUpdate": "2025-11-09T19:58:50.442Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "ISACA-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2025.11.09 22:13:53",
+      "lat": 39.1512,
+      "lng": 28.079,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "10.2",
+      "coordinates": [
+        28.079,
+        39.1512
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.079,
+            39.1512
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "ISACA-AKHISAR (MANISA)",
+          "time": "2025.11.09 22:13:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.09",
+      "date_hour": "22:13:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
     },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "BADEMLI-DIKILI (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.11.07 06:47:19",
-      "lat": 39.0418,
-      "lng": 26.7817,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "7.2",
-      "coordinates": [
-        26.7817,
-        39.0418
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.7817,
-            39.0418
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "BADEMLI-DIKILI (IZMIR)",
-          "time": "2025.11.07 06:47:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.07",
-      "date_hour": "06:47:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
