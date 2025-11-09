@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-09T11:37:28.965Z",
+  "lastUpdate": "2025-11-09T11:46:07.732Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -70,6 +70,42 @@
       "location_properties": "",
       "date_day": "2025.11.09",
       "date_hour": "14:04:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.09 14:00:04",
+      "lat": 39.1507,
+      "lng": 28.278,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        28.278,
+        39.1507
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.278,
+            39.1507
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.09 14:00:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.09",
+      "date_hour": "14:00:04",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.07 01:29:00",
-      "lat": 39.1468,
-      "lng": 28.234,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "12.9",
-      "coordinates": [
-        28.234,
-        39.1468
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.234,
-            39.1468
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.07 01:29:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.07",
-      "date_hour": "01:29:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
