@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-10T19:34:54.225Z",
+  "lastUpdate": "2025-11-10T19:43:14.463Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.10 22:27:07",
+      "lat": 39.1765,
+      "lng": 28.1302,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "18.0",
+      "coordinates": [
+        28.1302,
+        39.1765
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1302,
+            39.1765
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.10 22:27:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.10",
+      "date_hour": "22:27:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BOLU"
-    },
-    {
-      "title": "ESENKOY-CINARCIK (YALOVA)",
-      "type": "�lksel",
-      "date": "2025.11.08 23:40:32",
-      "lat": 40.6415,
-      "lng": 28.8558,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "11.8",
-      "coordinates": [
-        28.8558,
-        40.6415
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.8558,
-            40.6415
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "ESENKOY-CINARCIK (YALOVA)",
-          "time": "2025.11.08 23:40:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.08",
-      "date_hour": "23:40:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "YALOVA"
     }
   ]
 }
