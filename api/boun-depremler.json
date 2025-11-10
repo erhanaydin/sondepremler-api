@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-10T23:32:32.914Z",
+  "lastUpdate": "2025-11-10T23:43:05.560Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YENILER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.11.11 02:25:44",
+      "lat": 39.2425,
+      "lng": 28.938,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "8.3",
+      "coordinates": [
+        28.938,
+        39.2425
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.938,
+            39.2425
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "YENILER-SIMAV (KUTAHYA)",
+          "time": "2025.11.11 02:25:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.11",
+      "date_hour": "02:25:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -505,6 +541,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "ISKENDERUN KORFEZI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.11.11 01:38:49",
+      "lat": 36.6848,
+      "lng": 35.988,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        35.988,
+        36.6848
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.988,
+            36.6848
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "ISKENDERUN KORFEZI (AKDENIZ)",
+          "time": "2025.11.11 01:38:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.11",
+      "date_hour": "01:38:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
     },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "HAMZABEY-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.11.09 12:21:03",
-      "lat": 39.2217,
-      "lng": 28.947,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "13.0",
-      "coordinates": [
-        28.947,
-        39.2217
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.947,
-            39.2217
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "HAMZABEY-SIMAV (KUTAHYA)",
-          "time": "2025.11.09 12:21:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.09",
-      "date_hour": "12:21:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "AKKOCALI-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.11.09 12:20:31",
-      "lat": 39.1787,
-      "lng": 27.9627,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "13.5",
-      "coordinates": [
-        27.9627,
-        39.1787
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9627,
-            39.1787
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "AKKOCALI-AKHISAR (MANISA)",
-          "time": "2025.11.09 12:20:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.09",
-      "date_hour": "12:20:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
