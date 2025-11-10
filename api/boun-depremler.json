@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-10T13:45:22.496Z",
+  "lastUpdate": "2025-11-10T13:55:20.403Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KULAHLI-GURUN (SIVAS)",
+      "type": "�lksel",
+      "date": "2025.11.10 16:43:30",
+      "lat": 38.8557,
+      "lng": 37.4177,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "8.5",
+      "coordinates": [
+        37.4177,
+        38.8557
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.4177,
+            38.8557
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KULAHLI-GURUN (SIVAS)",
+          "time": "2025.11.10 16:43:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.10",
+      "date_hour": "16:43:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SIVAS"
+    },
     {
       "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "TURKIYE-IRAN SINIR BOLGESI",
-      "type": "�lksel",
-      "date": "2025.11.08 15:14:12",
-      "lat": 38.7732,
-      "lng": 44.4263,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "9.1",
-      "coordinates": [
-        44.4263,
-        38.7732
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            44.4263,
-            38.7732
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "TURKIYE-IRAN SINIR BOLGESI",
-          "time": "2025.11.08 15:14:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.08",
-      "date_hour": "15:14:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
