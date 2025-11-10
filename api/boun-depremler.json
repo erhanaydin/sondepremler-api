@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-10T10:48:36.731Z",
+  "lastUpdate": "2025-11-10T10:56:43.469Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAGUR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.10 13:46:43",
+      "lat": 39.2515,
+      "lng": 28.1212,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "11.3",
+      "coordinates": [
+        28.1212,
+        39.2515
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1212,
+            39.2515
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KARAGUR-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.10 13:46:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.10",
+      "date_hour": "13:46:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.11.10 13:43:41",
+      "lat": 40.7927,
+      "lng": 27.8448,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "12.7",
+      "coordinates": [
+        27.8448,
+        40.7927
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.8448,
+            40.7927
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "MARMARA DENIZI",
+          "time": "2025.11.10 13:43:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.10",
+      "date_hour": "13:43:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.08 11:05:34",
-      "lat": 39.1465,
-      "lng": 28.132,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "8.9",
-      "coordinates": [
-        28.132,
-        39.1465
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.132,
-            39.1465
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.08 11:05:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.08",
-      "date_hour": "11:05:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.08 10:53:39",
-      "lat": 39.1528,
-      "lng": 28.2535,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "10.8",
-      "coordinates": [
-        28.2535,
-        39.1528
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2535,
-            39.1528
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.08 10:53:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.08",
-      "date_hour": "10:53:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
