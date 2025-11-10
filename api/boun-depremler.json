@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-10T11:16:16.705Z",
+  "lastUpdate": "2025-11-10T11:29:54.856Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.10 14:20:11",
+      "lat": 39.239,
+      "lng": 28.1275,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "7.9",
+      "coordinates": [
+        28.1275,
+        39.239
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1275,
+            39.239
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.10 14:20:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.10",
+      "date_hour": "14:20:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.11.08 11:51:56",
-      "lat": 35.6728,
-      "lng": 26.6088,
-      "md": "-.-",
-      "ml": "3.7",
-      "mw": "3.7",
-      "depth": "5.7",
-      "coordinates": [
-        26.6088,
-        35.6728
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.6088,
-            35.6728
-          ]
-        },
-        "properties": {
-          "mag": "3.7",
-          "place": "EGE DENIZI",
-          "time": "2025.11.08 11:51:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.08",
-      "date_hour": "11:51:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
