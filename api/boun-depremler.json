@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-11T08:33:41.826Z",
+  "lastUpdate": "2025-11-11T08:52:54.579Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -106,6 +106,42 @@
       "location_properties": "",
       "date_day": "2025.11.11",
       "date_hour": "11:13:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.11 11:12:20",
+      "lat": 39.215,
+      "lng": 28.1755,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "10.9",
+      "coordinates": [
+        28.1755,
+        39.215
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1755,
+            39.215
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.11 11:12:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.11",
+      "date_hour": "11:12:20",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AVCILARSUYU-ARSUZ (HATAY)",
-      "type": "�lksel",
-      "date": "2025.11.10 05:02:24",
-      "lat": 36.3048,
-      "lng": 35.9365,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "8.9",
-      "coordinates": [
-        35.9365,
-        36.3048
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.9365,
-            36.3048
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "AVCILARSUYU-ARSUZ (HATAY)",
-          "time": "2025.11.10 05:02:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.10",
-      "date_hour": "05:02:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
