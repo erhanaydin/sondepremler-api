@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-13T10:53:41.168Z",
+  "lastUpdate": "2025-11-13T11:10:53.622Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.13 13:49:36",
+      "lat": 39.1803,
+      "lng": 28.1857,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "14.5",
+      "coordinates": [
+        28.1857,
+        39.1803
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1857,
+            39.1803
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.13 13:49:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.13",
+      "date_hour": "13:49:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.11.13 13:31:13",
+      "lat": 34.7257,
+      "lng": 32.527,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "13.2",
+      "coordinates": [
+        32.527,
+        34.7257
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.527,
+            34.7257
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "AKDENIZ",
+          "time": "2025.11.13 13:31:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.13",
+      "date_hour": "13:31:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "KARAGUR-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADIYAMAN"
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.11 17:53:18",
-      "lat": 39.2178,
-      "lng": 28.162,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "9.9",
-      "coordinates": [
-        28.162,
-        39.2178
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.162,
-            39.2178
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.11 17:53:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.11",
-      "date_hour": "17:53:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.11 17:39:57",
-      "lat": 39.1525,
-      "lng": 28.2155,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "13.9",
-      "coordinates": [
-        28.2155,
-        39.1525
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2155,
-            39.1525
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "AKTAS-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.11 17:39:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.11",
-      "date_hour": "17:39:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
