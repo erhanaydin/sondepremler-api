@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-13T06:55:22.258Z",
+  "lastUpdate": "2025-11-13T07:15:27.088Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.11.13 10:03:15",
+      "lat": 34.7108,
+      "lng": 32.5165,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "3.0",
+      "depth": "13.8",
+      "coordinates": [
+        32.5165,
+        34.7108
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.5165,
+            34.7108
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "AKDENIZ",
+          "time": "2025.11.13 10:03:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.13",
+      "date_hour": "10:03:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "SOGUTLU-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SANLIURFA"
-    },
-    {
-      "title": "KOSAPINAR-ASKALE (ERZURUM)",
-      "type": "�lksel",
-      "date": "2025.11.11 13:45:03",
-      "lat": 40.0535,
-      "lng": 40.791,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        40.791,
-        40.0535
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.791,
-            40.0535
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KOSAPINAR-ASKALE (ERZURUM)",
-          "time": "2025.11.11 13:45:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.11",
-      "date_hour": "13:45:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZURUM"
     }
   ]
 }
