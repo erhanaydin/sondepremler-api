@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-11-14T20:54:27.738Z",
+  "lastUpdate": "2025-11-14T21:12:21.223Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BELEN-(CANAKKALE)",
+      "type": "�lksel",
+      "date": "2025.11.14 23:50:27",
+      "lat": 40.0853,
+      "lng": 26.5183,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "15.9",
+      "coordinates": [
+        26.5183,
+        40.0853
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.5183,
+            40.0853
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "BELEN-(CANAKKALE)",
+          "time": "2025.11.14 23:50:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.14",
+      "date_hour": "23:50:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.14 23:46:41",
+      "lat": 39.1887,
+      "lng": 28.0805,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "10.4",
+      "coordinates": [
+        28.0805,
+        39.1887
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0805,
+            39.1887
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.14 23:46:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.14",
+      "date_hour": "23:46:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ASLANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -114,27 +186,27 @@
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
       "date": "2025.11.14 23:32:42",
-      "lat": 39.2362,
-      "lng": 28.1433,
+      "lat": 39.2412,
+      "lng": 28.1417,
       "md": "-.-",
-      "ml": "3.4",
-      "mw": "-.-",
-      "depth": "12.1",
+      "ml": "3.3",
+      "mw": "3.1",
+      "depth": "12.9",
       "coordinates": [
-        28.1433,
-        39.2362
+        28.1417,
+        39.2412
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            28.1433,
-            39.2362
+            28.1417,
+            39.2412
           ]
         },
         "properties": {
-          "mag": "3.4",
+          "mag": "3.3",
           "place": "MANDIRA-SINDIRGI (BALIKESIR)",
           "time": "2025.11.14 23:32:42"
         }
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.11.12 23:23:26",
-      "lat": 34.6932,
-      "lng": 32.5662,
-      "md": "-.-",
-      "ml": "2.9",
-      "mw": "-.-",
-      "depth": "14.8",
-      "coordinates": [
-        32.5662,
-        34.6932
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.5662,
-            34.6932
-          ]
-        },
-        "properties": {
-          "mag": "2.9",
-          "place": "AKDENIZ",
-          "time": "2025.11.12 23:23:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.12",
-      "date_hour": "23:23:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.12 23:22:33",
-      "lat": 39.2188,
-      "lng": 28.1205,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "7.3",
-      "coordinates": [
-        28.1205,
-        39.2188
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1205,
-            39.2188
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.12 23:22:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.12",
-      "date_hour": "23:22:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
