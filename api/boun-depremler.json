@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-14T05:45:28.395Z",
+  "lastUpdate": "2025-11-14T05:53:49.178Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGERCE-MUDANYA (BURSA)",
+      "type": "�lksel",
+      "date": "2025.11.14 08:20:12",
+      "lat": 40.349,
+      "lng": 28.6278,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "7.2",
+      "coordinates": [
+        28.6278,
+        40.349
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.6278,
+            40.349
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "EGERCE-MUDANYA (BURSA)",
+          "time": "2025.11.14 08:20:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.14",
+      "date_hour": "08:20:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "GAZIEMIR (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.11.12 07:28:36",
-      "lat": 38.3217,
-      "lng": 27.1687,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "10.9",
-      "coordinates": [
-        27.1687,
-        38.3217
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1687,
-            38.3217
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "GAZIEMIR (IZMIR)",
-          "time": "2025.11.12 07:28:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.12",
-      "date_hour": "07:28:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
