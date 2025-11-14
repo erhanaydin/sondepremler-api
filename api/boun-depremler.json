@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-14T16:45:00.443Z",
+  "lastUpdate": "2025-11-14T16:57:09.166Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.11.14 19:42:19",
+      "lat": 39.224,
+      "lng": 29.0407,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "9.3",
+      "coordinates": [
+        29.0407,
+        39.224
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0407,
+            39.224
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "KATRANDAGI-EMET (KUTAHYA)",
+          "time": "2025.11.14 19:42:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.14",
+      "date_hour": "19:42:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.11.12 19:25:02",
-      "lat": 39.2563,
-      "lng": 28.9442,
-      "md": "-.-",
-      "ml": "3.8",
-      "mw": "3.7",
-      "depth": "6.0",
-      "coordinates": [
-        28.9442,
-        39.2563
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9442,
-            39.2563
-          ]
-        },
-        "properties": {
-          "mag": "3.8",
-          "place": "KARAKOCA-SIMAV (KUTAHYA)",
-          "time": "2025.11.12 19:25:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.12",
-      "date_hour": "19:25:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
