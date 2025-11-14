@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-11-14T21:12:21.223Z",
+  "lastUpdate": "2025-11-14T21:29:24.732Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDERE-SILIFKE (MERSIN)",
+      "type": "�lksel",
+      "date": "2025.11.15 00:23:10",
+      "lat": 36.2047,
+      "lng": 33.8277,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "6.2",
+      "coordinates": [
+        33.8277,
+        36.2047
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.8277,
+            36.2047
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "AKDERE-SILIFKE (MERSIN)",
+          "time": "2025.11.15 00:23:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.15",
+      "date_hour": "00:23:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MERSIN"
+    },
+    {
+      "title": "GEBEN-ANDIRIN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.11.15 00:09:39",
+      "lat": 37.7815,
+      "lng": 36.5008,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        36.5008,
+        37.7815
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.5008,
+            37.7815
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "GEBEN-ANDIRIN (KAHRAMANMARAS)",
+          "time": "2025.11.15 00:09:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.15",
+      "date_hour": "00:09:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "BELEN-(CANAKKALE)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.12 23:33:49",
-      "lat": 39.1785,
-      "lng": 28.1797,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "8.8",
-      "coordinates": [
-        28.1797,
-        39.1785
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1797,
-            39.1785
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "AKTAS-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.12 23:33:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.12",
-      "date_hour": "23:33:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.11.12 23:27:18",
-      "lat": 34.6177,
-      "lng": 32.5652,
-      "md": "-.-",
-      "ml": "3.3",
-      "mw": "-.-",
-      "depth": "10.6",
-      "coordinates": [
-        32.5652,
-        34.6177
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.5652,
-            34.6177
-          ]
-        },
-        "properties": {
-          "mag": "3.3",
-          "place": "AKDENIZ",
-          "time": "2025.11.12 23:27:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.12",
-      "date_hour": "23:27:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
