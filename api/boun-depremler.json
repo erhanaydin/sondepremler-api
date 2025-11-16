@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-16T15:50:07.809Z",
+  "lastUpdate": "2025-11-16T15:58:32.623Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.16 18:40:31",
+      "lat": 39.1843,
+      "lng": 28.0997,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "11.4",
+      "coordinates": [
+        28.0997,
+        39.1843
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0997,
+            39.1843
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.16 18:40:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.16",
+      "date_hour": "18:40:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "PACACIOGLU (USAK)",
-      "type": "�lksel",
-      "date": "2025.11.14 09:43:18",
-      "lat": 38.8085,
-      "lng": 29.3692,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        29.3692,
-        38.8085
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.3692,
-            38.8085
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "PACACIOGLU (USAK)",
-          "time": "2025.11.14 09:43:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.14",
-      "date_hour": "09:43:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "USAK"
     }
   ]
 }
