@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-17T17:58:14.088Z",
+  "lastUpdate": "2025-11-17T18:31:53.819Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.17 21:14:25",
+      "lat": 39.1982,
+      "lng": 28.1437,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "9.1",
+      "coordinates": [
+        28.1437,
+        39.1982
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1437,
+            39.1982
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.17 21:14:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.17",
+      "date_hour": "21:14:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BEGEL-GORDES (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YIPRAK-DINAR (AFYONKARAHISAR)",
-      "type": "�lksel",
-      "date": "2025.11.15 09:01:37",
-      "lat": 38.3588,
-      "lng": 30.4715,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "15.7",
-      "coordinates": [
-        30.4715,
-        38.3588
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.4715,
-            38.3588
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "YIPRAK-DINAR (AFYONKARAHISAR)",
-          "time": "2025.11.15 09:01:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.15",
-      "date_hour": "09:01:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AFYONKARAHISAR"
     }
   ]
 }
