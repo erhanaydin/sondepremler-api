@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-17T19:48:49.060Z",
+  "lastUpdate": "2025-11-17T19:56:58.046Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.17 22:45:03",
+      "lat": 39.2288,
+      "lng": 28.1242,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "7.9",
+      "coordinates": [
+        28.1242,
+        39.2288
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1242,
+            39.2288
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.17 22:45:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.17",
+      "date_hour": "22:45:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.15 10:03:52",
-      "lat": 39.1875,
-      "lng": 28.1543,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "19.1",
-      "coordinates": [
-        28.1543,
-        39.1875
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1543,
-            39.1875
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.15 10:03:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.15",
-      "date_hour": "10:03:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
