@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-17T22:56:14.242Z",
+  "lastUpdate": "2025-11-17T23:16:05.323Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOBAKLAR-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2025.11.18 01:47:41",
+      "lat": 39.0892,
+      "lng": 28.3528,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "4.8",
+      "coordinates": [
+        28.3528,
+        39.0892
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3528,
+            39.0892
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "KOBAKLAR-GORDES (MANISA)",
+          "time": "2025.11.18 01:47:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.18",
+      "date_hour": "01:47:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "AKKOCALI-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -34,6 +70,42 @@
       "location_properties": "",
       "date_day": "2025.11.18",
       "date_hour": "01:35:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
+    {
+      "title": "KINIK-KOPRUBASI (MANISA)",
+      "type": "�lksel",
+      "date": "2025.11.18 01:28:44",
+      "lat": 38.7978,
+      "lng": 28.387,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "22.8",
+      "coordinates": [
+        28.387,
+        38.7978
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.387,
+            38.7978
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KINIK-KOPRUBASI (MANISA)",
+          "time": "2025.11.18 01:28:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.18",
+      "date_hour": "01:28:44",
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.15 12:25:50",
-      "lat": 39.1115,
-      "lng": 28.2917,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "9.4",
-      "coordinates": [
-        28.2917,
-        39.1115
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2917,
-            39.1115
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.15 12:25:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.15",
-      "date_hour": "12:25:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "ERDEMLI ACIKLARI-MERSIN (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.11.15 12:09:11",
-      "lat": 36.4333,
-      "lng": 34.3702,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "6.4",
-      "coordinates": [
-        34.3702,
-        36.4333
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.3702,
-            36.4333
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ERDEMLI ACIKLARI-MERSIN (AKDENIZ)",
-          "time": "2025.11.15 12:09:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.15",
-      "date_hour": "12:09:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
