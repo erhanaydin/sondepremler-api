@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-17T13:56:23.951Z",
+  "lastUpdate": "2025-11-17T14:17:55.500Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "SOGUTLU-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2025.11.17 16:43:51",
+      "lat": 39.1585,
+      "lng": 28.0458,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "11.5",
+      "coordinates": [
+        28.0458,
+        39.1585
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0458,
+            39.1585
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "SOGUTLU-AKHISAR (MANISA)",
+          "time": "2025.11.17 16:43:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.17",
+      "date_hour": "16:43:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
     },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
@@ -1369,6 +1405,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.11.17 10:52:20",
+      "lat": 35.7935,
+      "lng": 25.579,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "7.1",
+      "coordinates": [
+        25.579,
+        35.7935
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.579,
+            35.7935
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "EGE DENIZI",
+          "time": "2025.11.17 10:52:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.17",
+      "date_hour": "10:52:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "ALACAATLI-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "KOZLU (BOLU)",
-      "type": "�lksel",
-      "date": "2025.11.15 06:45:28",
-      "lat": 40.8375,
-      "lng": 31.583,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "8.0",
-      "coordinates": [
-        31.583,
-        40.8375
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.583,
-            40.8375
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "KOZLU (BOLU)",
-          "time": "2025.11.15 06:45:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.15",
-      "date_hour": "06:45:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BOLU"
-    },
-    {
-      "title": "PITIRELI-BAYRAMIC (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.11.15 06:44:37",
-      "lat": 39.8047,
-      "lng": 26.4498,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "17.8",
-      "coordinates": [
-        26.4498,
-        39.8047
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.4498,
-            39.8047
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "PITIRELI-BAYRAMIC (CANAKKALE)",
-          "time": "2025.11.15 06:44:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.15",
-      "date_hour": "06:44:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
