@@ -1,5 +1,77 @@
 [
   {
+    "title": "Ege Denizi",
+    "type": "İlksel",
+    "date": "2025-11-13 22:17:09",
+    "lat": 40.22361,
+    "lng": 24.19306,
+    "md": "-.-",
+    "ml": "3.8",
+    "mw": "-.-",
+    "depth": 4.82,
+    "coordinates": [
+      24.19306,
+      40.22361
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.19306,
+          40.22361
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi (Çanakkale)",
+        "time": 1763072229000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-11-13",
+    "date_hour": "22:17:09",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Çanakkale"
+  },
+  {
+    "title": "Sındırgı (Balıkesir)",
+    "type": "İlksel",
+    "date": "2025-11-13 22:04:55",
+    "lat": 39.20028,
+    "lng": 28.27,
+    "md": "-.-",
+    "ml": "1.4",
+    "mw": "-.-",
+    "depth": 5.39,
+    "coordinates": [
+      28.27,
+      39.20028
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.27,
+          39.20028
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sındırgı (Balıkesir) (Balıkesir)",
+        "time": 1763071495000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-11-13",
+    "date_hour": "22:04:55",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Balıkesir"
+  },
+  {
     "title": "Ege Denizi - [11.46 km] Foça (İzmir)",
     "type": "İlksel",
     "date": "2025-11-13 21:37:36",
@@ -17926,77 +17998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Akdeniz",
-    "type": "İlksel",
-    "date": "2025-11-12 14:51:33",
-    "lat": 34.92694,
-    "lng": 32.25889,
-    "md": "-.-",
-    "ml": "2.5",
-    "mw": "-.-",
-    "depth": 15.93,
-    "coordinates": [
-      32.25889,
-      34.92694
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.25889,
-          34.92694
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akdeniz (Mersin)",
-        "time": 1762959093000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-11-12",
-    "date_hour": "14:51:33",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Mersin"
-  },
-  {
-    "title": "Karayazı (Erzurum)",
-    "type": "İlksel",
-    "date": "2025-11-12 14:46:41",
-    "lat": 39.66667,
-    "lng": 42.47639,
-    "md": "-.-",
-    "ml": "1.6",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      42.47639,
-      39.66667
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.47639,
-          39.66667
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Karayazı (Erzurum) (Erzurum)",
-        "time": 1762958801000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-11-12",
-    "date_hour": "14:46:41",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Erzurum"
   }
 ]
