@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-17T22:38:43.697Z",
+  "lastUpdate": "2025-11-17T22:48:08.244Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKKOCALI-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2025.11.18 01:35:57",
+      "lat": 39.1712,
+      "lng": 27.9932,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "9.4",
+      "coordinates": [
+        27.9932,
+        39.1712
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9932,
+            39.1712
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "AKKOCALI-AKHISAR (MANISA)",
+          "time": "2025.11.18 01:35:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.18",
+      "date_hour": "01:35:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "SULUKARAAGAC-TEPEBASI (ESKISEHIR)",
-      "type": "�lksel",
-      "date": "2025.11.15 12:02:08",
-      "lat": 39.8665,
-      "lng": 30.4912,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        30.4912,
-        39.8665
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.4912,
-            39.8665
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "SULUKARAAGAC-TEPEBASI (ESKISEHIR)",
-          "time": "2025.11.15 12:02:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.15",
-      "date_hour": "12:02:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ESKISEHIR"
     }
   ]
 }
