@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-17T17:00:01.164Z",
+  "lastUpdate": "2025-11-17T17:25:17.365Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.11.17 19:50:58",
+      "lat": 39.2528,
+      "lng": 29.0437,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.6",
+      "coordinates": [
+        29.0437,
+        39.2528
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0437,
+            39.2528
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KATRANDAGI-EMET (KUTAHYA)",
+          "time": "2025.11.17 19:50:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.17",
+      "date_hour": "19:50:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SARIYAYLA-AKCAKOCA (DUZCE)",
-      "type": "�lksel",
-      "date": "2025.11.15 08:04:18",
-      "lat": 40.98,
-      "lng": 31.0855,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "22.9",
-      "coordinates": [
-        31.0855,
-        40.98
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.0855,
-            40.98
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "SARIYAYLA-AKCAKOCA (DUZCE)",
-          "time": "2025.11.15 08:04:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.15",
-      "date_hour": "08:04:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DUZCE"
     }
   ]
 }
