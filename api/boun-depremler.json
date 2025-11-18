@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-18T06:28:34.216Z",
+  "lastUpdate": "2025-11-18T06:51:05.856Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "KARACAOREN-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.11.18 09:09:15",
+      "lat": 39.1668,
+      "lng": 28.9993,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "24.7",
+      "coordinates": [
+        28.9993,
+        39.1668
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9993,
+            39.1668
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "KARACAOREN-SIMAV (KUTAHYA)",
+          "time": "2025.11.18 09:09:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.18",
+      "date_hour": "09:09:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "YAVU-SIMAV (KUTAHYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADIYAMAN"
-    },
-    {
-      "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.11.15 21:26:54",
-      "lat": 39.575,
-      "lng": 25.9745,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "4.9",
-      "coordinates": [
-        25.9745,
-        39.575
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.9745,
-            39.575
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
-          "time": "2025.11.15 21:26:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.15",
-      "date_hour": "21:26:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
