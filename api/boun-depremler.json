@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-18T19:43:39.814Z",
+  "lastUpdate": "2025-11-18T19:52:06.449Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.11.18 22:32:41",
+      "lat": 34.5877,
+      "lng": 32.341,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "8.3",
+      "coordinates": [
+        32.341,
+        34.5877
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.341,
+            34.5877
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "AKDENIZ",
+          "time": "2025.11.18 22:32:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.18",
+      "date_hour": "22:32:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.16 01:05:26",
-      "lat": 39.188,
-      "lng": 28.1528,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "12.2",
-      "coordinates": [
-        28.1528,
-        39.188
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1528,
-            39.188
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.16 01:05:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.16",
-      "date_hour": "01:05:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
