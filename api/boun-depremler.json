@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-18T09:59:19.683Z",
+  "lastUpdate": "2025-11-18T10:28:35.568Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KADIKOY-BIGADIC (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.18 12:52:53",
+      "lat": 39.452,
+      "lng": 28.1077,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "6.4",
+      "coordinates": [
+        28.1077,
+        39.452
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1077,
+            39.452
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KADIKOY-BIGADIC (BALIKESIR)",
+          "time": "2025.11.18 12:52:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.18",
+      "date_hour": "12:52:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "CAYGOREN-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.15 21:46:20",
-      "lat": 39.2717,
-      "lng": 28.2163,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        28.2163,
-        39.2717
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2163,
-            39.2717
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "CAYGOREN-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.15 21:46:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.15",
-      "date_hour": "21:46:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
