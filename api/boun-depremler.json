@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-18T11:30:33.183Z",
+  "lastUpdate": "2025-11-18T11:42:24.162Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.11.18 13:27:22",
+      "lat": 39.2308,
+      "lng": 29.0497,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "7.8",
+      "coordinates": [
+        29.0497,
+        39.2308
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0497,
+            39.2308
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KATRANDAGI-EMET (KUTAHYA)",
+          "time": "2025.11.18 13:27:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.18",
+      "date_hour": "13:27:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BOSTANBASI-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.11.15 22:11:37",
-      "lat": 38.3222,
-      "lng": 38.2533,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "19.8",
-      "coordinates": [
-        38.2533,
-        38.3222
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.2533,
-            38.3222
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "BOSTANBASI-YESILYURT (MALATYA)",
-          "time": "2025.11.15 22:11:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.15",
-      "date_hour": "22:11:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
