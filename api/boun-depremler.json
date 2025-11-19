@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-11-19T10:25:24.386Z",
+  "lastUpdate": "2025-11-19T10:44:31.179Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIBRIS-LEFKOSA",
+      "type": "�lksel",
+      "date": "2025.11.19 13:27:56",
+      "lat": 35.1992,
+      "lng": 33.2878,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        33.2878,
+        35.1992
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.2878,
+            35.1992
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "KIBRIS-LEFKOSA",
+          "time": "2025.11.19 13:27:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.19",
+      "date_hour": "13:27:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.19 13:08:05",
+      "lat": 39.1763,
+      "lng": 28.1657,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "11.7",
+      "coordinates": [
+        28.1657,
+        39.1763
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1657,
+            39.1763
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.19 13:08:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.19",
+      "date_hour": "13:08:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KOZLU-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ILICA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.16 09:04:23",
-      "lat": 39.1945,
-      "lng": 28.2193,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "7.6",
-      "coordinates": [
-        28.2193,
-        39.1945
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2193,
-            39.1945
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "ILICA-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.16 09:04:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.16",
-      "date_hour": "09:04:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "TIRKAZ-SARAYKOY (DENIZLI)",
-      "type": "�lksel",
-      "date": "2025.11.16 08:58:38",
-      "lat": 37.8612,
-      "lng": 28.7698,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        28.7698,
-        37.8612
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7698,
-            37.8612
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "TIRKAZ-SARAYKOY (DENIZLI)",
-          "time": "2025.11.16 08:58:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.16",
-      "date_hour": "08:58:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
