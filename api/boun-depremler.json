@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-19T11:27:39.123Z",
+  "lastUpdate": "2025-11-19T11:38:45.356Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SUDUGUNU-(BINGOL)",
+      "type": "�lksel",
+      "date": "2025.11.19 14:15:58",
+      "lat": 39.0542,
+      "lng": 40.4425,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "3.6",
+      "coordinates": [
+        40.4425,
+        39.0542
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.4425,
+            39.0542
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "SUDUGUNU-(BINGOL)",
+          "time": "2025.11.19 14:15:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.19",
+      "date_hour": "14:15:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGOL"
+    },
     {
       "title": "YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.11.16 09:39:41",
-      "lat": 39.5853,
-      "lng": 25.9543,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        25.9543,
-        39.5853
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.9543,
-            39.5853
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
-          "time": "2025.11.16 09:39:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.16",
-      "date_hour": "09:39:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
