@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-19T06:57:56.830Z",
+  "lastUpdate": "2025-11-19T07:21:13.798Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.11.19 09:33:36",
+      "lat": 39.2395,
+      "lng": 29.0368,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "11.0",
+      "coordinates": [
+        29.0368,
+        39.2395
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0368,
+            39.2395
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KATRANDAGI-EMET (KUTAHYA)",
+          "time": "2025.11.19 09:33:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.19",
+      "date_hour": "09:33:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KAYNAK-KARLIOVA (BINGOL)",
-      "type": "�lksel",
-      "date": "2025.11.16 07:00:28",
-      "lat": 39.2747,
-      "lng": 40.846,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "14.8",
-      "coordinates": [
-        40.846,
-        39.2747
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.846,
-            39.2747
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KAYNAK-KARLIOVA (BINGOL)",
-          "time": "2025.11.16 07:00:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.16",
-      "date_hour": "07:00:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
