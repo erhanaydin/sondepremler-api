@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-19T13:45:19.695Z",
+  "lastUpdate": "2025-11-19T13:55:57.949Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HAMDIYE-GUNEY (DENIZLI)",
+      "type": "�lksel",
+      "date": "2025.11.19 16:39:02",
+      "lat": 38.1183,
+      "lng": 28.9498,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "9.2",
+      "coordinates": [
+        28.9498,
+        38.1183
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9498,
+            38.1183
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "HAMDIYE-GUNEY (DENIZLI)",
+          "time": "2025.11.19 16:39:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.19",
+      "date_hour": "16:39:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "YUKARIYENICE-PALANDOKEN (ERZURUM)",
-      "type": "�lksel",
-      "date": "2025.11.16 11:43:28",
-      "lat": 39.841,
-      "lng": 40.9908,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "5.6",
-      "coordinates": [
-        40.9908,
-        39.841
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.9908,
-            39.841
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "YUKARIYENICE-PALANDOKEN (ERZURUM)",
-          "time": "2025.11.16 11:43:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.16",
-      "date_hour": "11:43:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZURUM"
     }
   ]
 }
