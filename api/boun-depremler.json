@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-19T21:49:23.003Z",
+  "lastUpdate": "2025-11-19T21:57:25.886Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKARCA-ELBISTAN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.11.20 00:43:08",
+      "lat": 38.458,
+      "lng": 37.3155,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "21.2",
+      "coordinates": [
+        37.3155,
+        38.458
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.3155,
+            38.458
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "AKARCA-ELBISTAN (KAHRAMANMARAS)",
+          "time": "2025.11.20 00:43:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.20",
+      "date_hour": "00:43:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "HACET-KIRKAGAC (MANISA)",
-      "type": "�lksel",
-      "date": "2025.11.17 01:18:32",
-      "lat": 39.2315,
-      "lng": 27.9998,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "8.7",
-      "coordinates": [
-        27.9998,
-        39.2315
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9998,
-            39.2315
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "HACET-KIRKAGAC (MANISA)",
-          "time": "2025.11.17 01:18:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.17",
-      "date_hour": "01:18:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
