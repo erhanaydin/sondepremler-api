@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-20T15:18:37.349Z",
+  "lastUpdate": "2025-11-20T15:38:52.963Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.20 18:11:43",
+      "lat": 39.2257,
+      "lng": 28.1488,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "6.3",
+      "coordinates": [
+        28.1488,
+        39.2257
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1488,
+            39.2257
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.20 18:11:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.20",
+      "date_hour": "18:11:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "TURUNCLU-(HATAY)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "GOLOVA (SIVAS)",
-      "type": "�lksel",
-      "date": "2025.11.17 09:15:57",
-      "lat": 40.068,
-      "lng": 38.6283,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        38.6283,
-        40.068
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.6283,
-            40.068
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "GOLOVA (SIVAS)",
-          "time": "2025.11.17 09:15:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.17",
-      "date_hour": "09:15:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
     }
   ]
 }
