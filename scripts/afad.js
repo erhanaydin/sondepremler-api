@@ -1,8 +1,15 @@
 import fetch from 'node-fetch';
 import fs from 'fs';
 
-const start = new Date(Date.now() - 5 * 24 * 60 * 60 * 1000).toISOString().slice(0, 19);
-const end = new Date().toISOString().slice(0, 19);
+// 3 gün önce
+const start = new Date(Date.now() - 3 * 24 * 60 * 60 * 1000)
+  .toISOString()
+  .slice(0, 19); // YYYY-MM-DDTHH:MM:SS
+
+// Şimdi
+const end = new Date()
+  .toISOString()
+  .slice(0, 19);
 
 const url = `https://servisnet.afad.gov.tr/apigateway/deprem/apiv2/event/filter?start=${start}&end=${end}&limit=500&orderby=timedesc`;
 
