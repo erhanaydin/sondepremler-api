@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-20T21:56:45.997Z",
+  "lastUpdate": "2025-11-20T22:17:09.180Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.21 00:55:00",
+      "lat": 39.1705,
+      "lng": 28.1903,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "8.1",
+      "coordinates": [
+        28.1903,
+        39.1705
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1903,
+            39.1705
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.21 00:55:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.21",
+      "date_hour": "00:55:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -106,6 +142,42 @@
       "location_properties": "",
       "date_day": "2025.11.21",
       "date_hour": "00:31:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.21 00:23:20",
+      "lat": 39.177,
+      "lng": 28.3048,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "15.6",
+      "coordinates": [
+        28.3048,
+        39.177
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3048,
+            39.177
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.21 00:23:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.21",
+      "date_hour": "00:23:20",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KIBRIS-ISKELE",
-      "type": "�lksel",
-      "date": "2025.11.17 13:13:44",
-      "lat": 35.2398,
-      "lng": 33.6962,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "4.0",
-      "coordinates": [
-        33.6962,
-        35.2398
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.6962,
-            35.2398
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KIBRIS-ISKELE",
-          "time": "2025.11.17 13:13:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.17",
-      "date_hour": "13:13:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.17 13:12:09",
-      "lat": 39.1625,
-      "lng": 28.253,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "9.3",
-      "coordinates": [
-        28.253,
-        39.1625
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.253,
-            39.1625
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.17 13:12:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.17",
-      "date_hour": "13:12:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
