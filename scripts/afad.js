@@ -1,17 +1,23 @@
 import fetch from 'node-fetch';
 import fs from 'fs';
 
-// 3 gün önce
-const start = new Date(Date.now() - 3 * 24 * 60 * 60 * 1000)
-  .toISOString()
-  .slice(0, 19); // YYYY-MM-DDTHH:MM:SS
+// 🔧 Tarihi AFAD'ın istediği formata çeviren fonksiyon
+function formatAFAD(date) {
+  const pad = n => String(n).padStart(2, "0");
+  return `${date.getFullYear()}-${pad(date.getMonth()+1)}-${pad(date.getDate())} ${pad(date.getHours())}:${pad(date.getMinutes())}:${pad(date.getSeconds())}`;
+}
 
-// Şimdi
-const end = new Date()
-  .toISOString()
-  .slice(0, 19);
+// 🔥 Otomatik tarih hesaplama (3 gün önce - şimdi)
+const now = new Date();
+const threeDaysAgo = new Date(Date.now() - 3 * 24 * 60 * 60 * 1000);
 
-const url = `https://servisnet.afad.gov.tr/apigateway/deprem/apiv2/event/filter?start=${start}&end=${end}&limit=500&orderby=timedesc`;
+const start = encodeURIComponent(formatAFAD(threeDaysAgo)); 
+const end = encodeURIComponent(formatAFAD(now));
+
+// 🔥 URL otomatik oluşturuluyor
+const url = `https://servisnet.afad.gov.tr/apigateway/deprem/apiv2/event/filter?start=${start}&end=${end}&orderby=timedesc`;
+
+console.log("🔗 Kullanılan URL:", url);
 
 try {
   const response = await fetch(url);
