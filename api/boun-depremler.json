@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-21T11:15:53.686Z",
+  "lastUpdate": "2025-11-21T11:29:06.949Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.21 14:07:36",
+      "lat": 39.234,
+      "lng": 28.0555,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.2",
+      "coordinates": [
+        28.0555,
+        39.234
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0555,
+            39.234
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.21 14:07:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.21",
+      "date_hour": "14:07:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.11.18 04:38:22",
-      "lat": 36.0273,
-      "lng": 27.2052,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.5",
-      "coordinates": [
-        27.2052,
-        36.0273
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.2052,
-            36.0273
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "EGE DENIZI",
-          "time": "2025.11.18 04:38:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.18",
-      "date_hour": "04:38:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
