@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-21T17:11:19.188Z",
+  "lastUpdate": "2025-11-21T17:30:42.547Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.11.21 20:20:27",
+      "lat": 36.3935,
+      "lng": 28.4007,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "29.6",
+      "coordinates": [
+        28.4007,
+        36.3935
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.4007,
+            36.3935
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "AKDENIZ",
+          "time": "2025.11.21 20:20:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.21",
+      "date_hour": "20:20:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "SAGLIK-MERAM (KONYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.18 06:36:26",
-      "lat": 39.1992,
-      "lng": 28.1663,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "10.5",
-      "coordinates": [
-        28.1663,
-        39.1992
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1663,
-            39.1992
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.18 06:36:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.18",
-      "date_hour": "06:36:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
