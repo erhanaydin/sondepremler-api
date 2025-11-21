@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-21T16:54:11.917Z",
+  "lastUpdate": "2025-11-21T17:11:19.188Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SAGLIK-MERAM (KONYA)",
+      "type": "�lksel",
+      "date": "2025.11.21 19:41:00",
+      "lat": 37.82,
+      "lng": 32.0717,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        32.0717,
+        37.82
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.0717,
+            37.82
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "SAGLIK-MERAM (KONYA)",
+          "time": "2025.11.21 19:41:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.21",
+      "date_hour": "19:41:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KONYA"
+    },
     {
       "title": "ILICA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.11.18 06:32:35",
-      "lat": 34.6623,
-      "lng": 32.7977,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "-.-",
-      "depth": "13.2",
-      "coordinates": [
-        32.7977,
-        34.6623
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.7977,
-            34.6623
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "AKDENIZ",
-          "time": "2025.11.18 06:32:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.18",
-      "date_hour": "06:32:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
