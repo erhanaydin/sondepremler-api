@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-21T20:36:06.774Z",
+  "lastUpdate": "2025-11-21T20:46:26.280Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.11.21 23:27:54",
+      "lat": 39.2373,
+      "lng": 28.9837,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "6.7",
+      "coordinates": [
+        28.9837,
+        39.2373
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9837,
+            39.2373
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.11.21 23:27:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.21",
+      "date_hour": "23:27:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "DINARBEY-YEDISU (BINGOL)",
-      "type": "�lksel",
-      "date": "2025.11.18 10:22:00",
-      "lat": 39.3532,
-      "lng": 40.6723,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "17.7",
-      "coordinates": [
-        40.6723,
-        39.3532
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.6723,
-            39.3532
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "DINARBEY-YEDISU (BINGOL)",
-          "time": "2025.11.18 10:22:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.18",
-      "date_hour": "10:22:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
