@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-21T17:30:42.547Z",
+  "lastUpdate": "2025-11-21T17:43:16.440Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.21 20:11:10",
+      "lat": 39.2285,
+      "lng": 28.1058,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "7.8",
+      "coordinates": [
+        28.1058,
+        39.2285
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1058,
+            39.2285
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.21 20:11:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.21",
+      "date_hour": "20:11:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "SAGLIK-MERAM (KONYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BOLU"
-    },
-    {
-      "title": "TATLAR-NURHAK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.11.18 06:36:59",
-      "lat": 38.0543,
-      "lng": 37.5442,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "3.3",
-      "coordinates": [
-        37.5442,
-        38.0543
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.5442,
-            38.0543
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "TATLAR-NURHAK (KAHRAMANMARAS)",
-          "time": "2025.11.18 06:36:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.18",
-      "date_hour": "06:36:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
