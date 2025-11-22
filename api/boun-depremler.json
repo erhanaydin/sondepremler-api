@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-22T19:44:01.201Z",
+  "lastUpdate": "2025-11-22T19:52:16.642Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AVCILARSUYU-ARSUZ (HATAY)",
+      "type": "�lksel",
+      "date": "2025.11.22 21:51:24",
+      "lat": 36.3017,
+      "lng": 35.9277,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        35.9277,
+        36.3017
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.9277,
+            36.3017
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "AVCILARSUYU-ARSUZ (HATAY)",
+          "time": "2025.11.22 21:51:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.22",
+      "date_hour": "21:51:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
     {
       "title": "KARAGUR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CUKUROREN (BOLU)",
-      "type": "�lksel",
-      "date": "2025.11.19 05:09:18",
-      "lat": 40.8418,
-      "lng": 31.6458,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "5.1",
-      "coordinates": [
-        31.6458,
-        40.8418
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.6458,
-            40.8418
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "CUKUROREN (BOLU)",
-          "time": "2025.11.19 05:09:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.19",
-      "date_hour": "05:09:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BOLU"
     }
   ]
 }
