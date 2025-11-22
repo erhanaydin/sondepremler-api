@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-22T14:58:28.841Z",
+  "lastUpdate": "2025-11-22T15:20:15.648Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SARICAOGLU-BERGAMA (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.11.22 17:54:50",
+      "lat": 39.3137,
+      "lng": 27.3683,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "7.5",
+      "coordinates": [
+        27.3683,
+        39.3137
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.3683,
+            39.3137
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "SARICAOGLU-BERGAMA (IZMIR)",
+          "time": "2025.11.22 17:54:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.22",
+      "date_hour": "17:54:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
     {
       "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "GUPLUCE-ELBISTAN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.11.19 02:07:36",
-      "lat": 38.1142,
-      "lng": 37.1402,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "4.9",
-      "coordinates": [
-        37.1402,
-        38.1142
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.1402,
-            38.1142
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "GUPLUCE-ELBISTAN (KAHRAMANMARAS)",
-          "time": "2025.11.19 02:07:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.19",
-      "date_hour": "02:07:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
