@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-22T06:53:29.142Z",
+  "lastUpdate": "2025-11-22T07:09:49.297Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.22 10:00:03",
+      "lat": 39.1783,
+      "lng": 28.2552,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "14.8",
+      "coordinates": [
+        28.2552,
+        39.1783
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2552,
+            39.1783
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.22 10:00:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.22",
+      "date_hour": "10:00:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KOZLU-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.11.18 22:32:41",
-      "lat": 34.5877,
-      "lng": 32.341,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "8.3",
-      "coordinates": [
-        32.341,
-        34.5877
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.341,
-            34.5877
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "AKDENIZ",
-          "time": "2025.11.18 22:32:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.18",
-      "date_hour": "22:32:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
