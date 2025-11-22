@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-22T03:28:40.489Z",
+  "lastUpdate": "2025-11-22T03:50:52.924Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DUTLUCA-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2025.11.22 06:27:41",
+      "lat": 39.0618,
+      "lng": 28.2493,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "10.1",
+      "coordinates": [
+        28.2493,
+        39.0618
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2493,
+            39.0618
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "DUTLUCA-GORDES (MANISA)",
+          "time": "2025.11.22 06:27:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.22",
+      "date_hour": "06:27:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2025.11.18 19:41:05",
-      "lat": 40.8427,
-      "lng": 28.7122,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "-.-",
-      "depth": "12.1",
-      "coordinates": [
-        28.7122,
-        40.8427
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7122,
-            40.8427
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-          "time": "2025.11.18 19:41:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.18",
-      "date_hour": "19:41:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
     }
   ]
 }
