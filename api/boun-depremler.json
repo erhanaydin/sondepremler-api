@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-22T17:32:51.851Z",
+  "lastUpdate": "2025-11-22T17:42:06.680Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIBRIS-ISKELE",
+      "type": "�lksel",
+      "date": "2025.11.22 20:05:33",
+      "lat": 35.401,
+      "lng": 33.8277,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "13.8",
+      "coordinates": [
+        33.8277,
+        35.401
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.8277,
+            35.401
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KIBRIS-ISKELE",
+          "time": "2025.11.22 20:05:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.22",
+      "date_hour": "20:05:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YAYLACIK-GOLBASI (ADIYAMAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KOBAKLAR-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2025.11.19 04:02:51",
-      "lat": 39.0877,
-      "lng": 28.3408,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "10.8",
-      "coordinates": [
-        28.3408,
-        39.0877
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3408,
-            39.0877
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "KOBAKLAR-GORDES (MANISA)",
-          "time": "2025.11.19 04:02:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.19",
-      "date_hour": "04:02:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
