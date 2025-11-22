@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-22T19:35:39.551Z",
+  "lastUpdate": "2025-11-22T19:44:01.201Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAGUR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.22 21:20:25",
+      "lat": 39.2537,
+      "lng": 28.1028,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "9.2",
+      "coordinates": [
+        28.1028,
+        39.2537
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1028,
+            39.2537
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KARAGUR-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.22 21:20:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.22",
+      "date_hour": "21:20:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BOLU"
-    },
-    {
-      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.19 05:08:58",
-      "lat": 39.2162,
-      "lng": 28.0635,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "11.8",
-      "coordinates": [
-        28.0635,
-        39.2162
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0635,
-            39.2162
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.19 05:08:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.19",
-      "date_hour": "05:08:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
