@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-11-23T16:42:13.689Z",
+  "lastUpdate": "2025-11-23T16:51:51.168Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.11.23 19:20:50",
+      "lat": 39.2215,
+      "lng": 29.0018,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "12.5",
+      "coordinates": [
+        29.0018,
+        39.2215
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0018,
+            39.2215
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.11.23 19:20:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.23",
+      "date_hour": "19:20:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.23 19:19:17",
+      "lat": 39.16,
+      "lng": 28.273,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "9.8",
+      "coordinates": [
+        28.273,
+        39.16
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.273,
+            39.16
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.23 19:19:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.23",
+      "date_hour": "19:19:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "HACIHUSEYINEFENDI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.20 01:35:11",
-      "lat": 39.1903,
-      "lng": 28.135,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "12.9",
-      "coordinates": [
-        28.135,
-        39.1903
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.135,
-            39.1903
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.20 01:35:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.20",
-      "date_hour": "01:35:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "KISIK-MENDERES (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.11.20 01:23:08",
-      "lat": 38.2873,
-      "lng": 27.1968,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "7.7",
-      "coordinates": [
-        27.1968,
-        38.2873
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1968,
-            38.2873
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "KISIK-MENDERES (IZMIR)",
-          "time": "2025.11.20 01:23:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.20",
-      "date_hour": "01:23:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
