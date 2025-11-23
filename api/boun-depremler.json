@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-23T19:54:16.216Z",
+  "lastUpdate": "2025-11-23T20:13:58.087Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIBRIS-LAPTA",
+      "type": "�lksel",
+      "date": "2025.11.23 22:42:15",
+      "lat": 35.3572,
+      "lng": 33.192,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        33.192,
+        35.3572
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.192,
+            35.3572
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KIBRIS-LAPTA",
+          "time": "2025.11.23 22:42:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.23",
+      "date_hour": "22:42:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "IBILLER-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17962,42 +17998,6 @@
       "location_properties": "",
       "date_day": "2025.11.20",
       "date_hour": "06:07:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.20 05:58:07",
-      "lat": 39.1595,
-      "lng": 28.2443,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "16.5",
-      "coordinates": [
-        28.2443,
-        39.1595
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2443,
-            39.1595
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.20 05:58:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.20",
-      "date_hour": "05:58:07",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
