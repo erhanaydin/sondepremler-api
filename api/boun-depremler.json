@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-23T11:50:06.738Z",
+  "lastUpdate": "2025-11-23T11:58:15.752Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.23 14:42:58",
+      "lat": 39.1767,
+      "lng": 28.2168,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "-.-",
+      "depth": "8.6",
+      "coordinates": [
+        28.2168,
+        39.1767
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2168,
+            39.1767
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.23 14:42:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.23",
+      "date_hour": "14:42:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ALATEPE-MILAS (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YENIKOY-ODEMIS (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.11.19 20:21:44",
-      "lat": 38.2283,
-      "lng": 27.9078,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "1.0",
-      "coordinates": [
-        27.9078,
-        38.2283
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9078,
-            38.2283
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YENIKOY-ODEMIS (IZMIR)",
-          "time": "2025.11.19 20:21:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.19",
-      "date_hour": "20:21:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
