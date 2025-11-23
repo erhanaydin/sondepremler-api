@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-23T17:59:58.095Z",
+  "lastUpdate": "2025-11-23T18:35:01.947Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.23 20:46:12",
+      "lat": 39.1505,
+      "lng": 28.1243,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "13.0",
+      "coordinates": [
+        28.1243,
+        39.1505
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1243,
+            39.1505
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.23 20:46:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.23",
+      "date_hour": "20:46:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SEKEROBA-TURKOGLU (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CICEKLI-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2025.11.20 03:37:10",
-      "lat": 39.0692,
-      "lng": 28.2372,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "14.1",
-      "coordinates": [
-        28.2372,
-        39.0692
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2372,
-            39.0692
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "CICEKLI-GORDES (MANISA)",
-          "time": "2025.11.20 03:37:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.20",
-      "date_hour": "03:37:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
