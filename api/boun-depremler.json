@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-23T13:48:51.862Z",
+  "lastUpdate": "2025-11-23T13:57:19.626Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.23 16:48:04",
+      "lat": 39.1825,
+      "lng": 28.2135,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "-.-",
+      "depth": "12.7",
+      "coordinates": [
+        28.2135,
+        39.1825
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2135,
+            39.1825
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.23 16:48:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.23",
+      "date_hour": "16:48:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -217,6 +253,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "YUKARIGOKDERE-EGIRDIR (ISPARTA)",
+      "type": "�lksel",
+      "date": "2025.11.23 14:46:42",
+      "lat": 37.7127,
+      "lng": 30.8247,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "8.4",
+      "coordinates": [
+        30.8247,
+        37.7127
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.8247,
+            37.7127
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "YUKARIGOKDERE-EGIRDIR (ISPARTA)",
+          "time": "2025.11.23 14:46:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.23",
+      "date_hour": "14:46:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ISPARTA"
     },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YENIKOSK-(VAN)",
-      "type": "�lksel",
-      "date": "2025.11.19 22:46:30",
-      "lat": 38.6253,
-      "lng": 43.34,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "24.0",
-      "coordinates": [
-        43.34,
-        38.6253
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.34,
-            38.6253
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "YENIKOSK-(VAN)",
-          "time": "2025.11.19 22:46:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.19",
-      "date_hour": "22:46:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "VAN"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.11.19 22:45:54",
-      "lat": 39.2367,
-      "lng": 29.0452,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "2.7",
-      "coordinates": [
-        29.0452,
-        39.2367
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0452,
-            39.2367
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.11.19 22:45:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.19",
-      "date_hour": "22:45:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
