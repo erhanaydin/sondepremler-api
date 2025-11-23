@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-23T09:54:07.151Z",
+  "lastUpdate": "2025-11-23T10:12:00.967Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -106,6 +106,42 @@
       "location_properties": "",
       "date_day": "2025.11.23",
       "date_hour": "12:09:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.23 12:05:13",
+      "lat": 39.1705,
+      "lng": 28.1657,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "9.8",
+      "coordinates": [
+        28.1657,
+        39.1705
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1657,
+            39.1705
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.23 12:05:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.23",
+      "date_hour": "12:05:13",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "HARUNUSAGI-AKCADAG (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.11.19 19:05:00",
-      "lat": 38.2972,
-      "lng": 37.6885,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "16.0",
-      "coordinates": [
-        37.6885,
-        38.2972
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.6885,
-            38.2972
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "HARUNUSAGI-AKCADAG (MALATYA)",
-          "time": "2025.11.19 19:05:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.19",
-      "date_hour": "19:05:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
