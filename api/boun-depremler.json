@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-23T09:45:42.686Z",
+  "lastUpdate": "2025-11-23T09:54:07.151Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANKIRI"
+    },
+    {
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.23 12:09:33",
+      "lat": 39.1658,
+      "lng": 28.1255,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "9.8",
+      "coordinates": [
+        28.1255,
+        39.1658
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1255,
+            39.1658
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.23 12:09:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.23",
+      "date_hour": "12:09:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "CAGILLAR-DEMIRCI (MANISA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "PAZARLAR (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.11.19 19:04:25",
-      "lat": 38.9995,
-      "lng": 29.1438,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "9.9",
-      "coordinates": [
-        29.1438,
-        38.9995
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1438,
-            38.9995
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "PAZARLAR (KUTAHYA)",
-          "time": "2025.11.19 19:04:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.19",
-      "date_hour": "19:04:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
