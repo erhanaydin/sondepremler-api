@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-24T11:55:48.391Z",
+  "lastUpdate": "2025-11-24T12:35:19.553Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KINIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.24 14:22:21",
+      "lat": 39.1027,
+      "lng": 28.1685,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "14.0",
+      "coordinates": [
+        28.1685,
+        39.1027
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1685,
+            39.1027
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "KINIK-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.24 14:22:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.24",
+      "date_hour": "14:22:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "DEGIRMENCIUSAGI-SAIMBEYLI (ADANA)",
-      "type": "�lksel",
-      "date": "2025.11.21 00:39:57",
-      "lat": 37.8525,
-      "lng": 36.1655,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "3.6",
-      "coordinates": [
-        36.1655,
-        37.8525
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.1655,
-            37.8525
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "DEGIRMENCIUSAGI-SAIMBEYLI (ADANA)",
-          "time": "2025.11.21 00:39:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.21",
-      "date_hour": "00:39:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
