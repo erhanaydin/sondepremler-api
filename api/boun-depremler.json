@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-24T17:33:23.380Z",
+  "lastUpdate": "2025-11-24T17:46:12.637Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.11.24 20:22:22",
+      "lat": 34.6587,
+      "lng": 32.7305,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "14.3",
+      "coordinates": [
+        32.7305,
+        34.6587
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.7305,
+            34.6587
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "AKDENIZ",
+          "time": "2025.11.24 20:22:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.24",
+      "date_hour": "20:22:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17962,42 +17998,6 @@
       "location_properties": "",
       "date_day": "2025.11.21",
       "date_hour": "04:15:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.21 03:55:34",
-      "lat": 39.2105,
-      "lng": 28.1842,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "8.5",
-      "coordinates": [
-        28.1842,
-        39.2105
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1842,
-            39.2105
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.21 03:55:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.21",
-      "date_hour": "03:55:34",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
