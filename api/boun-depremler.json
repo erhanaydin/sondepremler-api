@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-24T22:47:58.543Z",
+  "lastUpdate": "2025-11-24T22:56:16.477Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YESILDERE-GURUN (SIVAS)",
+      "type": "�lksel",
+      "date": "2025.11.25 01:45:57",
+      "lat": 38.9135,
+      "lng": 37.4938,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "11.2",
+      "coordinates": [
+        37.4938,
+        38.9135
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.4938,
+            38.9135
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YESILDERE-GURUN (SIVAS)",
+          "time": "2025.11.25 01:45:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.25",
+      "date_hour": "01:45:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SIVAS"
+    },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "IRIAGAC-YAZIHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.11.25 01:25:27",
+      "lat": 38.5568,
+      "lng": 37.997,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "7.5",
+      "coordinates": [
+        37.997,
+        38.5568
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.997,
+            38.5568
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "IRIAGAC-YAZIHAN (MALATYA)",
+          "time": "2025.11.25 01:25:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.25",
+      "date_hour": "01:25:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "OGULDURUK-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2025.11.21 08:18:14",
-      "lat": 38.9918,
-      "lng": 28.2977,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "9.6",
-      "coordinates": [
-        28.2977,
-        38.9918
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2977,
-            38.9918
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "OGULDURUK-GORDES (MANISA)",
-          "time": "2025.11.21 08:18:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.21",
-      "date_hour": "08:18:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
-    },
-    {
-      "title": "KALEMOGLU-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2025.11.21 08:16:20",
-      "lat": 39.0512,
-      "lng": 28.19,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "19.5",
-      "coordinates": [
-        28.19,
-        39.0512
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.19,
-            39.0512
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "KALEMOGLU-GORDES (MANISA)",
-          "time": "2025.11.21 08:16:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.21",
-      "date_hour": "08:16:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
