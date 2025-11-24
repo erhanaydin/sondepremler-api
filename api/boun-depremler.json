@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-24T22:38:46.052Z",
+  "lastUpdate": "2025-11-24T22:47:58.543Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.25 01:36:45",
+      "lat": 39.2247,
+      "lng": 28.1315,
+      "md": "-.-",
+      "ml": "3.6",
+      "mw": "3.5",
+      "depth": "12.7",
+      "coordinates": [
+        28.1315,
+        39.2247
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1315,
+            39.2247
+          ]
+        },
+        "properties": {
+          "mag": "3.6",
+          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.25 01:36:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.25",
+      "date_hour": "01:36:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "FEVZIPASA-ISLAHIYE (GAZIANTEP)",
-      "type": "�lksel",
-      "date": "2025.11.21 08:07:06",
-      "lat": 37.119,
-      "lng": 36.6318,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "4.3",
-      "coordinates": [
-        36.6318,
-        37.119
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.6318,
-            37.119
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "FEVZIPASA-ISLAHIYE (GAZIANTEP)",
-          "time": "2025.11.21 08:07:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.21",
-      "date_hour": "08:07:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "GAZIANTEP"
     }
   ]
 }
