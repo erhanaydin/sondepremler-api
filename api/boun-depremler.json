@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-24T07:33:05.847Z",
+  "lastUpdate": "2025-11-24T07:43:43.293Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -34,6 +34,42 @@
       "location_properties": "",
       "date_day": "2025.11.24",
       "date_hour": "10:17:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.24 10:16:32",
+      "lat": 39.1552,
+      "lng": 28.276,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "11.4",
+      "coordinates": [
+        28.276,
+        39.1552
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.276,
+            39.1552
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.24 10:16:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.24",
+      "date_hour": "10:16:32",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BELKARACAOREN-(AFYONKARAHISAR)",
-      "type": "�lksel",
-      "date": "2025.11.20 21:03:22",
-      "lat": 38.6147,
-      "lng": 30.5735,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        30.5735,
-        38.6147
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.5735,
-            38.6147
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "BELKARACAOREN-(AFYONKARAHISAR)",
-          "time": "2025.11.20 21:03:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.20",
-      "date_hour": "21:03:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AFYONKARAHISAR"
     }
   ]
 }
