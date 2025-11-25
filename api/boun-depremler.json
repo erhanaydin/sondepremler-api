@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-25T11:24:05.308Z",
+  "lastUpdate": "2025-11-25T11:36:22.088Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DOGANKAYA-ADAKLI (BINGOL)",
+      "type": "�lksel",
+      "date": "2025.11.25 13:59:34",
+      "lat": 39.197,
+      "lng": 40.614,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "9.0",
+      "coordinates": [
+        40.614,
+        39.197
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.614,
+            39.197
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "DOGANKAYA-ADAKLI (BINGOL)",
+          "time": "2025.11.25 13:59:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.25",
+      "date_hour": "13:59:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGOL"
+    },
     {
       "title": "DURMUSSOFULAR-KADIRLI (OSMANIYE)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANTALYA"
-    },
-    {
-      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.21 14:07:36",
-      "lat": 39.234,
-      "lng": 28.0555,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "7.2",
-      "coordinates": [
-        28.0555,
-        39.234
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0555,
-            39.234
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.21 14:07:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.21",
-      "date_hour": "14:07:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
