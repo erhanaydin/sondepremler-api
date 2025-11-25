@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-25T11:36:22.088Z",
+  "lastUpdate": "2025-11-25T11:45:15.244Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.25 14:27:39",
+      "lat": 39.1807,
+      "lng": 28.2533,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "12.6",
+      "coordinates": [
+        28.2533,
+        39.1807
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2533,
+            39.1807
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.25 14:27:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.25",
+      "date_hour": "14:27:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "DOGANKAYA-ADAKLI (BINGOL)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "DENIZKENT-MANAVGAT (ANTALYA)",
-      "type": "�lksel",
-      "date": "2025.11.21 14:11:30",
-      "lat": 36.7727,
-      "lng": 31.1482,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "28.1",
-      "coordinates": [
-        31.1482,
-        36.7727
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.1482,
-            36.7727
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "DENIZKENT-MANAVGAT (ANTALYA)",
-          "time": "2025.11.21 14:11:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.21",
-      "date_hour": "14:11:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANTALYA"
     }
   ]
 }
