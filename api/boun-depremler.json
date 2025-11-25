@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-25T11:45:15.244Z",
+  "lastUpdate": "2025-11-25T11:53:48.388Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.11.25 14:05:10",
+      "lat": 38.2162,
+      "lng": 23.8058,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "6.8",
+      "coordinates": [
+        23.8058,
+        38.2162
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.8058,
+            38.2162
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "YUNANISTAN",
+          "time": "2025.11.25 14:05:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.25",
+      "date_hour": "14:05:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "DOGANKAYA-ADAKLI (BINGOL)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.11.21 15:00:45",
-      "lat": 39.265,
-      "lng": 28.9432,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "20.6",
-      "coordinates": [
-        28.9432,
-        39.265
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9432,
-            39.265
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "KARAKOCA-SIMAV (KUTAHYA)",
-          "time": "2025.11.21 15:00:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.21",
-      "date_hour": "15:00:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
