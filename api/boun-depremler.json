@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-25T13:55:01.896Z",
+  "lastUpdate": "2025-11-25T14:14:51.692Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GAZIEMIR (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.11.25 16:58:16",
+      "lat": 38.3272,
+      "lng": 27.1448,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "10.4",
+      "coordinates": [
+        27.1448,
+        38.3272
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.1448,
+            38.3272
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "GAZIEMIR (IZMIR)",
+          "time": "2025.11.25 16:58:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.25",
+      "date_hour": "16:58:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
     {
       "title": "CEVIRCEK-SOMA (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.11.21 18:46:58",
-      "lat": 39.2517,
-      "lng": 29.0083,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "21.5",
-      "coordinates": [
-        29.0083,
-        39.2517
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0083,
-            39.2517
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.11.21 18:46:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.21",
-      "date_hour": "18:46:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
