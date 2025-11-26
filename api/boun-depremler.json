@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-26T22:37:01.239Z",
+  "lastUpdate": "2025-11-26T22:46:43.580Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CICEKKOY-ELBISTAN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.11.27 01:36:01",
+      "lat": 38.179,
+      "lng": 37.2702,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        37.2702,
+        38.179
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.2702,
+            38.179
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "CICEKKOY-ELBISTAN (KAHRAMANMARAS)",
+          "time": "2025.11.27 01:36:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.27",
+      "date_hour": "01:36:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "SAHINYURDU-GEMLIK (BURSA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KUCUKYAYA-KIRKAGAC (MANISA)",
-      "type": "�lksel",
-      "date": "2025.11.22 18:24:41",
-      "lat": 39.163,
-      "lng": 27.7562,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "6.9",
-      "coordinates": [
-        27.7562,
-        39.163
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7562,
-            39.163
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KUCUKYAYA-KIRKAGAC (MANISA)",
-          "time": "2025.11.22 18:24:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.22",
-      "date_hour": "18:24:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
