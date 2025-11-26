@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-26T17:47:47.791Z",
+  "lastUpdate": "2025-11-26T17:56:05.446Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.11.26 20:48:35",
+      "lat": 36.3163,
+      "lng": 28.549,
+      "md": "-.-",
+      "ml": "3.8",
+      "mw": "3.7",
+      "depth": "11.7",
+      "coordinates": [
+        28.549,
+        36.3163
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.549,
+            36.3163
+          ]
+        },
+        "properties": {
+          "mag": "3.8",
+          "place": "AKDENIZ",
+          "time": "2025.11.26 20:48:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.26",
+      "date_hour": "20:48:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KARACAOREN-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.11.26 19:35:10",
+      "lat": 35.9988,
+      "lng": 30.783,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "5.9",
+      "coordinates": [
+        30.783,
+        35.9988
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.783,
+            35.9988
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "AKDENIZ",
+          "time": "2025.11.26 19:35:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.26",
+      "date_hour": "19:35:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "ILICAK-AKCADAG (MALATYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.11.22 10:05:33",
-      "lat": 34.4893,
-      "lng": 32.3607,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "4.4",
-      "coordinates": [
-        32.3607,
-        34.4893
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.3607,
-            34.4893
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "AKDENIZ",
-          "time": "2025.11.22 10:05:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.22",
-      "date_hour": "10:05:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.22 10:00:03",
-      "lat": 39.1783,
-      "lng": 28.2552,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "14.8",
-      "coordinates": [
-        28.2552,
-        39.1783
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2552,
-            39.1783
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.22 10:00:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.22",
-      "date_hour": "10:00:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
