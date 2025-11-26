@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-26T09:29:03.074Z",
+  "lastUpdate": "2025-11-26T09:46:33.681Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOKTAS-SOMA (MANISA)",
+      "type": "�lksel",
+      "date": "2025.11.26 12:28:43",
+      "lat": 39.2993,
+      "lng": 27.6773,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "8.5",
+      "coordinates": [
+        27.6773,
+        39.2993
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.6773,
+            39.2993
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "GOKTAS-SOMA (MANISA)",
+          "time": "2025.11.26 12:28:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.26",
+      "date_hour": "12:28:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "GOKTAS-SOMA (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "OTLUKKAPI-PASINLER (ERZURUM)",
-      "type": "�lksel",
-      "date": "2025.11.22 05:31:19",
-      "lat": 39.8637,
-      "lng": 41.6677,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "8.7",
-      "coordinates": [
-        41.6677,
-        39.8637
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            41.6677,
-            39.8637
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "OTLUKKAPI-PASINLER (ERZURUM)",
-          "time": "2025.11.22 05:31:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.22",
-      "date_hour": "05:31:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZURUM"
     }
   ]
 }
