@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-26T21:14:33.660Z",
+  "lastUpdate": "2025-11-26T21:29:41.055Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CITGOL-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.11.26 23:46:28",
+      "lat": 39.1348,
+      "lng": 28.9727,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "11.7",
+      "coordinates": [
+        28.9727,
+        39.1348
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9727,
+            39.1348
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "CITGOL-SIMAV (KUTAHYA)",
+          "time": "2025.11.26 23:46:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.26",
+      "date_hour": "23:46:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "BUYUKKIZOGLU-LADIK (SAMSUN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "SARICAOGLU-BERGAMA (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.11.22 17:54:50",
-      "lat": 39.3137,
-      "lng": 27.3683,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "7.5",
-      "coordinates": [
-        27.3683,
-        39.3137
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.3683,
-            39.3137
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "SARICAOGLU-BERGAMA (IZMIR)",
-          "time": "2025.11.22 17:54:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.22",
-      "date_hour": "17:54:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
