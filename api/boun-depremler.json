@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-26T08:59:22.905Z",
+  "lastUpdate": "2025-11-26T09:29:03.074Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOKTAS-SOMA (MANISA)",
+      "type": "�lksel",
+      "date": "2025.11.26 11:53:14",
+      "lat": 39.316,
+      "lng": 27.6743,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        27.6743,
+        39.316
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.6743,
+            39.316
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "GOKTAS-SOMA (MANISA)",
+          "time": "2025.11.26 11:53:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.26",
+      "date_hour": "11:53:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "ILICA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "RODOS ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.11.26 11:30:49",
+      "lat": 36.0825,
+      "lng": 28.089,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "7.3",
+      "coordinates": [
+        28.089,
+        36.0825
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.089,
+            36.0825
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "RODOS ADASI (AKDENIZ)",
+          "time": "2025.11.26 11:30:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.26",
+      "date_hour": "11:30:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
     },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZURUM"
-    },
-    {
-      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.22 05:26:44",
-      "lat": 39.1665,
-      "lng": 28.2622,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "8.8",
-      "coordinates": [
-        28.2622,
-        39.1665
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2622,
-            39.1665
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.22 05:26:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.22",
-      "date_hour": "05:26:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "FINDIKKOY-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.11.22 05:20:53",
-      "lat": 38.0983,
-      "lng": 37.7992,
-      "md": "-.-",
-      "ml": "0.5",
-      "mw": "-.-",
-      "depth": "29.0",
-      "coordinates": [
-        37.7992,
-        38.0983
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.7992,
-            38.0983
-          ]
-        },
-        "properties": {
-          "mag": "0.5",
-          "place": "FINDIKKOY-DOGANSEHIR (MALATYA)",
-          "time": "2025.11.22 05:20:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.22",
-      "date_hour": "05:20:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
