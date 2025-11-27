@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-27T09:51:20.810Z",
+  "lastUpdate": "2025-11-27T09:59:28.950Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
+    },
+    {
+      "title": "BASLAMIS-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2025.11.27 12:10:14",
+      "lat": 39.0812,
+      "lng": 27.9603,
+      "md": "-.-",
+      "ml": "0.8",
+      "mw": "-.-",
+      "depth": "13.5",
+      "coordinates": [
+        27.9603,
+        39.0812
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9603,
+            39.0812
+          ]
+        },
+        "properties": {
+          "mag": "0.8",
+          "place": "BASLAMIS-AKHISAR (MANISA)",
+          "time": "2025.11.27 12:10:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.27",
+      "date_hour": "12:10:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
     },
     {
       "title": "ILICA-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "MARMARACIK-DEMIRCI (MANISA)",
-      "type": "�lksel",
-      "date": "2025.11.23 03:44:36",
-      "lat": 38.9165,
-      "lng": 28.7453,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        28.7453,
-        38.9165
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7453,
-            38.9165
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "MARMARACIK-DEMIRCI (MANISA)",
-          "time": "2025.11.23 03:44:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.23",
-      "date_hour": "03:44:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
