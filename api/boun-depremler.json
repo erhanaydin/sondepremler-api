@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-27T11:42:23.994Z",
+  "lastUpdate": "2025-11-27T11:50:48.642Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -651,6 +651,42 @@
       "city": "MANISA"
     },
     {
+      "title": "KALEKOY-GOKCEADA (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2025.11.27 11:20:54",
+      "lat": 40.37,
+      "lng": 25.9003,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "15.5",
+      "coordinates": [
+        25.9003,
+        40.37
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.9003,
+            40.37
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KALEKOY-GOKCEADA (CANAKKALE)",
+          "time": "2025.11.27 11:20:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.27",
+      "date_hour": "11:20:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
+    {
       "title": "ILICA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
       "date": "2025.11.27 11:02:07",
@@ -721,6 +757,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
+    },
+    {
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.11.27 10:04:56",
+      "lat": 39.2233,
+      "lng": 29.0468,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        29.0468,
+        39.2233
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0468,
+            39.2233
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KATRANDAGI-EMET (KUTAHYA)",
+          "time": "2025.11.27 10:04:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.27",
+      "date_hour": "10:04:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "HUGTAS-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.11.23 07:18:30",
-      "lat": 37.9783,
-      "lng": 36.3567,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "5.6",
-      "coordinates": [
-        36.3567,
-        37.9783
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.3567,
-            37.9783
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "HUGTAS-GOKSUN (KAHRAMANMARAS)",
-          "time": "2025.11.23 07:18:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.23",
-      "date_hour": "07:18:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.23 07:08:49",
-      "lat": 39.1378,
-      "lng": 28.3033,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "12.1",
-      "coordinates": [
-        28.3033,
-        39.1378
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3033,
-            39.1378
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.23 07:08:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.23",
-      "date_hour": "07:08:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
