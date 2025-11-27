@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-27T06:37:13.166Z",
+  "lastUpdate": "2025-11-27T06:56:44.224Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.27 09:34:59",
+      "lat": 39.1785,
+      "lng": 28.1557,
+      "md": "-.-",
+      "ml": "3.0",
+      "mw": "3.0",
+      "depth": "5.0",
+      "coordinates": [
+        28.1557,
+        39.1785
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1557,
+            39.1785
+          ]
+        },
+        "properties": {
+          "mag": "3.0",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.27 09:34:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.27",
+      "date_hour": "09:34:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SAGRAKCI-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -111,37 +147,37 @@
       "city": "BALIKESIR"
     },
     {
-      "title": "KIBRIS-BESPARMAK",
-      "type": "�lksel",
-      "date": "2025.11.27 08:41:43",
-      "lat": 35.3125,
-      "lng": 33.6138,
+      "title": "AKDENIZ REVIZE01 (2025.11.27",
+      "type": "08:41:43)",
+      "date": "2025.11.27 08:41:39",
+      "lat": 34.981,
+      "lng": 33.8483,
       "md": "-.-",
-      "ml": "2.7",
+      "ml": "2.2",
       "mw": "-.-",
-      "depth": "5.0",
+      "depth": "60.4",
       "coordinates": [
-        33.6138,
-        35.3125
+        33.8483,
+        34.981
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            33.6138,
-            35.3125
+            33.8483,
+            34.981
           ]
         },
         "properties": {
-          "mag": "2.7",
-          "place": "KIBRIS-BESPARMAK",
-          "time": "2025.11.27 08:41:43"
+          "mag": "2.2",
+          "place": "AKDENIZ REVIZE01 (2025.11.27",
+          "time": "2025.11.27 08:41:39"
         }
       },
       "location_properties": "",
       "date_day": "2025.11.27",
-      "date_hour": "08:41:43",
+      "date_hour": "08:41:39",
       "timestamp": false,
       "location_tz": "",
       "city": ""
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "ILICA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.23 02:45:56",
-      "lat": 39.199,
-      "lng": 28.213,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "11.5",
-      "coordinates": [
-        28.213,
-        39.199
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.213,
-            39.199
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ILICA-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.23 02:45:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.23",
-      "date_hour": "02:45:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
