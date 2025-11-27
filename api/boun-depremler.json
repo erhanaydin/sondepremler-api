@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-27T17:20:04.883Z",
+  "lastUpdate": "2025-11-27T17:34:07.433Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "TUNCELI"
+    },
+    {
+      "title": "YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+      "type": "�lksel",
+      "date": "2025.11.27 19:57:27",
+      "lat": 40.795,
+      "lng": 27.5338,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "4.5",
+      "coordinates": [
+        27.5338,
+        40.795
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.5338,
+            40.795
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+          "time": "2025.11.27 19:57:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.27",
+      "date_hour": "19:57:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARMARA DENIZI"
     },
     {
       "title": "KARTAL-(KAHRAMANMARAS)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "IBILLER-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.23 11:08:35",
-      "lat": 39.256,
-      "lng": 28.1283,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        28.1283,
-        39.256
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1283,
-            39.256
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "IBILLER-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.23 11:08:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.23",
-      "date_hour": "11:08:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
