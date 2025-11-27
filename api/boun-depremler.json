@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-27T23:42:07.896Z",
+  "lastUpdate": "2025-11-27T23:50:35.475Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.28 02:40:55",
+      "lat": 39.2285,
+      "lng": 28.1595,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "11.8",
+      "coordinates": [
+        28.1595,
+        39.2285
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1595,
+            39.2285
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.28 02:40:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.28",
+      "date_hour": "02:40:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAZLIK-GOLYAKA (DUZCE)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DUZCE"
+    },
+    {
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.28 02:19:48",
+      "lat": 39.2262,
+      "lng": 28.1133,
+      "md": "-.-",
+      "ml": "0.9",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        28.1133,
+        39.2262
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1133,
+            39.2262
+          ]
+        },
+        "properties": {
+          "mag": "0.9",
+          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.28 02:19:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.28",
+      "date_hour": "02:19:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.23 18:46:09",
-      "lat": 39.2322,
-      "lng": 28.1435,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "8.8",
-      "coordinates": [
-        28.1435,
-        39.2322
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1435,
-            39.2322
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.23 18:46:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.23",
-      "date_hour": "18:46:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "YARBASAN-DEMIRCI (MANISA)",
-      "type": "�lksel",
-      "date": "2025.11.23 18:42:18",
-      "lat": 38.9948,
-      "lng": 28.7962,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "3.3",
-      "coordinates": [
-        28.7962,
-        38.9948
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7962,
-            38.9948
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YARBASAN-DEMIRCI (MANISA)",
-          "time": "2025.11.23 18:42:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.23",
-      "date_hour": "18:42:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
