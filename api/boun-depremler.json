@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-27T23:30:39.454Z",
+  "lastUpdate": "2025-11-27T23:42:07.896Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAZLIK-GOLYAKA (DUZCE)",
+      "type": "�lksel",
+      "date": "2025.11.28 02:30:10",
+      "lat": 40.7773,
+      "lng": 30.9808,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.9",
+      "coordinates": [
+        30.9808,
+        40.7773
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.9808,
+            40.7773
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "YAZLIK-GOLYAKA (DUZCE)",
+          "time": "2025.11.28 02:30:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.28",
+      "date_hour": "02:30:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DUZCE"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.23 18:34:36",
-      "lat": 39.1767,
-      "lng": 28.218,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.5",
-      "coordinates": [
-        28.218,
-        39.1767
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.218,
-            39.1767
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "AKTAS-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.23 18:34:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.23",
-      "date_hour": "18:34:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
