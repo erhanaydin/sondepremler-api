@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-27T22:24:45.181Z",
+  "lastUpdate": "2025-11-27T22:39:26.107Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "RESADIYE-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.11.28 01:19:18",
+      "lat": 37.9498,
+      "lng": 38.0198,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.0198,
+        37.9498
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.0198,
+            37.9498
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "RESADIYE-DOGANSEHIR (MALATYA)",
+          "time": "2025.11.28 01:19:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.28",
+      "date_hour": "01:19:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BALIKLI-SARIKAMIS (KARS)",
-      "type": "�lksel",
-      "date": "2025.11.23 17:44:23",
-      "lat": 40.0235,
-      "lng": 42.5952,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "3.1",
-      "depth": "5.0",
-      "coordinates": [
-        42.5952,
-        40.0235
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.5952,
-            40.0235
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "BALIKLI-SARIKAMIS (KARS)",
-          "time": "2025.11.23 17:44:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.23",
-      "date_hour": "17:44:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KARS"
     }
   ]
 }
