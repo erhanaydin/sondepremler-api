@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-27T16:49:23.442Z",
+  "lastUpdate": "2025-11-27T16:58:59.562Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.27 19:13:22",
+      "lat": 39.132,
+      "lng": 28.3278,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "18.5",
+      "coordinates": [
+        28.3278,
+        39.132
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3278,
+            39.132
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.27 19:13:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.27",
+      "date_hour": "19:13:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ULUKOY-(MALATYA)",
-      "type": "�lksel",
-      "date": "2025.11.23 10:21:10",
-      "lat": 38.176,
-      "lng": 38.5163,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "8.4",
-      "coordinates": [
-        38.5163,
-        38.176
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.5163,
-            38.176
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "ULUKOY-(MALATYA)",
-          "time": "2025.11.23 10:21:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.23",
-      "date_hour": "10:21:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
