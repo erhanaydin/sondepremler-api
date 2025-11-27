@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-27T09:42:02.146Z",
+  "lastUpdate": "2025-11-27T09:51:20.810Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ADIL-SOMA (MANISA)",
+      "type": "�lksel",
+      "date": "2025.11.27 12:43:55",
+      "lat": 39.1173,
+      "lng": 27.619,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        27.619,
+        39.1173
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.619,
+            39.1173
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ADIL-SOMA (MANISA)",
+          "time": "2025.11.27 12:43:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.27",
+      "date_hour": "12:43:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "TUZLA-AYVACIK (CANAKKALE)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "GUZELYALI-(ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.11.23 03:33:17",
-      "lat": 38.6495,
-      "lng": 39.4995,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "9.9",
-      "coordinates": [
-        39.4995,
-        38.6495
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.4995,
-            38.6495
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "GUZELYALI-(ELAZIG)",
-          "time": "2025.11.23 03:33:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.23",
-      "date_hour": "03:33:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
