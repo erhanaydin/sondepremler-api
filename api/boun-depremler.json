@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-27T23:15:36.860Z",
+  "lastUpdate": "2025-11-27T23:30:39.454Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -145,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "BOZAT-GOLOVA (SIVAS)",
+      "type": "�lksel",
+      "date": "2025.11.28 01:40:49",
+      "lat": 40.082,
+      "lng": 38.665,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.665,
+        40.082
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.665,
+            40.082
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "BOZAT-GOLOVA (SIVAS)",
+          "time": "2025.11.28 01:40:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.28",
+      "date_hour": "01:40:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SIVAS"
     },
     {
       "title": "ATLIKONAK-AZIZIYE (ERZURUM)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.11.23 18:30:32",
-      "lat": 39.2253,
-      "lng": 29.0242,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "14.9",
-      "coordinates": [
-        29.0242,
-        39.2253
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0242,
-            39.2253
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.11.23 18:30:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.23",
-      "date_hour": "18:30:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
