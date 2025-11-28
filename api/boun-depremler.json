@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-28T09:45:07.368Z",
+  "lastUpdate": "2025-11-28T09:53:28.652Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CAVUSAGA-KOCASINAN (KAYSERI)",
+      "type": "�lksel",
+      "date": "2025.11.28 12:45:27",
+      "lat": 38.848,
+      "lng": 35.6373,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "3.5",
+      "coordinates": [
+        35.6373,
+        38.848
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.6373,
+            38.848
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "CAVUSAGA-KOCASINAN (KAYSERI)",
+          "time": "2025.11.28 12:45:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.28",
+      "date_hour": "12:45:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAYSERI"
+    },
     {
       "title": "KARAOMERLER-SELCUKLU (KONYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.24 04:02:54",
-      "lat": 39.1783,
-      "lng": 28.1385,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "8.4",
-      "coordinates": [
-        28.1385,
-        39.1783
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1385,
-            39.1783
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.24 04:02:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.24",
-      "date_hour": "04:02:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
