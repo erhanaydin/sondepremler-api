@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-28T09:53:28.652Z",
+  "lastUpdate": "2025-11-28T10:12:24.688Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.28 13:03:28",
+      "lat": 39.1855,
+      "lng": 28.3183,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "10.8",
+      "coordinates": [
+        28.3183,
+        39.1855
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3183,
+            39.1855
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.28 13:03:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.28",
+      "date_hour": "13:03:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "CAVUSAGA-KOCASINAN (KAYSERI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AYDIN"
-    },
-    {
-      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
-      "type": "�lksel",
-      "date": "2025.11.24 04:08:01",
-      "lat": 40.1892,
-      "lng": 31.7557,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "7.8",
-      "coordinates": [
-        31.7557,
-        40.1892
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.7557,
-            40.1892
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "HIRKATEPE-BEYPAZARI (ANKARA)",
-          "time": "2025.11.24 04:08:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.24",
-      "date_hour": "04:08:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
