@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-28T08:54:12.586Z",
+  "lastUpdate": "2025-11-28T09:13:41.950Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.28 12:00:55",
+      "lat": 39.174,
+      "lng": 28.151,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "14.3",
+      "coordinates": [
+        28.151,
+        39.174
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.151,
+            39.174
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.28 12:00:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.28",
+      "date_hour": "12:00:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ILICAK-AKCADAG (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SUREK-SIVRICE (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.11.24 03:47:55",
-      "lat": 38.4897,
-      "lng": 39.3745,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        39.3745,
-        38.4897
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.3745,
-            38.4897
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "SUREK-SIVRICE (ELAZIG)",
-          "time": "2025.11.24 03:47:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.24",
-      "date_hour": "03:47:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
