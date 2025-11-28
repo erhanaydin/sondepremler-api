@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-28T21:31:22.716Z",
+  "lastUpdate": "2025-11-28T21:41:18.152Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BABAKOY-BIGADIC (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.29 00:20:29",
+      "lat": 39.4122,
+      "lng": 28.044,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "11.8",
+      "coordinates": [
+        28.044,
+        39.4122
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.044,
+            39.4122
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "BABAKOY-BIGADIC (BALIKESIR)",
+          "time": "2025.11.29 00:20:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.29",
+      "date_hour": "00:20:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "HONAZ (DENIZLI)",
-      "type": "�lksel",
-      "date": "2025.11.24 10:21:20",
-      "lat": 37.7562,
-      "lng": 29.2663,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "2.6",
-      "coordinates": [
-        29.2663,
-        37.7562
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.2663,
-            37.7562
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "HONAZ (DENIZLI)",
-          "time": "2025.11.24 10:21:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.24",
-      "date_hour": "10:21:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
