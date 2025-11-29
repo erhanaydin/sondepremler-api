@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-29T20:49:22.467Z",
+  "lastUpdate": "2025-11-29T20:57:36.341Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOVDELI-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.11.29 23:47:20",
+      "lat": 38.0182,
+      "lng": 37.6057,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        37.6057,
+        38.0182
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.6057,
+            38.0182
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "GOVDELI-DOGANSEHIR (MALATYA)",
+          "time": "2025.11.29 23:47:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.29",
+      "date_hour": "23:47:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "YUKARIORUKCU-AKCADAG (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.11.25 21:25:02",
-      "lat": 38.8743,
-      "lng": 26.0165,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "16.7",
-      "coordinates": [
-        26.0165,
-        38.8743
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.0165,
-            38.8743
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "EGE DENIZI",
-          "time": "2025.11.25 21:25:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.25",
-      "date_hour": "21:25:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
