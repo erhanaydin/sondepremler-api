@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-29T20:40:40.018Z",
+  "lastUpdate": "2025-11-29T20:49:22.467Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -145,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.11.29 22:58:07",
+      "lat": 36.7342,
+      "lng": 26.1168,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "6.2",
+      "coordinates": [
+        26.1168,
+        36.7342
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.1168,
+            36.7342
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "EGE DENIZI",
+          "time": "2025.11.29 22:58:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.29",
+      "date_hour": "22:58:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "IPEKYOLU-HEKIMHAN (MALATYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.25 20:41:22",
-      "lat": 39.1753,
-      "lng": 28.268,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "13.5",
-      "coordinates": [
-        28.268,
-        39.1753
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.268,
-            39.1753
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.25 20:41:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.25",
-      "date_hour": "20:41:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
