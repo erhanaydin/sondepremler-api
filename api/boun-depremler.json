@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-29T19:42:58.959Z",
+  "lastUpdate": "2025-11-29T19:51:24.415Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "UCGOZE-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.11.29 22:40:02",
+      "lat": 38.2445,
+      "lng": 38.4187,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "11.4",
+      "coordinates": [
+        38.4187,
+        38.2445
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.4187,
+            38.2445
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "UCGOZE-YESILYURT (MALATYA)",
+          "time": "2025.11.29 22:40:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.29",
+      "date_hour": "22:40:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KABATEPE (TOKAT)",
-      "type": "�lksel",
-      "date": "2025.11.25 18:48:07",
-      "lat": 40.1763,
-      "lng": 36.461,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "1.9",
-      "coordinates": [
-        36.461,
-        40.1763
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.461,
-            40.1763
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "KABATEPE (TOKAT)",
-          "time": "2025.11.25 18:48:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.25",
-      "date_hour": "18:48:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TOKAT"
     }
   ]
 }
