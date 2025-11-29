@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-29T10:56:44.892Z",
+  "lastUpdate": "2025-11-29T11:14:23.953Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -253,6 +253,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "ISIKLI-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.11.29 12:27:09",
+      "lat": 38.2253,
+      "lng": 38.1218,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "10.3",
+      "coordinates": [
+        38.1218,
+        38.2253
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.1218,
+            38.2253
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "ISIKLI-YESILYURT (MALATYA)",
+          "time": "2025.11.29 12:27:09"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.29",
+      "date_hour": "12:27:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "AYAS-ERDEMLI (MERSIN)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KADIIBRAHIM-AKCADAG (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.11.25 06:15:39",
-      "lat": 38.5213,
-      "lng": 38.0017,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "15.6",
-      "coordinates": [
-        38.0017,
-        38.5213
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.0017,
-            38.5213
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KADIIBRAHIM-AKCADAG (MALATYA)",
-          "time": "2025.11.25 06:15:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.25",
-      "date_hour": "06:15:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
