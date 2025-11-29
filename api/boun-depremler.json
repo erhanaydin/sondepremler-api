@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-29T10:48:26.355Z",
+  "lastUpdate": "2025-11-29T10:56:44.892Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.11.29 13:37:12",
+      "lat": 39.7487,
+      "lng": 24.134,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "7.3",
+      "coordinates": [
+        24.134,
+        39.7487
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.134,
+            39.7487
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "YUNANISTAN",
+          "time": "2025.11.29 13:37:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.29",
+      "date_hour": "13:37:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "YANISLI-GULNAR (MERSIN)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "TASOLUK-KIRIKHAN (HATAY)",
-      "type": "�lksel",
-      "date": "2025.11.25 06:05:56",
-      "lat": 36.635,
-      "lng": 36.377,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "1.7",
-      "coordinates": [
-        36.377,
-        36.635
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.377,
-            36.635
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "TASOLUK-KIRIKHAN (HATAY)",
-          "time": "2025.11.25 06:05:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.25",
-      "date_hour": "06:05:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
