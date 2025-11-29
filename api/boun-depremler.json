@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-29T07:57:14.922Z",
+  "lastUpdate": "2025-11-29T08:25:30.748Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.11.29 09:48:07",
+      "lat": 40.192,
+      "lng": 31.7648,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "2.3",
+      "coordinates": [
+        31.7648,
+        40.192
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.7648,
+            40.192
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "HIRKATEPE-BEYPAZARI (ANKARA)",
+          "time": "2025.11.29 09:48:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.29",
+      "date_hour": "09:48:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
+    },
     {
       "title": "IZMIR KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.25 01:24:06",
-      "lat": 39.2133,
-      "lng": 28.1297,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.9",
-      "coordinates": [
-        28.1297,
-        39.2133
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1297,
-            39.2133
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.25 01:24:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.25",
-      "date_hour": "01:24:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
