@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-29T23:11:26.848Z",
+  "lastUpdate": "2025-11-29T23:28:46.341Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.30 01:51:24",
+      "lat": 39.2263,
+      "lng": 28.1623,
+      "md": "-.-",
+      "ml": "0.8",
+      "mw": "-.-",
+      "depth": "3.9",
+      "coordinates": [
+        28.1623,
+        39.2263
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1623,
+            39.2263
+          ]
+        },
+        "properties": {
+          "mag": "0.8",
+          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.30 01:51:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.30",
+      "date_hour": "01:51:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ILICA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
+    },
+    {
+      "title": "KARAKECILI-(CORUM)",
+      "type": "�lksel",
+      "date": "2025.11.30 01:08:33",
+      "lat": 40.5563,
+      "lng": 34.6302,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "17.0",
+      "coordinates": [
+        34.6302,
+        40.5563
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.6302,
+            40.5563
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KARAKECILI-(CORUM)",
+          "time": "2025.11.30 01:08:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.30",
+      "date_hour": "01:08:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CORUM"
     },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.26 00:27:24",
-      "lat": 39.2312,
-      "lng": 28.1202,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "11.7",
-      "coordinates": [
-        28.1202,
-        39.2312
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1202,
-            39.2312
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.26 00:27:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.26",
-      "date_hour": "00:27:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.11.26 00:10:40",
-      "lat": 39.2275,
-      "lng": 29.0343,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "14.7",
-      "coordinates": [
-        29.0343,
-        39.2275
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0343,
-            39.2275
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.11.26 00:10:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.26",
-      "date_hour": "00:10:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
