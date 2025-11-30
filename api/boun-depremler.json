@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-11-30T11:15:23.241Z",
+  "lastUpdate": "2025-11-30T11:27:44.294Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CALTIOZU-FETHIYE (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.11.30 13:14:25",
+      "lat": 36.5758,
+      "lng": 29.2848,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "3.4",
+      "coordinates": [
+        29.2848,
+        36.5758
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.2848,
+            36.5758
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "CALTIOZU-FETHIYE (MUGLA)",
+          "time": "2025.11.30 13:14:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.30",
+      "date_hour": "13:14:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
+    {
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.11.30 12:49:20",
+      "lat": 36.8703,
+      "lng": 28.0338,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "22.8",
+      "coordinates": [
+        28.0338,
+        36.8703
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0338,
+            36.8703
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "GOKOVA KORFEZI (EGE DENIZI)",
+          "time": "2025.11.30 12:49:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.30",
+      "date_hour": "12:49:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.11.26 11:30:49",
-      "lat": 36.0795,
-      "lng": 28.095,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "7.0",
-      "coordinates": [
-        28.095,
-        36.0795
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.095,
-            36.0795
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "AKDENIZ",
-          "time": "2025.11.26 11:30:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.26",
-      "date_hour": "11:30:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "ISACA-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.11.26 11:27:40",
-      "lat": 39.1517,
-      "lng": 28.0863,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "21.2",
-      "coordinates": [
-        28.0863,
-        39.1517
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0863,
-            39.1517
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "ISACA-AKHISAR (MANISA)",
-          "time": "2025.11.26 11:27:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.26",
-      "date_hour": "11:27:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
