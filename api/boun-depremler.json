@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-11-30T15:13:17.632Z",
+  "lastUpdate": "2025-11-30T15:29:45.428Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOCKALE-(ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.11.30 18:17:39",
+      "lat": 38.56,
+      "lng": 39.5022,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "7.7",
+      "coordinates": [
+        39.5022,
+        38.56
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.5022,
+            38.56
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KOCKALE-(ELAZIG)",
+          "time": "2025.11.30 18:17:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.30",
+      "date_hour": "18:17:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
+    {
+      "title": "FASIL-(BOLU)",
+      "type": "�lksel",
+      "date": "2025.11.30 18:13:07",
+      "lat": 40.7843,
+      "lng": 31.631,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "2.5",
+      "coordinates": [
+        31.631,
+        40.7843
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.631,
+            40.7843
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "FASIL-(BOLU)",
+          "time": "2025.11.30 18:13:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.30",
+      "date_hour": "18:13:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BOLU"
+    },
     {
       "title": "ILICAK-AKCADAG (MALATYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "CIVRIL-YAZIHAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.11.26 13:10:03",
-      "lat": 38.5372,
-      "lng": 38.0598,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "4.9",
-      "coordinates": [
-        38.0598,
-        38.5372
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.0598,
-            38.5372
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "CIVRIL-YAZIHAN (MALATYA)",
-          "time": "2025.11.26 13:10:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.26",
-      "date_hour": "13:10:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "HARUNLAR-YUNAK (KONYA)",
-      "type": "�lksel",
-      "date": "2025.11.26 13:08:45",
-      "lat": 38.6112,
-      "lng": 31.9308,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        31.9308,
-        38.6112
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.9308,
-            38.6112
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "HARUNLAR-YUNAK (KONYA)",
-          "time": "2025.11.26 13:08:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.26",
-      "date_hour": "13:08:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KONYA"
     }
   ]
 }
