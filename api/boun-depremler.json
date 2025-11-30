@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-11-30T12:21:19.239Z",
+  "lastUpdate": "2025-11-30T12:59:06.387Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ADALAR (ISTANBUL)",
+      "type": "�lksel",
+      "date": "2025.11.30 15:06:19",
+      "lat": 40.8208,
+      "lng": 29.1145,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "11.3",
+      "coordinates": [
+        29.1145,
+        40.8208
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1145,
+            40.8208
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "ADALAR (ISTANBUL)",
+          "time": "2025.11.30 15:06:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.30",
+      "date_hour": "15:06:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ISTANBUL"
+    },
+    {
+      "title": "DANACAYIRI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.11.30 15:00:20",
+      "lat": 39.243,
+      "lng": 28.269,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "7.0",
+      "coordinates": [
+        28.269,
+        39.243
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.269,
+            39.243
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "DANACAYIRI-SINDIRGI (BALIKESIR)",
+          "time": "2025.11.30 15:00:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.30",
+      "date_hour": "15:00:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
-    },
-    {
-      "title": "BAHCEDERE (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.26 12:14:32",
-      "lat": 39.5352,
-      "lng": 27.7012,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "12.6",
-      "coordinates": [
-        27.7012,
-        39.5352
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7012,
-            39.5352
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "BAHCEDERE (BALIKESIR)",
-          "time": "2025.11.26 12:14:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.26",
-      "date_hour": "12:14:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "SEVISLER-SOMA (MANISA)",
-      "type": "�lksel",
-      "date": "2025.11.26 11:57:36",
-      "lat": 39.2838,
-      "lng": 27.566,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "22.7",
-      "coordinates": [
-        27.566,
-        39.2838
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.566,
-            39.2838
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "SEVISLER-SOMA (MANISA)",
-          "time": "2025.11.26 11:57:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.26",
-      "date_hour": "11:57:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
