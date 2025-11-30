@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-30T12:59:06.387Z",
+  "lastUpdate": "2025-11-30T13:29:30.546Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BOZAT-GOLOVA (SIVAS)",
+      "type": "�lksel",
+      "date": "2025.11.30 15:35:21",
+      "lat": 40.0452,
+      "lng": 38.6297,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "7.9",
+      "coordinates": [
+        38.6297,
+        40.0452
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.6297,
+            40.0452
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "BOZAT-GOLOVA (SIVAS)",
+          "time": "2025.11.30 15:35:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.11.30",
+      "date_hour": "15:35:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SIVAS"
+    },
     {
       "title": "ADALAR (ISTANBUL)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "TOKTAMIS-CEYHAN (ADANA)",
-      "type": "�lksel",
-      "date": "2025.11.26 12:14:41",
-      "lat": 36.9872,
-      "lng": 35.8128,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        35.8128,
-        36.9872
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.8128,
-            36.9872
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "TOKTAMIS-CEYHAN (ADANA)",
-          "time": "2025.11.26 12:14:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.26",
-      "date_hour": "12:14:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
