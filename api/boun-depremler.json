@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-11-30T23:28:46.997Z",
+  "lastUpdate": "2025-11-30T23:40:45.025Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SUDUGUNU-(BINGOL)",
+      "type": "�lksel",
+      "date": "2025.12.01 02:20:53",
+      "lat": 39.0355,
+      "lng": 40.4213,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "12.2",
+      "coordinates": [
+        40.4213,
+        39.0355
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.4213,
+            39.0355
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "SUDUGUNU-(BINGOL)",
+          "time": "2025.12.01 02:20:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.01",
+      "date_hour": "02:20:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGOL"
+    },
+    {
+      "title": "KARACAOREN-(MUGLA)",
+      "type": "�lksel",
+      "date": "2025.12.01 02:07:25",
+      "lat": 37.136,
+      "lng": 28.8368,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "2.8",
+      "coordinates": [
+        28.8368,
+        37.136
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8368,
+            37.136
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KARACAOREN-(MUGLA)",
+          "time": "2025.12.01 02:07:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.01",
+      "date_hour": "02:07:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KERTIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.27 01:54:31",
-      "lat": 39.1788,
-      "lng": 28.0983,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "13.3",
-      "coordinates": [
-        28.0983,
-        39.1788
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0983,
-            39.1788
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KERTIL-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.27 01:54:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.27",
-      "date_hour": "01:54:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.27 01:39:20",
-      "lat": 39.1647,
-      "lng": 28.143,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "8.8",
-      "coordinates": [
-        28.143,
-        39.1647
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.143,
-            39.1647
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.27 01:39:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.27",
-      "date_hour": "01:39:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
