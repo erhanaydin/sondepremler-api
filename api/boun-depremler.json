@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-30T23:40:45.025Z",
+  "lastUpdate": "2025-11-30T23:49:01.448Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SALKONAK-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.12.01 02:31:40",
+      "lat": 38.134,
+      "lng": 38.3743,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "16.5",
+      "coordinates": [
+        38.3743,
+        38.134
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.3743,
+            38.134
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "SALKONAK-YESILYURT (MALATYA)",
+          "time": "2025.12.01 02:31:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.01",
+      "date_hour": "02:31:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "SUDUGUNU-(BINGOL)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.11.27 01:57:51",
-      "lat": 39.2437,
-      "lng": 28.9717,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.1",
-      "coordinates": [
-        28.9717,
-        39.2437
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9717,
-            39.2437
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.11.27 01:57:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.27",
-      "date_hour": "01:57:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
