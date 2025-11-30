@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-30T21:37:44.529Z",
+  "lastUpdate": "2025-11-30T21:46:11.745Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GUNALAN-GOLOVA (SIVAS)",
+      "type": "�lksel",
+      "date": "2025.12.01 00:34:26",
+      "lat": 40.0272,
+      "lng": 38.6322,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "4.4",
+      "coordinates": [
+        38.6322,
+        40.0272
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.6322,
+            40.0272
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "GUNALAN-GOLOVA (SIVAS)",
+          "time": "2025.12.01 00:34:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.01",
+      "date_hour": "00:34:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SIVAS"
+    },
     {
       "title": "YAHSELLI-MENEMEN (IZMIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "CITGOL-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.11.26 23:46:28",
-      "lat": 39.1348,
-      "lng": 28.9727,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "11.7",
-      "coordinates": [
-        28.9727,
-        39.1348
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9727,
-            39.1348
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "CITGOL-SIMAV (KUTAHYA)",
-          "time": "2025.11.26 23:46:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.26",
-      "date_hour": "23:46:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
