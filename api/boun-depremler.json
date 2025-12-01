@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-01T20:32:25.418Z",
+  "lastUpdate": "2025-12-01T20:42:43.788Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CAVUSLU-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.12.01 23:31:49",
+      "lat": 38.1533,
+      "lng": 37.774,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "14.0",
+      "coordinates": [
+        37.774,
+        38.1533
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.774,
+            38.1533
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "CAVUSLU-DOGANSEHIR (MALATYA)",
+          "time": "2025.12.01 23:31:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.01",
+      "date_hour": "23:31:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "ARIKONAK-SINCIK (ADIYAMAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
-      "type": "�lksel",
-      "date": "2025.11.28 01:08:58",
-      "lat": 40.1818,
-      "lng": 31.7547,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "10.1",
-      "coordinates": [
-        31.7547,
-        40.1818
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.7547,
-            40.1818
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "HIRKATEPE-BEYPAZARI (ANKARA)",
-          "time": "2025.11.28 01:08:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.28",
-      "date_hour": "01:08:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
