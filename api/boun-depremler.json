@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-01T19:46:21.368Z",
+  "lastUpdate": "2025-12-01T19:54:29.203Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -181,6 +181,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
+    },
+    {
+      "title": "FETHIYE KORFEZI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.12.01 21:59:10",
+      "lat": 36.5352,
+      "lng": 28.8668,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "19.1",
+      "coordinates": [
+        28.8668,
+        36.5352
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8668,
+            36.5352
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "FETHIYE KORFEZI (AKDENIZ)",
+          "time": "2025.12.01 21:59:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.01",
+      "date_hour": "21:59:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
     },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.27 23:53:39",
-      "lat": 39.1855,
-      "lng": 28.1183,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        28.1183,
-        39.1855
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1183,
-            39.1855
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.27 23:53:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.27",
-      "date_hour": "23:53:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
