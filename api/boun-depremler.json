@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-01T14:39:43.278Z",
+  "lastUpdate": "2025-12-01T14:54:54.641Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.01 17:48:08",
+      "lat": 39.1728,
+      "lng": 28.279,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "9.7",
+      "coordinates": [
+        28.279,
+        39.1728
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.279,
+            39.1728
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.01 17:48:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.01",
+      "date_hour": "17:48:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "CAGLAR-(ELAZIG)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZURUM"
-    },
-    {
-      "title": "CALTILI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.27 17:22:53",
-      "lat": 39.226,
-      "lng": 28.2313,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "15.8",
-      "coordinates": [
-        28.2313,
-        39.226
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2313,
-            39.226
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "CALTILI-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.27 17:22:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.27",
-      "date_hour": "17:22:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
