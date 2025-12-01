@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-01T09:37:48.638Z",
+  "lastUpdate": "2025-12-01T09:53:01.527Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KATRANDAGI-EMET (KUTAHYA) REVIZE01 (2025.12.01",
+      "type": "12:15:49)",
+      "date": "2025.12.01 12:15:49",
+      "lat": 39.2645,
+      "lng": 29.057,
+      "md": "-.-",
+      "ml": "0.7",
+      "mw": "-.-",
+      "depth": "18.0",
+      "coordinates": [
+        29.057,
+        39.2645
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.057,
+            39.2645
+          ]
+        },
+        "properties": {
+          "mag": "0.7",
+          "place": "KATRANDAGI-EMET (KUTAHYA) REVIZE01 (2025.12.01",
+          "time": "2025.12.01 12:15:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.01",
+      "date_hour": "12:15:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KAZANDERE-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "DOGANLAR-AKCADAG (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.11.27 07:29:52",
-      "lat": 38.3795,
-      "lng": 37.9432,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "29.5",
-      "coordinates": [
-        37.9432,
-        38.3795
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.9432,
-            38.3795
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "DOGANLAR-AKCADAG (MALATYA)",
-          "time": "2025.11.27 07:29:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.27",
-      "date_hour": "07:29:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
