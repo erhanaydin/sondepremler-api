@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-02T22:16:13.668Z",
+  "lastUpdate": "2025-12-02T22:33:32.838Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.12.03 01:05:09",
+      "lat": 36.6173,
+      "lng": 24.5708,
+      "md": "-.-",
+      "ml": "3.7",
+      "mw": "3.6",
+      "depth": "43.1",
+      "coordinates": [
+        24.5708,
+        36.6173
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.5708,
+            36.6173
+          ]
+        },
+        "properties": {
+          "mag": "3.7",
+          "place": "EGE DENIZI",
+          "time": "2025.12.03 01:05:09"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.03",
+      "date_hour": "01:05:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YUNANISTAN",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.29 06:16:03",
-      "lat": 39.1773,
-      "lng": 28.236,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "12.5",
-      "coordinates": [
-        28.236,
-        39.1773
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.236,
-            39.1773
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.29 06:16:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.29",
-      "date_hour": "06:16:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
