@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-02T21:48:16.387Z",
+  "lastUpdate": "2025-12-02T21:56:32.530Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.12.03 00:45:53",
+      "lat": 40.2888,
+      "lng": 24.0948,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "6.6",
+      "coordinates": [
+        24.0948,
+        40.2888
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.0948,
+            40.2888
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "YUNANISTAN",
+          "time": "2025.12.03 00:45:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.03",
+      "date_hour": "00:45:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SAMANDAG (HATAY)",
-      "type": "�lksel",
-      "date": "2025.11.29 05:44:27",
-      "lat": 36.073,
-      "lng": 35.9433,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "7.3",
-      "coordinates": [
-        35.9433,
-        36.073
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.9433,
-            36.073
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "SAMANDAG (HATAY)",
-          "time": "2025.11.29 05:44:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.29",
-      "date_hour": "05:44:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
