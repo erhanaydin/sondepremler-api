@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-02T23:41:05.603Z",
+  "lastUpdate": "2025-12-02T23:49:36.049Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.12.03 02:34:28",
+      "lat": 40.8083,
+      "lng": 27.934,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "7.6",
+      "coordinates": [
+        27.934,
+        40.8083
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.934,
+            40.8083
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "MARMARA DENIZI",
+          "time": "2025.12.03 02:34:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.03",
+      "date_hour": "02:34:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.11.29 08:40:46",
-      "lat": 40.1965,
-      "lng": 24.0553,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "3.1",
-      "coordinates": [
-        24.0553,
-        40.1965
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.0553,
-            40.1965
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YUNANISTAN",
-          "time": "2025.11.29 08:40:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.29",
-      "date_hour": "08:40:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
