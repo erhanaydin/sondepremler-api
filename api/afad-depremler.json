@@ -1,5 +1,41 @@
 [
   {
+    "title": "Akdeniz",
+    "type": "İlksel",
+    "date": "2025-12-03 17:35:41",
+    "lat": 34.45056,
+    "lng": 32.57083,
+    "md": "-.-",
+    "ml": "4",
+    "mw": "-.-",
+    "depth": 14.23,
+    "coordinates": [
+      32.57083,
+      34.45056
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.57083,
+          34.45056
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Akdeniz (Mersin)",
+        "time": 1764783341000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-12-03",
+    "date_hour": "17:35:41",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Mersin"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-12-03 16:22:41",
@@ -19438,41 +19474,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Ankara"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-11-30 17:51:36",
-    "lat": 39.17611,
-    "lng": 28.13972,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7.02,
-    "coordinates": [
-      28.13972,
-      39.17611
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.13972,
-          39.17611
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1764525096000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-11-30",
-    "date_hour": "17:51:36",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
