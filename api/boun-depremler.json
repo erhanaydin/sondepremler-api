@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-03T17:51:49.334Z",
+  "lastUpdate": "2025-12-03T18:00:06.142Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.03 20:37:05",
+      "lat": 39.1643,
+      "lng": 28.3138,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "9.6",
+      "coordinates": [
+        28.3138,
+        39.1643
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3138,
+            39.1643
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.03 20:37:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.03",
+      "date_hour": "20:37:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KIBRIS RUM KESIMI",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "KUMBETLI-NIKSAR (TOKAT)",
+      "type": "�lksel",
+      "date": "2025.12.03 20:20:45",
+      "lat": 40.642,
+      "lng": 36.7465,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "13.1",
+      "coordinates": [
+        36.7465,
+        40.642
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.7465,
+            40.642
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KUMBETLI-NIKSAR (TOKAT)",
+          "time": "2025.12.03 20:20:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.03",
+      "date_hour": "20:20:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "TOKAT"
     },
     {
       "title": "MIDILLI ADASI (EGE DENIZI)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ILICAK-AKCADAG (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.11.29 22:16:48",
-      "lat": 38.5155,
-      "lng": 38.04,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        38.04,
-        38.5155
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.04,
-            38.5155
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ILICAK-AKCADAG (MALATYA)",
-          "time": "2025.11.29 22:16:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.29",
-      "date_hour": "22:16:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.11.29 22:01:41",
-      "lat": 40.23,
-      "lng": 24.044,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "4.7",
-      "coordinates": [
-        24.044,
-        40.23
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.044,
-            40.23
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "YUNANISTAN",
-          "time": "2025.11.29 22:01:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.29",
-      "date_hour": "22:01:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
