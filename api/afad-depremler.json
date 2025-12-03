@@ -1,5 +1,41 @@
 [
   {
+    "title": "Pazarcık (Kahramanmaraş)",
+    "type": "İlksel",
+    "date": "2025-12-03 22:56:55",
+    "lat": 37.3175,
+    "lng": 37.05861,
+    "md": "-.-",
+    "ml": "1.2",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      37.05861,
+      37.3175
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.05861,
+          37.3175
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Pazarcık (Kahramanmaraş) (Kahramanmaraş)",
+        "time": 1764802615000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-12-03",
+    "date_hour": "22:56:55",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kahramanmaraş"
+  },
+  {
     "title": "Nilüfer (Bursa)",
     "type": "İlksel",
     "date": "2025-12-03 22:39:39",
@@ -18574,77 +18610,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Salihli (Manisa)",
-    "type": "İlksel",
-    "date": "2025-11-30 23:32:09",
-    "lat": 38.46694,
-    "lng": 28.11306,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.11306,
-      38.46694
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.11306,
-          38.46694
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Salihli (Manisa) (Manisa)",
-        "time": 1764545529000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-11-30",
-    "date_hour": "23:32:09",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Manisa"
-  },
-  {
-    "title": "Yeşilyurt (Malatya)",
-    "type": "İlksel",
-    "date": "2025-11-30 23:31:39",
-    "lat": 38.11889,
-    "lng": 38.41611,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      38.41611,
-      38.11889
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.41611,
-          38.11889
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Yeşilyurt (Malatya) (Malatya)",
-        "time": 1764545499000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-11-30",
-    "date_hour": "23:31:39",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
   }
 ]
