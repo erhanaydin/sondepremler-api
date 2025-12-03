@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-03T05:41:10.016Z",
+  "lastUpdate": "2025-12-03T05:50:27.648Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.03 08:34:52",
+      "lat": 39.2438,
+      "lng": 28.152,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "12.2",
+      "coordinates": [
+        28.152,
+        39.2438
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.152,
+            39.2438
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.03 08:34:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.03",
+      "date_hour": "08:34:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ISIKLI-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.11.29 12:27:09",
-      "lat": 38.2253,
-      "lng": 38.1218,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "10.3",
-      "coordinates": [
-        38.1218,
-        38.2253
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.1218,
-            38.2253
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ISIKLI-YESILYURT (MALATYA)",
-          "time": "2025.11.29 12:27:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.29",
-      "date_hour": "12:27:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
