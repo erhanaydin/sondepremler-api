@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-03T21:14:34.070Z",
+  "lastUpdate": "2025-12-03T21:17:48.393Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -145,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "RODOS ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2025.12.03 22:50:14",
+      "lat": 36.086,
+      "lng": 27.6703,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "8.6",
+      "coordinates": [
+        27.6703,
+        36.086
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.6703,
+            36.086
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "RODOS ADASI (AKDENIZ)",
+          "time": "2025.12.03 22:50:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.03",
+      "date_hour": "22:50:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
     },
     {
       "title": "DUTLUCA-GORDES (MANISA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "AKOREN-ASKALE (ERZURUM)",
-      "type": "�lksel",
-      "date": "2025.11.30 01:01:53",
-      "lat": 39.7467,
-      "lng": 40.6177,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "1.2",
-      "coordinates": [
-        40.6177,
-        39.7467
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.6177,
-            39.7467
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "AKOREN-ASKALE (ERZURUM)",
-          "time": "2025.11.30 01:01:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.30",
-      "date_hour": "01:01:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZURUM"
     }
   ]
 }
