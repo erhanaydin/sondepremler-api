@@ -1,5 +1,41 @@
 [
   {
+    "title": "Pendik (İstanbul)",
+    "type": "İlksel",
+    "date": "2025-12-03 20:36:46",
+    "lat": 40.86917,
+    "lng": 29.31111,
+    "md": "-.-",
+    "ml": "1.9",
+    "mw": "-.-",
+    "depth": 10.78,
+    "coordinates": [
+      29.31111,
+      40.86917
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.31111,
+          40.86917
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Pendik (İstanbul) (İstanbul)",
+        "time": 1764794206000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-12-03",
+    "date_hour": "20:36:46",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "İstanbul"
+  },
+  {
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2025-12-03 20:35:21",
@@ -18790,77 +18826,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Erzincan"
-  },
-  {
-    "title": "Menemen (İzmir)",
-    "type": "İlksel",
-    "date": "2025-11-30 21:21:22",
-    "lat": 38.60083,
-    "lng": 27.14861,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 6.99,
-    "coordinates": [
-      27.14861,
-      38.60083
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.14861,
-          38.60083
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Menemen (İzmir) (İzmir)",
-        "time": 1764537682000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-11-30",
-    "date_hour": "21:21:22",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "İzmir"
-  },
-  {
-    "title": "Akhisar (Manisa)",
-    "type": "İlksel",
-    "date": "2025-11-30 21:19:32",
-    "lat": 39.18667,
-    "lng": 28.005,
-    "md": "-.-",
-    "ml": "1.3",
-    "mw": "-.-",
-    "depth": 7.03,
-    "coordinates": [
-      28.005,
-      39.18667
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.005,
-          39.18667
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akhisar (Manisa) (Manisa)",
-        "time": 1764537572000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-11-30",
-    "date_hour": "21:19:32",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Manisa"
   }
 ]

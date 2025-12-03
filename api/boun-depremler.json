@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-03T21:17:48.393Z",
+  "lastUpdate": "2025-12-03T21:30:24.405Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -106,6 +106,42 @@
       "location_properties": "",
       "date_day": "2025.12.03",
       "date_hour": "23:35:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.03 23:20:04",
+      "lat": 39.2338,
+      "lng": 28.9995,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "8.0",
+      "coordinates": [
+        28.9995,
+        39.2338
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9995,
+            39.2338
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.12.03 23:20:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.03",
+      "date_hour": "23:20:04",
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
@@ -253,6 +289,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "KARAKOY-BULDAN (DENIZLI)",
+      "type": "�lksel",
+      "date": "2025.12.03 22:23:37",
+      "lat": 38.216,
+      "lng": 28.8547,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "11.9",
+      "coordinates": [
+        28.8547,
+        38.216
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8547,
+            38.216
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KARAKOY-BULDAN (DENIZLI)",
+          "time": "2025.12.03 22:23:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.03",
+      "date_hour": "22:23:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
     },
     {
       "title": "HAMZABEY-SIMAV (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "KARAKECILI-(CORUM)",
-      "type": "�lksel",
-      "date": "2025.11.30 01:08:33",
-      "lat": 40.5563,
-      "lng": 34.6302,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "17.0",
-      "coordinates": [
-        34.6302,
-        40.5563
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.6302,
-            40.5563
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KARAKECILI-(CORUM)",
-          "time": "2025.11.30 01:08:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.30",
-      "date_hour": "01:08:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CORUM"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.11.30 01:02:13",
-      "lat": 39.2418,
-      "lng": 29.0202,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "11.6",
-      "coordinates": [
-        29.0202,
-        39.2418
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0202,
-            39.2418
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.11.30 01:02:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.30",
-      "date_hour": "01:02:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
