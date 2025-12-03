@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-03T05:50:27.648Z",
+  "lastUpdate": "2025-12-03T05:58:53.004Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ASLANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.03 08:46:29",
+      "lat": 39.1988,
+      "lng": 28.2973,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "13.1",
+      "coordinates": [
+        28.2973,
+        39.1988
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2973,
+            39.1988
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "ASLANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.03 08:46:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.03",
+      "date_hour": "08:46:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
-    },
-    {
-      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.29 12:53:52",
-      "lat": 39.2353,
-      "lng": 28.1197,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "13.4",
-      "coordinates": [
-        28.1197,
-        39.2353
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1197,
-            39.2353
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.29 12:53:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.29",
-      "date_hour": "12:53:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
