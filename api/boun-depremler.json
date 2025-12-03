@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-03T23:43:18.552Z",
+  "lastUpdate": "2025-12-03T23:51:27.423Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAPLAN-BEYPAZARI (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.12.04 02:35:31",
+      "lat": 40.24,
+      "lng": 31.7983,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        31.7983,
+        40.24
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.7983,
+            40.24
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KAPLAN-BEYPAZARI (ANKARA)",
+          "time": "2025.12.04 02:35:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.04",
+      "date_hour": "02:35:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
+    },
     {
       "title": "CAMLIK-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "DEDEPINARI-(ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.11.30 03:47:30",
-      "lat": 38.4967,
-      "lng": 39.1787,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "4.6",
-      "coordinates": [
-        39.1787,
-        38.4967
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.1787,
-            38.4967
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "DEDEPINARI-(ELAZIG)",
-          "time": "2025.11.30 03:47:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.30",
-      "date_hour": "03:47:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
