@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-04T10:56:48.537Z",
+  "lastUpdate": "2025-12-04T11:18:56.882Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -109,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "YALOVA"
+    },
+    {
+      "title": "PURSAKLAR (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.12.04 12:22:39",
+      "lat": 40.1225,
+      "lng": 32.8892,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "8.8",
+      "coordinates": [
+        32.8892,
+        40.1225
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.8892,
+            40.1225
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "PURSAKLAR (ANKARA)",
+          "time": "2025.12.04 12:22:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.04",
+      "date_hour": "12:22:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
     },
     {
       "title": "KARAKOY-VARTO (MUS)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.30 17:36:14",
-      "lat": 39.137,
-      "lng": 28.215,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "16.4",
-      "coordinates": [
-        28.215,
-        39.137
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.215,
-            39.137
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.30 17:36:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.30",
-      "date_hour": "17:36:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
