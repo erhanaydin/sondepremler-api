@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-04T07:44:29.295Z",
+  "lastUpdate": "2025-12-04T07:52:57.007Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "UZERLIK-(DENIZLI)",
+      "type": "�lksel",
+      "date": "2025.12.04 10:14:26",
+      "lat": 37.8988,
+      "lng": 29.0098,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "19.6",
+      "coordinates": [
+        29.0098,
+        37.8988
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0098,
+            37.8988
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "UZERLIK-(DENIZLI)",
+          "time": "2025.12.04 10:14:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.04",
+      "date_hour": "10:14:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CUKUROREN-GEDIZ (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.11.30 11:36:37",
-      "lat": 39.0245,
-      "lng": 29.711,
-      "md": "-.-",
-      "ml": "3.9",
-      "mw": "4.0",
-      "depth": "5.4",
-      "coordinates": [
-        29.711,
-        39.0245
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.711,
-            39.0245
-          ]
-        },
-        "properties": {
-          "mag": "3.9",
-          "place": "CUKUROREN-GEDIZ (KUTAHYA)",
-          "time": "2025.11.30 11:36:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.30",
-      "date_hour": "11:36:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
