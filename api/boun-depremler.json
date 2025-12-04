@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-04T15:45:27.465Z",
+  "lastUpdate": "2025-12-04T15:56:51.499Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.04 18:47:50",
+      "lat": 39.1913,
+      "lng": 28.969,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "16.0",
+      "coordinates": [
+        28.969,
+        39.1913
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.969,
+            39.1913
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.12.04 18:47:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.04",
+      "date_hour": "18:47:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "ILICAK-AKCADAG (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.12.04 18:22:54",
+      "lat": 38.4703,
+      "lng": 38.0488,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "8.1",
+      "coordinates": [
+        38.0488,
+        38.4703
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.0488,
+            38.4703
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "ILICAK-AKCADAG (MALATYA)",
+          "time": "2025.12.04 18:22:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.04",
+      "date_hour": "18:22:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "SARIBIYIK-DOGUBAYAZIT (AGRI)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIVAS"
-    },
-    {
-      "title": "KERTIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.30 20:58:37",
-      "lat": 39.219,
-      "lng": 28.1013,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "8.4",
-      "coordinates": [
-        28.1013,
-        39.219
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1013,
-            39.219
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KERTIL-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.30 20:58:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.30",
-      "date_hour": "20:58:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
-      "type": "�lksel",
-      "date": "2025.11.30 20:56:34",
-      "lat": 40.1937,
-      "lng": 31.7573,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        31.7573,
-        40.1937
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.7573,
-            40.1937
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "HIRKATEPE-BEYPAZARI (ANKARA)",
-          "time": "2025.11.30 20:56:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.30",
-      "date_hour": "20:56:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
