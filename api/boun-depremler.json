@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-04T19:00:07.431Z",
+  "lastUpdate": "2025-12-04T19:24:19.157Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HAMIDIYE-BIGADIC (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.04 22:03:25",
+      "lat": 39.3657,
+      "lng": 27.9998,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "11.3",
+      "coordinates": [
+        27.9998,
+        39.3657
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9998,
+            39.3657
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "HAMIDIYE-BIGADIC (BALIKESIR)",
+          "time": "2025.12.04 22:03:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.04",
+      "date_hour": "22:03:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "BUYUKKIZILCIK-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.11.30 22:22:29",
-      "lat": 38.1688,
-      "lng": 36.7095,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        36.7095,
-        38.1688
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.7095,
-            38.1688
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "BUYUKKIZILCIK-GOKSUN (KAHRAMANMARAS)",
-          "time": "2025.11.30 22:22:29"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.30",
-      "date_hour": "22:22:29",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
