@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-04T14:46:58.632Z",
+  "lastUpdate": "2025-12-04T14:57:58.409Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YENILER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.04 17:45:13",
+      "lat": 39.2288,
+      "lng": 28.9392,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "9.4",
+      "coordinates": [
+        28.9392,
+        39.2288
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9392,
+            39.2288
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "YENILER-SIMAV (KUTAHYA)",
+          "time": "2025.12.04 17:45:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.04",
+      "date_hour": "17:45:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KIZILYAKA-ALTINYAYLA (BURDUR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ORENLICE-ULAS (SIVAS)",
-      "type": "�lksel",
-      "date": "2025.11.30 20:31:37",
-      "lat": 39.4458,
-      "lng": 37.2902,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "9.0",
-      "coordinates": [
-        37.2902,
-        39.4458
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.2902,
-            39.4458
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "ORENLICE-ULAS (SIVAS)",
-          "time": "2025.11.30 20:31:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.30",
-      "date_hour": "20:31:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
     }
   ]
 }
