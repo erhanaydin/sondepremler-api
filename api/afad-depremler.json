@@ -72,6 +72,42 @@
     "city": "Balıkesir"
   },
   {
+    "title": "Sincik (Adıyaman)",
+    "type": "İlksel",
+    "date": "2025-12-04 17:03:14",
+    "lat": 38.12278,
+    "lng": 38.50944,
+    "md": "-.-",
+    "ml": "1.6",
+    "mw": "-.-",
+    "depth": 7.02,
+    "coordinates": [
+      38.50944,
+      38.12278
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.50944,
+          38.12278
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sincik (Adıyaman) (Adıyaman)",
+        "time": 1764867794000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-12-04",
+    "date_hour": "17:03:14",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Adıyaman"
+  },
+  {
     "title": "Şereflikoçhisar (Ankara)",
     "type": "İlksel",
     "date": "2025-12-04 17:02:23",
@@ -18106,77 +18142,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-12-01 17:53:23",
-    "lat": 39.18472,
-    "lng": 28.19361,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 9.61,
-    "coordinates": [
-      28.19361,
-      39.18472
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.19361,
-          39.18472
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1764611603000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-01",
-    "date_hour": "17:53:23",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
-  },
-  {
-    "title": "Ege Denizi - Gökova Körfezi - [05.90 km] Bodrum (Muğla)",
-    "type": "İlksel",
-    "date": "2025-12-01 17:53:13",
-    "lat": 37.00056,
-    "lng": 27.67667,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      27.67667,
-      37.00056
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.67667,
-          37.00056
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi - Gökova Körfezi - [05.90 km] Bodrum (Muğla) (Muğla)",
-        "time": 1764611593000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-01",
-    "date_hour": "17:53:13",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
   }
 ]
