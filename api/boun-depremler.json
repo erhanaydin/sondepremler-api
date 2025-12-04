@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-04T07:14:51.549Z",
+  "lastUpdate": "2025-12-04T07:33:33.223Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.04 10:03:48",
+      "lat": 39.1507,
+      "lng": 28.1325,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "9.9",
+      "coordinates": [
+        28.1325,
+        39.1507
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1325,
+            39.1507
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.04 10:03:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.04",
+      "date_hour": "10:03:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -34,6 +70,42 @@
       "location_properties": "",
       "date_day": "2025.12.04",
       "date_hour": "09:40:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.12.04 09:29:43",
+      "lat": 40.3025,
+      "lng": 24.0322,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "12.1",
+      "coordinates": [
+        24.0322,
+        40.3025
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.0322,
+            40.3025
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "YUNANISTAN",
+          "time": "2025.12.04 09:29:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.04",
+      "date_hour": "09:29:43",
       "timestamp": false,
       "location_tz": "",
       "city": ""
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.30 11:34:01",
-      "lat": 39.1525,
-      "lng": 28.273,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "13.0",
-      "coordinates": [
-        28.273,
-        39.1525
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.273,
-            39.1525
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.30 11:34:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.30",
-      "date_hour": "11:34:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "DARGIL-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2025.11.30 11:20:01",
-      "lat": 39.0478,
-      "lng": 28.3745,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "3.6",
-      "coordinates": [
-        28.3745,
-        39.0478
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3745,
-            39.0478
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "DARGIL-GORDES (MANISA)",
-          "time": "2025.11.30 11:20:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.30",
-      "date_hour": "11:20:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
