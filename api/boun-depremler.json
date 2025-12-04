@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-04T06:54:06.317Z",
+  "lastUpdate": "2025-12-04T07:14:51.549Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.12.04 09:40:49",
+      "lat": 39.774,
+      "lng": 25.856,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "11.6",
+      "coordinates": [
+        25.856,
+        39.774
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.856,
+            39.774
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "EGE DENIZI",
+          "time": "2025.12.04 09:40:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.04",
+      "date_hour": "09:40:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KARAGUR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.11.30 11:15:13",
-      "lat": 36.2313,
-      "lng": 28.5438,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "56.4",
-      "coordinates": [
-        28.5438,
-        36.2313
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.5438,
-            36.2313
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "AKDENIZ",
-          "time": "2025.11.30 11:15:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.30",
-      "date_hour": "11:15:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
