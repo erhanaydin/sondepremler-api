@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-04T11:18:56.882Z",
+  "lastUpdate": "2025-12-04T11:34:07.987Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SUNGURPASA-INEGOL (BURSA)",
+      "type": "�lksel",
+      "date": "2025.12.04 13:25:00",
+      "lat": 40.2105,
+      "lng": 29.4715,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "2.2",
+      "coordinates": [
+        29.4715,
+        40.2105
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.4715,
+            40.2105
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "SUNGURPASA-INEGOL (BURSA)",
+          "time": "2025.12.04 13:25:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.04",
+      "date_hour": "13:25:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "GOKCEOZ-NALLIHAN (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.12.04 12:51:23",
+      "lat": 40.2777,
+      "lng": 31.6452,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "14.6",
+      "coordinates": [
+        31.6452,
+        40.2777
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.6452,
+            40.2777
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "GOKCEOZ-NALLIHAN (ANKARA)",
+          "time": "2025.12.04 12:51:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.04",
+      "date_hour": "12:51:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
     },
     {
       "title": "KORU-CINARCIK (YALOVA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "FASIL-(BOLU)",
-      "type": "�lksel",
-      "date": "2025.11.30 18:13:07",
-      "lat": 40.7843,
-      "lng": 31.631,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "2.5",
-      "coordinates": [
-        31.631,
-        40.7843
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.631,
-            40.7843
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "FASIL-(BOLU)",
-          "time": "2025.11.30 18:13:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.30",
-      "date_hour": "18:13:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BOLU"
-    },
-    {
-      "title": "ILICAK-AKCADAG (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.11.30 17:59:54",
-      "lat": 38.4805,
-      "lng": 38.0435,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "13.6",
-      "coordinates": [
-        38.0435,
-        38.4805
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.0435,
-            38.4805
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ILICAK-AKCADAG (MALATYA)",
-          "time": "2025.11.30 17:59:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.30",
-      "date_hour": "17:59:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
