@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-12-04T11:34:07.987Z",
+  "lastUpdate": "2025-12-04T11:45:30.204Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ESELEK-GOKCEADA (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2025.12.04 13:50:38",
+      "lat": 40.0463,
+      "lng": 25.9195,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "6.0",
+      "coordinates": [
+        25.9195,
+        40.0463
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.9195,
+            40.0463
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "ESELEK-GOKCEADA (CANAKKALE)",
+          "time": "2025.12.04 13:50:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.04",
+      "date_hour": "13:50:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
+    {
+      "title": "ILICA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.04 13:45:30",
+      "lat": 39.189,
+      "lng": 28.2148,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "20.5",
+      "coordinates": [
+        28.2148,
+        39.189
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2148,
+            39.189
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "ILICA-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.04 13:45:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.04",
+      "date_hour": "13:45:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SUNGURPASA-INEGOL (BURSA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BINGOL"
-    },
-    {
-      "title": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.11.30 18:29:28",
-      "lat": 39.174,
-      "lng": 28.3353,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        28.3353,
-        39.174
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3353,
-            39.174
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
-          "time": "2025.11.30 18:29:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.30",
-      "date_hour": "18:29:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "KOCKALE-(ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.11.30 18:17:39",
-      "lat": 38.56,
-      "lng": 39.5022,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "7.7",
-      "coordinates": [
-        39.5022,
-        38.56
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.5022,
-            38.56
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KOCKALE-(ELAZIG)",
-          "time": "2025.11.30 18:17:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.30",
-      "date_hour": "18:17:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
