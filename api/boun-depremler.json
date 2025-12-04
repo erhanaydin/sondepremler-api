@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-04T17:40:07.797Z",
+  "lastUpdate": "2025-12-04T17:52:08.261Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.04 20:35:30",
+      "lat": 39.0997,
+      "lng": 28.2543,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        28.2543,
+        39.0997
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2543,
+            39.0997
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.04 20:35:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.04",
+      "date_hour": "20:35:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ASLANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KARAHUYUK-PAZARCIK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.11.30 21:44:56",
-      "lat": 37.2433,
-      "lng": 37.031,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        37.031,
-        37.2433
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.031,
-            37.2433
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KARAHUYUK-PAZARCIK (KAHRAMANMARAS)",
-          "time": "2025.11.30 21:44:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.11.30",
-      "date_hour": "21:44:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
