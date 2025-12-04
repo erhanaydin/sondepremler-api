@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sındırgı (Balıkesir)",
+    "type": "İlksel",
+    "date": "2025-12-04 05:33:57",
+    "lat": 39.18611,
+    "lng": 28.13639,
+    "md": "-.-",
+    "ml": "2",
+    "mw": "-.-",
+    "depth": 6.61,
+    "coordinates": [
+      28.13639,
+      39.18611
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.13639,
+          39.18611
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sındırgı (Balıkesir) (Balıkesir)",
+        "time": 1764826437000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-12-04",
+    "date_hour": "05:33:57",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Balıkesir"
+  },
+  {
     "title": "Susurluk (Balıkesir)",
     "type": "İlksel",
     "date": "2025-12-04 04:46:51",
@@ -18358,77 +18394,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Akören (Konya)",
-    "type": "İlksel",
-    "date": "2025-12-01 05:50:54",
-    "lat": 37.33806,
-    "lng": 32.28083,
-    "md": "-.-",
-    "ml": "1.6",
-    "mw": "-.-",
-    "depth": 6.84,
-    "coordinates": [
-      32.28083,
-      37.33806
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.28083,
-          37.33806
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akören (Konya) (Konya)",
-        "time": 1764568254000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-01",
-    "date_hour": "05:50:54",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Konya"
-  },
-  {
-    "title": "Sincik (Adıyaman)",
-    "type": "İlksel",
-    "date": "2025-12-01 05:49:20",
-    "lat": 38.13639,
-    "lng": 38.53139,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      38.53139,
-      38.13639
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.53139,
-          38.13639
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sincik (Adıyaman) (Adıyaman)",
-        "time": 1764568160000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-01",
-    "date_hour": "05:49:20",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Adıyaman"
   }
 ]
