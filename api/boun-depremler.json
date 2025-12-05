@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-05T14:19:43.439Z",
+  "lastUpdate": "2025-12-05T14:40:53.617Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.05 17:13:44",
+      "lat": 39.1447,
+      "lng": 28.3122,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "9.1",
+      "coordinates": [
+        28.3122,
+        39.1447
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3122,
+            39.1447
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.05 17:13:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.05",
+      "date_hour": "17:13:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "HIMMETLI-SAIMBEYLI (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "CIMSIT-GOLBASI (ANKARA)",
-      "type": "�lksel",
-      "date": "2025.12.01 11:15:33",
-      "lat": 39.5537,
-      "lng": 32.8667,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        32.8667,
-        39.5537
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.8667,
-            39.5537
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "CIMSIT-GOLBASI (ANKARA)",
-          "time": "2025.12.01 11:15:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.01",
-      "date_hour": "11:15:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
