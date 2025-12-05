@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-05T10:52:53.754Z",
+  "lastUpdate": "2025-12-05T11:09:55.108Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CAYIRKOY-ODEMIS (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.12.05 13:46:39",
+      "lat": 38.0007,
+      "lng": 28.0177,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "9.7",
+      "coordinates": [
+        28.0177,
+        38.0007
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0177,
+            38.0007
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "CAYIRKOY-ODEMIS (IZMIR)",
+          "time": "2025.12.05 13:46:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.05",
+      "date_hour": "13:46:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
     {
       "title": "YARUSAGI-SIVRICE (ELAZIG)",
       "type": "�lksel",
@@ -70,6 +106,42 @@
       "location_properties": "",
       "date_day": "2025.12.05",
       "date_hour": "12:09:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.05 12:03:23",
+      "lat": 39.1538,
+      "lng": 28.2033,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "14.6",
+      "coordinates": [
+        28.2033,
+        39.1538
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2033,
+            39.1538
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.05 12:03:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.05",
+      "date_hour": "12:03:23",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "AKSU-SINCIK (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.12.01 08:49:20",
-      "lat": 38.141,
-      "lng": 38.4898,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        38.4898,
-        38.141
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.4898,
-            38.141
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "AKSU-SINCIK (ADIYAMAN)",
-          "time": "2025.12.01 08:49:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.01",
-      "date_hour": "08:49:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.01 08:42:16",
-      "lat": 39.2047,
-      "lng": 28.1785,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "8.1",
-      "coordinates": [
-        28.1785,
-        39.2047
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1785,
-            39.2047
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.01 08:42:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.01",
-      "date_hour": "08:42:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
