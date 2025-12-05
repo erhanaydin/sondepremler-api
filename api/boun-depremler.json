@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-05T23:40:34.177Z",
+  "lastUpdate": "2025-12-05T23:49:01.429Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YILDIRIMELOREN-CUBUK (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.12.06 02:39:09",
+      "lat": 40.4997,
+      "lng": 32.8737,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "9.1",
+      "coordinates": [
+        32.8737,
+        40.4997
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.8737,
+            40.4997
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "YILDIRIMELOREN-CUBUK (ANKARA)",
+          "time": "2025.12.06 02:39:09"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.06",
+      "date_hour": "02:39:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.12.01 18:35:30",
-      "lat": 38.9327,
-      "lng": 26.0572,
-      "md": "-.-",
-      "ml": "3.4",
-      "mw": "3.4",
-      "depth": "7.6",
-      "coordinates": [
-        26.0572,
-        38.9327
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.0572,
-            38.9327
-          ]
-        },
-        "properties": {
-          "mag": "3.4",
-          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-          "time": "2025.12.01 18:35:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.01",
-      "date_hour": "18:35:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
