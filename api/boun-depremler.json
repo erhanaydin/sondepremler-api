@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-12-05T14:59:27.459Z",
+  "lastUpdate": "2025-12-05T15:28:01.929Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.12.05 18:05:23",
+      "lat": 34.7943,
+      "lng": 32.4802,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "13.3",
+      "coordinates": [
+        32.4802,
+        34.7943
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.4802,
+            34.7943
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "AKDENIZ",
+          "time": "2025.12.05 18:05:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.05",
+      "date_hour": "18:05:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.05 17:55:27",
+      "lat": 39.2018,
+      "lng": 28.202,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.8",
+      "coordinates": [
+        28.202,
+        39.2018
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.202,
+            39.2018
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.05 17:55:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.05",
+      "date_hour": "17:55:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "KUM-SOMA (MANISA)",
-      "type": "�lksel",
-      "date": "2025.12.01 11:57:04",
-      "lat": 39.2858,
-      "lng": 27.5948,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "9.2",
-      "coordinates": [
-        27.5948,
-        39.2858
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.5948,
-            39.2858
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KUM-SOMA (MANISA)",
-          "time": "2025.12.01 11:57:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.01",
-      "date_hour": "11:57:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
-    },
-    {
-      "title": "ISACA-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.12.01 11:45:40",
-      "lat": 39.159,
-      "lng": 28.0552,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "9.9",
-      "coordinates": [
-        28.0552,
-        39.159
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0552,
-            39.159
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "ISACA-AKHISAR (MANISA)",
-          "time": "2025.12.01 11:45:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.01",
-      "date_hour": "11:45:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
