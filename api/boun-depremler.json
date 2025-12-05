@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-05T05:11:47.108Z",
+  "lastUpdate": "2025-12-05T05:34:37.557Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKSU-SINCIK (ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2025.12.05 08:06:33",
+      "lat": 38.1328,
+      "lng": 38.4778,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.4778,
+        38.1328
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.4778,
+            38.1328
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "AKSU-SINCIK (ADIYAMAN)",
+          "time": "2025.12.05 08:06:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.05",
+      "date_hour": "08:06:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
+    },
     {
       "title": "ILICAK-AKCADAG (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "GAZIANTEP"
-    },
-    {
-      "title": "CUKUROREN-GEDIZ (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.12.01 05:44:51",
-      "lat": 39.013,
-      "lng": 29.7083,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.5",
-      "coordinates": [
-        29.7083,
-        39.013
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.7083,
-            39.013
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "CUKUROREN-GEDIZ (KUTAHYA)",
-          "time": "2025.12.01 05:44:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.01",
-      "date_hour": "05:44:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
