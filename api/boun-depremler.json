@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-06T13:58:53.537Z",
+  "lastUpdate": "2025-12-06T14:20:33.700Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.12.06 16:54:20",
+      "lat": 36.2582,
+      "lng": 28.5485,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "28.9",
+      "coordinates": [
+        28.5485,
+        36.2582
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.5485,
+            36.2582
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "AKDENIZ",
+          "time": "2025.12.06 16:54:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.06",
+      "date_hour": "16:54:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YOGUNOLUK-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.12.02 06:10:22",
-      "lat": 37.9423,
-      "lng": 36.3423,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        36.3423,
-        37.9423
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.3423,
-            37.9423
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YOGUNOLUK-GOKSUN (KAHRAMANMARAS)",
-          "time": "2025.12.02 06:10:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.02",
-      "date_hour": "06:10:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
