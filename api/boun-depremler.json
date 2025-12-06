@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-06T11:44:29.656Z",
+  "lastUpdate": "2025-12-06T11:53:01.502Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
+    },
+    {
+      "title": "CANDIR-SELCUKLU (KONYA)",
+      "type": "�lksel",
+      "date": "2025.12.06 12:28:19",
+      "lat": 38.1272,
+      "lng": 32.6337,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        32.6337,
+        38.1272
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.6337,
+            38.1272
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "CANDIR-SELCUKLU (KONYA)",
+          "time": "2025.12.06 12:28:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.06",
+      "date_hour": "12:28:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KONYA"
     },
     {
       "title": "KARACAOREN-(MUGLA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.02 04:40:33",
-      "lat": 39.2148,
-      "lng": 28.1215,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "10.4",
-      "coordinates": [
-        28.1215,
-        39.2148
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1215,
-            39.2148
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.02 04:40:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.02",
-      "date_hour": "04:40:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
