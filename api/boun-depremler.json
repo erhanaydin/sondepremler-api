@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-06T12:58:20.760Z",
+  "lastUpdate": "2025-12-06T13:28:38.776Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.12.06 15:43:43",
+      "lat": 38.0303,
+      "lng": 27.1107,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "7.7",
+      "coordinates": [
+        27.1107,
+        38.0303
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.1107,
+            38.0303
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2025.12.06 15:43:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.06",
+      "date_hour": "15:43:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "RESADIYE-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.02 05:53:01",
-      "lat": 37.943,
-      "lng": 38.0158,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        38.0158,
-        37.943
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.0158,
-            37.943
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "RESADIYE-DOGANSEHIR (MALATYA)",
-          "time": "2025.12.02 05:53:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.02",
-      "date_hour": "05:53:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
