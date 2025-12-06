@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-06T18:40:18.273Z",
+  "lastUpdate": "2025-12-06T18:52:14.835Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -145,6 +145,78 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DUZCE"
+    },
+    {
+      "title": "SAROS KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.12.06 20:29:48",
+      "lat": 40.4082,
+      "lng": 26.0688,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "12.6",
+      "coordinates": [
+        26.0688,
+        40.4082
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.0688,
+            40.4082
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "SAROS KORFEZI (EGE DENIZI)",
+          "time": "2025.12.06 20:29:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.06",
+      "date_hour": "20:29:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
+    {
+      "title": "KOBAKLAR-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2025.12.06 20:26:06",
+      "lat": 39.0837,
+      "lng": 28.325,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "16.6",
+      "coordinates": [
+        28.325,
+        39.0837
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.325,
+            39.0837
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KOBAKLAR-GORDES (MANISA)",
+          "time": "2025.12.06 20:26:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.06",
+      "date_hour": "20:26:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
     },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.02 10:11:36",
-      "lat": 39.1617,
-      "lng": 28.284,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "19.3",
-      "coordinates": [
-        28.284,
-        39.1617
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.284,
-            39.1617
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.02 10:11:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.02",
-      "date_hour": "10:11:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "KOBAKLAR-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2025.12.02 10:06:20",
-      "lat": 39.0838,
-      "lng": 28.3162,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "8.8",
-      "coordinates": [
-        28.3162,
-        39.0838
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3162,
-            39.0838
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KOBAKLAR-GORDES (MANISA)",
-          "time": "2025.12.02 10:06:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.02",
-      "date_hour": "10:06:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
