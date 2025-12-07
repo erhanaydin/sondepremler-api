@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-07T13:43:00.691Z",
+  "lastUpdate": "2025-12-07T13:51:18.506Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.07 16:35:42",
+      "lat": 39.1847,
+      "lng": 28.2103,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "11.2",
+      "coordinates": [
+        28.2103,
+        39.1847
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2103,
+            39.1847
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.07 16:35:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.07",
+      "date_hour": "16:35:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -721,6 +757,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.12.07 11:19:59",
+      "lat": 36.643,
+      "lng": 25.645,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "10.5",
+      "coordinates": [
+        25.645,
+        36.643
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.645,
+            36.643
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "EGE DENIZI",
+          "time": "2025.12.07 11:19:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.07",
+      "date_hour": "11:19:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "SOLAKUSAGI-EVREN (ANKARA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "ULUKOY-(MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.03 07:20:14",
-      "lat": 38.1687,
-      "lng": 38.5722,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "3.1",
-      "coordinates": [
-        38.5722,
-        38.1687
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.5722,
-            38.1687
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "ULUKOY-(MALATYA)",
-          "time": "2025.12.03 07:20:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.03",
-      "date_hour": "07:20:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.03 06:57:09",
-      "lat": 39.1437,
-      "lng": 28.3157,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "15.0",
-      "coordinates": [
-        28.3157,
-        39.1437
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3157,
-            39.1437
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.03 06:57:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.03",
-      "date_hour": "06:57:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
