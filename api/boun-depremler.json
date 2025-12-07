@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-07T19:44:33.171Z",
+  "lastUpdate": "2025-12-07T19:52:55.969Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "VAN"
+    },
+    {
+      "title": "SAROS KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.12.07 22:17:19",
+      "lat": 40.4805,
+      "lng": 26.1577,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "17.4",
+      "coordinates": [
+        26.1577,
+        40.4805
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.1577,
+            40.4805
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "SAROS KORFEZI (EGE DENIZI)",
+          "time": "2025.12.07 22:17:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.07",
+      "date_hour": "22:17:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
     },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CAMILIYURT-GURUN (SIVAS)",
-      "type": "�lksel",
-      "date": "2025.12.03 13:12:27",
-      "lat": 38.6583,
-      "lng": 36.858,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "27.3",
-      "coordinates": [
-        36.858,
-        38.6583
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.858,
-            38.6583
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "CAMILIYURT-GURUN (SIVAS)",
-          "time": "2025.12.03 13:12:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.03",
-      "date_hour": "13:12:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
     }
   ]
 }
