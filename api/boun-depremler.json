@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-07T13:51:18.506Z",
+  "lastUpdate": "2025-12-07T13:59:25.145Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -507,6 +507,42 @@
       "city": "AKDENIZ"
     },
     {
+      "title": "PAYAS-DORTYOL (HATAY)",
+      "type": "�lksel",
+      "date": "2025.12.07 13:12:36",
+      "lat": 36.7142,
+      "lng": 36.1165,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "8.2",
+      "coordinates": [
+        36.1165,
+        36.7142
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.1165,
+            36.7142
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "PAYAS-DORTYOL (HATAY)",
+          "time": "2025.12.07 13:12:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.07",
+      "date_hour": "13:12:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
+    {
       "title": "YENILER-SIMAV (KUTAHYA)",
       "type": "�lksel",
       "date": "2025.12.07 13:12:03",
@@ -901,6 +937,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.12.07 10:04:48",
+      "lat": 36.7082,
+      "lng": 25.6582,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "12.3",
+      "coordinates": [
+        25.6582,
+        36.7082
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.6582,
+            36.7082
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "EGE DENIZI",
+          "time": "2025.12.07 10:04:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.07",
+      "date_hour": "10:04:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "GULTEPE-KIRIKHAN (HATAY)",
-      "type": "�lksel",
-      "date": "2025.12.03 07:56:19",
-      "lat": 36.5478,
-      "lng": 36.496,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "1.4",
-      "coordinates": [
-        36.496,
-        36.5478
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.496,
-            36.5478
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "GULTEPE-KIRIKHAN (HATAY)",
-          "time": "2025.12.03 07:56:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.03",
-      "date_hour": "07:56:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
-    },
-    {
-      "title": "SIRMALI-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.12.03 07:44:21",
-      "lat": 37.9693,
-      "lng": 36.3578,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "13.2",
-      "coordinates": [
-        36.3578,
-        37.9693
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.3578,
-            37.9693
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "SIRMALI-GOKSUN (KAHRAMANMARAS)",
-          "time": "2025.12.03 07:44:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.03",
-      "date_hour": "07:44:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
