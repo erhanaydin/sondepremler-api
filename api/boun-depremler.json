@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-07T13:31:44.382Z",
+  "lastUpdate": "2025-12-07T13:43:00.691Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -70,6 +70,42 @@
       "location_properties": "",
       "date_day": "2025.12.07",
       "date_hour": "16:03:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.07 16:01:08",
+      "lat": 39.1905,
+      "lng": 28.1865,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "14.0",
+      "coordinates": [
+        28.1865,
+        39.1905
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1865,
+            39.1905
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.07 16:01:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.07",
+      "date_hour": "16:01:08",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.12.03 06:49:25",
-      "lat": 38.1118,
-      "lng": 36.6368,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "10.3",
-      "coordinates": [
-        36.6368,
-        38.1118
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.6368,
-            38.1118
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
-          "time": "2025.12.03 06:49:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.03",
-      "date_hour": "06:49:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
