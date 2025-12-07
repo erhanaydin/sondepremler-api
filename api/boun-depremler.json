@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-07T19:13:35.451Z",
+  "lastUpdate": "2025-12-07T19:26:14.753Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEREBEY-(VAN)",
+      "type": "�lksel",
+      "date": "2025.12.07 22:17:30",
+      "lat": 38.8017,
+      "lng": 43.5338,
+      "md": "-.-",
+      "ml": "4.5",
+      "mw": "4.5",
+      "depth": "5.7",
+      "coordinates": [
+        43.5338,
+        38.8017
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.5338,
+            38.8017
+          ]
+        },
+        "properties": {
+          "mag": "4.5",
+          "place": "DEREBEY-(VAN)",
+          "time": "2025.12.07 22:17:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.07",
+      "date_hour": "22:17:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "VAN"
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.03 12:34:38",
-      "lat": 39.2253,
-      "lng": 27.9992,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "8.6",
-      "coordinates": [
-        27.9992,
-        39.2253
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9992,
-            39.2253
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "SAHINKAYA-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.03 12:34:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.03",
-      "date_hour": "12:34:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
