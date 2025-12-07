@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-07T18:56:24.313Z",
+  "lastUpdate": "2025-12-07T19:13:35.451Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -250,6 +250,42 @@
       "location_properties": "",
       "date_day": "2025.12.07",
       "date_hour": "20:01:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "OSMANLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.07 19:59:06",
+      "lat": 39.2443,
+      "lng": 28.3433,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "7.3",
+      "coordinates": [
+        28.3433,
+        39.2443
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3433,
+            39.2443
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "OSMANLAR-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.07 19:59:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.07",
+      "date_hour": "19:59:06",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KUMBETAKPINAR-INONU (ESKISEHIR)",
-      "type": "�lksel",
-      "date": "2025.12.03 12:31:02",
-      "lat": 39.7423,
-      "lng": 30.1332,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        30.1332,
-        39.7423
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.1332,
-            39.7423
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KUMBETAKPINAR-INONU (ESKISEHIR)",
-          "time": "2025.12.03 12:31:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.03",
-      "date_hour": "12:31:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ESKISEHIR"
     }
   ]
 }
