@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-07T18:48:19.231Z",
+  "lastUpdate": "2025-12-07T18:56:24.313Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.07 21:33:46",
+      "lat": 39.1772,
+      "lng": 28.184,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "15.8",
+      "coordinates": [
+        28.184,
+        39.1772
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.184,
+            39.1772
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.07 21:33:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.07",
+      "date_hour": "21:33:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -433,6 +469,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "PETEK-KAYAPINAR (DIYARBAKIR)",
+      "type": "�lksel",
+      "date": "2025.12.07 18:57:27",
+      "lat": 38.061,
+      "lng": 40.0488,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "10.3",
+      "coordinates": [
+        40.0488,
+        38.061
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.0488,
+            38.061
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "PETEK-KAYAPINAR (DIYARBAKIR)",
+          "time": "2025.12.07 18:57:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.07",
+      "date_hour": "18:57:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DIYARBAKIR"
     },
     {
       "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ESKISEHIR"
-    },
-    {
-      "title": "EDREMIT KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.12.03 12:19:18",
-      "lat": 39.4703,
-      "lng": 26.283,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "5.9",
-      "coordinates": [
-        26.283,
-        39.4703
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.283,
-            39.4703
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "EDREMIT KORFEZI (EGE DENIZI)",
-          "time": "2025.12.03 12:19:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.03",
-      "date_hour": "12:19:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
-    },
-    {
-      "title": "BUYUKCAMILI-BALA (ANKARA)",
-      "type": "�lksel",
-      "date": "2025.12.03 12:07:57",
-      "lat": 39.3225,
-      "lng": 33.4273,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        33.4273,
-        39.3225
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.4273,
-            39.3225
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "BUYUKCAMILI-BALA (ANKARA)",
-          "time": "2025.12.03 12:07:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.03",
-      "date_hour": "12:07:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
