@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-07T17:15:44.073Z",
+  "lastUpdate": "2025-12-07T17:18:28.388Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "SULTANIYE-SELCUK (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.12.07 19:47:06",
+      "lat": 37.8817,
+      "lng": 27.3418,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "1.5",
+      "coordinates": [
+        27.3418,
+        37.8817
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.3418,
+            37.8817
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "SULTANIYE-SELCUK (IZMIR)",
+          "time": "2025.12.07 19:47:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.07",
+      "date_hour": "19:47:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
     },
     {
       "title": "SARIHACI-AKCADAG (MALATYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.12.03 10:37:07",
-      "lat": 39.7277,
-      "lng": 25.5482,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.5",
-      "coordinates": [
-        25.5482,
-        39.7277
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.5482,
-            39.7277
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "EGE DENIZI",
-          "time": "2025.12.03 10:37:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.03",
-      "date_hour": "10:37:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
