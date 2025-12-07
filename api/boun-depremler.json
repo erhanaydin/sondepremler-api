@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-07T19:36:08.657Z",
+  "lastUpdate": "2025-12-07T19:44:33.171Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEREBUK-UZUMLU (ERZINCAN)",
+      "type": "�lksel",
+      "date": "2025.12.07 22:31:01",
+      "lat": 39.5893,
+      "lng": 39.8788,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.2",
+      "coordinates": [
+        39.8788,
+        39.5893
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.8788,
+            39.5893
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "DEREBUK-UZUMLU (ERZINCAN)",
+          "time": "2025.12.07 22:31:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.07",
+      "date_hour": "22:31:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZINCAN"
+    },
     {
       "title": "DEREBEY-(VAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIVAS"
-    },
-    {
-      "title": "SIGMA-SARAYKOY (DENIZLI)",
-      "type": "�lksel",
-      "date": "2025.12.03 12:50:02",
-      "lat": 37.9288,
-      "lng": 28.9733,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "24.6",
-      "coordinates": [
-        28.9733,
-        37.9288
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9733,
-            37.9288
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "SIGMA-SARAYKOY (DENIZLI)",
-          "time": "2025.12.03 12:50:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.03",
-      "date_hour": "12:50:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
