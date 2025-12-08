@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-08T12:17:11.214Z",
+  "lastUpdate": "2025-12-08T13:05:48.632Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CICEKLI-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2025.12.08 15:04:51",
+      "lat": 39.0592,
+      "lng": 28.1945,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "10.0",
+      "coordinates": [
+        28.1945,
+        39.0592
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1945,
+            39.0592
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "CICEKLI-GORDES (MANISA)",
+          "time": "2025.12.08 15:04:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.08",
+      "date_hour": "15:04:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "KINIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "TEKIRDAG"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.12.04 11:13:50",
-      "lat": 39.2243,
-      "lng": 28.9502,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "15.5",
-      "coordinates": [
-        28.9502,
-        39.2243
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9502,
-            39.2243
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.12.04 11:13:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.04",
-      "date_hour": "11:13:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
