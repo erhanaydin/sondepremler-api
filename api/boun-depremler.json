@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-12-08T18:25:27.867Z",
+  "lastUpdate": "2025-12-08T18:50:55.520Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.08 21:36:08",
+      "lat": 39.1667,
+      "lng": 28.2432,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "16.9",
+      "coordinates": [
+        28.2432,
+        39.1667
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2432,
+            39.1667
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.08 21:36:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.08",
+      "date_hour": "21:36:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.08 21:30:22",
+      "lat": 39.215,
+      "lng": 29.0233,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        29.0233,
+        39.215
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0233,
+            39.215
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.12.08 21:30:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.08",
+      "date_hour": "21:30:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "ILICA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.04 13:45:30",
-      "lat": 39.189,
-      "lng": 28.2148,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "20.5",
-      "coordinates": [
-        28.2148,
-        39.189
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2148,
-            39.189
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "ILICA-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.04 13:45:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.04",
-      "date_hour": "13:45:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "SUNGURPASA-INEGOL (BURSA)",
-      "type": "�lksel",
-      "date": "2025.12.04 13:25:00",
-      "lat": 40.2105,
-      "lng": 29.4715,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "2.2",
-      "coordinates": [
-        29.4715,
-        40.2105
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.4715,
-            40.2105
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "SUNGURPASA-INEGOL (BURSA)",
-          "time": "2025.12.04 13:25:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.04",
-      "date_hour": "13:25:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
     }
   ]
 }
