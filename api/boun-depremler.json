@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-12-08T11:31:16.513Z",
+  "lastUpdate": "2025-12-08T11:44:18.626Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.08 14:30:07",
+      "lat": 39.225,
+      "lng": 28.9947,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "13.5",
+      "coordinates": [
+        28.9947,
+        39.225
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9947,
+            39.225
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.12.08 14:30:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.08",
+      "date_hour": "14:30:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "BAYRAKTEPE-ISLAHIYE (GAZIANTEP)",
+      "type": "�lksel",
+      "date": "2025.12.08 14:29:05",
+      "lat": 37.0313,
+      "lng": 36.773,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        36.773,
+        37.0313
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.773,
+            37.0313
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "BAYRAKTEPE-ISLAHIYE (GAZIANTEP)",
+          "time": "2025.12.08 14:29:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.08",
+      "date_hour": "14:29:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "GAZIANTEP"
+    },
     {
       "title": "GUNDOGDU-MARMARA (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.04 11:03:32",
-      "lat": 39.161,
-      "lng": 28.2237,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "17.9",
-      "coordinates": [
-        28.2237,
-        39.161
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2237,
-            39.161
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.04 11:03:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.04",
-      "date_hour": "11:03:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.12.04 10:57:51",
-      "lat": 40.276,
-      "lng": 24.035,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        24.035,
-        40.276
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.035,
-            40.276
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YUNANISTAN",
-          "time": "2025.12.04 10:57:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.04",
-      "date_hour": "10:57:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
