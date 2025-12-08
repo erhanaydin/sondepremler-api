@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-08T05:58:35.349Z",
+  "lastUpdate": "2025-12-08T06:39:23.084Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.08 08:49:33",
+      "lat": 39.2487,
+      "lng": 28.972,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "6.0",
+      "coordinates": [
+        28.972,
+        39.2487
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.972,
+            39.2487
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.12.08 08:49:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.08",
+      "date_hour": "08:49:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KEMER-FETHIYE (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.12.04 05:09:56",
-      "lat": 36.651,
-      "lng": 29.3593,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "7.4",
-      "coordinates": [
-        29.3593,
-        36.651
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.3593,
-            36.651
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KEMER-FETHIYE (MUGLA)",
-          "time": "2025.12.04 05:09:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.04",
-      "date_hour": "05:09:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
