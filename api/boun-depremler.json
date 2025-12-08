@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-08T16:53:34.112Z",
+  "lastUpdate": "2025-12-08T17:12:43.674Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.08 19:54:19",
+      "lat": 39.2503,
+      "lng": 29.0208,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "11.1",
+      "coordinates": [
+        29.0208,
+        39.2503
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0208,
+            39.2503
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "KATRANDAGI-EMET (KUTAHYA)",
+          "time": "2025.12.08 19:54:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.08",
+      "date_hour": "19:54:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "YALOVA"
-    },
-    {
-      "title": "PURSAKLAR (ANKARA)",
-      "type": "�lksel",
-      "date": "2025.12.04 12:22:39",
-      "lat": 40.1225,
-      "lng": 32.8892,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "8.8",
-      "coordinates": [
-        32.8892,
-        40.1225
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.8892,
-            40.1225
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "PURSAKLAR (ANKARA)",
-          "time": "2025.12.04 12:22:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.04",
-      "date_hour": "12:22:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
