@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-08T16:28:50.674Z",
+  "lastUpdate": "2025-12-08T16:53:34.112Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.08 19:14:54",
+      "lat": 39.2515,
+      "lng": 29.0038,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "10.4",
+      "coordinates": [
+        29.0038,
+        39.2515
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0038,
+            39.2515
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.12.08 19:14:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.08",
+      "date_hour": "19:14:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YESILTAS-DARENDE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "KARAKOY-VARTO (MUS)",
-      "type": "�lksel",
-      "date": "2025.12.04 12:17:41",
-      "lat": 39.104,
-      "lng": 41.6888,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "6.2",
-      "coordinates": [
-        41.6888,
-        39.104
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            41.6888,
-            39.104
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "KARAKOY-VARTO (MUS)",
-          "time": "2025.12.04 12:17:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.04",
-      "date_hour": "12:17:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUS"
     }
   ]
 }
