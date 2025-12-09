@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-09T21:55:28.994Z",
+  "lastUpdate": "2025-12-09T22:16:34.979Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TURNALI-KIZILCAHAMAM (ANKARA)",
+      "type": "�lksel",
+      "date": "2025.12.10 00:56:46",
+      "lat": 40.2385,
+      "lng": 32.358,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "9.3",
+      "coordinates": [
+        32.358,
+        40.2385
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.358,
+            40.2385
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "TURNALI-KIZILCAHAMAM (ANKARA)",
+          "time": "2025.12.10 00:56:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.10",
+      "date_hour": "00:56:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
+    },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.06 04:26:39",
-      "lat": 39.2028,
-      "lng": 28.1978,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "9.2",
-      "coordinates": [
-        28.1978,
-        39.2028
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1978,
-            39.2028
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.06 04:26:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.06",
-      "date_hour": "04:26:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
