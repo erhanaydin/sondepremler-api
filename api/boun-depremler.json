@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-12-09T11:53:51.326Z",
+  "lastUpdate": "2025-12-09T12:25:27.993Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CIMIKOY-AKSEKI (ANTALYA)",
+      "type": "�lksel",
+      "date": "2025.12.09 14:55:56",
+      "lat": 37.013,
+      "lng": 31.9293,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "5.5",
+      "coordinates": [
+        31.9293,
+        37.013
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.9293,
+            37.013
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "CIMIKOY-AKSEKI (ANTALYA)",
+          "time": "2025.12.09 14:55:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.09",
+      "date_hour": "14:55:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANTALYA"
+    },
+    {
+      "title": "GORGU-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.12.09 14:33:46",
+      "lat": 38.257,
+      "lng": 38.0992,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "12.7",
+      "coordinates": [
+        38.0992,
+        38.257
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.0992,
+            38.257
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "GORGU-YESILYURT (MALATYA)",
+          "time": "2025.12.09 14:33:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.09",
+      "date_hour": "14:33:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.06 01:10:57",
-      "lat": 39.176,
-      "lng": 28.2328,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "20.3",
-      "coordinates": [
-        28.2328,
-        39.176
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2328,
-            39.176
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.06 01:10:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.06",
-      "date_hour": "01:10:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "SABANCILAR-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.12.06 01:08:03",
-      "lat": 38.934,
-      "lng": 27.5433,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        27.5433,
-        38.934
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.5433,
-            38.934
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "SABANCILAR-AKHISAR (MANISA)",
-          "time": "2025.12.06 01:08:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.06",
-      "date_hour": "01:08:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
