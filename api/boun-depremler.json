@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-09T11:45:25.626Z",
+  "lastUpdate": "2025-12-09T11:53:51.326Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.12.09 14:27:33",
+      "lat": 40.5053,
+      "lng": 27.1123,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "14.6",
+      "coordinates": [
+        27.1123,
+        40.5053
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.1123,
+            40.5053
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "MARMARA DENIZI",
+          "time": "2025.12.09 14:27:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.09",
+      "date_hour": "14:27:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "YENILER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.12.06 01:04:55",
-      "lat": 39.2388,
-      "lng": 28.9535,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "16.1",
-      "coordinates": [
-        28.9535,
-        39.2388
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9535,
-            39.2388
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YENILER-SIMAV (KUTAHYA)",
-          "time": "2025.12.06 01:04:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.06",
-      "date_hour": "01:04:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
