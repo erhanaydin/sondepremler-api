@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-09T05:35:07.022Z",
+  "lastUpdate": "2025-12-09T05:48:14.468Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "IBECIK-GOLHISAR (BURDUR)",
+      "type": "�lksel",
+      "date": "2025.12.09 07:58:10",
+      "lat": 37.0103,
+      "lng": 29.4562,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "26.1",
+      "coordinates": [
+        29.4562,
+        37.0103
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.4562,
+            37.0103
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "IBECIK-GOLHISAR (BURDUR)",
+          "time": "2025.12.09 07:58:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.09",
+      "date_hour": "07:58:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURDUR"
     },
     {
       "title": "IRIAGAC-YAZIHAN (MALATYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "GURCESME-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.12.05 21:09:55",
-      "lat": 40.2222,
-      "lng": 27.0262,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "12.3",
-      "coordinates": [
-        27.0262,
-        40.2222
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0262,
-            40.2222
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "GURCESME-BIGA (CANAKKALE)",
-          "time": "2025.12.05 21:09:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.05",
-      "date_hour": "21:09:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
