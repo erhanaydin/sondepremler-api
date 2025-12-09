@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-12-09T22:16:34.979Z",
+  "lastUpdate": "2025-12-09T22:34:01.246Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.12.10 01:15:36",
+      "lat": 36.709,
+      "lng": 26.3657,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        26.3657,
+        36.709
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.3657,
+            36.709
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "EGE DENIZI",
+          "time": "2025.12.10 01:15:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.10",
+      "date_hour": "01:15:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "YENILER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.10 01:12:20",
+      "lat": 39.2545,
+      "lng": 28.9507,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "14.9",
+      "coordinates": [
+        28.9507,
+        39.2545
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9507,
+            39.2545
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "YENILER-SIMAV (KUTAHYA)",
+          "time": "2025.12.10 01:12:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.10",
+      "date_hour": "01:12:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "TURNALI-KIZILCAHAMAM (ANKARA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.06 04:55:25",
-      "lat": 39.2092,
-      "lng": 28.154,
-      "md": "-.-",
-      "ml": "3.1",
-      "mw": "2.9",
-      "depth": "9.3",
-      "coordinates": [
-        28.154,
-        39.2092
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.154,
-            39.2092
-          ]
-        },
-        "properties": {
-          "mag": "3.1",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.06 04:55:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.06",
-      "date_hour": "04:55:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "KIZILCUKUR-DIKILI (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.12.06 04:28:02",
-      "lat": 39.1017,
-      "lng": 26.9333,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "10.9",
-      "coordinates": [
-        26.9333,
-        39.1017
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.9333,
-            39.1017
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KIZILCUKUR-DIKILI (IZMIR)",
-          "time": "2025.12.06 04:28:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.06",
-      "date_hour": "04:28:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
