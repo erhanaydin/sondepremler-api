@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-10T21:52:37.378Z",
+  "lastUpdate": "2025-12-10T22:09:44.227Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "ILICAK-AKCADAG (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.12.11 00:35:13",
+      "lat": 38.5005,
+      "lng": 38.0318,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "4.1",
+      "coordinates": [
+        38.0318,
+        38.5005
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.0318,
+            38.5005
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ILICAK-AKCADAG (MALATYA)",
+          "time": "2025.12.11 00:35:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.11",
+      "date_hour": "00:35:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.12.07 06:06:06",
-      "lat": 38.9357,
-      "lng": 26.0765,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        26.0765,
-        38.9357
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.0765,
-            38.9357
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-          "time": "2025.12.07 06:06:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.07",
-      "date_hour": "06:06:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
