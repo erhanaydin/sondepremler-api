@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-10T10:28:45.995Z",
+  "lastUpdate": "2025-12-10T10:50:18.770Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.10 13:23:03",
+      "lat": 39.1723,
+      "lng": 28.1787,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "8.1",
+      "coordinates": [
+        28.1787,
+        39.1723
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1787,
+            39.1723
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.10 13:23:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.10",
+      "date_hour": "13:23:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "GULTEPE-KIRIKHAN (HATAY)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CILE-MENDERES (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.12.06 15:43:43",
-      "lat": 38.0277,
-      "lng": 27.1198,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "7.0",
-      "coordinates": [
-        27.1198,
-        38.0277
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1198,
-            38.0277
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "CILE-MENDERES (IZMIR)",
-          "time": "2025.12.06 15:43:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.06",
-      "date_hour": "15:43:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
