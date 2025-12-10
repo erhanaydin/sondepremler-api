@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-10T19:41:43.473Z",
+  "lastUpdate": "2025-12-10T19:50:01.897Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARBASAN-HISARCIK (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.10 22:18:04",
+      "lat": 39.1843,
+      "lng": 29.3907,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        29.3907,
+        39.1843
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.3907,
+            39.1843
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "KARBASAN-HISARCIK (KUTAHYA)",
+          "time": "2025.12.10 22:18:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.10",
+      "date_hour": "22:18:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KARAAGAC-KALE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.07 04:52:39",
-      "lat": 38.4112,
-      "lng": 38.8603,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        38.8603,
-        38.4112
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.8603,
-            38.4112
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KARAAGAC-KALE (MALATYA)",
-          "time": "2025.12.07 04:52:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.07",
-      "date_hour": "04:52:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
