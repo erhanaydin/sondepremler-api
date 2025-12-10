@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-12-10T21:26:52.692Z",
+  "lastUpdate": "2025-12-10T21:44:05.771Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HEKIMHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.12.11 00:31:48",
+      "lat": 38.789,
+      "lng": 37.9523,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "7.5",
+      "coordinates": [
+        37.9523,
+        38.789
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.9523,
+            38.789
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "HEKIMHAN (MALATYA)",
+          "time": "2025.12.11 00:31:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.11",
+      "date_hour": "00:31:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
+      "title": "YESILDERE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.11 00:04:22",
+      "lat": 39.2683,
+      "lng": 28.9778,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "9.4",
+      "coordinates": [
+        28.9778,
+        39.2683
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9778,
+            39.2683
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "YESILDERE-SIMAV (KUTAHYA)",
+          "time": "2025.12.11 00:04:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.11",
+      "date_hour": "00:04:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "ILICAK-AKCADAG (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.07 05:53:43",
-      "lat": 38.4853,
-      "lng": 38.0378,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "4.4",
-      "coordinates": [
-        38.0378,
-        38.4853
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.0378,
-            38.4853
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ILICAK-AKCADAG (MALATYA)",
-          "time": "2025.12.07 05:53:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.07",
-      "date_hour": "05:53:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.07 05:11:00",
-      "lat": 39.186,
-      "lng": 28.2113,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "12.0",
-      "coordinates": [
-        28.2113,
-        39.186
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2113,
-            39.186
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "AKTAS-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.07 05:11:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.07",
-      "date_hour": "05:11:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
