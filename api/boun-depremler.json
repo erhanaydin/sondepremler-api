@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-11T10:49:44.406Z",
+  "lastUpdate": "2025-12-11T10:58:32.302Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KURNA-SILE (ISTANBUL)",
+      "type": "�lksel",
+      "date": "2025.12.11 13:39:35",
+      "lat": 41.2488,
+      "lng": 29.3177,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "16.2",
+      "coordinates": [
+        29.3177,
+        41.2488
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.3177,
+            41.2488
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "KURNA-SILE (ISTANBUL)",
+          "time": "2025.12.11 13:39:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.11",
+      "date_hour": "13:39:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ISTANBUL"
+    },
     {
       "title": "YENILER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -12099,6 +12135,42 @@
       "city": "KUTAHYA"
     },
     {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.08 19:48:31",
+      "lat": 39.1978,
+      "lng": 28.986,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "20.0",
+      "coordinates": [
+        28.986,
+        39.1978
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.986,
+            39.1978
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.12.08 19:48:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.08",
+      "date_hour": "19:48:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
       "date": "2025.12.08 19:38:17",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AYDIN"
-    },
-    {
-      "title": "TURGUT-ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.12.07 17:43:30",
-      "lat": 37.1873,
-      "lng": 28.7108,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "13.8",
-      "coordinates": [
-        28.7108,
-        37.1873
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7108,
-            37.1873
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "TURGUT-ULA (MUGLA)",
-          "time": "2025.12.07 17:43:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.07",
-      "date_hour": "17:43:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
-    },
-    {
-      "title": "SULTANIYE-SELCUK (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.12.07 17:40:32",
-      "lat": 37.8935,
-      "lng": 27.3043,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "3.5",
-      "coordinates": [
-        27.3043,
-        37.8935
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.3043,
-            37.8935
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "SULTANIYE-SELCUK (IZMIR)",
-          "time": "2025.12.07 17:40:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.07",
-      "date_hour": "17:40:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
