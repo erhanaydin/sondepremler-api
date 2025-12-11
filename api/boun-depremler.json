@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-12-11T20:52:34.909Z",
+  "lastUpdate": "2025-12-11T21:10:34.951Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.12.12 00:03:25",
+      "lat": 34.8152,
+      "lng": 33.769,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "45.2",
+      "coordinates": [
+        33.769,
+        34.8152
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.769,
+            34.8152
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "AKDENIZ",
+          "time": "2025.12.12 00:03:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.12",
+      "date_hour": "00:03:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.11 23:47:47",
+      "lat": 39.1363,
+      "lng": 28.286,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "21.5",
+      "coordinates": [
+        28.286,
+        39.1363
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.286,
+            39.1363
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.11 23:47:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.11",
+      "date_hour": "23:47:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "ILICAK-AKCADAG (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.08 00:29:13",
-      "lat": 38.491,
-      "lng": 38.0425,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "6.0",
-      "coordinates": [
-        38.0425,
-        38.491
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.0425,
-            38.491
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ILICAK-AKCADAG (MALATYA)",
-          "time": "2025.12.08 00:29:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.08",
-      "date_hour": "00:29:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.07 23:57:57",
-      "lat": 39.177,
-      "lng": 28.2525,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "8.9",
-      "coordinates": [
-        28.2525,
-        39.177
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2525,
-            39.177
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.07 23:57:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.07",
-      "date_hour": "23:57:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
