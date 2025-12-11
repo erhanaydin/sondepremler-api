@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-11T19:27:17.650Z",
+  "lastUpdate": "2025-12-11T19:41:06.255Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ILICA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.11 22:30:55",
+      "lat": 39.1948,
+      "lng": 28.2587,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "14.0",
+      "coordinates": [
+        28.2587,
+        39.1948
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2587,
+            39.1948
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "ILICA-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.11 22:30:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.11",
+      "date_hour": "22:30:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YAYLIYAKA (VAN)",
-      "type": "�lksel",
-      "date": "2025.12.07 23:40:29",
-      "lat": 38.8155,
-      "lng": 43.3993,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "15.9",
-      "coordinates": [
-        43.3993,
-        38.8155
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.3993,
-            38.8155
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YAYLIYAKA (VAN)",
-          "time": "2025.12.07 23:40:29"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.07",
-      "date_hour": "23:40:29",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "VAN"
     }
   ]
 }
