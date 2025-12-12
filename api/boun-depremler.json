@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-12T15:21:45.740Z",
+  "lastUpdate": "2025-12-12T15:40:54.976Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "HEKIMHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.12.12 18:00:34",
+      "lat": 38.7693,
+      "lng": 37.9538,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "2.1",
+      "coordinates": [
+        37.9538,
+        38.7693
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.9538,
+            38.7693
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "HEKIMHAN (MALATYA)",
+          "time": "2025.12.12 18:00:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.12",
+      "date_hour": "18:00:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CAKMAK (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.12.09 01:07:00",
-      "lat": 37.2222,
-      "lng": 28.6917,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "11.9",
-      "coordinates": [
-        28.6917,
-        37.2222
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.6917,
-            37.2222
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "CAKMAK (MUGLA)",
-          "time": "2025.12.09 01:07:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.09",
-      "date_hour": "01:07:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
