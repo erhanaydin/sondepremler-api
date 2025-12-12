@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-12T16:40:22.163Z",
+  "lastUpdate": "2025-12-12T16:52:58.076Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AGCASAR-NURHAK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.12.12 19:41:01",
+      "lat": 38.0535,
+      "lng": 37.338,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        37.338,
+        38.0535
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.338,
+            38.0535
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "AGCASAR-NURHAK (KAHRAMANMARAS)",
+          "time": "2025.12.12 19:41:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.12",
+      "date_hour": "19:41:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "MALAZ-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2025.12.09 02:44:09",
-      "lat": 39.0438,
-      "lng": 28.3212,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "1.9",
-      "coordinates": [
-        28.3212,
-        39.0438
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3212,
-            39.0438
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "MALAZ-GORDES (MANISA)",
-          "time": "2025.12.09 02:44:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.09",
-      "date_hour": "02:44:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
