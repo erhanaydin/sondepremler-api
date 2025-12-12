@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-12T16:52:58.076Z",
+  "lastUpdate": "2025-12-12T17:10:03.841Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ILICA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.12 19:54:49",
+      "lat": 39.1933,
+      "lng": 28.2478,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "12.3",
+      "coordinates": [
+        28.2478,
+        39.1933
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2478,
+            39.1933
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "ILICA-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.12 19:54:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.12",
+      "date_hour": "19:54:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "AGCASAR-NURHAK (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "GULPINAR-AYVACIK (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.12.09 02:45:33",
-      "lat": 39.533,
-      "lng": 26.1068,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "17.7",
-      "coordinates": [
-        26.1068,
-        39.533
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.1068,
-            39.533
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "GULPINAR-AYVACIK (CANAKKALE)",
-          "time": "2025.12.09 02:45:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.09",
-      "date_hour": "02:45:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
