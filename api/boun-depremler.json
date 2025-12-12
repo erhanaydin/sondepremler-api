@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-12T07:46:25.287Z",
+  "lastUpdate": "2025-12-12T07:54:43.788Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
+    },
+    {
+      "title": "IPEKYOLU-HEKIMHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.12.12 10:38:33",
+      "lat": 38.7373,
+      "lng": 37.9808,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "19.0",
+      "coordinates": [
+        37.9808,
+        38.7373
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.9808,
+            38.7373
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "IPEKYOLU-HEKIMHAN (MALATYA)",
+          "time": "2025.12.12 10:38:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.12",
+      "date_hour": "10:38:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "ASLANDEDE-SINDIRGI (BALIKESIR) REVIZE01 (2025.12.12",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.08 11:52:09",
-      "lat": 39.1567,
-      "lng": 28.2683,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "8.8",
-      "coordinates": [
-        28.2683,
-        39.1567
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2683,
-            39.1567
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.08 11:52:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.08",
-      "date_hour": "11:52:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
