@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-12T05:41:02.569Z",
+  "lastUpdate": "2025-12-12T05:52:31.166Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.12 08:39:58",
+      "lat": 39.2485,
+      "lng": 29.0527,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "16.9",
+      "coordinates": [
+        29.0527,
+        39.2485
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0527,
+            39.2485
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KATRANDAGI-EMET (KUTAHYA)",
+          "time": "2025.12.12 08:39:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.12",
+      "date_hour": "08:39:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "SUGUL-DARENDE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "GECITLI-ARDANUC (ARTVIN)",
-      "type": "�lksel",
-      "date": "2025.12.08 09:33:11",
-      "lat": 41.0632,
-      "lng": 42.2773,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "14.5",
-      "coordinates": [
-        42.2773,
-        41.0632
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.2773,
-            41.0632
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "GECITLI-ARDANUC (ARTVIN)",
-          "time": "2025.12.08 09:33:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.08",
-      "date_hour": "09:33:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ARTVIN"
     }
   ]
 }
