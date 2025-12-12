@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-12-12T12:38:22.229Z",
+  "lastUpdate": "2025-12-12T13:21:31.527Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIBRIS RUM KESIMI",
+      "type": "�lksel",
+      "date": "2025.12.12 16:04:01",
+      "lat": 35.1128,
+      "lng": 32.5178,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "5.7",
+      "coordinates": [
+        32.5178,
+        35.1128
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.5178,
+            35.1128
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "KIBRIS RUM KESIMI",
+          "time": "2025.12.12 16:04:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.12",
+      "date_hour": "16:04:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.12 15:53:20",
+      "lat": 39.1338,
+      "lng": 28.2992,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "12.8",
+      "coordinates": [
+        28.2992,
+        39.1338
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2992,
+            39.1338
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.12 15:53:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.12",
+      "date_hour": "15:53:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BEKTASKOY-KANGAL (SIVAS)",
-      "type": "�lksel",
-      "date": "2025.12.08 21:30:44",
-      "lat": 39.1433,
-      "lng": 37.8107,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        37.8107,
-        39.1433
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.8107,
-            39.1433
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "BEKTASKOY-KANGAL (SIVAS)",
-          "time": "2025.12.08 21:30:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.08",
-      "date_hour": "21:30:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.12.08 21:30:22",
-      "lat": 39.215,
-      "lng": 29.0233,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "8.9",
-      "coordinates": [
-        29.0233,
-        39.215
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0233,
-            39.215
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.12.08 21:30:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.08",
-      "date_hour": "21:30:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
