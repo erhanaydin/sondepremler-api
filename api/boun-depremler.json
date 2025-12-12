@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-12T11:23:33.051Z",
+  "lastUpdate": "2025-12-12T11:38:08.884Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DARGIL-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2025.12.12 14:20:07",
+      "lat": 39.051,
+      "lng": 28.3292,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "18.1",
+      "coordinates": [
+        28.3292,
+        39.051
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3292,
+            39.051
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "DARGIL-GORDES (MANISA)",
+          "time": "2025.12.12 14:20:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.12",
+      "date_hour": "14:20:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.12.08 19:14:54",
-      "lat": 39.2515,
-      "lng": 29.0038,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "10.4",
-      "coordinates": [
-        29.0038,
-        39.2515
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0038,
-            39.2515
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.12.08 19:14:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.08",
-      "date_hour": "19:14:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
