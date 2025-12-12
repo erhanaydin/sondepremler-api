@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-12T19:27:02.012Z",
+  "lastUpdate": "2025-12-12T19:38:41.488Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAPINAR-CAL (DENIZLI)",
+      "type": "�lksel",
+      "date": "2025.12.12 22:29:11",
+      "lat": 37.8942,
+      "lng": 29.3782,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "6.3",
+      "coordinates": [
+        29.3782,
+        37.8942
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.3782,
+            37.8942
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KARAPINAR-CAL (DENIZLI)",
+          "time": "2025.12.12 22:29:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.12",
+      "date_hour": "22:29:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "KUMYAZI-MADEN (ELAZIG)",
       "type": "�lksel",
@@ -219,37 +255,37 @@
       "city": ""
     },
     {
-      "title": "KIBRIS RUM KESIMI",
-      "type": "�lksel",
-      "date": "2025.12.12 20:20:25",
-      "lat": 35.2028,
-      "lng": 32.7688,
+      "title": "AKDENIZ REVIZE01 (2025.12.12",
+      "type": "20:20:25)",
+      "date": "2025.12.12 20:20:18",
+      "lat": 34.6828,
+      "lng": 32.512,
       "md": "-.-",
-      "ml": "4.0",
-      "mw": "3.9",
-      "depth": "7.8",
+      "ml": "4.2",
+      "mw": "4.2",
+      "depth": "15.4",
       "coordinates": [
-        32.7688,
-        35.2028
+        32.512,
+        34.6828
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            32.7688,
-            35.2028
+            32.512,
+            34.6828
           ]
         },
         "properties": {
-          "mag": "4.0",
-          "place": "KIBRIS RUM KESIMI",
-          "time": "2025.12.12 20:20:25"
+          "mag": "4.2",
+          "place": "AKDENIZ REVIZE01 (2025.12.12",
+          "time": "2025.12.12 20:20:18"
         }
       },
       "location_properties": "",
       "date_day": "2025.12.12",
-      "date_hour": "20:20:25",
+      "date_hour": "20:20:18",
       "timestamp": false,
       "location_tz": "",
       "city": ""
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "KIRAZLI-KUSADASI (AYDIN)",
-      "type": "�lksel",
-      "date": "2025.12.09 04:11:12",
-      "lat": 37.8467,
-      "lng": 27.3543,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "3.7",
-      "coordinates": [
-        27.3543,
-        37.8467
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.3543,
-            37.8467
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "KIRAZLI-KUSADASI (AYDIN)",
-          "time": "2025.12.09 04:11:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.09",
-      "date_hour": "04:11:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AYDIN"
     }
   ]
 }
