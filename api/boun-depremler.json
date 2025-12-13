@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-13T23:46:17.314Z",
+  "lastUpdate": "2025-12-13T23:54:41.215Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EMIROGLU-PAZARCIK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.12.14 01:43:13",
+      "lat": 37.3215,
+      "lng": 37.0362,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "6.9",
+      "coordinates": [
+        37.0362,
+        37.3215
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.0362,
+            37.3215
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "EMIROGLU-PAZARCIK (KAHRAMANMARAS)",
+          "time": "2025.12.14 01:43:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.14",
+      "date_hour": "01:43:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "KUCUKYENIKOY-BIGADIC (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KOCAKAGAN-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.12.10 17:04:05",
-      "lat": 39.0962,
-      "lng": 28.1048,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "13.2",
-      "coordinates": [
-        28.1048,
-        39.0962
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1048,
-            39.0962
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KOCAKAGAN-AKHISAR (MANISA)",
-          "time": "2025.12.10 17:04:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.10",
-      "date_hour": "17:04:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
