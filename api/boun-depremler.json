@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-13T17:50:04.037Z",
+  "lastUpdate": "2025-12-13T17:58:11.958Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOCAOZU-HEKIMHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.12.13 20:41:37",
+      "lat": 38.7593,
+      "lng": 37.9598,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "7.4",
+      "coordinates": [
+        37.9598,
+        38.7593
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.9598,
+            38.7593
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KOCAOZU-HEKIMHAN (MALATYA)",
+          "time": "2025.12.13 20:41:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.13",
+      "date_hour": "20:41:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "GOYNUK-KARLIOVA (BINGOL)",
-      "type": "�lksel",
-      "date": "2025.12.10 12:17:44",
-      "lat": 39.1098,
-      "lng": 40.9518,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "15.6",
-      "coordinates": [
-        40.9518,
-        39.1098
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.9518,
-            39.1098
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "GOYNUK-KARLIOVA (BINGOL)",
-          "time": "2025.12.10 12:17:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.10",
-      "date_hour": "12:17:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
