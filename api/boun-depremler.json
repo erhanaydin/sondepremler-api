@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-12-13T07:58:22.622Z",
+  "lastUpdate": "2025-12-13T08:29:09.493Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALATEPE-(BINGOL)",
+      "type": "�lksel",
+      "date": "2025.12.13 11:06:10",
+      "lat": 39.0872,
+      "lng": 40.7738,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "17.8",
+      "coordinates": [
+        40.7738,
+        39.0872
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.7738,
+            39.0872
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ALATEPE-(BINGOL)",
+          "time": "2025.12.13 11:06:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.13",
+      "date_hour": "11:06:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGOL"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.12.13 10:34:14",
+      "lat": 36.11,
+      "lng": 24.9352,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "9.4",
+      "coordinates": [
+        24.9352,
+        36.11
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.9352,
+            36.11
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "EGE DENIZI",
+          "time": "2025.12.13 10:34:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.13",
+      "date_hour": "10:34:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "ESMEDERE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.10 04:37:03",
-      "lat": 39.3315,
-      "lng": 28.0615,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "23.3",
-      "coordinates": [
-        28.0615,
-        39.3315
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0615,
-            39.3315
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ESMEDERE-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.10 04:37:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.10",
-      "date_hour": "04:37:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.10 04:33:43",
-      "lat": 39.1648,
-      "lng": 28.2473,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "10.9",
-      "coordinates": [
-        28.2473,
-        39.1648
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2473,
-            39.1648
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.10 04:33:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.10",
-      "date_hour": "04:33:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
