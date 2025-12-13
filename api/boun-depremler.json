@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-13T09:43:36.976Z",
+  "lastUpdate": "2025-12-13T09:52:08.555Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOKOVA-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.12.13 12:41:18",
+      "lat": 37.0563,
+      "lng": 28.3813,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "2.5",
+      "coordinates": [
+        28.3813,
+        37.0563
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3813,
+            37.0563
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "GOKOVA-ULA (MUGLA)",
+          "time": "2025.12.13 12:41:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.13",
+      "date_hour": "12:41:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "BAHCEDERE-(BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.10 05:02:01",
-      "lat": 39.1755,
-      "lng": 28.218,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "10.4",
-      "coordinates": [
-        28.218,
-        39.1755
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.218,
-            39.1755
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "AKTAS-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.10 05:02:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.10",
-      "date_hour": "05:02:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
