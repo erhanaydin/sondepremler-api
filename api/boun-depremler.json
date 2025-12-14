@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-14T19:39:36.287Z",
+  "lastUpdate": "2025-12-14T19:48:05.101Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -39,6 +39,42 @@
       "city": "AKSARAY"
     },
     {
+      "title": "HILAL-ULUDERE (SIRNAK)",
+      "type": "�lksel",
+      "date": "2025.12.14 21:51:55",
+      "lat": 37.555,
+      "lng": 42.7262,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "7.9",
+      "coordinates": [
+        42.7262,
+        37.555
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            42.7262,
+            37.555
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "HILAL-ULUDERE (SIRNAK)",
+          "time": "2025.12.14 21:51:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.14",
+      "date_hour": "21:51:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SIRNAK"
+    },
+    {
       "title": "ILICA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
       "date": "2025.12.14 21:37:40",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "SOGUTLU-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.12.14 21:13:36",
+      "lat": 38.1783,
+      "lng": 38.6187,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "2.4",
+      "coordinates": [
+        38.6187,
+        38.1783
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.6187,
+            38.1783
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "SOGUTLU-PUTURGE (MALATYA)",
+          "time": "2025.12.14 21:13:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.14",
+      "date_hour": "21:13:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "ULUDERE-AHLAT (BITLIS)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.12.11 05:58:02",
-      "lat": 40.3895,
-      "lng": 24.1172,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "6.7",
-      "coordinates": [
-        24.1172,
-        40.3895
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.1172,
-            40.3895
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "YUNANISTAN",
-          "time": "2025.12.11 05:58:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.11",
-      "date_hour": "05:58:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "KARAGOL-CELIKHAN (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.12.11 05:46:23",
-      "lat": 38.0847,
-      "lng": 38.4155,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "1.1",
-      "coordinates": [
-        38.4155,
-        38.0847
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.4155,
-            38.0847
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "KARAGOL-CELIKHAN (ADIYAMAN)",
-          "time": "2025.12.11 05:46:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.11",
-      "date_hour": "05:46:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
