@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-14T22:46:54.393Z",
+  "lastUpdate": "2025-12-14T22:55:24.779Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EVCILER-SOMA (MANISA)",
+      "type": "�lksel",
+      "date": "2025.12.15 01:41:41",
+      "lat": 39.2333,
+      "lng": 27.6898,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        27.6898,
+        39.2333
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.6898,
+            39.2333
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "EVCILER-SOMA (MANISA)",
+          "time": "2025.12.15 01:41:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.15",
+      "date_hour": "01:41:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "AMBARCIK-YAZIHAN (MALATYA)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.15 01:35:22",
+      "lat": 39.1602,
+      "lng": 28.1852,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "9.8",
+      "coordinates": [
+        28.1852,
+        39.1602
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1852,
+            39.1602
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.15 01:35:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.15",
+      "date_hour": "01:35:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "TATLAR-NURHAK (KAHRAMANMARAS)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.11 08:51:40",
-      "lat": 39.1452,
-      "lng": 28.1402,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "21.2",
-      "coordinates": [
-        28.1402,
-        39.1452
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1402,
-            39.1452
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.11 08:51:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.11",
-      "date_hour": "08:51:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "GOKLER-ORTAKOY (AKSARAY)",
-      "type": "�lksel",
-      "date": "2025.12.11 08:50:30",
-      "lat": 38.7665,
-      "lng": 34.0472,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.5",
-      "coordinates": [
-        34.0472,
-        38.7665
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.0472,
-            38.7665
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "GOKLER-ORTAKOY (AKSARAY)",
-          "time": "2025.12.11 08:50:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.11",
-      "date_hour": "08:50:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKSARAY"
     }
   ]
 }
