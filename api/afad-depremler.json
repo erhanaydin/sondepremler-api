@@ -36,6 +36,42 @@
     "city": "Balıkesir"
   },
   {
+    "title": "Sincik (Adıyaman)",
+    "type": "İlksel",
+    "date": "2025-12-14 03:35:10",
+    "lat": 38.10694,
+    "lng": 38.46833,
+    "md": "-.-",
+    "ml": "0.9",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      38.46833,
+      38.10694
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.46833,
+          38.10694
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sincik (Adıyaman) (Adıyaman)",
+        "time": 1765683310000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-12-14",
+    "date_hour": "03:35:10",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Adıyaman"
+  },
+  {
     "title": "Merkez (Bingöl)",
     "type": "İlksel",
     "date": "2025-12-14 03:24:16",
@@ -19150,41 +19186,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Ege Denizi - [88.14 km] Datça (Muğla)",
-    "type": "İlksel",
-    "date": "2025-12-11 04:53:42",
-    "lat": 35.90111,
-    "lng": 27.39667,
-    "md": "-.-",
-    "ml": "1.8",
-    "mw": "-.-",
-    "depth": 6.93,
-    "coordinates": [
-      27.39667,
-      35.90111
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.39667,
-          35.90111
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi - [88.14 km] Datça (Muğla) (Muğla)",
-        "time": 1765428822000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-11",
-    "date_hour": "04:53:42",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
   }
 ]

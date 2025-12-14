@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-14T04:44:07.383Z",
+  "lastUpdate": "2025-12-14T04:58:43.178Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -682,6 +682,42 @@
       "location_properties": "",
       "date_day": "2025.12.14",
       "date_hour": "05:07:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.14 04:49:53",
+      "lat": 39.175,
+      "lng": 28.2157,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "10.0",
+      "coordinates": [
+        28.2157,
+        39.175
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2157,
+            39.175
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.14 04:49:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.14",
+      "date_hour": "04:49:53",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KARBASAN-HISARCIK (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.12.10 22:18:04",
-      "lat": 39.1843,
-      "lng": 29.3907,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "8.9",
-      "coordinates": [
-        29.3907,
-        39.1843
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.3907,
-            39.1843
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "KARBASAN-HISARCIK (KUTAHYA)",
-          "time": "2025.12.10 22:18:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.10",
-      "date_hour": "22:18:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
