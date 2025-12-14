@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-14T10:08:48.656Z",
+  "lastUpdate": "2025-12-14T10:33:32.523Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOZLER-(DENIZLI)",
+      "type": "�lksel",
+      "date": "2025.12.14 13:21:23",
+      "lat": 38.1073,
+      "lng": 29.111,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "7.6",
+      "coordinates": [
+        29.111,
+        38.1073
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.111,
+            38.1073
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "GOZLER-(DENIZLI)",
+          "time": "2025.12.14 13:21:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.14",
+      "date_hour": "13:21:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "SOGUTLU-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KESTEL-NAZILLI (AYDIN)",
-      "type": "�lksel",
-      "date": "2025.12.11 01:31:21",
-      "lat": 37.9592,
-      "lng": 28.4363,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "2.2",
-      "coordinates": [
-        28.4363,
-        37.9592
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.4363,
-            37.9592
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KESTEL-NAZILLI (AYDIN)",
-          "time": "2025.12.11 01:31:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.11",
-      "date_hour": "01:31:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AYDIN"
     }
   ]
 }
