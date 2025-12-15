@@ -1,5 +1,41 @@
 [
   {
+    "title": "Antakya (Hatay)",
+    "type": "İlksel",
+    "date": "2025-12-15 09:20:00",
+    "lat": 36.24444,
+    "lng": 36.20028,
+    "md": "-.-",
+    "ml": "4.2",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      36.20028,
+      36.24444
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.20028,
+          36.24444
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Antakya (Hatay) (Hatay)",
+        "time": 1765790400000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-12-15",
+    "date_hour": "09:20:00",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Hatay"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "Güncellenmiş",
     "date": "2025-12-15 08:51:46",
@@ -15298,77 +15334,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Hatay"
-  },
-  {
-    "title": "Kula (Manisa)",
-    "type": "İlksel",
-    "date": "2025-12-12 09:38:10",
-    "lat": 38.52667,
-    "lng": 28.51361,
-    "md": "-.-",
-    "ml": "0.8",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.51361,
-      38.52667
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.51361,
-          38.52667
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Kula (Manisa) (Manisa)",
-        "time": 1765532290000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-12",
-    "date_hour": "09:38:10",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Manisa"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-12-12 09:27:07",
-    "lat": 39.20861,
-    "lng": 28.29861,
-    "md": "-.-",
-    "ml": "1.8",
-    "mw": "-.-",
-    "depth": 6.84,
-    "coordinates": [
-      28.29861,
-      39.20861
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.29861,
-          39.20861
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1765531627000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-12",
-    "date_hour": "09:27:07",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
