@@ -360,6 +360,42 @@
     "city": "Çanakkale"
   },
   {
+    "title": "Maden (Elazığ)",
+    "type": "İlksel",
+    "date": "2025-12-16 17:51:29",
+    "lat": 38.4875,
+    "lng": 39.65972,
+    "md": "-.-",
+    "ml": "2.4",
+    "mw": "-.-",
+    "depth": 9.73,
+    "coordinates": [
+      39.65972,
+      38.4875
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.65972,
+          38.4875
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Maden (Elazığ) (Elazığ)",
+        "time": 1765907489000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-12-16",
+    "date_hour": "17:51:29",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Elazığ"
+  },
+  {
     "title": "Biga (Çanakkale)",
     "type": "İlksel",
     "date": "2025-12-16 17:51:22",
@@ -15874,77 +15910,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "İzmir"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-12-13 19:21:35",
-    "lat": 39.20444,
-    "lng": 28.165,
-    "md": "-.-",
-    "ml": "2.5",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.165,
-      39.20444
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.165,
-          39.20444
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1765653695000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-13",
-    "date_hour": "19:21:35",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-12-13 19:18:39",
-    "lat": 39.21917,
-    "lng": 28.00528,
-    "md": "-.-",
-    "ml": "2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.00528,
-      39.21917
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.00528,
-          39.21917
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1765653519000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-13",
-    "date_hour": "19:18:39",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
