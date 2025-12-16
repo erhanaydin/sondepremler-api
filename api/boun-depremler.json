@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-16T07:51:05.468Z",
+  "lastUpdate": "2025-12-16T07:59:20.622Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
+    },
+    {
+      "title": "TABANLI-(VAN)",
+      "type": "�lksel",
+      "date": "2025.12.16 10:16:45",
+      "lat": 38.7503,
+      "lng": 43.382,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "7.0",
+      "coordinates": [
+        43.382,
+        38.7503
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.382,
+            38.7503
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "TABANLI-(VAN)",
+          "time": "2025.12.16 10:16:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.16",
+      "date_hour": "10:16:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "VAN"
     },
     {
       "title": "GUNDOGDU-MARMARA (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.12.12 08:39:58",
-      "lat": 39.2485,
-      "lng": 29.0527,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "16.9",
-      "coordinates": [
-        29.0527,
-        39.2485
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0527,
-            39.2485
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.12.12 08:39:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.12",
-      "date_hour": "08:39:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
