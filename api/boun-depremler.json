@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-16T07:24:16.236Z",
+  "lastUpdate": "2025-12-16T07:41:07.920Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GUNDOGDU-MARMARA (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.16 10:10:26",
+      "lat": 40.562,
+      "lng": 27.57,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "14.2",
+      "coordinates": [
+        27.57,
+        40.562
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.57,
+            40.562
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "GUNDOGDU-MARMARA (BALIKESIR)",
+          "time": "2025.12.16 10:10:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.16",
+      "date_hour": "10:10:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "DISBUDAK-LAPSEKI (CANAKKALE)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SUGUL-DARENDE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.12 08:23:14",
-      "lat": 38.455,
-      "lng": 37.5088,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "17.2",
-      "coordinates": [
-        37.5088,
-        38.455
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.5088,
-            38.455
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "SUGUL-DARENDE (MALATYA)",
-          "time": "2025.12.12 08:23:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.12",
-      "date_hour": "08:23:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
