@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-16T21:20:25.001Z",
+  "lastUpdate": "2025-12-16T21:37:42.369Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -685,6 +685,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.12.16 21:47:50",
+      "lat": 36.2392,
+      "lng": 25.5693,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        25.5693,
+        36.2392
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.5693,
+            36.2392
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "EGE DENIZI",
+          "time": "2025.12.16 21:47:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.16",
+      "date_hour": "21:47:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "AGCASAR-NURHAK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.12.12 19:41:01",
-      "lat": 38.0535,
-      "lng": 37.338,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        37.338,
-        38.0535
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.338,
-            38.0535
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "AGCASAR-NURHAK (KAHRAMANMARAS)",
-          "time": "2025.12.12 19:41:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.12",
-      "date_hour": "19:41:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
