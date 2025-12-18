@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-18T07:48:22.220Z",
+  "lastUpdate": "2025-12-18T07:56:37.905Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CANDIR-MILAS (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.12.18 10:40:30",
+      "lat": 37.3837,
+      "lng": 27.6188,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "17.4",
+      "coordinates": [
+        27.6188,
+        37.3837
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.6188,
+            37.3837
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "CANDIR-MILAS (MUGLA)",
+          "time": "2025.12.18 10:40:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.18",
+      "date_hour": "10:40:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.12.14 02:37:12",
-      "lat": 35.2482,
-      "lng": 26.2072,
-      "md": "-.-",
-      "ml": "3.3",
-      "mw": "3.3",
-      "depth": "4.3",
-      "coordinates": [
-        26.2072,
-        35.2482
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.2072,
-            35.2482
-          ]
-        },
-        "properties": {
-          "mag": "3.3",
-          "place": "GIRIT ADASI (AKDENIZ)",
-          "time": "2025.12.14 02:37:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.14",
-      "date_hour": "02:37:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
