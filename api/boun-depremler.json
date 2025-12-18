@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-12-18T19:09:16.495Z",
+  "lastUpdate": "2025-12-18T19:25:58.571Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SARIBUDAK-GENC (BINGOL)",
+      "type": "�lksel",
+      "date": "2025.12.18 22:01:00",
+      "lat": 38.537,
+      "lng": 40.3308,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        40.3308,
+        38.537
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.3308,
+            38.537
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "SARIBUDAK-GENC (BINGOL)",
+          "time": "2025.12.18 22:01:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.18",
+      "date_hour": "22:01:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGOL"
+    },
+    {
+      "title": "HISARLI-BIGA (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2025.12.18 21:57:14",
+      "lat": 40.2922,
+      "lng": 27.0495,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "11.5",
+      "coordinates": [
+        27.0495,
+        40.2922
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.0495,
+            40.2922
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "HISARLI-BIGA (CANAKKALE)",
+          "time": "2025.12.18 21:57:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.18",
+      "date_hour": "21:57:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
     {
       "title": "GURLEYIK-DALAMAN (MUGLA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.14 11:21:51",
-      "lat": 39.1882,
-      "lng": 28.3403,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "7.6",
-      "coordinates": [
-        28.3403,
-        39.1882
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3403,
-            39.1882
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.14 11:21:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.14",
-      "date_hour": "11:21:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "AKSU-SINCIK (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.12.14 11:06:11",
-      "lat": 38.1278,
-      "lng": 38.4985,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "1.0",
-      "coordinates": [
-        38.4985,
-        38.1278
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.4985,
-            38.1278
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "AKSU-SINCIK (ADIYAMAN)",
-          "time": "2025.12.14 11:06:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.14",
-      "date_hour": "11:06:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
