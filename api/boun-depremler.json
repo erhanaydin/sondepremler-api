@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-18T17:43:21.713Z",
+  "lastUpdate": "2025-12-18T17:55:03.647Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -109,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "GOLCUK-(BOLU)",
+      "type": "�lksel",
+      "date": "2025.12.18 19:54:35",
+      "lat": 40.8312,
+      "lng": 31.6775,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        31.6775,
+        40.8312
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.6775,
+            40.8312
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "GOLCUK-(BOLU)",
+          "time": "2025.12.18 19:54:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.18",
+      "date_hour": "19:54:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BOLU"
     },
     {
       "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "HAYDARIYE-GEMLIK (BURSA)",
-      "type": "�lksel",
-      "date": "2025.12.14 08:15:18",
-      "lat": 40.486,
-      "lng": 29.1343,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        29.1343,
-        40.486
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1343,
-            40.486
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "HAYDARIYE-GEMLIK (BURSA)",
-          "time": "2025.12.14 08:15:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.14",
-      "date_hour": "08:15:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
     }
   ]
 }
