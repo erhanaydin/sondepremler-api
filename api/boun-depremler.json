@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-18T04:58:32.368Z",
+  "lastUpdate": "2025-12-18T05:26:43.363Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -613,6 +613,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "KUZEVLERI-BESNI (ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2025.12.18 04:13:12",
+      "lat": 37.7148,
+      "lng": 37.7195,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "10.8",
+      "coordinates": [
+        37.7195,
+        37.7148
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.7195,
+            37.7148
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "KUZEVLERI-BESNI (ADIYAMAN)",
+          "time": "2025.12.18 04:13:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.18",
+      "date_hour": "04:13:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
     },
     {
       "title": "KOBASDERE-AKHISAR (MANISA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YAKINCA-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.14 00:14:56",
-      "lat": 38.3125,
-      "lng": 38.2137,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        38.2137,
-        38.3125
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.2137,
-            38.3125
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YAKINCA-YESILYURT (MALATYA)",
-          "time": "2025.12.14 00:14:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.14",
-      "date_hour": "00:14:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
