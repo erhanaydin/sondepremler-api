@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-12-18T23:38:27.310Z",
+  "lastUpdate": "2025-12-18T23:47:41.938Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.12.19 02:36:02",
+      "lat": 35.9942,
+      "lng": 26.8637,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "14.8",
+      "coordinates": [
+        26.8637,
+        35.9942
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.8637,
+            35.9942
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "EGE DENIZI",
+          "time": "2025.12.19 02:36:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.19",
+      "date_hour": "02:36:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "ORTULUCE-BIGA (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2025.12.19 02:32:11",
+      "lat": 40.3995,
+      "lng": 27.1855,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "13.2",
+      "coordinates": [
+        27.1855,
+        40.3995
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.1855,
+            40.3995
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "ORTULUCE-BIGA (CANAKKALE)",
+          "time": "2025.12.19 02:32:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.19",
+      "date_hour": "02:32:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
     {
       "title": "DURULDU-(MALATYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKSARAY"
-    },
-    {
-      "title": "HILAL-ULUDERE (SIRNAK)",
-      "type": "�lksel",
-      "date": "2025.12.14 21:51:55",
-      "lat": 37.555,
-      "lng": 42.7262,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "7.9",
-      "coordinates": [
-        42.7262,
-        37.555
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.7262,
-            37.555
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "HILAL-ULUDERE (SIRNAK)",
-          "time": "2025.12.14 21:51:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.14",
-      "date_hour": "21:51:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIRNAK"
-    },
-    {
-      "title": "ILICA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.14 21:37:40",
-      "lat": 39.1955,
-      "lng": 28.2582,
-      "md": "-.-",
-      "ml": "3.1",
-      "mw": "2.9",
-      "depth": "8.0",
-      "coordinates": [
-        28.2582,
-        39.1955
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2582,
-            39.1955
-          ]
-        },
-        "properties": {
-          "mag": "3.1",
-          "place": "ILICA-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.14 21:37:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.14",
-      "date_hour": "21:37:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
