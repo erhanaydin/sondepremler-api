@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-12-18T10:19:01.736Z",
+  "lastUpdate": "2025-12-18T10:43:50.511Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EMIRLI-PENDIK (ISTANBUL)",
+      "type": "�lksel",
+      "date": "2025.12.18 13:25:54",
+      "lat": 41.0057,
+      "lng": 29.3283,
+      "md": "-.-",
+      "ml": "0.7",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        29.3283,
+        41.0057
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.3283,
+            41.0057
+          ]
+        },
+        "properties": {
+          "mag": "0.7",
+          "place": "EMIRLI-PENDIK (ISTANBUL)",
+          "time": "2025.12.18 13:25:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.18",
+      "date_hour": "13:25:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ISTANBUL"
+    },
+    {
+      "title": "DUMLU-CEYHAN (ADANA)",
+      "type": "�lksel",
+      "date": "2025.12.18 13:03:27",
+      "lat": 37.1523,
+      "lng": 35.7182,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "21.3",
+      "coordinates": [
+        35.7182,
+        37.1523
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.7182,
+            37.1523
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "DUMLU-CEYHAN (ADANA)",
+          "time": "2025.12.18 13:03:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.18",
+      "date_hour": "13:03:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SAPACA-HONAZ (DENIZLI)",
-      "type": "�lksel",
-      "date": "2025.12.14 04:07:42",
-      "lat": 37.8067,
-      "lng": 29.4433,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "8.7",
-      "coordinates": [
-        29.4433,
-        37.8067
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.4433,
-            37.8067
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "SAPACA-HONAZ (DENIZLI)",
-          "time": "2025.12.14 04:07:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.14",
-      "date_hour": "04:07:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
-    },
-    {
-      "title": "HISARLI-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.12.14 04:03:20",
-      "lat": 40.289,
-      "lng": 27.0267,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "14.4",
-      "coordinates": [
-        27.0267,
-        40.289
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0267,
-            40.289
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "HISARLI-BIGA (CANAKKALE)",
-          "time": "2025.12.14 04:03:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.14",
-      "date_hour": "04:03:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
