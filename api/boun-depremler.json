@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-19T21:55:20.805Z",
+  "lastUpdate": "2025-12-19T22:15:41.638Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTARLI-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.12.20 00:53:26",
+      "lat": 38.2647,
+      "lng": 38.823,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "18.0",
+      "coordinates": [
+        38.823,
+        38.2647
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.823,
+            38.2647
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "AKTARLI-PUTURGE (MALATYA)",
+          "time": "2025.12.20 00:53:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.20",
+      "date_hour": "00:53:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "TEKNECIK-TATVAN (BITLIS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ISACA-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.12.15 19:37:12",
-      "lat": 39.1273,
-      "lng": 28.1053,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "11.1",
-      "coordinates": [
-        28.1053,
-        39.1273
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1053,
-            39.1273
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ISACA-AKHISAR (MANISA)",
-          "time": "2025.12.15 19:37:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.15",
-      "date_hour": "19:37:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
