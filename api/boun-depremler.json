@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-19T09:00:51.252Z",
+  "lastUpdate": "2025-12-19T09:32:08.628Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YANISLI-GULNAR (MERSIN)",
+      "type": "�lksel",
+      "date": "2025.12.19 11:55:12",
+      "lat": 36.1572,
+      "lng": 33.5203,
+      "md": "-.-",
+      "ml": "0.9",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        33.5203,
+        36.1572
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.5203,
+            36.1572
+          ]
+        },
+        "properties": {
+          "mag": "0.9",
+          "place": "YANISLI-GULNAR (MERSIN)",
+          "time": "2025.12.19 11:55:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.19",
+      "date_hour": "11:55:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MERSIN"
+    },
     {
       "title": "KESTEL-BUCAK (BURDUR)",
       "type": "�lksel",
@@ -217,6 +253,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "AGCASAR-NURHAK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.12.19 10:26:54",
+      "lat": 38.0785,
+      "lng": 37.3567,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "3.7",
+      "coordinates": [
+        37.3567,
+        38.0785
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.3567,
+            38.0785
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "AGCASAR-NURHAK (KAHRAMANMARAS)",
+          "time": "2025.12.19 10:26:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.19",
+      "date_hour": "10:26:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
     },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.12.15 05:41:42",
-      "lat": 38.8612,
-      "lng": 26.6487,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "11.3",
-      "coordinates": [
-        26.6487,
-        38.8612
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.6487,
-            38.8612
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-          "time": "2025.12.15 05:41:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.15",
-      "date_hour": "05:41:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
-    },
-    {
-      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2025.12.15 05:38:43",
-      "lat": 38.8787,
-      "lng": 26.6255,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "9.1",
-      "coordinates": [
-        26.6255,
-        38.8787
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.6255,
-            38.8787
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-          "time": "2025.12.15 05:38:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.15",
-      "date_hour": "05:38:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
