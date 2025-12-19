@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-19T23:43:53.977Z",
+  "lastUpdate": "2025-12-19T23:52:07.502Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KASPINAR-RESADIYE (TOKAT)",
+      "type": "�lksel",
+      "date": "2025.12.20 02:38:38",
+      "lat": 40.429,
+      "lng": 37.3702,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        37.3702,
+        40.429
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.3702,
+            40.429
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KASPINAR-RESADIYE (TOKAT)",
+          "time": "2025.12.20 02:38:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.20",
+      "date_hour": "02:38:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "TOKAT"
+    },
     {
       "title": "CALIS-ELBISTAN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YAGCA-HEKIMHAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.15 22:00:21",
-      "lat": 38.7453,
-      "lng": 38.0375,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "6.6",
-      "coordinates": [
-        38.0375,
-        38.7453
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.0375,
-            38.7453
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YAGCA-HEKIMHAN (MALATYA)",
-          "time": "2025.12.15 22:00:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.15",
-      "date_hour": "22:00:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
