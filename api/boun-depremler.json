@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-19T13:33:40.735Z",
+  "lastUpdate": "2025-12-19T13:51:39.132Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAOMER-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.12.19 16:19:08",
+      "lat": 38.1365,
+      "lng": 36.7302,
+      "md": "-.-",
+      "ml": "4.1",
+      "mw": "4.0",
+      "depth": "4.0",
+      "coordinates": [
+        36.7302,
+        38.1365
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.7302,
+            38.1365
+          ]
+        },
+        "properties": {
+          "mag": "4.1",
+          "place": "KARAOMER-GOKSUN (KAHRAMANMARAS)",
+          "time": "2025.12.19 16:19:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.19",
+      "date_hour": "16:19:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "DALLITEPE-(BINGOL)",
-      "type": "�lksel",
-      "date": "2025.12.15 10:33:26",
-      "lat": 39.062,
-      "lng": 40.5763,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "16.5",
-      "coordinates": [
-        40.5763,
-        39.062
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.5763,
-            39.062
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "DALLITEPE-(BINGOL)",
-          "time": "2025.12.15 10:33:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.15",
-      "date_hour": "10:33:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
