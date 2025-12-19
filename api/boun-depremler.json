@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-19T15:52:50.288Z",
+  "lastUpdate": "2025-12-19T16:11:58.830Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2025.12.19 18:40:24",
+      "lat": 40.2087,
+      "lng": 24.5605,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        24.5605,
+        40.2087
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.5605,
+            40.2087
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "EGE DENIZI",
+          "time": "2025.12.19 18:40:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.19",
+      "date_hour": "18:40:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YALINBUDAK-AKCADAG (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CATAKLI-CEYHAN (ADANA)",
-      "type": "�lksel",
-      "date": "2025.12.15 11:53:47",
-      "lat": 37.1297,
-      "lng": 36.049,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "11.7",
-      "coordinates": [
-        36.049,
-        37.1297
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.049,
-            37.1297
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "CATAKLI-CEYHAN (ADANA)",
-          "time": "2025.12.15 11:53:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.15",
-      "date_hour": "11:53:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
