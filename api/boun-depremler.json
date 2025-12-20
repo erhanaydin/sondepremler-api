@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-20T19:12:20.341Z",
+  "lastUpdate": "2025-12-20T19:26:16.616Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)",
+      "type": "�lksel",
+      "date": "2025.12.20 21:45:10",
+      "lat": 37.0257,
+      "lng": 36.0708,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "5.6",
+      "coordinates": [
+        36.0708,
+        37.0257
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.0708,
+            37.0257
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)",
+          "time": "2025.12.20 21:45:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.20",
+      "date_hour": "21:45:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "OSMANIYE"
+    },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ADIGUZEL-(VAN)",
-      "type": "�lksel",
-      "date": "2025.12.16 10:41:38",
-      "lat": 38.694,
-      "lng": 43.4488,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "21.0",
-      "coordinates": [
-        43.4488,
-        38.694
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.4488,
-            38.694
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ADIGUZEL-(VAN)",
-          "time": "2025.12.16 10:41:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.16",
-      "date_hour": "10:41:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "VAN"
     }
   ]
 }
