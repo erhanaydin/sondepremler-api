@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-20T09:32:47.731Z",
+  "lastUpdate": "2025-12-20T09:43:37.395Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAKABASI-GUMUSOVA (DUZCE)",
+      "type": "�lksel",
+      "date": "2025.12.20 12:25:59",
+      "lat": 40.8405,
+      "lng": 30.9845,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "19.4",
+      "coordinates": [
+        30.9845,
+        40.8405
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.9845,
+            40.8405
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "YAKABASI-GUMUSOVA (DUZCE)",
+          "time": "2025.12.20 12:25:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.20",
+      "date_hour": "12:25:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DUZCE"
+    },
     {
       "title": "CAMKOY-BIGADIC (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.12.16 05:06:58",
-      "lat": 36.5512,
-      "lng": 25.4613,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "7.4",
-      "coordinates": [
-        25.4613,
-        36.5512
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.4613,
-            36.5512
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "EGE DENIZI",
-          "time": "2025.12.16 05:06:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.16",
-      "date_hour": "05:06:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
