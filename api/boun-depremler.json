@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-20T15:58:45.411Z",
+  "lastUpdate": "2025-12-20T16:28:15.424Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YARPUZ-(OSMANIYE)",
+      "type": "�lksel",
+      "date": "2025.12.20 19:04:52",
+      "lat": 37.0163,
+      "lng": 36.3885,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "4.9",
+      "coordinates": [
+        36.3885,
+        37.0163
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.3885,
+            37.0163
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "YARPUZ-(OSMANIYE)",
+          "time": "2025.12.20 19:04:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.20",
+      "date_hour": "19:04:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "OSMANIYE"
+    },
     {
       "title": "CALIS-ELBISTAN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
+    },
+    {
+      "title": "SARIERIK-PAZARCIK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.12.20 17:18:36",
+      "lat": 37.3495,
+      "lng": 37.0933,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "9.3",
+      "coordinates": [
+        37.0933,
+        37.3495
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.0933,
+            37.3495
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "SARIERIK-PAZARCIK (KAHRAMANMARAS)",
+          "time": "2025.12.20 17:18:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.20",
+      "date_hour": "17:18:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
     },
     {
       "title": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "ORENLICE-ULAS (SIVAS)",
-      "type": "�lksel",
-      "date": "2025.12.16 08:53:48",
-      "lat": 39.422,
-      "lng": 37.2692,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        37.2692,
-        39.422
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.2692,
-            39.422
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ORENLICE-ULAS (SIVAS)",
-          "time": "2025.12.16 08:53:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.16",
-      "date_hour": "08:53:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
-    },
-    {
-      "title": "KIBRIS-ZUMRUTKOY",
-      "type": "�lksel",
-      "date": "2025.12.16 08:46:52",
-      "lat": 35.0068,
-      "lng": 33.0707,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "30.3",
-      "coordinates": [
-        33.0707,
-        35.0068
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.0707,
-            35.0068
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "KIBRIS-ZUMRUTKOY",
-          "time": "2025.12.16 08:46:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.16",
-      "date_hour": "08:46:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
