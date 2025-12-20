@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-20T14:44:53.251Z",
+  "lastUpdate": "2025-12-20T14:53:17.804Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAKIRAN-SARAYKOY (DENIZLI)",
+      "type": "�lksel",
+      "date": "2025.12.20 17:40:07",
+      "lat": 37.923,
+      "lng": 28.8573,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "11.9",
+      "coordinates": [
+        28.8573,
+        37.923
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8573,
+            37.923
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KARAKIRAN-SARAYKOY (DENIZLI)",
+          "time": "2025.12.20 17:40:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.20",
+      "date_hour": "17:40:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "HISARLI-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.12.16 08:16:17",
-      "lat": 40.2917,
-      "lng": 27.0495,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "13.8",
-      "coordinates": [
-        27.0495,
-        40.2917
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0495,
-            40.2917
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "HISARLI-BIGA (CANAKKALE)",
-          "time": "2025.12.16 08:16:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.16",
-      "date_hour": "08:16:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
