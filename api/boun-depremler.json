@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-20T05:18:12.604Z",
+  "lastUpdate": "2025-12-20T05:38:30.205Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.12.20 08:07:47",
+      "lat": 39.0277,
+      "lng": 25.9545,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "8.5",
+      "coordinates": [
+        25.9545,
+        39.0277
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.9545,
+            39.0277
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+          "time": "2025.12.20 08:07:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.20",
+      "date_hour": "08:07:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.16 03:23:47",
-      "lat": 39.144,
-      "lng": 28.283,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "8.3",
-      "coordinates": [
-        28.283,
-        39.144
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.283,
-            39.144
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.16 03:23:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.16",
-      "date_hour": "03:23:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
