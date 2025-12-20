@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-20T15:10:00.349Z",
+  "lastUpdate": "2025-12-20T15:29:48.147Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CALIS-ELBISTAN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.12.20 17:53:18",
+      "lat": 38.1283,
+      "lng": 37.0287,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        37.0287,
+        38.1283
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.0287,
+            38.1283
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "CALIS-ELBISTAN (KAHRAMANMARAS)",
+          "time": "2025.12.20 17:53:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.20",
+      "date_hour": "17:53:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "BOYALILAR-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "AKKOCALI-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.12.16 08:44:28",
-      "lat": 39.1992,
-      "lng": 27.9505,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "9.4",
-      "coordinates": [
-        27.9505,
-        39.1992
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9505,
-            39.1992
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "AKKOCALI-AKHISAR (MANISA)",
-          "time": "2025.12.16 08:44:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.16",
-      "date_hour": "08:44:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
