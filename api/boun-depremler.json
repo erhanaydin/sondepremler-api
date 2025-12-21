@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-21T12:34:16.980Z",
+  "lastUpdate": "2025-12-21T13:07:19.245Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KORUCAK-CELIKHAN (ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2025.12.21 15:16:20",
+      "lat": 38.095,
+      "lng": 38.3803,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "9.0",
+      "coordinates": [
+        38.3803,
+        38.095
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.3803,
+            38.095
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KORUCAK-CELIKHAN (ADIYAMAN)",
+          "time": "2025.12.21 15:16:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.21",
+      "date_hour": "15:16:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
+    },
     {
       "title": "YUNANISTAN",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "HISARLI-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.12.16 22:18:45",
-      "lat": 40.2873,
-      "lng": 27.0448,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "11.2",
-      "coordinates": [
-        27.0448,
-        40.2873
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0448,
-            40.2873
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "HISARLI-BIGA (CANAKKALE)",
-          "time": "2025.12.16 22:18:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.16",
-      "date_hour": "22:18:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
