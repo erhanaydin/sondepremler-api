@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-21T17:32:12.686Z",
+  "lastUpdate": "2025-12-21T17:44:01.095Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALTINDERE-(DENIZLI)",
+      "type": "�lksel",
+      "date": "2025.12.21 20:21:20",
+      "lat": 37.7977,
+      "lng": 28.9545,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "9.1",
+      "coordinates": [
+        28.9545,
+        37.7977
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9545,
+            37.7977
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "ALTINDERE-(DENIZLI)",
+          "time": "2025.12.21 20:21:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.21",
+      "date_hour": "20:21:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "MOLLAAHMET-BABADAG (DENIZLI)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
+    },
+    {
+      "title": "KARACAOREN-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.21 19:55:19",
+      "lat": 39.1847,
+      "lng": 29.0448,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "1.7",
+      "coordinates": [
+        29.0448,
+        39.1847
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0448,
+            39.1847
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "KARACAOREN-SIMAV (KUTAHYA)",
+          "time": "2025.12.21 19:55:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.21",
+      "date_hour": "19:55:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "GURGENDERE-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.12.17 00:35:01",
-      "lat": 40.2905,
-      "lng": 27.023,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "9.6",
-      "coordinates": [
-        27.023,
-        40.2905
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.023,
-            40.2905
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "GURGENDERE-BIGA (CANAKKALE)",
-          "time": "2025.12.17 00:35:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.17",
-      "date_hour": "00:35:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
-    },
-    {
-      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.17 00:33:56",
-      "lat": 39.2342,
-      "lng": 28.0327,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "8.1",
-      "coordinates": [
-        28.0327,
-        39.2342
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0327,
-            39.2342
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.17 00:33:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.17",
-      "date_hour": "00:33:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
