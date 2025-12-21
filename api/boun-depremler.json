@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-21T04:51:36.271Z",
+  "lastUpdate": "2025-12-21T05:10:03.467Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.21 07:51:35",
+      "lat": 39.2227,
+      "lng": 29.0058,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "10.7",
+      "coordinates": [
+        29.0058,
+        39.2227
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0058,
+            39.2227
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.12.21 07:51:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.21",
+      "date_hour": "07:51:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "KURSUNLU-AKSU (ANTALYA)",
-      "type": "�lksel",
-      "date": "2025.12.16 16:11:01",
-      "lat": 37.0433,
-      "lng": 30.816,
-      "md": "-.-",
-      "ml": "3.8",
-      "mw": "3.6",
-      "depth": "86.7",
-      "coordinates": [
-        30.816,
-        37.0433
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.816,
-            37.0433
-          ]
-        },
-        "properties": {
-          "mag": "3.8",
-          "place": "KURSUNLU-AKSU (ANTALYA)",
-          "time": "2025.12.16 16:11:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.16",
-      "date_hour": "16:11:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANTALYA"
     }
   ]
 }
