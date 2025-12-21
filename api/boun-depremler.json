@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-21T06:49:19.838Z",
+  "lastUpdate": "2025-12-21T06:59:51.187Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKKOCALI-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2025.12.21 09:43:40",
+      "lat": 39.1767,
+      "lng": 27.9622,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "12.3",
+      "coordinates": [
+        27.9622,
+        39.1767
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9622,
+            39.1767
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "AKKOCALI-AKHISAR (MANISA)",
+          "time": "2025.12.21 09:43:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.21",
+      "date_hour": "09:43:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "YUNANISTAN",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KIBRIS-GIRNE",
-      "type": "�lksel",
-      "date": "2025.12.16 17:58:28",
-      "lat": 35.3118,
-      "lng": 33.3882,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        33.3882,
-        35.3118
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.3882,
-            35.3118
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KIBRIS-GIRNE",
-          "time": "2025.12.16 17:58:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.16",
-      "date_hour": "17:58:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
