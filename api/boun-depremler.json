@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-21T16:47:47.982Z",
+  "lastUpdate": "2025-12-21T16:56:35.098Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.21 19:42:44",
+      "lat": 39.2167,
+      "lng": 29.0157,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "10.8",
+      "coordinates": [
+        29.0157,
+        39.2167
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0157,
+            39.2167
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.12.21 19:42:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.21",
+      "date_hour": "19:42:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "OTMANLAR-KOYCEGIZ (MUGLA)",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "ECEMIS-LICE (DIYARBAKIR)",
+      "type": "�lksel",
+      "date": "2025.12.21 18:20:08",
+      "lat": 38.5863,
+      "lng": 40.4715,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "19.0",
+      "coordinates": [
+        40.4715,
+        38.5863
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.4715,
+            38.5863
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "ECEMIS-LICE (DIYARBAKIR)",
+          "time": "2025.12.21 18:20:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.21",
+      "date_hour": "18:20:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DIYARBAKIR"
     },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "HISARLI-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.12.16 23:29:38",
-      "lat": 40.284,
-      "lng": 27.0495,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "13.6",
-      "coordinates": [
-        27.0495,
-        40.284
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0495,
-            40.284
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "HISARLI-BIGA (CANAKKALE)",
-          "time": "2025.12.16 23:29:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.16",
-      "date_hour": "23:29:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.16 23:27:56",
-      "lat": 39.18,
-      "lng": 28.2285,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.4",
-      "coordinates": [
-        28.2285,
-        39.18
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2285,
-            39.18
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.16 23:27:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.16",
-      "date_hour": "23:27:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
