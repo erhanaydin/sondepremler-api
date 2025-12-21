@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-21T17:15:42.985Z",
+  "lastUpdate": "2025-12-21T17:32:12.686Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MOLLAAHMET-BABADAG (DENIZLI)",
+      "type": "�lksel",
+      "date": "2025.12.21 20:07:33",
+      "lat": 37.803,
+      "lng": 28.9462,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "7.1",
+      "coordinates": [
+        28.9462,
+        37.803
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9462,
+            37.803
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "MOLLAAHMET-BABADAG (DENIZLI)",
+          "time": "2025.12.21 20:07:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.21",
+      "date_hour": "20:07:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BALIKLICESME-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.12.17 00:19:38",
-      "lat": 40.3062,
-      "lng": 27.0643,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "10.9",
-      "coordinates": [
-        27.0643,
-        40.3062
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0643,
-            40.3062
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BALIKLICESME-BIGA (CANAKKALE)",
-          "time": "2025.12.17 00:19:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.17",
-      "date_hour": "00:19:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
