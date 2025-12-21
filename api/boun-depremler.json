@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-21T17:52:34.461Z",
+  "lastUpdate": "2025-12-21T18:13:01.487Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARACAOREN-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.21 20:22:27",
+      "lat": 39.168,
+      "lng": 29.0222,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "11.6",
+      "coordinates": [
+        29.0222,
+        39.168
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0222,
+            39.168
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "KARACAOREN-SIMAV (KUTAHYA)",
+          "time": "2025.12.21 20:22:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.21",
+      "date_hour": "20:22:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "ALTINDERE-(DENIZLI)",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
+    },
+    {
+      "title": "DIKMEN-KARACASU (AYDIN)",
+      "type": "�lksel",
+      "date": "2025.12.21 20:03:02",
+      "lat": 37.7222,
+      "lng": 28.8987,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "8.2",
+      "coordinates": [
+        28.8987,
+        37.7222
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8987,
+            37.7222
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "DIKMEN-KARACASU (AYDIN)",
+          "time": "2025.12.21 20:03:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.21",
+      "date_hour": "20:03:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AYDIN"
     },
     {
       "title": "KARACAOREN-SIMAV (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIRNAK"
-    },
-    {
-      "title": "SALMANIPAK-PAZARCIK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.12.17 00:49:05",
-      "lat": 37.4272,
-      "lng": 37.2118,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        37.2118,
-        37.4272
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.2118,
-            37.4272
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "SALMANIPAK-PAZARCIK (KAHRAMANMARAS)",
-          "time": "2025.12.17 00:49:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.17",
-      "date_hour": "00:49:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "KOZCESME-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.12.17 00:36:12",
-      "lat": 40.2662,
-      "lng": 27.0307,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "16.4",
-      "coordinates": [
-        27.0307,
-        40.2662
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0307,
-            40.2662
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KOZCESME-BIGA (CANAKKALE)",
-          "time": "2025.12.17 00:36:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.17",
-      "date_hour": "00:36:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
