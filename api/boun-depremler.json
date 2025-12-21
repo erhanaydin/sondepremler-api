@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-21T13:56:08.974Z",
+  "lastUpdate": "2025-12-21T14:15:55.490Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MUGLA (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.12.21 16:49:30",
+      "lat": 37.229,
+      "lng": 28.3455,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "19.6",
+      "coordinates": [
+        28.3455,
+        37.229
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3455,
+            37.229
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "MUGLA (MUGLA)",
+          "time": "2025.12.21 16:49:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.21",
+      "date_hour": "16:49:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "HISARLI-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.12.16 22:41:20",
-      "lat": 40.2848,
-      "lng": 27.0445,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "14.0",
-      "coordinates": [
-        27.0445,
-        40.2848
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0445,
-            40.2848
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "HISARLI-BIGA (CANAKKALE)",
-          "time": "2025.12.16 22:41:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.16",
-      "date_hour": "22:41:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
