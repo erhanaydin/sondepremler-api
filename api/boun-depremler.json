@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-22T14:44:32.190Z",
+  "lastUpdate": "2025-12-22T14:54:18.313Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.22 17:44:25",
+      "lat": 39.221,
+      "lng": 28.1535,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        28.1535,
+        39.221
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1535,
+            39.221
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.22 17:44:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.22",
+      "date_hour": "17:44:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "IKIZCE-YESILYURT (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "CITLIK-ELBISTAN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.12.17 17:14:54",
-      "lat": 38.2268,
-      "lng": 37.2728,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "9.1",
-      "coordinates": [
-        37.2728,
-        38.2268
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.2728,
-            38.2268
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "CITLIK-ELBISTAN (KAHRAMANMARAS)",
-          "time": "2025.12.17 17:14:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.17",
-      "date_hour": "17:14:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
