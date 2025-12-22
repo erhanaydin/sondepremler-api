@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-22T03:58:29.836Z",
+  "lastUpdate": "2025-12-22T04:42:49.595Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.12.22 07:19:38",
+      "lat": 40.3335,
+      "lng": 24.0892,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "12.6",
+      "coordinates": [
+        24.0892,
+        40.3335
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.0892,
+            40.3335
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "YUNANISTAN",
+          "time": "2025.12.22 07:19:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.22",
+      "date_hour": "07:19:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YAYKIN-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.17 06:36:07",
-      "lat": 39.2078,
-      "lng": 28.1362,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "12.4",
-      "coordinates": [
-        28.1362,
-        39.2078
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1362,
-            39.2078
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.17 06:36:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.17",
-      "date_hour": "06:36:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
