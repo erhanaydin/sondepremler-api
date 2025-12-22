@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-22T22:00:54.740Z",
+  "lastUpdate": "2025-12-22T22:29:09.971Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CEVIZLIK-KEMAH (ERZINCAN)",
+      "type": "�lksel",
+      "date": "2025.12.23 00:48:06",
+      "lat": 39.7453,
+      "lng": 39.1043,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        39.1043,
+        39.7453
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.1043,
+            39.7453
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "CEVIZLIK-KEMAH (ERZINCAN)",
+          "time": "2025.12.23 00:48:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.23",
+      "date_hour": "00:48:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZINCAN"
+    },
     {
       "title": "YUKARIORUKCU-AKCADAG (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "TEKIR-(KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.12.18 00:46:34",
-      "lat": 37.9103,
-      "lng": 36.6508,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "10.3",
-      "coordinates": [
-        36.6508,
-        37.9103
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.6508,
-            37.9103
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "TEKIR-(KAHRAMANMARAS)",
-          "time": "2025.12.18 00:46:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.18",
-      "date_hour": "00:46:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
