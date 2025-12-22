@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-22T17:32:07.952Z",
+  "lastUpdate": "2025-12-22T17:45:39.200Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIBRIS-LEFKOSA",
+      "type": "�lksel",
+      "date": "2025.12.22 20:29:19",
+      "lat": 34.8928,
+      "lng": 33.2433,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "49.1",
+      "coordinates": [
+        33.2433,
+        34.8928
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.2433,
+            34.8928
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "KIBRIS-LEFKOSA",
+          "time": "2025.12.22 20:29:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.22",
+      "date_hour": "20:29:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KIBRIS-LEFKOSA",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.12.17 22:13:25",
-      "lat": 38.4607,
-      "lng": 25.3873,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "10.0",
-      "coordinates": [
-        25.3873,
-        38.4607
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.3873,
-            38.4607
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "EGE DENIZI",
-          "time": "2025.12.17 22:13:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.17",
-      "date_hour": "22:13:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
