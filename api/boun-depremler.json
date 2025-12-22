@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-22T07:54:11.457Z",
+  "lastUpdate": "2025-12-22T08:20:17.045Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2025.12.22 10:56:10",
+      "lat": 39.0807,
+      "lng": 25.9638,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        25.9638,
+        39.0807
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.9638,
+            39.0807
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+          "time": "2025.12.22 10:56:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.22",
+      "date_hour": "10:56:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "HISARLI-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.12.17 10:09:33",
-      "lat": 40.2707,
-      "lng": 27.0513,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "21.0",
-      "coordinates": [
-        27.0513,
-        40.2707
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0513,
-            40.2707
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "HISARLI-BIGA (CANAKKALE)",
-          "time": "2025.12.17 10:09:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.17",
-      "date_hour": "10:09:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
