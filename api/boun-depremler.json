@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-22T11:11:52.654Z",
+  "lastUpdate": "2025-12-22T11:29:19.133Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DIKME-(KARS)",
+      "type": "�lksel",
+      "date": "2025.12.22 13:53:04",
+      "lat": 40.5082,
+      "lng": 43.0353,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "30.5",
+      "coordinates": [
+        43.0353,
+        40.5082
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.0353,
+            40.5082
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "DIKME-(KARS)",
+          "time": "2025.12.22 13:53:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.22",
+      "date_hour": "13:53:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KARS"
+    },
     {
       "title": "ISACA-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KIBRIS-DEGIRMENLIK",
-      "type": "�lksel",
-      "date": "2025.12.17 13:06:15",
-      "lat": 35.0562,
-      "lng": 33.584,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "53.6",
-      "coordinates": [
-        33.584,
-        35.0562
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.584,
-            35.0562
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KIBRIS-DEGIRMENLIK",
-          "time": "2025.12.17 13:06:15"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.17",
-      "date_hour": "13:06:15",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
