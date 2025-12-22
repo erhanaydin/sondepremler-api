@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-22T13:59:15.689Z",
+  "lastUpdate": "2025-12-22T14:26:41.762Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-KEMAH (ERZINCAN)",
+      "type": "�lksel",
+      "date": "2025.12.22 17:03:52",
+      "lat": 39.802,
+      "lng": 39.1237,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        39.1237,
+        39.802
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.1237,
+            39.802
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "AKTAS-KEMAH (ERZINCAN)",
+          "time": "2025.12.22 17:03:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.22",
+      "date_hour": "17:03:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZINCAN"
+    },
     {
       "title": "KIZILAGAC-ULA (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "HAVUTCULU-SELCUK (IZMIR)",
-      "type": "�lksel",
-      "date": "2025.12.17 15:59:37",
-      "lat": 37.9032,
-      "lng": 27.4215,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "14.4",
-      "coordinates": [
-        27.4215,
-        37.9032
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.4215,
-            37.9032
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "HAVUTCULU-SELCUK (IZMIR)",
-          "time": "2025.12.17 15:59:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.17",
-      "date_hour": "15:59:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }

@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kemah (Erzincan)",
+    "type": "İlksel",
+    "date": "2025-12-22 14:03:52",
+    "lat": 39.77333,
+    "lng": 39.07722,
+    "md": "-.-",
+    "ml": "1.6",
+    "mw": "-.-",
+    "depth": 7.05,
+    "coordinates": [
+      39.07722,
+      39.77333
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.07722,
+          39.77333
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Kemah (Erzincan) (Erzincan)",
+        "time": 1766412232000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-12-22",
+    "date_hour": "14:03:52",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Erzincan"
+  },
+  {
     "title": "Aşkale (Erzurum)",
     "type": "İlksel",
     "date": "2025-12-22 13:34:44",
@@ -14218,77 +14254,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Malatya"
-  },
-  {
-    "title": "Pütürge (Malatya)",
-    "type": "İlksel",
-    "date": "2025-12-19 14:02:55",
-    "lat": 38.24361,
-    "lng": 38.66472,
-    "md": "-.-",
-    "ml": "2.4",
-    "mw": "-.-",
-    "depth": 9.15,
-    "coordinates": [
-      38.66472,
-      38.24361
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.66472,
-          38.24361
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Pütürge (Malatya) (Malatya)",
-        "time": 1766152975000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-19",
-    "date_hour": "14:02:55",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-12-19 14:00:18",
-    "lat": 39.16444,
-    "lng": 28.19778,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.19778,
-      39.16444
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.19778,
-          39.16444
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1766152818000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-19",
-    "date_hour": "14:00:18",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
