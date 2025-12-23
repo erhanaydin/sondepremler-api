@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-23T15:51:38.118Z",
+  "lastUpdate": "2025-12-23T15:59:50.417Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "IPEKYOLU-HEKIMHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.12.23 18:53:09",
+      "lat": 38.7362,
+      "lng": 37.9683,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        37.9683,
+        38.7362
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.9683,
+            38.7362
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "IPEKYOLU-HEKIMHAN (MALATYA)",
+          "time": "2025.12.23 18:53:09"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.23",
+      "date_hour": "18:53:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "KOCAOZU-HEKIMHAN (MALATYA)",
       "type": "�lksel",
@@ -111,37 +147,37 @@
       "city": "ERZINCAN"
     },
     {
-      "title": "SUNGULLU-(MANISA)",
+      "title": "YAYLAKOY-(MANISA)",
       "type": "�lksel",
-      "date": "2025.12.23 17:54:33",
-      "lat": 38.878,
-      "lng": 27.2863,
+      "date": "2025.12.23 17:54:31",
+      "lat": 38.7778,
+      "lng": 27.2427,
       "md": "-.-",
-      "ml": "1.6",
+      "ml": "1.9",
       "mw": "-.-",
-      "depth": "12.0",
+      "depth": "5.1",
       "coordinates": [
-        27.2863,
-        38.878
+        27.2427,
+        38.7778
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            27.2863,
-            38.878
+            27.2427,
+            38.7778
           ]
         },
         "properties": {
-          "mag": "1.6",
-          "place": "SUNGULLU-(MANISA)",
-          "time": "2025.12.23 17:54:33"
+          "mag": "1.9",
+          "place": "YAYLAKOY-(MANISA)",
+          "time": "2025.12.23 17:54:31"
         }
       },
       "location_properties": "",
       "date_day": "2025.12.23",
-      "date_hour": "17:54:33",
+      "date_hour": "17:54:31",
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "HISARLI-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.12.18 15:39:05",
-      "lat": 40.2937,
-      "lng": 27.0332,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "10.8",
-      "coordinates": [
-        27.0332,
-        40.2937
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0332,
-            40.2937
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "HISARLI-BIGA (CANAKKALE)",
-          "time": "2025.12.18 15:39:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.18",
-      "date_hour": "15:39:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
