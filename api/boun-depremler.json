@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-23T05:43:11.860Z",
+  "lastUpdate": "2025-12-23T05:54:35.894Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CATALARMUT-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2025.12.23 08:39:22",
+      "lat": 38.9768,
+      "lng": 28.376,
+      "md": "-.-",
+      "ml": "0.7",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        28.376,
+        38.9768
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.376,
+            38.9768
+          ]
+        },
+        "properties": {
+          "mag": "0.7",
+          "place": "CATALARMUT-GORDES (MANISA)",
+          "time": "2025.12.23 08:39:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.23",
+      "date_hour": "08:39:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "KAVAKCALI-ULA (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KOBASDERE-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.12.18 04:50:22",
-      "lat": 39.1557,
-      "lng": 27.9523,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        27.9523,
-        39.1557
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9523,
-            39.1557
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KOBASDERE-AKHISAR (MANISA)",
-          "time": "2025.12.18 04:50:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.18",
-      "date_hour": "04:50:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
