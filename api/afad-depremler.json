@@ -36,6 +36,42 @@
     "city": "Balıkesir"
   },
   {
+    "title": "Adilcevaz (Bitlis)",
+    "type": "İlksel",
+    "date": "2025-12-23 13:20:23",
+    "lat": 38.80861,
+    "lng": 42.83889,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 4.96,
+    "coordinates": [
+      42.83889,
+      38.80861
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.83889,
+          38.80861
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Adilcevaz (Bitlis) (Bitlis)",
+        "time": 1766496023000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-12-23",
+    "date_hour": "13:20:23",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Bitlis"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-12-23 12:47:21",
@@ -13570,77 +13606,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Denizli"
-  },
-  {
-    "title": "Pazarcık (Kahramanmaraş)",
-    "type": "İlksel",
-    "date": "2025-12-20 14:18:35",
-    "lat": 37.29444,
-    "lng": 37.04639,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      37.04639,
-      37.29444
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.04639,
-          37.29444
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Pazarcık (Kahramanmaraş) (Kahramanmaraş)",
-        "time": 1766240315000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-20",
-    "date_hour": "14:18:35",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kahramanmaraş"
-  },
-  {
-    "title": "Elbistan (Kahramanmaraş)",
-    "type": "İlksel",
-    "date": "2025-12-20 14:17:59",
-    "lat": 38.08806,
-    "lng": 37.29306,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 7.01,
-    "coordinates": [
-      37.29306,
-      38.08806
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.29306,
-          38.08806
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Elbistan (Kahramanmaraş) (Kahramanmaraş)",
-        "time": 1766240279000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-20",
-    "date_hour": "14:17:59",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kahramanmaraş"
   }
 ]

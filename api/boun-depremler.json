@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-23T13:58:12.859Z",
+  "lastUpdate": "2025-12-23T14:24:03.126Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ERDEK KORFEZI (MARMARA DENIZI)",
+      "type": "�lksel",
+      "date": "2025.12.23 16:50:34",
+      "lat": 40.363,
+      "lng": 27.675,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "6.4",
+      "coordinates": [
+        27.675,
+        40.363
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.675,
+            40.363
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "ERDEK KORFEZI (MARMARA DENIZI)",
+          "time": "2025.12.23 16:50:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.23",
+      "date_hour": "16:50:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARMARA DENIZI"
+    },
     {
       "title": "BEGENLER-GORDES (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CORUM"
-    },
-    {
-      "title": "BAHCELI-EZINE (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.12.18 14:26:28",
-      "lat": 39.6905,
-      "lng": 26.396,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "15.1",
-      "coordinates": [
-        26.396,
-        39.6905
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.396,
-            39.6905
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "BAHCELI-EZINE (CANAKKALE)",
-          "time": "2025.12.18 14:26:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.18",
-      "date_hour": "14:26:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
