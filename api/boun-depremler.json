@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-12-23T10:16:22.499Z",
+  "lastUpdate": "2025-12-23T10:43:11.589Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.12.23 13:28:37",
+      "lat": 40.6472,
+      "lng": 27.5963,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "3.7",
+      "coordinates": [
+        27.5963,
+        40.6472
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.5963,
+            40.6472
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "MARMARA DENIZI",
+          "time": "2025.12.23 13:28:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.23",
+      "date_hour": "13:28:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "KIBRIS-ISKELE",
+      "type": "�lksel",
+      "date": "2025.12.23 13:11:54",
+      "lat": 35.3657,
+      "lng": 33.726,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "1.3",
+      "coordinates": [
+        33.726,
+        35.3657
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.726,
+            35.3657
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KIBRIS-ISKELE",
+          "time": "2025.12.23 13:11:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.23",
+      "date_hour": "13:11:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.18 11:07:51",
-      "lat": 39.153,
-      "lng": 28.251,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "14.3",
-      "coordinates": [
-        28.251,
-        39.153
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.251,
-            39.153
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.18 11:07:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.18",
-      "date_hour": "11:07:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "YUKARIYENICE-DAZKIRI (AFYONKARAHISAR)",
-      "type": "�lksel",
-      "date": "2025.12.18 11:03:32",
-      "lat": 37.9038,
-      "lng": 29.8362,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "20.5",
-      "coordinates": [
-        29.8362,
-        37.9038
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.8362,
-            37.9038
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "YUKARIYENICE-DAZKIRI (AFYONKARAHISAR)",
-          "time": "2025.12.18 11:03:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.18",
-      "date_hour": "11:03:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AFYONKARAHISAR"
     }
   ]
 }
