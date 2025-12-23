@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-12-23T07:58:46.356Z",
+  "lastUpdate": "2025-12-23T08:34:54.754Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOZELI-SIVRICE (ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.12.23 11:13:39",
+      "lat": 38.4317,
+      "lng": 39.0865,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "8.3",
+      "coordinates": [
+        39.0865,
+        38.4317
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.0865,
+            38.4317
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "GOZELI-SIVRICE (ELAZIG)",
+          "time": "2025.12.23 11:13:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.23",
+      "date_hour": "11:13:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
+    {
+      "title": "DUNDAR-ORHANELI (BURSA)",
+      "type": "�lksel",
+      "date": "2025.12.23 10:56:55",
+      "lat": 39.932,
+      "lng": 28.8208,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        28.8208,
+        39.932
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8208,
+            39.932
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "DUNDAR-ORHANELI (BURSA)",
+          "time": "2025.12.23 10:56:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.23",
+      "date_hour": "10:56:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "ALIKURT-BOZKURT (DENIZLI)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SARAYCIK-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.12.18 07:25:13",
-      "lat": 38.026,
-      "lng": 36.5978,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "7.6",
-      "coordinates": [
-        36.5978,
-        38.026
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.5978,
-            38.026
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "SARAYCIK-GOKSUN (KAHRAMANMARAS)",
-          "time": "2025.12.18 07:25:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.18",
-      "date_hour": "07:25:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "KOBASDERE-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.12.18 07:03:32",
-      "lat": 39.1607,
-      "lng": 27.9502,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "9.6",
-      "coordinates": [
-        27.9502,
-        39.1607
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9502,
-            39.1607
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "KOBASDERE-AKHISAR (MANISA)",
-          "time": "2025.12.18 07:03:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.18",
-      "date_hour": "07:03:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
