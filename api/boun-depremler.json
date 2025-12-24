@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-24T17:13:23.387Z",
+  "lastUpdate": "2025-12-24T17:32:19.512Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAGANLI-TATVAN (BITLIS)",
+      "type": "�lksel",
+      "date": "2025.12.24 20:22:22",
+      "lat": 38.3262,
+      "lng": 42.6778,
+      "md": "-.-",
+      "ml": "3.0",
+      "mw": "-.-",
+      "depth": "4.4",
+      "coordinates": [
+        42.6778,
+        38.3262
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            42.6778,
+            38.3262
+          ]
+        },
+        "properties": {
+          "mag": "3.0",
+          "place": "KAGANLI-TATVAN (BITLIS)",
+          "time": "2025.12.24 20:22:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.24",
+      "date_hour": "20:22:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BITLIS"
+    },
     {
       "title": "CANAKCI-DURSUNBEY (BALIKESIR) REVIZE01 (2025.12.24",
       "type": "19:39:38)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BUYUKECELI-GULNAR (MERSIN)",
-      "type": "�lksel",
-      "date": "2025.12.19 14:12:38",
-      "lat": 36.1422,
-      "lng": 33.5638,
-      "md": "-.-",
-      "ml": "0.7",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        33.5638,
-        36.1422
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.5638,
-            36.1422
-          ]
-        },
-        "properties": {
-          "mag": "0.7",
-          "place": "BUYUKECELI-GULNAR (MERSIN)",
-          "time": "2025.12.19 14:12:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.19",
-      "date_hour": "14:12:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
     }
   ]
 }

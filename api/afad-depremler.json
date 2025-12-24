@@ -1,5 +1,41 @@
 [
   {
+    "title": "Gevaş (Van)",
+    "type": "İlksel",
+    "date": "2025-12-24 17:22:22",
+    "lat": 38.32139,
+    "lng": 42.70028,
+    "md": "-.-",
+    "ml": "3",
+    "mw": "-.-",
+    "depth": 13,
+    "coordinates": [
+      42.70028,
+      38.32139
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.70028,
+          38.32139
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Gevaş (Van) (Van)",
+        "time": 1766596942000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-12-24",
+    "date_hour": "17:22:22",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Van"
+  },
+  {
     "title": "Dursunbey (Balıkesir)",
     "type": "İlksel",
     "date": "2025-12-24 16:39:39",
@@ -14074,77 +14110,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Malatya"
-  },
-  {
-    "title": "Simav (Kütahya)",
-    "type": "İlksel",
-    "date": "2025-12-21 17:22:28",
-    "lat": 39.15861,
-    "lng": 28.95972,
-    "md": "-.-",
-    "ml": "1.1",
-    "mw": "-.-",
-    "depth": 6.15,
-    "coordinates": [
-      28.95972,
-      39.15861
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.95972,
-          39.15861
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Simav (Kütahya) (Kütahya)",
-        "time": 1766337748000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-21",
-    "date_hour": "17:22:28",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kütahya"
-  },
-  {
-    "title": "Merkezefendi (Denizli)",
-    "type": "İlksel",
-    "date": "2025-12-21 17:21:20",
-    "lat": 37.8075,
-    "lng": 28.94667,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 6.98,
-    "coordinates": [
-      28.94667,
-      37.8075
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.94667,
-          37.8075
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Merkezefendi (Denizli) (Denizli)",
-        "time": 1766337680000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-21",
-    "date_hour": "17:21:20",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Denizli"
   }
 ]
