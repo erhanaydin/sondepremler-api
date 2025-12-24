@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-24T11:10:39.907Z",
+  "lastUpdate": "2025-12-24T11:29:04.324Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TOSUNLAR-SARAYKOY (DENIZLI)",
+      "type": "�lksel",
+      "date": "2025.12.24 13:45:10",
+      "lat": 37.9812,
+      "lng": 28.9562,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "13.1",
+      "coordinates": [
+        28.9562,
+        37.9812
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9562,
+            37.9812
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "TOSUNLAR-SARAYKOY (DENIZLI)",
+          "time": "2025.12.24 13:45:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.24",
+      "date_hour": "13:45:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CORUM"
-    },
-    {
-      "title": "KARACALAR-(OSMANIYE)",
-      "type": "�lksel",
-      "date": "2025.12.19 08:08:55",
-      "lat": 37.0332,
-      "lng": 36.3012,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        36.3012,
-        37.0332
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.3012,
-            37.0332
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "KARACALAR-(OSMANIYE)",
-          "time": "2025.12.19 08:08:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.19",
-      "date_hour": "08:08:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "OSMANIYE"
     }
   ]
 }
