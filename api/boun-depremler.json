@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-24T22:57:14.780Z",
+  "lastUpdate": "2025-12-24T23:19:27.996Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ULUKOY-(MALATYA)",
+      "type": "�lksel",
+      "date": "2025.12.25 01:43:26",
+      "lat": 38.1818,
+      "lng": 38.5685,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "1.2",
+      "coordinates": [
+        38.5685,
+        38.1818
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.5685,
+            38.1818
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "ULUKOY-(MALATYA)",
+          "time": "2025.12.25 01:43:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.25",
+      "date_hour": "01:43:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "YETISEN-ERCIS (VAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.19 17:36:21",
-      "lat": 39.2075,
-      "lng": 28.1508,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "7.6",
-      "coordinates": [
-        28.1508,
-        39.2075
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1508,
-            39.2075
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.19 17:36:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.19",
-      "date_hour": "17:36:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
