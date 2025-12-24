@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-24T05:48:25.522Z",
+  "lastUpdate": "2025-12-24T05:57:00.500Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUSUFCAM-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.24 08:33:29",
+      "lat": 39.286,
+      "lng": 28.2127,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "17.4",
+      "coordinates": [
+        28.2127,
+        39.286
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2127,
+            39.286
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YUSUFCAM-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.24 08:33:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.24",
+      "date_hour": "08:33:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "TASMIS-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.19 05:05:07",
-      "lat": 38.1765,
-      "lng": 38.8342,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "6.0",
-      "coordinates": [
-        38.8342,
-        38.1765
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.8342,
-            38.1765
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "TASMIS-PUTURGE (MALATYA)",
-          "time": "2025.12.19 05:05:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.19",
-      "date_hour": "05:05:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
