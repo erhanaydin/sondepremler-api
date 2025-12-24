@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-24T21:25:07.258Z",
+  "lastUpdate": "2025-12-24T21:37:52.847Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.12.25 00:18:31",
+      "lat": 39.4277,
+      "lng": 23.8685,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "17.8",
+      "coordinates": [
+        23.8685,
+        39.4277
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.8685,
+            39.4277
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "YUNANISTAN",
+          "time": "2025.12.25 00:18:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.25",
+      "date_hour": "00:18:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KUSALANI-SAMANDAG (HATAY)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.19 16:03:56",
-      "lat": 39.2162,
-      "lng": 28.0525,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "7.4",
-      "coordinates": [
-        28.0525,
-        39.2162
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0525,
-            39.2162
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.19 16:03:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.19",
-      "date_hour": "16:03:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
