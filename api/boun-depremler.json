@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-24T19:49:27.322Z",
+  "lastUpdate": "2025-12-24T19:57:46.724Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.12.24 22:40:53",
+      "lat": 34.6822,
+      "lng": 32.8943,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "4.9",
+      "coordinates": [
+        32.8943,
+        34.6822
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.8943,
+            34.6822
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "AKDENIZ",
+          "time": "2025.12.24 22:40:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.24",
+      "date_hour": "22:40:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "SEBEPLI-GONEN (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.19 14:38:46",
-      "lat": 39.188,
-      "lng": 28.1357,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "13.2",
-      "coordinates": [
-        28.1357,
-        39.188
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1357,
-            39.188
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.19 14:38:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.19",
-      "date_hour": "14:38:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
