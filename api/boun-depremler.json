@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-24T16:40:55.566Z",
+  "lastUpdate": "2025-12-24T16:55:10.660Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CANAKCI-DURSUNBEY (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.24 19:39:38",
+      "lat": 39.3775,
+      "lng": 28.8463,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "14.0",
+      "coordinates": [
+        28.8463,
+        39.3775
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8463,
+            39.3775
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "CANAKCI-DURSUNBEY (BALIKESIR)",
+          "time": "2025.12.24 19:39:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.24",
+      "date_hour": "19:39:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SEYITUSAGI-YESILYURT (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MERSIN"
-    },
-    {
-      "title": "KOZCESME-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.12.19 14:02:16",
-      "lat": 40.2467,
-      "lng": 27.0187,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "3.5",
-      "coordinates": [
-        27.0187,
-        40.2467
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0187,
-            40.2467
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "KOZCESME-BIGA (CANAKKALE)",
-          "time": "2025.12.19 14:02:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.19",
-      "date_hour": "14:02:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
