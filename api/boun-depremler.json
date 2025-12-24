@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-24T10:17:51.565Z",
+  "lastUpdate": "2025-12-24T10:41:26.066Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.24 12:46:19",
+      "lat": 39.24,
+      "lng": 28.139,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "6.5",
+      "coordinates": [
+        28.139,
+        39.24
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.139,
+            39.24
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.24 12:46:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.24",
+      "date_hour": "12:46:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "DEREKOY-SOMA (MANISA)",
+      "type": "�lksel",
+      "date": "2025.12.24 12:04:58",
+      "lat": 39.1347,
+      "lng": 27.5473,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        27.5473,
+        39.1347
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.5473,
+            39.1347
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "DEREKOY-SOMA (MANISA)",
+          "time": "2025.12.24 12:04:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.24",
+      "date_hour": "12:04:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
     },
     {
       "title": "BOZALAN-EZINE (CANAKKALE)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "OSMANIYE"
-    },
-    {
-      "title": "DEREOBASI-(OSMANIYE)",
-      "type": "�lksel",
-      "date": "2025.12.19 08:04:54",
-      "lat": 37.0458,
-      "lng": 36.2392,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "3.8",
-      "coordinates": [
-        36.2392,
-        37.0458
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.2392,
-            37.0458
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "DEREOBASI-(OSMANIYE)",
-          "time": "2025.12.19 08:04:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.19",
-      "date_hour": "08:04:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "OSMANIYE"
-    },
-    {
-      "title": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2025.12.19 07:44:22",
-      "lat": 40.7323,
-      "lng": 27.4767,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "13.5",
-      "coordinates": [
-        27.4767,
-        40.7323
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.4767,
-            40.7323
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-          "time": "2025.12.19 07:44:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.19",
-      "date_hour": "07:44:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
     }
   ]
 }
