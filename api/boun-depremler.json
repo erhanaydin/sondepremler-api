@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-24T22:48:45.603Z",
+  "lastUpdate": "2025-12-24T22:57:14.780Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YETISEN-ERCIS (VAN)",
+      "type": "�lksel",
+      "date": "2025.12.25 01:41:49",
+      "lat": 39.1222,
+      "lng": 43.178,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "6.0",
+      "coordinates": [
+        43.178,
+        39.1222
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.178,
+            39.1222
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "YETISEN-ERCIS (VAN)",
+          "time": "2025.12.25 01:41:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.25",
+      "date_hour": "01:41:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "VAN"
+    },
     {
       "title": "CATKOSEDAG-ELESKIRT (AGRI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BEGRE-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.19 17:26:54",
-      "lat": 38.061,
-      "lng": 37.697,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "9.1",
-      "coordinates": [
-        37.697,
-        38.061
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.697,
-            38.061
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "BEGRE-DOGANSEHIR (MALATYA)",
-          "time": "2025.12.19 17:26:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.19",
-      "date_hour": "17:26:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
