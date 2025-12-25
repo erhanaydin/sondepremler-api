@@ -1,5 +1,41 @@
 [
   {
+    "title": "Pamukkale (Denizli)",
+    "type": "İlksel",
+    "date": "2025-12-25 12:44:48",
+    "lat": 37.81778,
+    "lng": 29.16639,
+    "md": "-.-",
+    "ml": "1.3",
+    "mw": "-.-",
+    "depth": 6.94,
+    "coordinates": [
+      29.16639,
+      37.81778
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.16639,
+          37.81778
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Pamukkale (Denizli) (Denizli)",
+        "time": 1766666688000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-12-25",
+    "date_hour": "12:44:48",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Denizli"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-12-25 12:30:28",
@@ -13210,77 +13246,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Erzincan"
-  },
-  {
-    "title": "Aşkale (Erzurum)",
-    "type": "İlksel",
-    "date": "2025-12-22 13:34:44",
-    "lat": 39.95083,
-    "lng": 40.67444,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      40.67444,
-      39.95083
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.67444,
-          39.95083
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Aşkale (Erzurum) (Erzurum)",
-        "time": 1766410484000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-22",
-    "date_hour": "13:34:44",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Erzurum"
-  },
-  {
-    "title": "Simav (Kütahya)",
-    "type": "İlksel",
-    "date": "2025-12-22 13:23:38",
-    "lat": 39.24833,
-    "lng": 29.005,
-    "md": "-.-",
-    "ml": "1.1",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      29.005,
-      39.24833
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.005,
-          39.24833
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Simav (Kütahya) (Kütahya)",
-        "time": 1766409818000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-22",
-    "date_hour": "13:23:38",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kütahya"
   }
 ]
