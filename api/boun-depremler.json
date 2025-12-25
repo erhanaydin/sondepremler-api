@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-25T22:24:23.129Z",
+  "lastUpdate": "2025-12-25T22:41:19.628Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.26 01:11:51",
+      "lat": 39.212,
+      "lng": 28.9867,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "6.1",
+      "coordinates": [
+        28.9867,
+        39.212
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9867,
+            39.212
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2025.12.26 01:11:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.26",
+      "date_hour": "01:11:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KARAKOCA-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "YENIDOGAN-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2025.12.20 15:46:51",
-      "lat": 38.906,
-      "lng": 27.863,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        27.863,
-        38.906
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.863,
-            38.906
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "YENIDOGAN-AKHISAR (MANISA)",
-          "time": "2025.12.20 15:46:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.20",
-      "date_hour": "15:46:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
