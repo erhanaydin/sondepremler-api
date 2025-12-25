@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-25T19:58:13.694Z",
+  "lastUpdate": "2025-12-25T20:26:28.983Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOYUNLU-MUTKI (BITLIS)",
+      "type": "�lksel",
+      "date": "2025.12.25 22:45:46",
+      "lat": 38.4828,
+      "lng": 41.8597,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "11.5",
+      "coordinates": [
+        41.8597,
+        38.4828
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.8597,
+            38.4828
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KOYUNLU-MUTKI (BITLIS)",
+          "time": "2025.12.25 22:45:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.25",
+      "date_hour": "22:45:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BITLIS"
+    },
     {
       "title": "YILANLI-KOPRUKOY (ERZURUM)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "CEKICLER-CAN (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.12.20 12:48:20",
-      "lat": 40.003,
-      "lng": 27.0125,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "9.2",
-      "coordinates": [
-        27.0125,
-        40.003
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0125,
-            40.003
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "CEKICLER-CAN (CANAKKALE)",
-          "time": "2025.12.20 12:48:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.20",
-      "date_hour": "12:48:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
