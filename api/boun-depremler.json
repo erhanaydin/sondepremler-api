@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-25T05:32:27.966Z",
+  "lastUpdate": "2025-12-25T05:49:45.100Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAGLIAGAC-FETHIYE (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.12.25 08:22:17",
+      "lat": 36.5227,
+      "lng": 29.4583,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "28.4",
+      "coordinates": [
+        29.4583,
+        36.5227
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.4583,
+            36.5227
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "BAGLIAGAC-FETHIYE (MUGLA)",
+          "time": "2025.12.25 08:22:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.25",
+      "date_hour": "08:22:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "POYRACIK-DURSUNBEY (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "AKTARLI-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.20 00:53:26",
-      "lat": 38.2647,
-      "lng": 38.823,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "18.0",
-      "coordinates": [
-        38.823,
-        38.2647
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.823,
-            38.2647
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "AKTARLI-PUTURGE (MALATYA)",
-          "time": "2025.12.20 00:53:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.20",
-      "date_hour": "00:53:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
