@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-25T19:50:07.386Z",
+  "lastUpdate": "2025-12-25T19:58:13.694Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "ESENLER-ISLAHIYE (GAZIANTEP)",
+      "type": "�lksel",
+      "date": "2025.12.25 22:21:20",
+      "lat": 36.8755,
+      "lng": 36.541,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "18.3",
+      "coordinates": [
+        36.541,
+        36.8755
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.541,
+            36.8755
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ESENLER-ISLAHIYE (GAZIANTEP)",
+          "time": "2025.12.25 22:21:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.25",
+      "date_hour": "22:21:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "GAZIANTEP"
     },
     {
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "ASAGIKARAFAKILI-HASSA (HATAY)",
-      "type": "�lksel",
-      "date": "2025.12.20 12:35:34",
-      "lat": 36.7747,
-      "lng": 36.5638,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        36.5638,
-        36.7747
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.5638,
-            36.7747
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "ASAGIKARAFAKILI-HASSA (HATAY)",
-          "time": "2025.12.20 12:35:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.20",
-      "date_hour": "12:35:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
