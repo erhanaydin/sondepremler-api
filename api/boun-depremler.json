@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-25T20:53:00.976Z",
+  "lastUpdate": "2025-12-25T21:09:13.191Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SARICALAR-SELCUKLU (KONYA)",
+      "type": "�lksel",
+      "date": "2025.12.25 23:40:04",
+      "lat": 38.0978,
+      "lng": 32.5875,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        32.5875,
+        38.0978
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.5875,
+            38.0978
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "SARICALAR-SELCUKLU (KONYA)",
+          "time": "2025.12.25 23:40:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.25",
+      "date_hour": "23:40:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KONYA"
+    },
     {
       "title": "DINARBEY-YEDISU (BINGOL)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YURTBASI-REFAHIYE (ERZINCAN)",
-      "type": "�lksel",
-      "date": "2025.12.20 13:31:10",
-      "lat": 39.8732,
-      "lng": 38.9537,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "13.1",
-      "coordinates": [
-        38.9537,
-        39.8732
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.9537,
-            39.8732
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YURTBASI-REFAHIYE (ERZINCAN)",
-          "time": "2025.12.20 13:31:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.20",
-      "date_hour": "13:31:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
     }
   ]
 }
