@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-25T15:49:05.961Z",
+  "lastUpdate": "2025-12-25T15:57:18.042Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.25 18:41:29",
+      "lat": 39.2225,
+      "lng": 28.1807,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "9.8",
+      "coordinates": [
+        28.1807,
+        39.2225
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1807,
+            39.2225
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.25 18:41:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.25",
+      "date_hour": "18:41:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YARAS-(MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "CAMLICA-HENDEK (SAKARYA)",
-      "type": "�lksel",
-      "date": "2025.12.20 06:53:34",
-      "lat": 40.6732,
-      "lng": 30.7455,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "-.-",
-      "depth": "7.3",
-      "coordinates": [
-        30.7455,
-        40.6732
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.7455,
-            40.6732
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "CAMLICA-HENDEK (SAKARYA)",
-          "time": "2025.12.20 06:53:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.20",
-      "date_hour": "06:53:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SAKARYA"
     }
   ]
 }
