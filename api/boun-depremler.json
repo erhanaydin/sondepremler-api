@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-25T22:41:19.628Z",
+  "lastUpdate": "2025-12-25T22:51:21.322Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HATUNKOY-MADEN (ELAZIG)",
+      "type": "�lksel",
+      "date": "2025.12.26 01:29:26",
+      "lat": 38.479,
+      "lng": 39.4758,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "9.7",
+      "coordinates": [
+        39.4758,
+        38.479
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.4758,
+            38.479
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "HATUNKOY-MADEN (ELAZIG)",
+          "time": "2025.12.26 01:29:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.26",
+      "date_hour": "01:29:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -34,6 +70,42 @@
       "location_properties": "",
       "date_day": "2025.12.26",
       "date_hour": "01:11:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.26 01:04:06",
+      "lat": 39.2485,
+      "lng": 28.9905,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "13.1",
+      "coordinates": [
+        28.9905,
+        39.2485
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9905,
+            39.2485
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.12.26 01:04:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.26",
+      "date_hour": "01:04:06",
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "YENILER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.12.20 16:06:52",
-      "lat": 39.2387,
-      "lng": 28.9467,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "10.9",
-      "coordinates": [
-        28.9467,
-        39.2387
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9467,
-            39.2387
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YENILER-SIMAV (KUTAHYA)",
-          "time": "2025.12.20 16:06:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.20",
-      "date_hour": "16:06:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "CAGIRGAN-TAVAS (DENIZLI)",
-      "type": "�lksel",
-      "date": "2025.12.20 15:54:24",
-      "lat": 37.3165,
-      "lng": 29.0077,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "9.0",
-      "coordinates": [
-        29.0077,
-        37.3165
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0077,
-            37.3165
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "CAGIRGAN-TAVAS (DENIZLI)",
-          "time": "2025.12.20 15:54:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.20",
-      "date_hour": "15:54:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
