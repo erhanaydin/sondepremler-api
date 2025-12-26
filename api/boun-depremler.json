@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-26T23:10:34.321Z",
+  "lastUpdate": "2025-12-26T23:30:10.660Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "NARLI-PAZARCIK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.12.27 01:38:15",
+      "lat": 37.399,
+      "lng": 37.1405,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        37.1405,
+        37.399
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.1405,
+            37.399
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "NARLI-PAZARCIK (KAHRAMANMARAS)",
+          "time": "2025.12.27 01:38:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.27",
+      "date_hour": "01:38:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
     },
     {
       "title": "OSMANLAR-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CIGSAR-ANDIRIN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.12.21 16:35:46",
-      "lat": 37.7962,
-      "lng": 36.2612,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        36.2612,
-        37.7962
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.2612,
-            37.7962
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "CIGSAR-ANDIRIN (KAHRAMANMARAS)",
-          "time": "2025.12.21 16:35:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.21",
-      "date_hour": "16:35:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
