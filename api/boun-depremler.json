@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-26T07:32:58.236Z",
+  "lastUpdate": "2025-12-26T07:45:15.698Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GULPINAR-AYVACIK (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2025.12.26 09:57:19",
+      "lat": 39.5328,
+      "lng": 26.125,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "9.2",
+      "coordinates": [
+        26.125,
+        39.5328
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.125,
+            39.5328
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "GULPINAR-AYVACIK (CANAKKALE)",
+          "time": "2025.12.26 09:57:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.26",
+      "date_hour": "09:57:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
     {
       "title": "CAYHISAR-KOYCEGIZ (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "ELMALI-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.12.21 01:29:50",
-      "lat": 38.0075,
-      "lng": 36.6195,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "4.7",
-      "coordinates": [
-        36.6195,
-        38.0075
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.6195,
-            38.0075
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ELMALI-GOKSUN (KAHRAMANMARAS)",
-          "time": "2025.12.21 01:29:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.21",
-      "date_hour": "01:29:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
