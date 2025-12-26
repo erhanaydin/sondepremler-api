@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-26T21:52:17.044Z",
+  "lastUpdate": "2025-12-26T22:00:38.769Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YESILDERE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.27 00:51:35",
+      "lat": 39.2808,
+      "lng": 28.9837,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "11.5",
+      "coordinates": [
+        28.9837,
+        39.2808
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9837,
+            39.2808
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "YESILDERE-SIMAV (KUTAHYA)",
+          "time": "2025.12.27 00:51:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.27",
+      "date_hour": "00:51:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "AKHISAR (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KORUCAK-CELIKHAN (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2025.12.21 15:16:20",
-      "lat": 38.095,
-      "lng": 38.3803,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "9.0",
-      "coordinates": [
-        38.3803,
-        38.095
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.3803,
-            38.095
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KORUCAK-CELIKHAN (ADIYAMAN)",
-          "time": "2025.12.21 15:16:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.21",
-      "date_hour": "15:16:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
