@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-26T21:44:04.919Z",
+  "lastUpdate": "2025-12-26T21:52:17.044Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2025.12.27 00:43:52",
+      "lat": 38.8965,
+      "lng": 27.8357,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "11.9",
+      "coordinates": [
+        27.8357,
+        38.8965
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.8357,
+            38.8965
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "AKHISAR (MANISA)",
+          "time": "2025.12.27 00:43:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.27",
+      "date_hour": "00:43:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.27 00:18:42",
+      "lat": 39.1525,
+      "lng": 28.2038,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "13.2",
+      "coordinates": [
+        28.2038,
+        39.1525
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2038,
+            39.1525
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.27 00:18:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.27",
+      "date_hour": "00:18:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADIYAMAN"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.12.21 15:09:54",
-      "lat": 40.7045,
-      "lng": 23.4775,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        23.4775,
-        40.7045
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            23.4775,
-            40.7045
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "YUNANISTAN",
-          "time": "2025.12.21 15:09:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.21",
-      "date_hour": "15:09:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.21 14:59:59",
-      "lat": 39.1908,
-      "lng": 28.1965,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "10.6",
-      "coordinates": [
-        28.1965,
-        39.1908
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1965,
-            39.1908
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.21 14:59:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.21",
-      "date_hour": "14:59:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
