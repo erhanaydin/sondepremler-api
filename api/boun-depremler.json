@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-26T18:26:25.049Z",
+  "lastUpdate": "2025-12-26T18:50:47.030Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2025.12.26 21:01:26",
+      "lat": 40.8202,
+      "lng": 28.0825,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "11.8",
+      "coordinates": [
+        28.0825,
+        40.8202
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0825,
+            40.8202
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "MARMARA DENIZI",
+          "time": "2025.12.26 21:01:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.26",
+      "date_hour": "21:01:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MERSIN"
-    },
-    {
-      "title": "BOLUKOVA-CAYIRLI (ERZINCAN)",
-      "type": "�lksel",
-      "date": "2025.12.21 12:57:23",
-      "lat": 39.9123,
-      "lng": 40.0463,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "16.2",
-      "coordinates": [
-        40.0463,
-        39.9123
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.0463,
-            39.9123
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "BOLUKOVA-CAYIRLI (ERZINCAN)",
-          "time": "2025.12.21 12:57:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.21",
-      "date_hour": "12:57:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
     }
   ]
 }
