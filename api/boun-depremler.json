@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-26T06:51:01.827Z",
+  "lastUpdate": "2025-12-26T07:11:27.751Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
+    },
+    {
+      "title": "CAMONU-MENDERES (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.12.26 09:11:43",
+      "lat": 38.0605,
+      "lng": 27.1043,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "2.8",
+      "coordinates": [
+        27.1043,
+        38.0605
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.1043,
+            38.0605
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "CAMONU-MENDERES (IZMIR)",
+          "time": "2025.12.26 09:11:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.26",
+      "date_hour": "09:11:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
     },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "IBILLER-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.21 01:29:35",
-      "lat": 39.2452,
-      "lng": 28.1288,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "7.6",
-      "coordinates": [
-        28.1288,
-        39.2452
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1288,
-            39.2452
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "IBILLER-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.21 01:29:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.21",
-      "date_hour": "01:29:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
