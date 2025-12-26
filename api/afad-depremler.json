@@ -1,5 +1,41 @@
 [
   {
+    "title": "Haliliye (Şanlıurfa)",
+    "type": "İlksel",
+    "date": "2025-12-26 15:05:52",
+    "lat": 37.18583,
+    "lng": 39.1125,
+    "md": "-.-",
+    "ml": "1.6",
+    "mw": "-.-",
+    "depth": 11.75,
+    "coordinates": [
+      39.1125,
+      37.18583
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1125,
+          37.18583
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Haliliye (Şanlıurfa) (Şanlıurfa)",
+        "time": 1766761552000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-12-26",
+    "date_hour": "15:05:52",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Şanlıurfa"
+  },
+  {
     "title": "Yeşilyurt (Malatya)",
     "type": "İlksel",
     "date": "2025-12-26 14:36:48",
@@ -14830,77 +14866,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Malatya"
-  },
-  {
-    "title": "Hekimhan (Malatya)",
-    "type": "İlksel",
-    "date": "2025-12-23 15:25:24",
-    "lat": 38.775,
-    "lng": 38.00833,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 10.92,
-    "coordinates": [
-      38.00833,
-      38.775
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.00833,
-          38.775
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Hekimhan (Malatya) (Malatya)",
-        "time": 1766503524000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-23",
-    "date_hour": "15:25:24",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-12-23 15:02:59",
-    "lat": 39.13861,
-    "lng": 28.15278,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.15278,
-      39.13861
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.15278,
-          39.13861
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1766502179000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-23",
-    "date_hour": "15:02:59",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
