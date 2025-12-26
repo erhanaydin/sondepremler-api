@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-26T12:32:15.790Z",
+  "lastUpdate": "2025-12-26T13:10:47.459Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -109,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.26 13:22:04",
+      "lat": 39.1847,
+      "lng": 28.143,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "11.1",
+      "coordinates": [
+        28.143,
+        39.1847
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.143,
+            39.1847
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.26 13:22:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.26",
+      "date_hour": "13:22:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "YUKARIYONCAAGAC-HISARCIK (KUTAHYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2025.12.21 05:19:34",
-      "lat": 36.5468,
-      "lng": 25.6768,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "7.8",
-      "coordinates": [
-        25.6768,
-        36.5468
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.6768,
-            36.5468
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "EGE DENIZI",
-          "time": "2025.12.21 05:19:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.21",
-      "date_hour": "05:19:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
