@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-26T21:34:30.423Z",
+  "lastUpdate": "2025-12-26T21:44:04.919Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2025.12.27 00:27:32",
+      "lat": 35.445,
+      "lng": 27.4975,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "26.8",
+      "coordinates": [
+        27.4975,
+        35.445
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.4975,
+            35.445
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "AKDENIZ",
+          "time": "2025.12.27 00:27:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.27",
+      "date_hour": "00:27:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CETIBELI-MARMARIS (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.12.21 14:59:34",
-      "lat": 36.9493,
-      "lng": 28.3218,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        28.3218,
-        36.9493
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3218,
-            36.9493
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "CETIBELI-MARMARIS (MUGLA)",
-          "time": "2025.12.21 14:59:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.21",
-      "date_hour": "14:59:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
