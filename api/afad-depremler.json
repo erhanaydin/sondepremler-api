@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kırkağaç (Manisa)",
+    "type": "İlksel",
+    "date": "2025-12-26 08:05:47",
+    "lat": 39.21889,
+    "lng": 27.96194,
+    "md": "-.-",
+    "ml": "1.9",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      27.96194,
+      39.21889
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.96194,
+          39.21889
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Kırkağaç (Manisa) (Manisa)",
+        "time": 1766736347000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-12-26",
+    "date_hour": "08:05:47",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Manisa"
+  },
+  {
     "title": "Dursunbey (Balıkesir)",
     "type": "İlksel",
     "date": "2025-12-26 07:56:29",
@@ -14038,77 +14074,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Simav (Kütahya)",
-    "type": "İlksel",
-    "date": "2025-12-23 08:42:02",
-    "lat": 39.22,
-    "lng": 29.00806,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 10.28,
-    "coordinates": [
-      29.00806,
-      39.22
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.00806,
-          39.22
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Simav (Kütahya) (Kütahya)",
-        "time": 1766479322000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-23",
-    "date_hour": "08:42:02",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kütahya"
-  },
-  {
-    "title": "Aksu (Antalya)",
-    "type": "İlksel",
-    "date": "2025-12-23 08:20:45",
-    "lat": 36.92028,
-    "lng": 30.85194,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 7.61,
-    "coordinates": [
-      30.85194,
-      36.92028
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.85194,
-          36.92028
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Aksu (Antalya) (Antalya)",
-        "time": 1766478045000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-23",
-    "date_hour": "08:20:45",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Antalya"
   }
 ]
