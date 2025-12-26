@@ -1,5 +1,41 @@
 [
   {
+    "title": "Palu (Elazığ)",
+    "type": "İlksel",
+    "date": "2025-12-26 15:32:25",
+    "lat": 38.68778,
+    "lng": 40.00361,
+    "md": "-.-",
+    "ml": "2.3",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      40.00361,
+      38.68778
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.00361,
+          38.68778
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Palu (Elazığ) (Elazığ)",
+        "time": 1766763145000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-12-26",
+    "date_hour": "15:32:25",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Elazığ"
+  },
+  {
     "title": "Gediz (Kütahya)",
     "type": "İlksel",
     "date": "2025-12-26 15:15:02",
@@ -14758,77 +14794,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Manisa"
-  },
-  {
-    "title": "Doğanşehir (Malatya)",
-    "type": "İlksel",
-    "date": "2025-12-23 16:05:26",
-    "lat": 38.17944,
-    "lng": 37.88972,
-    "md": "-.-",
-    "ml": "1",
-    "mw": "-.-",
-    "depth": 14.29,
-    "coordinates": [
-      37.88972,
-      38.17944
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.88972,
-          38.17944
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Doğanşehir (Malatya) (Malatya)",
-        "time": 1766505926000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-23",
-    "date_hour": "16:05:26",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
-  },
-  {
-    "title": "Hekimhan (Malatya)",
-    "type": "İlksel",
-    "date": "2025-12-23 15:53:10",
-    "lat": 38.74833,
-    "lng": 38.00639,
-    "md": "-.-",
-    "ml": "1.6",
-    "mw": "-.-",
-    "depth": 7.61,
-    "coordinates": [
-      38.00639,
-      38.74833
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.00639,
-          38.74833
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Hekimhan (Malatya) (Malatya)",
-        "time": 1766505190000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-23",
-    "date_hour": "15:53:10",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
   }
 ]
