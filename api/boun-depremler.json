@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-26T11:46:45.463Z",
+  "lastUpdate": "2025-12-26T11:55:15.938Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -109,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "KAGITHANE (ISTANBUL)",
+      "type": "�lksel",
+      "date": "2025.12.26 11:50:14",
+      "lat": 41.1302,
+      "lng": 28.994,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        28.994,
+        41.1302
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.994,
+            41.1302
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KAGITHANE (ISTANBUL)",
+          "time": "2025.12.26 11:50:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.26",
+      "date_hour": "11:50:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ISTANBUL"
     },
     {
       "title": "KIRTIL-SILIFKE (MERSIN)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CAYBUKU-(MUGLA)",
-      "type": "�lksel",
-      "date": "2025.12.21 04:36:51",
-      "lat": 37.225,
-      "lng": 28.148,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "10.5",
-      "coordinates": [
-        28.148,
-        37.225
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.148,
-            37.225
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "CAYBUKU-(MUGLA)",
-          "time": "2025.12.21 04:36:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.21",
-      "date_hour": "04:36:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
