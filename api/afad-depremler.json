@@ -1,5 +1,41 @@
 [
   {
+    "title": "Beypazarı (Ankara)",
+    "type": "İlksel",
+    "date": "2025-12-27 13:37:40",
+    "lat": 40.17222,
+    "lng": 31.71833,
+    "md": "-.-",
+    "ml": "1.8",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      31.71833,
+      40.17222
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71833,
+          40.17222
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Beypazarı (Ankara) (Ankara)",
+        "time": 1766842660000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-12-27",
+    "date_hour": "13:37:40",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Ankara"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-12-27 13:36:02",
@@ -12742,41 +12778,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Malatya"
-  },
-  {
-    "title": "Emet (Kütahya)",
-    "type": "İlksel",
-    "date": "2025-12-24 14:11:11",
-    "lat": 39.39889,
-    "lng": 29.25444,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 0.89,
-    "coordinates": [
-      29.25444,
-      39.39889
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.25444,
-          39.39889
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Emet (Kütahya) (Kütahya)",
-        "time": 1766585471000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-24",
-    "date_hour": "14:11:11",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kütahya"
   }
 ]
