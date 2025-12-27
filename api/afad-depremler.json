@@ -72,6 +72,42 @@
     "city": "Balıkesir"
   },
   {
+    "title": "Beypazarı (Ankara)",
+    "type": "İlksel",
+    "date": "2025-12-27 16:37:55",
+    "lat": 40.18472,
+    "lng": 31.74806,
+    "md": "-.-",
+    "ml": "2",
+    "mw": "-.-",
+    "depth": 6.98,
+    "coordinates": [
+      31.74806,
+      40.18472
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.74806,
+          40.18472
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Beypazarı (Ankara) (Ankara)",
+        "time": 1766853475000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-12-27",
+    "date_hour": "16:37:55",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Ankara"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-12-27 16:00:41",
@@ -12598,113 +12634,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Muğla"
-  },
-  {
-    "title": "Tatvan (Bitlis)",
-    "type": "İlksel",
-    "date": "2025-12-24 17:28:18",
-    "lat": 38.3425,
-    "lng": 42.65667,
-    "md": "-.-",
-    "ml": "1.9",
-    "mw": "-.-",
-    "depth": 6.95,
-    "coordinates": [
-      42.65667,
-      38.3425
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.65667,
-          38.3425
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Tatvan (Bitlis) (Bitlis)",
-        "time": 1766597298000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-24",
-    "date_hour": "17:28:18",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Bitlis"
-  },
-  {
-    "title": "Gevaş (Van)",
-    "type": "İlksel",
-    "date": "2025-12-24 17:22:22",
-    "lat": 38.32139,
-    "lng": 42.70028,
-    "md": "-.-",
-    "ml": "3",
-    "mw": "-.-",
-    "depth": 13,
-    "coordinates": [
-      42.70028,
-      38.32139
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.70028,
-          38.32139
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Gevaş (Van) (Van)",
-        "time": 1766596942000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-24",
-    "date_hour": "17:22:22",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Van"
-  },
-  {
-    "title": "Mazgirt (Tunceli)",
-    "type": "İlksel",
-    "date": "2025-12-24 17:14:14",
-    "lat": 38.98472,
-    "lng": 39.80583,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 6.96,
-    "coordinates": [
-      39.80583,
-      38.98472
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.80583,
-          38.98472
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Mazgirt (Tunceli) (Tunceli)",
-        "time": 1766596454000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-24",
-    "date_hour": "17:14:14",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Tunceli"
   }
 ]
