@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-27T03:37:36.625Z",
+  "lastUpdate": "2025-12-27T04:17:08.283Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SARNICKOY-(MUGLA)",
+      "type": "�lksel",
+      "date": "2025.12.27 07:00:34",
+      "lat": 37.0685,
+      "lng": 28.1213,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "13.3",
+      "coordinates": [
+        28.1213,
+        37.0685
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1213,
+            37.0685
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "SARNICKOY-(MUGLA)",
+          "time": "2025.12.27 07:00:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.27",
+      "date_hour": "07:00:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.12.21 20:51:08",
-      "lat": 39.2068,
-      "lng": 29.0028,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "9.3",
-      "coordinates": [
-        29.0028,
-        39.2068
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0028,
-            39.2068
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.12.21 20:51:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.21",
-      "date_hour": "20:51:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
