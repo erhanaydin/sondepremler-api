@@ -36,6 +36,42 @@
     "city": "Balıkesir"
   },
   {
+    "title": "Çelikhan (Adıyaman)",
+    "type": "İlksel",
+    "date": "2025-12-27 11:16:21",
+    "lat": 38.10472,
+    "lng": 38.35722,
+    "md": "-.-",
+    "ml": "1.9",
+    "mw": "-.-",
+    "depth": 13.01,
+    "coordinates": [
+      38.35722,
+      38.10472
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.35722,
+          38.10472
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Çelikhan (Adıyaman) (Adıyaman)",
+        "time": 1766834181000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-12-27",
+    "date_hour": "11:16:21",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Adıyaman"
+  },
+  {
     "title": "Soma (Manisa)",
     "type": "İlksel",
     "date": "2025-12-27 10:22:52",
@@ -12886,77 +12922,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Manisa"
-  },
-  {
-    "title": "Yunusemre (Manisa)",
-    "type": "İlksel",
-    "date": "2025-12-24 11:48:15",
-    "lat": 38.77722,
-    "lng": 27.25028,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 9.22,
-    "coordinates": [
-      27.25028,
-      38.77722
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.25028,
-          38.77722
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Yunusemre (Manisa) (Manisa)",
-        "time": 1766576895000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-24",
-    "date_hour": "11:48:15",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Manisa"
-  },
-  {
-    "title": "Bayramiç (Çanakkale)",
-    "type": "İlksel",
-    "date": "2025-12-24 11:41:37",
-    "lat": 39.78333,
-    "lng": 26.81083,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      26.81083,
-      39.78333
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.81083,
-          39.78333
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Bayramiç (Çanakkale) (Çanakkale)",
-        "time": 1766576497000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-24",
-    "date_hour": "11:41:37",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Çanakkale"
   }
 ]
