@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-28T04:16:34.676Z",
+  "lastUpdate": "2025-12-28T04:56:20.034Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.28 07:14:25",
+      "lat": 39.1782,
+      "lng": 28.222,
+      "md": "-.-",
+      "ml": "3.3",
+      "mw": "3.1",
+      "depth": "10.9",
+      "coordinates": [
+        28.222,
+        39.1782
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.222,
+            39.1782
+          ]
+        },
+        "properties": {
+          "mag": "3.3",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.28 07:14:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.28",
+      "date_hour": "07:14:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "CAMLIK-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZINCAN"
-    },
-    {
-      "title": "KIZILAGAC-ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.12.22 16:24:26",
-      "lat": 37.0815,
-      "lng": 28.3507,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "11.9",
-      "coordinates": [
-        28.3507,
-        37.0815
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3507,
-            37.0815
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "KIZILAGAC-ULA (MUGLA)",
-          "time": "2025.12.22 16:24:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.22",
-      "date_hour": "16:24:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
