@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-28T17:45:48.146Z",
+  "lastUpdate": "2025-12-28T17:54:20.470Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CIVRIL-YAZIHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.12.28 20:40:04",
+      "lat": 38.5213,
+      "lng": 38.0317,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "6.2",
+      "coordinates": [
+        38.0317,
+        38.5213
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.0317,
+            38.5213
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "CIVRIL-YAZIHAN (MALATYA)",
+          "time": "2025.12.28 20:40:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.28",
+      "date_hour": "20:40:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "YENIDAMLAR-KALE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "ARZULAR-INCIRLIOVA (AYDIN)",
-      "type": "�lksel",
-      "date": "2025.12.24 02:22:28",
-      "lat": 37.8987,
-      "lng": 27.6977,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "3.9",
-      "coordinates": [
-        27.6977,
-        37.8987
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.6977,
-            37.8987
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "ARZULAR-INCIRLIOVA (AYDIN)",
-          "time": "2025.12.24 02:22:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.24",
-      "date_hour": "02:22:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AYDIN"
     }
   ]
 }
