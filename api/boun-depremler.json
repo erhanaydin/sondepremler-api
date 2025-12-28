@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-28T09:49:08.339Z",
+  "lastUpdate": "2025-12-28T09:57:35.188Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -142,6 +142,42 @@
       "location_properties": "",
       "date_day": "2025.12.28",
       "date_hour": "12:22:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "RESADIYE-DURSUNBEY (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.28 11:47:03",
+      "lat": 39.3835,
+      "lng": 28.8677,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "4.7",
+      "coordinates": [
+        28.8677,
+        39.3835
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8677,
+            39.3835
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "RESADIYE-DURSUNBEY (BALIKESIR)",
+          "time": "2025.12.28 11:47:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.28",
+      "date_hour": "11:47:03",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZURUM"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.12.23 20:35:07",
-      "lat": 39.2465,
-      "lng": 29.0192,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "11.4",
-      "coordinates": [
-        29.0192,
-        39.2465
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0192,
-            39.2465
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.12.23 20:35:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.23",
-      "date_hour": "20:35:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
