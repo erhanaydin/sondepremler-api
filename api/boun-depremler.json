@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-12-29T08:21:54.704Z",
+  "lastUpdate": "2025-12-29T08:50:19.107Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTARLI-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.12.29 11:24:30",
+      "lat": 38.283,
+      "lng": 38.826,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "20.8",
+      "coordinates": [
+        38.826,
+        38.283
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.826,
+            38.283
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "AKTARLI-PUTURGE (MALATYA)",
+          "time": "2025.12.29 11:24:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.29",
+      "date_hour": "11:24:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
+      "title": "KARABURUN-EREGLI (KONYA)",
+      "type": "�lksel",
+      "date": "2025.12.29 11:12:21",
+      "lat": 37.443,
+      "lng": 33.8922,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "11.7",
+      "coordinates": [
+        33.8922,
+        37.443
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.8922,
+            37.443
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "KARABURUN-EREGLI (KONYA)",
+          "time": "2025.12.29 11:12:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.29",
+      "date_hour": "11:12:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KONYA"
+    },
     {
       "title": "ESENLI-SUMBAS (OSMANIYE)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.24 11:45:25",
-      "lat": 39.187,
-      "lng": 28.3477,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "6.9",
-      "coordinates": [
-        28.3477,
-        39.187
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3477,
-            39.187
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.24 11:45:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.24",
-      "date_hour": "11:45:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "KOZLUOREN-SOMA (MANISA)",
-      "type": "�lksel",
-      "date": "2025.12.24 11:41:07",
-      "lat": 39.2828,
-      "lng": 27.716,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        27.716,
-        39.2828
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.716,
-            39.2828
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KOZLUOREN-SOMA (MANISA)",
-          "time": "2025.12.24 11:41:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.24",
-      "date_hour": "11:41:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
