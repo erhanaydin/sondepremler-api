@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-29T17:47:59.547Z",
+  "lastUpdate": "2025-12-29T17:56:07.958Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2025.12.29 20:41:33",
+      "lat": 40.3675,
+      "lng": 24.0482,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "8.7",
+      "coordinates": [
+        24.0482,
+        40.3675
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.0482,
+            40.3675
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "YUNANISTAN",
+          "time": "2025.12.29 20:41:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.29",
+      "date_hour": "20:41:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "DAGYENICE-NILUFER (BURSA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KOCAOZU-HEKIMHAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.24 17:30:09",
-      "lat": 38.7667,
-      "lng": 37.9468,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.1",
-      "coordinates": [
-        37.9468,
-        38.7667
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.9468,
-            38.7667
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KOCAOZU-HEKIMHAN (MALATYA)",
-          "time": "2025.12.24 17:30:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.24",
-      "date_hour": "17:30:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
