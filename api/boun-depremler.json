@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-29T07:26:22.762Z",
+  "lastUpdate": "2025-12-29T07:44:59.958Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.29 10:20:25",
+      "lat": 39.1198,
+      "lng": 28.2883,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "12.9",
+      "coordinates": [
+        28.2883,
+        39.1198
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2883,
+            39.1198
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.29 10:20:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.29",
+      "date_hour": "10:20:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ERDEK KORFEZI (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2025.12.24 10:34:44",
-      "lat": 40.3675,
-      "lng": 27.6738,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "12.3",
-      "coordinates": [
-        27.6738,
-        40.3675
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.6738,
-            40.3675
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ERDEK KORFEZI (MARMARA DENIZI)",
-          "time": "2025.12.24 10:34:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.24",
-      "date_hour": "10:34:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
     }
   ]
 }
