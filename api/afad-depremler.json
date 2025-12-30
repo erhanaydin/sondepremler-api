@@ -1,5 +1,41 @@
 [
   {
+    "title": "Akdeniz",
+    "type": "İlksel",
+    "date": "2025-12-30 15:05:29",
+    "lat": 35.29833,
+    "lng": 35.35861,
+    "md": "-.-",
+    "ml": "4.4",
+    "mw": "-.-",
+    "depth": 7.88,
+    "coordinates": [
+      35.35861,
+      35.29833
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.35861,
+          35.29833
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Akdeniz (Hatay)",
+        "time": 1767107129000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2025-12-30",
+    "date_hour": "15:05:29",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Hatay"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2025-12-30 14:11:55",
@@ -13606,77 +13642,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Tekirdağ"
-  },
-  {
-    "title": "Akdeniz - [149.68 km] Marmaris (Muğla)",
-    "type": "İlksel",
-    "date": "2025-12-27 15:16:35",
-    "lat": 35.34361,
-    "lng": 27.61694,
-    "md": "-.-",
-    "ml": "3.5",
-    "mw": "-.-",
-    "depth": 5.48,
-    "coordinates": [
-      27.61694,
-      35.34361
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.61694,
-          35.34361
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akdeniz - [149.68 km] Marmaris (Muğla) (Muğla)",
-        "time": 1766848595000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-27",
-    "date_hour": "15:16:35",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
-  },
-  {
-    "title": "Pütürge (Malatya)",
-    "type": "İlksel",
-    "date": "2025-12-27 14:57:33",
-    "lat": 38.27806,
-    "lng": 38.81389,
-    "md": "-.-",
-    "ml": "2.2",
-    "mw": "-.-",
-    "depth": 4.94,
-    "coordinates": [
-      38.81389,
-      38.27806
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.81389,
-          38.27806
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Pütürge (Malatya) (Malatya)",
-        "time": 1766847453000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-27",
-    "date_hour": "14:57:33",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
   }
 ]
