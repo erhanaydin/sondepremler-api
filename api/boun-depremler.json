@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-30T19:43:18.228Z",
+  "lastUpdate": "2025-12-30T19:51:49.535Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CUMALI-BOZKURT (DENIZLI)",
+      "type": "�lksel",
+      "date": "2025.12.30 22:16:56",
+      "lat": 37.7462,
+      "lng": 29.6075,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "22.5",
+      "coordinates": [
+        29.6075,
+        37.7462
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.6075,
+            37.7462
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "CUMALI-BOZKURT (DENIZLI)",
+          "time": "2025.12.30 22:16:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.30",
+      "date_hour": "22:16:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "SALUR-GORDES (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "TURKCAYIRI-AFSIN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.12.25 16:58:44",
-      "lat": 38.3348,
-      "lng": 36.7127,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.5",
-      "coordinates": [
-        36.7127,
-        38.3348
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.7127,
-            38.3348
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "TURKCAYIRI-AFSIN (KAHRAMANMARAS)",
-          "time": "2025.12.25 16:58:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.25",
-      "date_hour": "16:58:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
