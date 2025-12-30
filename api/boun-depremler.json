@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-30T17:44:26.727Z",
+  "lastUpdate": "2025-12-30T17:53:18.425Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAKIS-ELBISTAN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2025.12.30 20:35:22",
+      "lat": 38.0927,
+      "lng": 37.4202,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "17.1",
+      "coordinates": [
+        37.4202,
+        38.0927
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.4202,
+            38.0927
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "BAKIS-ELBISTAN (KAHRAMANMARAS)",
+          "time": "2025.12.30 20:35:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.30",
+      "date_hour": "20:35:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.12.25 15:22:32",
-      "lat": 36.5377,
-      "lng": 24.2237,
-      "md": "-.-",
-      "ml": "3.1",
-      "mw": "-.-",
-      "depth": "17.8",
-      "coordinates": [
-        24.2237,
-        36.5377
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.2237,
-            36.5377
-          ]
-        },
-        "properties": {
-          "mag": "3.1",
-          "place": "YUNANISTAN",
-          "time": "2025.12.25 15:22:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.25",
-      "date_hour": "15:22:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
