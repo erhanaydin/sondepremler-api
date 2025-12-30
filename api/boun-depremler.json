@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-30T07:26:39.391Z",
+  "lastUpdate": "2025-12-30T07:42:28.627Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "IRAN",
+      "type": "�lksel",
+      "date": "2025.12.30 10:12:05",
+      "lat": 38.251,
+      "lng": 45.2517,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "11.4",
+      "coordinates": [
+        45.2517,
+        38.251
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            45.2517,
+            38.251
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "IRAN",
+          "time": "2025.12.30 10:12:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.30",
+      "date_hour": "10:12:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YASSIOREN-DURSUNBEY (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "BAYRAMIC (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.12.25 05:08:31",
-      "lat": 39.8153,
-      "lng": 26.6327,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "12.3",
-      "coordinates": [
-        26.6327,
-        39.8153
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.6327,
-            39.8153
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BAYRAMIC (CANAKKALE)",
-          "time": "2025.12.25 05:08:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.25",
-      "date_hour": "05:08:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
