@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-12-30T21:17:39.498Z",
+  "lastUpdate": "2025-12-30T21:34:00.875Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2025.12.31 00:28:14",
+      "lat": 39.2362,
+      "lng": 28.996,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "10.7",
+      "coordinates": [
+        28.996,
+        39.2362
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.996,
+            39.2362
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2025.12.31 00:28:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.31",
+      "date_hour": "00:28:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "AVCILARSUYU-ARSUZ (HATAY)",
+      "type": "�lksel",
+      "date": "2025.12.31 00:16:57",
+      "lat": 36.3402,
+      "lng": 35.9008,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "8.4",
+      "coordinates": [
+        35.9008,
+        36.3402
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.9008,
+            36.3402
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "AVCILARSUYU-ARSUZ (HATAY)",
+          "time": "2025.12.31 00:16:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.31",
+      "date_hour": "00:16:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
     {
       "title": "KINIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CICEKLI-ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2025.12.25 18:40:00",
-      "lat": 37.1037,
-      "lng": 28.4823,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "5.1",
-      "coordinates": [
-        28.4823,
-        37.1037
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.4823,
-            37.1037
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "CICEKLI-ULA (MUGLA)",
-          "time": "2025.12.25 18:40:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.25",
-      "date_hour": "18:40:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
-    },
-    {
-      "title": "SAMANLI (YALOVA)",
-      "type": "�lksel",
-      "date": "2025.12.25 18:34:10",
-      "lat": 40.6423,
-      "lng": 29.241,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "11.9",
-      "coordinates": [
-        29.241,
-        40.6423
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.241,
-            40.6423
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "SAMANLI (YALOVA)",
-          "time": "2025.12.25 18:34:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.25",
-      "date_hour": "18:34:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "YALOVA"
     }
   ]
 }
