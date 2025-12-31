@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-31T11:29:45.629Z",
+  "lastUpdate": "2025-12-31T11:42:28.262Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CIVRIL-YAZIHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2025.12.31 13:57:45",
+      "lat": 38.5302,
+      "lng": 38.06,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "2.2",
+      "coordinates": [
+        38.06,
+        38.5302
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.06,
+            38.5302
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "CIVRIL-YAZIHAN (MALATYA)",
+          "time": "2025.12.31 13:57:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.31",
+      "date_hour": "13:57:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "YUKARIORUKCU-AKCADAG (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
-    },
-    {
-      "title": "HATUNKOY-MADEN (ELAZIG)",
-      "type": "�lksel",
-      "date": "2025.12.26 01:29:26",
-      "lat": 38.479,
-      "lng": 39.4758,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        39.4758,
-        38.479
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.4758,
-            38.479
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "HATUNKOY-MADEN (ELAZIG)",
-          "time": "2025.12.26 01:29:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.26",
-      "date_hour": "01:29:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
