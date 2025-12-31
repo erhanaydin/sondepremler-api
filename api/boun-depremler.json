@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-12-31T21:42:24.359Z",
+  "lastUpdate": "2025-12-31T21:50:41.586Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.01.01 00:35:36",
+      "lat": 39.2478,
+      "lng": 29.0102,
+      "md": "-.-",
+      "ml": "0.8",
+      "mw": "-.-",
+      "depth": "3.7",
+      "coordinates": [
+        29.0102,
+        39.2478
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0102,
+            39.2478
+          ]
+        },
+        "properties": {
+          "mag": "0.8",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2026.01.01 00:35:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.01",
+      "date_hour": "00:35:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "DURULDU-(MALATYA)",
+      "type": "�lksel",
+      "date": "2026.01.01 00:22:50",
+      "lat": 38.3258,
+      "lng": 38.1693,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        38.1693,
+        38.3258
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.1693,
+            38.3258
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "DURULDU-(MALATYA)",
+          "time": "2026.01.01 00:22:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.01",
+      "date_hour": "00:22:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "AGACSARAY-KEMAH (ERZINCAN)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "GULPINAR-AYVACIK (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2025.12.26 09:57:19",
-      "lat": 39.5328,
-      "lng": 26.125,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.2",
-      "coordinates": [
-        26.125,
-        39.5328
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.125,
-            39.5328
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "GULPINAR-AYVACIK (CANAKKALE)",
-          "time": "2025.12.26 09:57:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.26",
-      "date_hour": "09:57:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
-    },
-    {
-      "title": "BARIS-NURHAK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.12.26 09:24:05",
-      "lat": 38.0205,
-      "lng": 37.312,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "8.4",
-      "coordinates": [
-        37.312,
-        38.0205
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.312,
-            38.0205
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "BARIS-NURHAK (KAHRAMANMARAS)",
-          "time": "2025.12.26 09:24:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.26",
-      "date_hour": "09:24:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
