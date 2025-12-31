@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2025-12-31T09:33:34.314Z",
+  "lastUpdate": "2025-12-31T09:49:28.095Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DENIZKOY-DIKILI (IZMIR)",
+      "type": "�lksel",
+      "date": "2025.12.31 12:34:03",
+      "lat": 38.9522,
+      "lng": 26.8622,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "12.8",
+      "coordinates": [
+        26.8622,
+        38.9522
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.8622,
+            38.9522
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "DENIZKOY-DIKILI (IZMIR)",
+          "time": "2025.12.31 12:34:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.31",
+      "date_hour": "12:34:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
+    {
+      "title": "CAYGOREN-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2025.12.31 11:58:01",
+      "lat": 39.2597,
+      "lng": 28.2195,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "6.5",
+      "coordinates": [
+        28.2195,
+        39.2597
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2195,
+            39.2597
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "CAYGOREN-SINDIRGI (BALIKESIR)",
+          "time": "2025.12.31 11:58:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.31",
+      "date_hour": "11:58:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "CALTILI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.26 00:30:06",
-      "lat": 39.2015,
-      "lng": 28.164,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "8.0",
-      "coordinates": [
-        28.164,
-        39.2015
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.164,
-            39.2015
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.26 00:30:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.26",
-      "date_hour": "00:30:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "GOVDELI-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.26 00:29:19",
-      "lat": 38.0103,
-      "lng": 37.59,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "7.1",
-      "coordinates": [
-        37.59,
-        38.0103
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.59,
-            38.0103
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "GOVDELI-DOGANSEHIR (MALATYA)",
-          "time": "2025.12.26 00:29:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.26",
-      "date_hour": "00:29:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
