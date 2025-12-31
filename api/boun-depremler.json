@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-12-31T20:43:11.977Z",
+  "lastUpdate": "2025-12-31T20:53:02.186Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CAMLI-MARMARIS (MUGLA)",
+      "type": "�lksel",
+      "date": "2025.12.31 23:33:39",
+      "lat": 36.9885,
+      "lng": 28.2812,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "9.3",
+      "coordinates": [
+        28.2812,
+        36.9885
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2812,
+            36.9885
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "CAMLI-MARMARIS (MUGLA)",
+          "time": "2025.12.31 23:33:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2025.12.31",
+      "date_hour": "23:33:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "KOCAOZU-HEKIMHAN (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "DARICA-AKCADAG (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.26 07:08:10",
-      "lat": 38.3307,
-      "lng": 37.6115,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        37.6115,
-        38.3307
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.6115,
-            38.3307
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "DARICA-AKCADAG (MALATYA)",
-          "time": "2025.12.26 07:08:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.26",
-      "date_hour": "07:08:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
