@@ -36,6 +36,42 @@
     "city": "Muğla"
   },
   {
+    "title": "Ege Denizi - [14.10 km] Bozcaada (Çanakkale)",
+    "type": "İlksel",
+    "date": "2026-01-01 13:32:55",
+    "lat": 39.90111,
+    "lng": 25.92361,
+    "md": "-.-",
+    "ml": "1.4",
+    "mw": "-.-",
+    "depth": 7.14,
+    "coordinates": [
+      25.92361,
+      39.90111
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.92361,
+          39.90111
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi - [14.10 km] Bozcaada (Çanakkale) (Çanakkale)",
+        "time": 1767274375000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-01",
+    "date_hour": "13:32:55",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Çanakkale"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2026-01-01 13:16:50",
@@ -13498,77 +13534,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Akdeniz",
-    "type": "İlksel",
-    "date": "2025-12-29 14:09:35",
-    "lat": 34.66917,
-    "lng": 32.4375,
-    "md": "-.-",
-    "ml": "2.9",
-    "mw": "-.-",
-    "depth": 7.2,
-    "coordinates": [
-      32.4375,
-      34.66917
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.4375,
-          34.66917
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akdeniz (Mersin)",
-        "time": 1767017375000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-29",
-    "date_hour": "14:09:35",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Mersin"
-  },
-  {
-    "title": "Simav (Kütahya)",
-    "type": "İlksel",
-    "date": "2025-12-29 14:04:27",
-    "lat": 39.25917,
-    "lng": 28.97361,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7.81,
-    "coordinates": [
-      28.97361,
-      39.25917
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.97361,
-          39.25917
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Simav (Kütahya) (Kütahya)",
-        "time": 1767017067000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-29",
-    "date_hour": "14:04:27",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kütahya"
   }
 ]

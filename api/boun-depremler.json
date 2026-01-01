@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-01T13:58:17.881Z",
+  "lastUpdate": "2026-01-01T14:22:57.549Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAZIDERE-AFSIN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.01.01 17:08:58",
+      "lat": 38.1318,
+      "lng": 37.0002,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "4.4",
+      "coordinates": [
+        37.0002,
+        38.1318
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.0002,
+            38.1318
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "YAZIDERE-AFSIN (KAHRAMANMARAS)",
+          "time": "2026.01.01 17:08:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.01",
+      "date_hour": "17:08:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "ZORLAR-FETHIYE (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "CITME-DIVRIGI (SIVAS)",
-      "type": "�lksel",
-      "date": "2025.12.27 04:26:58",
-      "lat": 39.5133,
-      "lng": 38.2148,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        38.2148,
-        39.5133
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.2148,
-            39.5133
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "CITME-DIVRIGI (SIVAS)",
-          "time": "2025.12.27 04:26:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.27",
-      "date_hour": "04:26:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
     }
   ]
 }
