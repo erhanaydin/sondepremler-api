@@ -36,6 +36,42 @@
     "city": "İzmir"
   },
   {
+    "title": "Simav (Kütahya)",
+    "type": "İlksel",
+    "date": "2026-01-01 20:46:28",
+    "lat": 39.24389,
+    "lng": 28.98333,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      28.98333,
+      39.24389
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.98333,
+          39.24389
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Simav (Kütahya) (Kütahya)",
+        "time": 1767300388000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-01",
+    "date_hour": "20:46:28",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
+  },
+  {
     "title": "Kırkağaç (Manisa)",
     "type": "İlksel",
     "date": "2026-01-01 20:21:07",
@@ -13714,41 +13750,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Nurhak (Kahramanmaraş)",
-    "type": "İlksel",
-    "date": "2025-12-29 21:24:22",
-    "lat": 38.01833,
-    "lng": 37.50444,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 7.01,
-    "coordinates": [
-      37.50444,
-      38.01833
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.50444,
-          38.01833
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Nurhak (Kahramanmaraş) (Kahramanmaraş)",
-        "time": 1767043462000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-29",
-    "date_hour": "21:24:22",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kahramanmaraş"
   }
 ]
