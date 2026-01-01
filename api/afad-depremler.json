@@ -1,5 +1,41 @@
 [
   {
+    "title": "Göksun (Kahramanmaraş)",
+    "type": "İlksel",
+    "date": "2026-01-01 14:08:59",
+    "lat": 38.12667,
+    "lng": 36.97778,
+    "md": "-.-",
+    "ml": "2.5",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      36.97778,
+      38.12667
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.97778,
+          38.12667
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Göksun (Kahramanmaraş) (Kahramanmaraş)",
+        "time": 1767276539000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-01",
+    "date_hour": "14:08:59",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kahramanmaraş"
+  },
+  {
     "title": "Fethiye (Muğla)",
     "type": "İlksel",
     "date": "2026-01-01 13:33:09",
@@ -13462,77 +13498,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Malatya"
-  },
-  {
-    "title": "Köyceğiz (Muğla)",
-    "type": "İlksel",
-    "date": "2025-12-29 14:31:28",
-    "lat": 37.04472,
-    "lng": 28.95417,
-    "md": "-.-",
-    "ml": "0.8",
-    "mw": "-.-",
-    "depth": 6.99,
-    "coordinates": [
-      28.95417,
-      37.04472
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.95417,
-          37.04472
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Köyceğiz (Muğla) (Muğla)",
-        "time": 1767018688000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-29",
-    "date_hour": "14:31:28",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-12-29 14:28:44",
-    "lat": 39.13611,
-    "lng": 28.19972,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.19972,
-      39.13611
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.19972,
-          39.13611
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1767018524000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-29",
-    "date_hour": "14:28:44",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
