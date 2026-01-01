@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-01T20:45:22.832Z",
+  "lastUpdate": "2026-01-01T20:55:09.491Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.01 23:13:57",
+      "lat": 39.177,
+      "lng": 28.1797,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "10.4",
+      "coordinates": [
+        28.1797,
+        39.177
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1797,
+            39.177
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.01 23:13:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.01",
+      "date_hour": "23:13:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "GOLYAKA (DUZCE)",
+      "type": "�lksel",
+      "date": "2026.01.01 23:02:05",
+      "lat": 40.7735,
+      "lng": 30.9825,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "13.2",
+      "coordinates": [
+        30.9825,
+        40.7735
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.9825,
+            40.7735
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "GOLYAKA (DUZCE)",
+          "time": "2026.01.01 23:02:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.01",
+      "date_hour": "23:02:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DUZCE"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ISKELE-BIGADIC (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.27 12:50:46",
-      "lat": 39.4742,
-      "lng": 28.1447,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "25.2",
-      "coordinates": [
-        28.1447,
-        39.4742
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1447,
-            39.4742
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "ISKELE-BIGADIC (BALIKESIR)",
-          "time": "2025.12.27 12:50:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.27",
-      "date_hour": "12:50:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "HASANCELEBI-HEKIMHAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.27 12:46:22",
-      "lat": 38.9433,
-      "lng": 37.8922,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "7.5",
-      "coordinates": [
-        37.8922,
-        38.9433
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.8922,
-            38.9433
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "HASANCELEBI-HEKIMHAN (MALATYA)",
-          "time": "2025.12.27 12:46:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.27",
-      "date_hour": "12:46:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
