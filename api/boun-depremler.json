@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-01T17:51:06.627Z",
+  "lastUpdate": "2026-01-01T17:59:19.790Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ARAKLI (TRABZON)",
+      "type": "�lksel",
+      "date": "2026.01.01 20:03:29",
+      "lat": 40.9848,
+      "lng": 40.1115,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "10.4",
+      "coordinates": [
+        40.1115,
+        40.9848
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.1115,
+            40.9848
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "ARAKLI (TRABZON)",
+          "time": "2026.01.01 20:03:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.01",
+      "date_hour": "20:03:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "TRABZON"
+    },
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.01 20:01:58",
+      "lat": 39.1842,
+      "lng": 28.2597,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "9.6",
+      "coordinates": [
+        28.2597,
+        39.1842
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2597,
+            39.1842
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.01 20:01:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.01",
+      "date_hour": "20:01:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KIYICIK-OF (TRABZON)",
-      "type": "�lksel",
-      "date": "2025.12.27 09:36:38",
-      "lat": 41.0717,
-      "lng": 40.1995,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "16.0",
-      "coordinates": [
-        40.1995,
-        41.0717
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.1995,
-            41.0717
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "KIYICIK-OF (TRABZON)",
-          "time": "2025.12.27 09:36:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.27",
-      "date_hour": "09:36:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TRABZON"
-    },
-    {
-      "title": "SOGUT-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.27 09:29:04",
-      "lat": 38.0917,
-      "lng": 37.7768,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        37.7768,
-        38.0917
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.7768,
-            38.0917
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "SOGUT-DOGANSEHIR (MALATYA)",
-          "time": "2025.12.27 09:29:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.27",
-      "date_hour": "09:29:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
