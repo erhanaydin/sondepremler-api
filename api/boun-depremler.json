@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-01T17:59:19.790Z",
+  "lastUpdate": "2026-01-01T18:38:00.468Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DENIZGOREN-YAYLADAGI (HATAY)",
+      "type": "�lksel",
+      "date": "2026.01.01 21:07:30",
+      "lat": 35.8997,
+      "lng": 35.8758,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "7.5",
+      "coordinates": [
+        35.8758,
+        35.8997
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.8758,
+            35.8997
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "DENIZGOREN-YAYLADAGI (HATAY)",
+          "time": "2026.01.01 21:07:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.01",
+      "date_hour": "21:07:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.01.01 21:06:35",
+      "lat": 39.2298,
+      "lng": 28.9873,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "12.5",
+      "coordinates": [
+        28.9873,
+        39.2298
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9873,
+            39.2298
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2026.01.01 21:06:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.01",
+      "date_hour": "21:06:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "ARAKLI (TRABZON)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "KINIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.27 10:05:30",
-      "lat": 39.1108,
-      "lng": 28.2317,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "16.2",
-      "coordinates": [
-        28.2317,
-        39.1108
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2317,
-            39.1108
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KINIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.27 10:05:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.27",
-      "date_hour": "10:05:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "KINIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.27 09:59:21",
-      "lat": 39.132,
-      "lng": 28.2152,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "14.9",
-      "coordinates": [
-        28.2152,
-        39.132
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2152,
-            39.132
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "KINIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.27 09:59:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.27",
-      "date_hour": "09:59:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
