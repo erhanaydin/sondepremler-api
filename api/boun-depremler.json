@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-01T06:33:21.255Z",
+  "lastUpdate": "2026-01-01T06:58:16.972Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MUDANYA (BURSA)",
+      "type": "�lksel",
+      "date": "2026.01.01 09:13:54",
+      "lat": 40.3937,
+      "lng": 28.8727,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        28.8727,
+        40.3937
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8727,
+            40.3937
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "MUDANYA (BURSA)",
+          "time": "2026.01.01 09:13:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.01",
+      "date_hour": "09:13:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADIYAMAN"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.12.26 21:30:36",
-      "lat": 39.2497,
-      "lng": 29.0338,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "15.1",
-      "coordinates": [
-        29.0338,
-        39.2497
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0338,
-            39.2497
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2025.12.26 21:30:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.26",
-      "date_hour": "21:30:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
