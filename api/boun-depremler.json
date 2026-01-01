@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-01T23:35:44.973Z",
+  "lastUpdate": "2026-01-01T23:46:51.469Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.02 02:30:00",
+      "lat": 39.184,
+      "lng": 28.2042,
+      "md": "-.-",
+      "ml": "0.8",
+      "mw": "-.-",
+      "depth": "8.1",
+      "coordinates": [
+        28.2042,
+        39.184
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2042,
+            39.184
+          ]
+        },
+        "properties": {
+          "mag": "0.8",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.02 02:30:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.02",
+      "date_hour": "02:30:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "CAKALDERE-CEYHAN (ADANA)",
+      "type": "�lksel",
+      "date": "2026.01.02 02:29:14",
+      "lat": 36.993,
+      "lng": 35.6858,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "18.0",
+      "coordinates": [
+        35.6858,
+        36.993
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.6858,
+            36.993
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "CAKALDERE-CEYHAN (ADANA)",
+          "time": "2026.01.02 02:29:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.02",
+      "date_hour": "02:29:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.27 21:58:36",
-      "lat": 39.1825,
-      "lng": 28.2423,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "12.4",
-      "coordinates": [
-        28.2423,
-        39.1825
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2423,
-            39.1825
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.27 21:58:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.27",
-      "date_hour": "21:58:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "GOVDELI-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.27 21:48:19",
-      "lat": 38.0698,
-      "lng": 37.6085,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "7.3",
-      "coordinates": [
-        37.6085,
-        38.0698
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.6085,
-            38.0698
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "GOVDELI-DOGANSEHIR (MALATYA)",
-          "time": "2025.12.27 21:48:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.27",
-      "date_hour": "21:48:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
