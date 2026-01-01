@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-01T22:33:52.017Z",
+  "lastUpdate": "2026-01-01T22:48:16.120Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.01.02 01:33:11",
+      "lat": 39.2377,
+      "lng": 29.0567,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        29.0567,
+        39.2377
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0567,
+            39.2377
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "KATRANDAGI-EMET (KUTAHYA)",
+          "time": "2026.01.02 01:33:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.02",
+      "date_hour": "01:33:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.02 01:29:40",
+      "lat": 39.1343,
+      "lng": 28.2193,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "12.9",
+      "coordinates": [
+        28.2193,
+        39.1343
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2193,
+            39.1343
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.02 01:29:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.02",
+      "date_hour": "01:29:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "CAMLI-MARMARIS (MUGLA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SARICAM-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.12.27 18:27:07",
-      "lat": 39.0452,
-      "lng": 29.1327,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        29.1327,
-        39.0452
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1327,
-            39.0452
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "SARICAM-SIMAV (KUTAHYA)",
-          "time": "2025.12.27 18:27:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.27",
-      "date_hour": "18:27:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "MURSALLI-SARKOY (TEKIRDAG)",
-      "type": "�lksel",
-      "date": "2025.12.27 18:19:14",
-      "lat": 40.717,
-      "lng": 27.2337,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "10.5",
-      "coordinates": [
-        27.2337,
-        40.717
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.2337,
-            40.717
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "MURSALLI-SARKOY (TEKIRDAG)",
-          "time": "2025.12.27 18:19:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.27",
-      "date_hour": "18:19:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TEKIRDAG"
     }
   ]
 }
