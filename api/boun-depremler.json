@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-02T10:53:00.080Z",
+  "lastUpdate": "2026-01-02T11:09:39.973Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.01.02 13:59:18",
+      "lat": 36.2667,
+      "lng": 28.2517,
+      "md": "-.-",
+      "ml": "3.2",
+      "mw": "3.0",
+      "depth": "53.1",
+      "coordinates": [
+        28.2517,
+        36.2667
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2517,
+            36.2667
+          ]
+        },
+        "properties": {
+          "mag": "3.2",
+          "place": "AKDENIZ",
+          "time": "2026.01.02 13:59:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.02",
+      "date_hour": "13:59:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YAYLABELI-(BURDUR)",
-      "type": "�lksel",
-      "date": "2025.12.28 10:28:03",
-      "lat": 37.6537,
-      "lng": 30,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "17.9",
-      "coordinates": [
-        30,
-        37.6537
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30,
-            37.6537
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YAYLABELI-(BURDUR)",
-          "time": "2025.12.28 10:28:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.28",
-      "date_hour": "10:28:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURDUR"
     }
   ]
 }
