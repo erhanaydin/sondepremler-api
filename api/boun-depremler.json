@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-02T22:52:56.495Z",
+  "lastUpdate": "2026-01-02T23:09:50.427Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ELMALI-YEDISU (BINGOL)",
+      "type": "�lksel",
+      "date": "2026.01.03 01:56:34",
+      "lat": 39.3733,
+      "lng": 40.6015,
+      "md": "-.-",
+      "ml": "3.4",
+      "mw": "3.3",
+      "depth": "4.4",
+      "coordinates": [
+        40.6015,
+        39.3733
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.6015,
+            39.3733
+          ]
+        },
+        "properties": {
+          "mag": "3.4",
+          "place": "ELMALI-YEDISU (BINGOL)",
+          "time": "2026.01.03 01:56:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.03",
+      "date_hour": "01:56:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGOL"
+    },
+    {
+      "title": "CAVDAR-SOKE (AYDIN)",
+      "type": "�lksel",
+      "date": "2026.01.03 01:39:00",
+      "lat": 37.5788,
+      "lng": 27.6508,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "4.7",
+      "coordinates": [
+        27.6508,
+        37.5788
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.6508,
+            37.5788
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "CAVDAR-SOKE (AYDIN)",
+          "time": "2026.01.03 01:39:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.03",
+      "date_hour": "01:39:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AYDIN"
+    },
     {
       "title": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.29 00:42:45",
-      "lat": 39.1378,
-      "lng": 28.2292,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        28.2292,
-        39.1378
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2292,
-            39.1378
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.29 00:42:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.29",
-      "date_hour": "00:42:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "YENILER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.12.29 00:32:04",
-      "lat": 39.2548,
-      "lng": 28.9568,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "7.4",
-      "coordinates": [
-        28.9568,
-        39.2548
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9568,
-            39.2548
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YENILER-SIMAV (KUTAHYA)",
-          "time": "2025.12.29 00:32:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.29",
-      "date_hour": "00:32:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
