@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-02T19:56:03.142Z",
+  "lastUpdate": "2026-01-02T20:19:18.802Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAKOY-MUSTAFAKEMALPASA (BURSA)",
+      "type": "�lksel",
+      "date": "2026.01.02 22:48:02",
+      "lat": 39.8813,
+      "lng": 28.6778,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        28.6778,
+        39.8813
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.6778,
+            39.8813
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KARAKOY-MUSTAFAKEMALPASA (BURSA)",
+          "time": "2026.01.02 22:48:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.02",
+      "date_hour": "22:48:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "CUKURBAG-MUT (MERSIN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.28 21:12:55",
-      "lat": 39.2015,
-      "lng": 28.1628,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "8.6",
-      "coordinates": [
-        28.1628,
-        39.2015
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1628,
-            39.2015
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.28 21:12:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.28",
-      "date_hour": "21:12:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
