@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-02T17:56:34.020Z",
+  "lastUpdate": "2026-01-02T18:27:41.293Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.01.02 20:51:06",
+      "lat": 36.8742,
+      "lng": 27.4638,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "8.1",
+      "coordinates": [
+        27.4638,
+        36.8742
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.4638,
+            36.8742
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "GOKOVA KORFEZI (EGE DENIZI)",
+          "time": "2026.01.02 20:51:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.02",
+      "date_hour": "20:51:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
+    {
+      "title": "KIYRA-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.01.02 20:47:12",
+      "lat": 37.0818,
+      "lng": 28.5417,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "18.4",
+      "coordinates": [
+        28.5417,
+        37.0818
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.5417,
+            37.0818
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "KIYRA-ULA (MUGLA)",
+          "time": "2026.01.02 20:47:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.02",
+      "date_hour": "20:47:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "KARAGUR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "AGCASAR-NURHAK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.12.28 19:10:17",
-      "lat": 38.0827,
-      "lng": 37.4185,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.6",
-      "coordinates": [
-        37.4185,
-        38.0827
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.4185,
-            38.0827
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "AGCASAR-NURHAK (KAHRAMANMARAS)",
-          "time": "2025.12.28 19:10:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.28",
-      "date_hour": "19:10:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "COLPAN-(VAN)",
-      "type": "�lksel",
-      "date": "2025.12.28 18:34:06",
-      "lat": 38.9068,
-      "lng": 43.5118,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        43.5118,
-        38.9068
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.5118,
-            38.9068
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "COLPAN-(VAN)",
-          "time": "2025.12.28 18:34:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.28",
-      "date_hour": "18:34:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "VAN"
     }
   ]
 }
