@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-02T16:23:11.461Z",
+  "lastUpdate": "2026-01-02T16:45:39.335Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOZLU-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.02 19:35:32",
+      "lat": 39.2393,
+      "lng": 28.0915,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "15.0",
+      "coordinates": [
+        28.0915,
+        39.2393
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0915,
+            39.2393
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "KOZLU-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.02 19:35:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.02",
+      "date_hour": "19:35:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.01.02 19:34:19",
+      "lat": 39.2468,
+      "lng": 29.0142,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "9.1",
+      "coordinates": [
+        29.0142,
+        39.2468
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0142,
+            39.2468
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2026.01.02 19:34:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.02",
+      "date_hour": "19:34:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "BULGARISTAN",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.28 18:26:56",
-      "lat": 39.1858,
-      "lng": 28.1202,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "9.8",
-      "coordinates": [
-        28.1202,
-        39.1858
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1202,
-            39.1858
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.28 18:26:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.28",
-      "date_hour": "18:26:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.28 18:13:58",
-      "lat": 39.129,
-      "lng": 28.2302,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "4.0",
-      "coordinates": [
-        28.2302,
-        39.129
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2302,
-            39.129
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.28 18:13:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.28",
-      "date_hour": "18:13:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
