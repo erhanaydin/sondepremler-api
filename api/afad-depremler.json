@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sındırgı (Balıkesir)",
+    "type": "İlksel",
+    "date": "2026-01-03 10:01:27",
+    "lat": 39.15556,
+    "lng": 28.25611,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      28.25611,
+      39.15556
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.25611,
+          39.15556
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sındırgı (Balıkesir) (Balıkesir)",
+        "time": 1767434487000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-03",
+    "date_hour": "10:01:27",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Balıkesir"
+  },
+  {
     "title": "Bigadiç (Balıkesir)",
     "type": "İlksel",
     "date": "2026-01-03 09:57:44",
@@ -178,6 +214,42 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
+  },
+  {
+    "title": "Kula (Manisa)",
+    "type": "İlksel",
+    "date": "2026-01-03 09:30:46",
+    "lat": 38.55056,
+    "lng": 28.52556,
+    "md": "-.-",
+    "ml": "1.1",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      28.52556,
+      38.55056
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.52556,
+          38.55056
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Kula (Manisa) (Manisa)",
+        "time": 1767432646000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-03",
+    "date_hour": "09:30:46",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Manisa"
   },
   {
     "title": "Seyitgazi (Eskişehir)",
@@ -14218,113 +14290,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Malatya"
-  },
-  {
-    "title": "Simav (Kütahya)",
-    "type": "İlksel",
-    "date": "2025-12-31 10:31:18",
-    "lat": 39.22917,
-    "lng": 28.92028,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7.28,
-    "coordinates": [
-      28.92028,
-      39.22917
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.92028,
-          39.22917
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Simav (Kütahya) (Kütahya)",
-        "time": 1767177078000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-31",
-    "date_hour": "10:31:18",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kütahya"
-  },
-  {
-    "title": "Akçadağ (Malatya)",
-    "type": "İlksel",
-    "date": "2025-12-31 10:26:44",
-    "lat": 38.47194,
-    "lng": 38.03667,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 7.05,
-    "coordinates": [
-      38.03667,
-      38.47194
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.03667,
-          38.47194
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akçadağ (Malatya) (Malatya)",
-        "time": 1767176804000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-31",
-    "date_hour": "10:26:44",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
-  },
-  {
-    "title": "Göksun (Kahramanmaraş)",
-    "type": "İlksel",
-    "date": "2025-12-31 10:21:27",
-    "lat": 38.07083,
-    "lng": 36.78778,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 6.99,
-    "coordinates": [
-      36.78778,
-      38.07083
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.78778,
-          38.07083
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Göksun (Kahramanmaraş) (Kahramanmaraş)",
-        "time": 1767176487000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-31",
-    "date_hour": "10:21:27",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kahramanmaraş"
   }
 ]
