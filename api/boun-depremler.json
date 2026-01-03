@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-03T15:09:53.636Z",
+  "lastUpdate": "2026-01-03T15:30:44.415Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.01.03 18:06:12",
+      "lat": 39.928,
+      "lng": 25.869,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        25.869,
+        39.928
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.869,
+            39.928
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "EGE DENIZI",
+          "time": "2026.01.03 18:06:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.03",
+      "date_hour": "18:06:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "TATLAR-NURHAK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.12.30 00:24:22",
-      "lat": 38.0137,
-      "lng": 37.5297,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "3.5",
-      "coordinates": [
-        37.5297,
-        38.0137
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.5297,
-            38.0137
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "TATLAR-NURHAK (KAHRAMANMARAS)",
-          "time": "2025.12.30 00:24:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.30",
-      "date_hour": "00:24:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
