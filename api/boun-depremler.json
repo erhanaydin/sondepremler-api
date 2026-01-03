@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-03T22:47:10.395Z",
+  "lastUpdate": "2026-01-03T22:55:23.398Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2026.01.04 01:26:44",
+      "lat": 35.1103,
+      "lng": 24.6153,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "-.-",
+      "depth": "11.4",
+      "coordinates": [
+        24.6153,
+        35.1103
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.6153,
+            35.1103
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+          "time": "2026.01.04 01:26:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.04",
+      "date_hour": "01:26:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "TEPEKOY-KALE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.12.30 04:32:06",
-      "lat": 39.2348,
-      "lng": 28.9982,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "6.7",
-      "coordinates": [
-        28.9982,
-        39.2348
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9982,
-            39.2348
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2025.12.30 04:32:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.30",
-      "date_hour": "04:32:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
