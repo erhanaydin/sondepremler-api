@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-03T08:18:41.525Z",
+  "lastUpdate": "2026-01-03T08:44:25.931Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ARMUTCUK-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.01.03 11:28:20",
+      "lat": 37.1283,
+      "lng": 28.5062,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "42.4",
+      "coordinates": [
+        28.5062,
+        37.1283
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.5062,
+            37.1283
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ARMUTCUK-ULA (MUGLA)",
+          "time": "2026.01.03 11:28:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.03",
+      "date_hour": "11:28:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
+    {
+      "title": "YAZIDERE-AFSIN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.01.03 11:24:18",
+      "lat": 38.1508,
+      "lng": 36.9927,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.5",
+      "coordinates": [
+        36.9927,
+        38.1508
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.9927,
+            38.1508
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "YAZIDERE-AFSIN (KAHRAMANMARAS)",
+          "time": "2026.01.03 11:24:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.03",
+      "date_hour": "11:24:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "TURLUBEY-BULDAN (DENIZLI)",
-      "type": "�lksel",
-      "date": "2025.12.29 20:14:46",
-      "lat": 38.1597,
-      "lng": 28.8818,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "15.8",
-      "coordinates": [
-        28.8818,
-        38.1597
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.8818,
-            38.1597
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "TURLUBEY-BULDAN (DENIZLI)",
-          "time": "2025.12.29 20:14:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.29",
-      "date_hour": "20:14:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.12.29 20:00:07",
-      "lat": 36.163,
-      "lng": 28.4687,
-      "md": "-.-",
-      "ml": "4.0",
-      "mw": "3.8",
-      "depth": "28.3",
-      "coordinates": [
-        28.4687,
-        36.163
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.4687,
-            36.163
-          ]
-        },
-        "properties": {
-          "mag": "4.0",
-          "place": "AKDENIZ",
-          "time": "2025.12.29 20:00:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.29",
-      "date_hour": "20:00:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
