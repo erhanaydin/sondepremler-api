@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-03T17:46:16.147Z",
+  "lastUpdate": "2026-01-03T17:54:26.647Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HACIHUSEYINLER-BASKIL (ELAZIG)",
+      "type": "�lksel",
+      "date": "2026.01.03 20:43:13",
+      "lat": 38.4028,
+      "lng": 38.9153,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "1.6",
+      "coordinates": [
+        38.9153,
+        38.4028
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.9153,
+            38.4028
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "HACIHUSEYINLER-BASKIL (ELAZIG)",
+          "time": "2026.01.03 20:43:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.03",
+      "date_hour": "20:43:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "SARITAS-BASKIL (ELAZIG)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "BOLUKKAYA-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.30 02:58:05",
-      "lat": 38.2957,
-      "lng": 38.8253,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "6.0",
-      "coordinates": [
-        38.8253,
-        38.2957
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.8253,
-            38.2957
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "BOLUKKAYA-PUTURGE (MALATYA)",
-          "time": "2025.12.30 02:58:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.30",
-      "date_hour": "02:58:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
