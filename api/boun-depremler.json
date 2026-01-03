@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-03T22:55:23.398Z",
+  "lastUpdate": "2026-01-03T23:14:59.014Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KURUCAOVA-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.01.04 01:40:24",
+      "lat": 37.9672,
+      "lng": 38.1465,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "4.4",
+      "coordinates": [
+        38.1465,
+        37.9672
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.1465,
+            37.9672
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KURUCAOVA-DOGANSEHIR (MALATYA)",
+          "time": "2026.01.04 01:40:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.04",
+      "date_hour": "01:40:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DUZCE"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.12.30 04:38:02",
-      "lat": 40.2507,
-      "lng": 24.0368,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "5.1",
-      "coordinates": [
-        24.0368,
-        40.2507
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.0368,
-            40.2507
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "YUNANISTAN",
-          "time": "2025.12.30 04:38:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.30",
-      "date_hour": "04:38:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
