@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-03T09:56:16.870Z",
+  "lastUpdate": "2026-01-03T10:18:39.943Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.03 13:01:27",
+      "lat": 39.0943,
+      "lng": 28.2615,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "13.6",
+      "coordinates": [
+        28.2615,
+        39.0943
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2615,
+            39.0943
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.03 13:01:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.03",
+      "date_hour": "13:01:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "SALIHLER-SEYITGAZI (ESKISEHIR)",
+      "type": "�lksel",
+      "date": "2026.01.03 12:26:46",
+      "lat": 39.2873,
+      "lng": 30.4553,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        30.4553,
+        39.2873
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4553,
+            39.2873
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "SALIHLER-SEYITGAZI (ESKISEHIR)",
+          "time": "2026.01.03 12:26:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.03",
+      "date_hour": "12:26:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ESKISEHIR"
     },
     {
       "title": "AGACOVEN-KIGI (BINGOL)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KOCAOZU-HEKIMHAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.29 22:29:36",
-      "lat": 38.7588,
-      "lng": 37.9695,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        37.9695,
-        38.7588
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.9695,
-            38.7588
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KOCAOZU-HEKIMHAN (MALATYA)",
-          "time": "2025.12.29 22:29:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.29",
-      "date_hour": "22:29:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "IRAN",
-      "type": "�lksel",
-      "date": "2025.12.29 21:11:07",
-      "lat": 38.3823,
-      "lng": 45.186,
-      "md": "-.-",
-      "ml": "3.2",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        45.186,
-        38.3823
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            45.186,
-            38.3823
-          ]
-        },
-        "properties": {
-          "mag": "3.2",
-          "place": "IRAN",
-          "time": "2025.12.29 21:11:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.29",
-      "date_hour": "21:11:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
