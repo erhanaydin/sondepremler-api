@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-03T06:48:15.088Z",
+  "lastUpdate": "2026-01-03T07:00:25.282Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAHCEDERESI-SILIFKE (MERSIN)",
+      "type": "�lksel",
+      "date": "2026.01.03 09:42:08",
+      "lat": 36.359,
+      "lng": 33.8452,
+      "md": "-.-",
+      "ml": "0.8",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        33.8452,
+        36.359
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.8452,
+            36.359
+          ]
+        },
+        "properties": {
+          "mag": "0.8",
+          "place": "BAHCEDERESI-SILIFKE (MERSIN)",
+          "time": "2026.01.03 09:42:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.03",
+      "date_hour": "09:42:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MERSIN"
+    },
     {
       "title": "KARACAOREN-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.29 17:28:43",
-      "lat": 39.1877,
-      "lng": 28.1655,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "8.9",
-      "coordinates": [
-        28.1655,
-        39.1877
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1655,
-            39.1877
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.29 17:28:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.29",
-      "date_hour": "17:28:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
