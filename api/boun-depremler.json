@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-03T19:29:07.557Z",
+  "lastUpdate": "2026-01-03T19:39:36.766Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.03 22:17:02",
+      "lat": 39.1802,
+      "lng": 28.2717,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "10.5",
+      "coordinates": [
+        28.2717,
+        39.1802
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2717,
+            39.1802
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.03 22:17:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.03",
+      "date_hour": "22:17:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "TUZLA (ISTANBUL)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2025.12.30 04:01:11",
-      "lat": 39.223,
-      "lng": 29.0275,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "11.0",
-      "coordinates": [
-        29.0275,
-        39.223
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0275,
-            39.223
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2025.12.30 04:01:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.30",
-      "date_hour": "04:01:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
