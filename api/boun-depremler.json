@@ -1,39 +1,75 @@
 {
-  "lastUpdate": "2026-01-03T16:33:41.349Z",
+  "lastUpdate": "2026-01-03T16:50:47.376Z",
   "source": "Boğaziçi",
   "data": [
     {
-      "title": "CITGOL-SIMAV (KUTAHYA)",
+      "title": "UZUNHUSEYIN-KALE (MALATYA)",
       "type": "�lksel",
-      "date": "2026.01.03 19:20:30",
-      "lat": 39.1212,
-      "lng": 28.949,
+      "date": "2026.01.03 19:39:14",
+      "lat": 38.3233,
+      "lng": 38.8933,
       "md": "-.-",
-      "ml": "1.8",
+      "ml": "1.5",
       "mw": "-.-",
-      "depth": "14.7",
+      "depth": "7.3",
       "coordinates": [
-        28.949,
-        39.1212
+        38.8933,
+        38.3233
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            28.949,
-            39.1212
+            38.8933,
+            38.3233
           ]
         },
         "properties": {
-          "mag": "1.8",
-          "place": "CITGOL-SIMAV (KUTAHYA)",
-          "time": "2026.01.03 19:20:30"
+          "mag": "1.5",
+          "place": "UZUNHUSEYIN-KALE (MALATYA)",
+          "time": "2026.01.03 19:39:14"
         }
       },
       "location_properties": "",
       "date_day": "2026.01.03",
-      "date_hour": "19:20:30",
+      "date_hour": "19:39:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
+      "title": "GUNEY-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.01.03 19:20:29",
+      "lat": 39.1645,
+      "lng": 28.9138,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "18.9",
+      "coordinates": [
+        28.9138,
+        39.1645
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9138,
+            39.1645
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "GUNEY-SIMAV (KUTAHYA)",
+          "time": "2026.01.03 19:20:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.03",
+      "date_hour": "19:20:29",
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.30 02:00:30",
-      "lat": 39.1545,
-      "lng": 28.2173,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "12.0",
-      "coordinates": [
-        28.2173,
-        39.1545
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2173,
-            39.1545
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "AKTAS-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.30 02:00:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.30",
-      "date_hour": "02:00:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
