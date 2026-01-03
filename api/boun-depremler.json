@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-03T15:43:28.878Z",
+  "lastUpdate": "2026-01-03T15:51:59.987Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TASDAMLAR-CELIKHAN (ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2026.01.03 18:35:40",
+      "lat": 38.1022,
+      "lng": 38.3403,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "8.1",
+      "coordinates": [
+        38.3403,
+        38.1022
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.3403,
+            38.1022
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "TASDAMLAR-CELIKHAN (ADIYAMAN)",
+          "time": "2026.01.03 18:35:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.03",
+      "date_hour": "18:35:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
+    },
     {
       "title": "TABANLI-(MUS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YALOVA ACIKLARI (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2025.12.30 01:18:15",
-      "lat": 40.757,
-      "lng": 29.1525,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "3.1",
-      "coordinates": [
-        29.1525,
-        40.757
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1525,
-            40.757
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YALOVA ACIKLARI (MARMARA DENIZI)",
-          "time": "2025.12.30 01:18:15"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.30",
-      "date_hour": "01:18:15",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
     }
   ]
 }
