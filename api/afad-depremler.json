@@ -1,5 +1,77 @@
 [
   {
+    "title": "Yeşilyurt (Malatya)",
+    "type": "İlksel",
+    "date": "2026-01-03 23:24:29",
+    "lat": 38.23556,
+    "lng": 38.24194,
+    "md": "-.-",
+    "ml": "2",
+    "mw": "-.-",
+    "depth": 4.75,
+    "coordinates": [
+      38.24194,
+      38.23556
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.24194,
+          38.23556
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Yeşilyurt (Malatya) (Malatya)",
+        "time": 1767482669000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-03",
+    "date_hour": "23:24:29",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Malatya"
+  },
+  {
+    "title": "Göksun (Kahramanmaraş)",
+    "type": "İlksel",
+    "date": "2026-01-03 23:20:09",
+    "lat": 38.04083,
+    "lng": 36.52222,
+    "md": "-.-",
+    "ml": "2.9",
+    "mw": "-.-",
+    "depth": 11.76,
+    "coordinates": [
+      36.52222,
+      38.04083
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.52222,
+          38.04083
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Göksun (Kahramanmaraş) (Kahramanmaraş)",
+        "time": 1767482409000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-03",
+    "date_hour": "23:20:09",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kahramanmaraş"
+  },
+  {
     "title": "Kemah (Erzincan)",
     "type": "İlksel",
     "date": "2026-01-03 23:10:32",
@@ -34,6 +106,42 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Erzincan"
+  },
+  {
+    "title": "Lice (Diyarbakır)",
+    "type": "İlksel",
+    "date": "2026-01-03 23:07:17",
+    "lat": 38.58972,
+    "lng": 40.5,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 6.97,
+    "coordinates": [
+      40.5,
+      38.58972
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.5,
+          38.58972
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Lice (Diyarbakır) (Diyarbakır)",
+        "time": 1767481637000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-03",
+    "date_hour": "23:07:17",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Diyarbakır"
   },
   {
     "title": "Merkez (Bolu)",
@@ -13282,77 +13390,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Malatya"
-  },
-  {
-    "title": "Akdeniz",
-    "type": "İlksel",
-    "date": "2025-12-31 23:41:06",
-    "lat": 35.4775,
-    "lng": 35.29167,
-    "md": "-.-",
-    "ml": "2.2",
-    "mw": "-.-",
-    "depth": 6.5,
-    "coordinates": [
-      35.29167,
-      35.4775
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.29167,
-          35.4775
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akdeniz (Hatay)",
-        "time": 1767224466000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-31",
-    "date_hour": "23:41:06",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Hatay"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2025-12-31 23:40:33",
-    "lat": 39.17306,
-    "lng": 28.23556,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.23556,
-      39.17306
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.23556,
-          39.17306
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1767224433000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2025-12-31",
-    "date_hour": "23:40:33",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
