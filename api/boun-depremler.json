@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-04T20:34:17.807Z",
+  "lastUpdate": "2026-01-04T20:48:10.143Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.01.04 23:21:50",
+      "lat": 35.6805,
+      "lng": 25.8613,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "22.1",
+      "coordinates": [
+        25.8613,
+        35.6805
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.8613,
+            35.6805
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "EGE DENIZI",
+          "time": "2026.01.04 23:21:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.04",
+      "date_hour": "23:21:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "IBILLER-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.31 01:15:38",
-      "lat": 39.2502,
-      "lng": 28.1322,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "11.7",
-      "coordinates": [
-        28.1322,
-        39.2502
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1322,
-            39.2502
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "IBILLER-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.31 01:15:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.31",
-      "date_hour": "01:15:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
