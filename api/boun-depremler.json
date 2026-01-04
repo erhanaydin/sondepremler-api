@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-04T13:43:27.142Z",
+  "lastUpdate": "2026-01-04T13:52:51.143Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -399,6 +399,42 @@
       "city": "ELAZIG"
     },
     {
+      "title": "TANKOY-KORKUT (MUS)",
+      "type": "�lksel",
+      "date": "2026.01.04 12:41:26",
+      "lat": 38.7995,
+      "lng": 41.8162,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        41.8162,
+        38.7995
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.8162,
+            38.7995
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "TANKOY-KORKUT (MUS)",
+          "time": "2026.01.04 12:41:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.04",
+      "date_hour": "12:41:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUS"
+    },
+    {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
       "date": "2026.01.04 12:38:08",
@@ -433,6 +469,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "KARACA-KEMAH (ERZINCAN)",
+      "type": "�lksel",
+      "date": "2026.01.04 12:27:59",
+      "lat": 39.6922,
+      "lng": 38.762,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "6.8",
+      "coordinates": [
+        38.762,
+        39.6922
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.762,
+            39.6922
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KARACA-KEMAH (ERZINCAN)",
+          "time": "2026.01.04 12:27:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.04",
+      "date_hour": "12:27:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZINCAN"
     },
     {
       "title": "SARITAS-BASKIL (ELAZIG)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "MUREFTE ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2025.12.30 18:49:50",
-      "lat": 40.6527,
-      "lng": 27.3773,
-      "md": "-.-",
-      "ml": "0.6",
-      "mw": "-.-",
-      "depth": "16.9",
-      "coordinates": [
-        27.3773,
-        40.6527
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.3773,
-            40.6527
-          ]
-        },
-        "properties": {
-          "mag": "0.6",
-          "place": "MUREFTE ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-          "time": "2025.12.30 18:49:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.30",
-      "date_hour": "18:49:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "BEGEL-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2025.12.30 18:45:27",
-      "lat": 39.033,
-      "lng": 28.2535,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "13.4",
-      "coordinates": [
-        28.2535,
-        39.033
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2535,
-            39.033
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "BEGEL-GORDES (MANISA)",
-          "time": "2025.12.30 18:45:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.30",
-      "date_hour": "18:45:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
