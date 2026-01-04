@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-04T21:43:51.566Z",
+  "lastUpdate": "2026-01-04T21:52:29.976Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -219,6 +219,42 @@
       "city": ""
     },
     {
+      "title": "YUSUFHACILI-(KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.01.04 23:18:32",
+      "lat": 37.5805,
+      "lng": 37.0635,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "13.3",
+      "coordinates": [
+        37.0635,
+        37.5805
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.0635,
+            37.5805
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "YUSUFHACILI-(KAHRAMANMARAS)",
+          "time": "2026.01.04 23:18:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.04",
+      "date_hour": "23:18:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
+    {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
       "type": "�lksel",
       "date": "2026.01.04 23:13:27",
@@ -289,6 +325,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "AKCAKISRAK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.04 22:11:23",
+      "lat": 39.342,
+      "lng": 27.9713,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "15.6",
+      "coordinates": [
+        27.9713,
+        39.342
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9713,
+            39.342
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "AKCAKISRAK-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.04 22:11:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.04",
+      "date_hour": "22:11:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "TOLUKLAR-BAYRAMIC (CANAKKALE)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "KOCASINAN (KAYSERI)",
-      "type": "�lksel",
-      "date": "2025.12.31 02:58:10",
-      "lat": 38.7395,
-      "lng": 35.5065,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "7.8",
-      "coordinates": [
-        35.5065,
-        38.7395
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.5065,
-            38.7395
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KOCASINAN (KAYSERI)",
-          "time": "2025.12.31 02:58:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.31",
-      "date_hour": "02:58:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAYSERI"
-    },
-    {
-      "title": "KOZLU-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2025.12.31 02:49:39",
-      "lat": 39.2458,
-      "lng": 28.0802,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "10.1",
-      "coordinates": [
-        28.0802,
-        39.2458
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0802,
-            39.2458
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KOZLU-SINDIRGI (BALIKESIR)",
-          "time": "2025.12.31 02:49:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.31",
-      "date_hour": "02:49:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
