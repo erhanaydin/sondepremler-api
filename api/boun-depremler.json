@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-04T05:20:12.806Z",
+  "lastUpdate": "2026-01-04T05:44:35.925Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2026.01.04 08:23:06",
+      "lat": 35.149,
+      "lng": 26.5742,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "11.5",
+      "coordinates": [
+        26.5742,
+        35.149
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.5742,
+            35.149
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2026.01.04 08:23:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.04",
+      "date_hour": "08:23:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
+    {
+      "title": "KOPUZLU-KEBAN (ELAZIG)",
+      "type": "�lksel",
+      "date": "2026.01.04 08:12:46",
+      "lat": 38.8597,
+      "lng": 38.692,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "20.0",
+      "coordinates": [
+        38.692,
+        38.8597
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.692,
+            38.8597
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "KOPUZLU-KEBAN (ELAZIG)",
+          "time": "2026.01.04 08:12:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.04",
+      "date_hour": "08:12:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "AKPINAR-CAMELI (DENIZLI)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2025.12.30 10:18:31",
-      "lat": 40.2312,
-      "lng": 24.2475,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "4.1",
-      "coordinates": [
-        24.2475,
-        40.2312
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.2475,
-            40.2312
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YUNANISTAN",
-          "time": "2025.12.30 10:18:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.30",
-      "date_hour": "10:18:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "IRAN",
-      "type": "�lksel",
-      "date": "2025.12.30 10:12:05",
-      "lat": 38.251,
-      "lng": 45.2517,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "11.4",
-      "coordinates": [
-        45.2517,
-        38.251
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            45.2517,
-            38.251
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "IRAN",
-          "time": "2025.12.30 10:12:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.30",
-      "date_hour": "10:12:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
