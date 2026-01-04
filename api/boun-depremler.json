@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-04T14:53:30.123Z",
+  "lastUpdate": "2026-01-04T15:10:43.779Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAYIKAGIL-NAZIMIYE (TUNCELI)",
+      "type": "�lksel",
+      "date": "2026.01.04 17:50:42",
+      "lat": 39.2772,
+      "lng": 39.918,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "8.0",
+      "coordinates": [
+        39.918,
+        39.2772
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.918,
+            39.2772
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "YAYIKAGIL-NAZIMIYE (TUNCELI)",
+          "time": "2026.01.04 17:50:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.04",
+      "date_hour": "17:50:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "TUNCELI"
+    },
     {
       "title": "GOZENE-YESILYURT (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.12.30 20:13:27",
-      "lat": 36.0292,
-      "lng": 28.2608,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "17.4",
-      "coordinates": [
-        28.2608,
-        36.0292
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2608,
-            36.0292
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "AKDENIZ",
-          "time": "2025.12.30 20:13:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.30",
-      "date_hour": "20:13:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
