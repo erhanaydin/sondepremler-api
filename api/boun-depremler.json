@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-04T15:10:43.779Z",
+  "lastUpdate": "2026-01-04T15:31:04.029Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ULUBAHCE-PAZARCIK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.01.04 17:51:49",
+      "lat": 37.4888,
+      "lng": 37.3428,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "3.3",
+      "coordinates": [
+        37.3428,
+        37.4888
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.3428,
+            37.4888
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "ULUBAHCE-PAZARCIK (KAHRAMANMARAS)",
+          "time": "2026.01.04 17:51:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.04",
+      "date_hour": "17:51:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "YAYIKAGIL-NAZIMIYE (TUNCELI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2025.12.30 20:24:17",
-      "lat": 40.8195,
-      "lng": 28.6897,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "11.7",
-      "coordinates": [
-        28.6897,
-        40.8195
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.6897,
-            40.8195
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-          "time": "2025.12.30 20:24:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.30",
-      "date_hour": "20:24:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
     }
   ]
 }
