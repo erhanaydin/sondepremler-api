@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-04T15:43:43.486Z",
+  "lastUpdate": "2026-01-04T15:52:28.630Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKKOCALI-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2026.01.04 18:07:55",
+      "lat": 39.1733,
+      "lng": 27.9698,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "11.7",
+      "coordinates": [
+        27.9698,
+        39.1733
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9698,
+            39.1733
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "AKKOCALI-AKHISAR (MANISA)",
+          "time": "2026.01.04 18:07:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.04",
+      "date_hour": "18:07:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "ULUBAHCE-PAZARCIK (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "BAKIS-ELBISTAN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.12.30 20:35:22",
-      "lat": 38.0927,
-      "lng": 37.4202,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "17.1",
-      "coordinates": [
-        37.4202,
-        38.0927
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.4202,
-            38.0927
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "BAKIS-ELBISTAN (KAHRAMANMARAS)",
-          "time": "2025.12.30 20:35:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.30",
-      "date_hour": "20:35:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
