@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-04T07:33:46.549Z",
+  "lastUpdate": "2026-01-04T07:45:08.979Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "ISIKLI-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.01.04 09:11:14",
+      "lat": 38.2232,
+      "lng": 38.0555,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        38.0555,
+        38.2232
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.0555,
+            38.2232
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "ISIKLI-YESILYURT (MALATYA)",
+          "time": "2026.01.04 09:11:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.04",
+      "date_hour": "09:11:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MERSIN"
-    },
-    {
-      "title": "KUYUCAK-MECITOZU (CORUM)",
-      "type": "�lksel",
-      "date": "2025.12.30 12:07:42",
-      "lat": 40.49,
-      "lng": 35.2225,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        35.2225,
-        40.49
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.2225,
-            40.49
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "KUYUCAK-MECITOZU (CORUM)",
-          "time": "2025.12.30 12:07:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.30",
-      "date_hour": "12:07:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CORUM"
     }
   ]
 }
