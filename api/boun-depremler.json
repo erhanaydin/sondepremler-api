@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-04T20:48:10.143Z",
+  "lastUpdate": "2026-01-04T20:56:44.403Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MESCICELE-(BOLU)",
+      "type": "�lksel",
+      "date": "2026.01.04 23:44:42",
+      "lat": 40.8922,
+      "lng": 31.6782,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "2.2",
+      "coordinates": [
+        31.6782,
+        40.8922
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.6782,
+            40.8922
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "MESCICELE-(BOLU)",
+          "time": "2026.01.04 23:44:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.04",
+      "date_hour": "23:44:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BOLU"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KARS"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2025.12.31 01:20:49",
-      "lat": 36.1362,
-      "lng": 28.2563,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "4.3",
-      "coordinates": [
-        28.2563,
-        36.1362
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2563,
-            36.1362
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "AKDENIZ",
-          "time": "2025.12.31 01:20:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.31",
-      "date_hour": "01:20:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
