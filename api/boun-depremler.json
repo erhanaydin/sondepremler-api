@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-05T19:57:38.480Z",
+  "lastUpdate": "2026-01-05T20:27:12.556Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAPICAM-(KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.01.05 22:56:45",
+      "lat": 37.4665,
+      "lng": 37.0358,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "2.9",
+      "coordinates": [
+        37.0358,
+        37.4665
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.0358,
+            37.4665
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "KAPICAM-(KAHRAMANMARAS)",
+          "time": "2026.01.05 22:56:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.05",
+      "date_hour": "22:56:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "AGACSARAY-KEMAH (ERZINCAN)",
-      "type": "�lksel",
-      "date": "2026.01.01 00:21:13",
-      "lat": 39.7518,
-      "lng": 38.9427,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "6.9",
-      "coordinates": [
-        38.9427,
-        39.7518
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.9427,
-            39.7518
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "AGACSARAY-KEMAH (ERZINCAN)",
-          "time": "2026.01.01 00:21:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.01",
-      "date_hour": "00:21:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
     }
   ]
 }
