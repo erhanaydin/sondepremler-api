@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-05T17:36:57.719Z",
+  "lastUpdate": "2026-01-05T17:51:22.470Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.01.05 20:26:14",
+      "lat": 39.2328,
+      "lng": 29.0112,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "10.9",
+      "coordinates": [
+        29.0112,
+        39.2328
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0112,
+            39.2328
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2026.01.05 20:26:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.05",
+      "date_hour": "20:26:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YESILYAYLA-ARAPGIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.31 22:32:11",
-      "lat": 38.9915,
-      "lng": 38.3742,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "22.4",
-      "coordinates": [
-        38.3742,
-        38.9915
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.3742,
-            38.9915
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "YESILYAYLA-ARAPGIR (MALATYA)",
-          "time": "2025.12.31 22:32:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.31",
-      "date_hour": "22:32:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
