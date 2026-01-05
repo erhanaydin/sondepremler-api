@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-05T11:00:34.391Z",
+  "lastUpdate": "2026-01-05T11:27:00.469Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -325,6 +325,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MERSIN"
+    },
+    {
+      "title": "AKOREN-ZARA (SIVAS)",
+      "type": "�lksel",
+      "date": "2026.01.05 11:44:14",
+      "lat": 39.9892,
+      "lng": 37.5205,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "7.5",
+      "coordinates": [
+        37.5205,
+        39.9892
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.5205,
+            39.9892
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "AKOREN-ZARA (SIVAS)",
+          "time": "2026.01.05 11:44:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.05",
+      "date_hour": "11:44:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SIVAS"
     },
     {
       "title": "AKDENIZ",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "KADIRUSAGI-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.31 19:56:16",
-      "lat": 38.2238,
-      "lng": 38.2355,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "2.8",
-      "coordinates": [
-        38.2355,
-        38.2238
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.2355,
-            38.2238
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KADIRUSAGI-YESILYURT (MALATYA)",
-          "time": "2025.12.31 19:56:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.31",
-      "date_hour": "19:56:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
