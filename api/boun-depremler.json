@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-05T19:26:37.823Z",
+  "lastUpdate": "2026-01-05T19:40:23.740Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
+    },
+    {
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.05 21:31:19",
+      "lat": 39.2052,
+      "lng": 28.1672,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "10.8",
+      "coordinates": [
+        28.1672,
+        39.2052
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1672,
+            39.2052
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.05 21:31:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.05",
+      "date_hour": "21:31:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "KIZILGUR-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZINCAN"
-    },
-    {
-      "title": "OZLUCE-(MUGLA)",
-      "type": "�lksel",
-      "date": "2026.01.01 00:15:34",
-      "lat": 37.2165,
-      "lng": 28.5022,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "7.1",
-      "coordinates": [
-        28.5022,
-        37.2165
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.5022,
-            37.2165
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "OZLUCE-(MUGLA)",
-          "time": "2026.01.01 00:15:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.01",
-      "date_hour": "00:15:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
