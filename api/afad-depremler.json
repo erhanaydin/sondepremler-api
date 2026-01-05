@@ -1,5 +1,41 @@
 [
   {
+    "title": "Bayramiç (Çanakkale)",
+    "type": "İlksel",
+    "date": "2026-01-05 06:01:44",
+    "lat": 39.76778,
+    "lng": 26.85722,
+    "md": "-.-",
+    "ml": "2.2",
+    "mw": "-.-",
+    "depth": 0.92,
+    "coordinates": [
+      26.85722,
+      39.76778
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.85722,
+          39.76778
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Bayramiç (Çanakkale) (Çanakkale)",
+        "time": 1767592904000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-05",
+    "date_hour": "06:01:44",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Çanakkale"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2026-01-05 05:42:35",
@@ -12706,77 +12742,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Gölova (Sivas)",
-    "type": "İlksel",
-    "date": "2026-01-02 06:12:28",
-    "lat": 40.05111,
-    "lng": 38.67194,
-    "md": "-.-",
-    "ml": "1.6",
-    "mw": "-.-",
-    "depth": 6.28,
-    "coordinates": [
-      38.67194,
-      40.05111
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.67194,
-          40.05111
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Gölova (Sivas) (Sivas)",
-        "time": 1767334348000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-01-02",
-    "date_hour": "06:12:28",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Sivas"
-  },
-  {
-    "title": "Halkapınar (Konya)",
-    "type": "İlksel",
-    "date": "2026-01-02 06:07:04",
-    "lat": 37.46139,
-    "lng": 34.35222,
-    "md": "-.-",
-    "ml": "1.6",
-    "mw": "-.-",
-    "depth": 7.04,
-    "coordinates": [
-      34.35222,
-      37.46139
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.35222,
-          37.46139
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Halkapınar (Konya) (Konya)",
-        "time": 1767334024000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-01-02",
-    "date_hour": "06:07:04",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Konya"
   }
 ]
