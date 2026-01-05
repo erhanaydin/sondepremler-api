@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-05T14:34:18.511Z",
+  "lastUpdate": "2026-01-05T14:54:48.635Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.01.05 17:24:59",
+      "lat": 39.2378,
+      "lng": 28.9948,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "16.8",
+      "coordinates": [
+        28.9948,
+        39.2378
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9948,
+            39.2378
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2026.01.05 17:24:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.05",
+      "date_hour": "17:24:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.01.05 17:21:51",
+      "lat": 39.0447,
+      "lng": 25.9612,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "9.0",
+      "coordinates": [
+        25.9612,
+        39.0447
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.9612,
+            39.0447
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+          "time": "2026.01.05 17:21:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.05",
+      "date_hour": "17:21:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "IGDIR-GURSU (BURSA)",
-      "type": "�lksel",
-      "date": "2025.12.31 21:18:25",
-      "lat": 40.2708,
-      "lng": 29.2168,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "5.6",
-      "coordinates": [
-        29.2168,
-        40.2708
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.2168,
-            40.2708
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "IGDIR-GURSU (BURSA)",
-          "time": "2025.12.31 21:18:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.31",
-      "date_hour": "21:18:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
-    },
-    {
-      "title": "KADIRUSAGI-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2025.12.31 21:14:22",
-      "lat": 38.24,
-      "lng": 38.227,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "8.0",
-      "coordinates": [
-        38.227,
-        38.24
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.227,
-            38.24
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "KADIRUSAGI-YESILYURT (MALATYA)",
-          "time": "2025.12.31 21:14:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.31",
-      "date_hour": "21:14:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
