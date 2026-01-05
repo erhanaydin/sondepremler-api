@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-05T12:57:54.850Z",
+  "lastUpdate": "2026-01-05T13:41:48.779Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAPUKAYA-ULAS (SIVAS)",
+      "type": "�lksel",
+      "date": "2026.01.05 16:11:37",
+      "lat": 39.4763,
+      "lng": 37.4028,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "7.6",
+      "coordinates": [
+        37.4028,
+        39.4763
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.4028,
+            39.4763
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KAPUKAYA-ULAS (SIVAS)",
+          "time": "2026.01.05 16:11:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.05",
+      "date_hour": "16:11:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SIVAS"
+    },
+    {
+      "title": "ILICA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.05 16:01:49",
+      "lat": 39.1882,
+      "lng": 28.244,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "12.9",
+      "coordinates": [
+        28.244,
+        39.1882
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.244,
+            39.1882
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "ILICA-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.05 16:01:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.05",
+      "date_hour": "16:01:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YELKAYA-GENC (BINGOL)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "BELEK ACIKLARI-ANTALYA (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2025.12.31 20:43:41",
-      "lat": 36.8123,
-      "lng": 31.031,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "14.3",
-      "coordinates": [
-        31.031,
-        36.8123
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.031,
-            36.8123
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BELEK ACIKLARI-ANTALYA (AKDENIZ)",
-          "time": "2025.12.31 20:43:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.31",
-      "date_hour": "20:43:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
-    },
-    {
-      "title": "CICEKLI-KAGIZMAN (KARS)",
-      "type": "�lksel",
-      "date": "2025.12.31 20:15:10",
-      "lat": 39.9857,
-      "lng": 42.7495,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "11.6",
-      "coordinates": [
-        42.7495,
-        39.9857
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.7495,
-            39.9857
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "CICEKLI-KAGIZMAN (KARS)",
-          "time": "2025.12.31 20:15:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.31",
-      "date_hour": "20:15:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KARS"
     }
   ]
 }
