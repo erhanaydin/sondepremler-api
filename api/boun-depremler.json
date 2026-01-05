@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-05T20:27:12.556Z",
+  "lastUpdate": "2026-01-05T20:46:36.814Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2026.01.05 23:35:58",
+      "lat": 40.6775,
+      "lng": 27.54,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "9.9",
+      "coordinates": [
+        27.54,
+        40.6775
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.54,
+            40.6775
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "MARMARA DENIZI",
+          "time": "2026.01.05 23:35:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.05",
+      "date_hour": "23:35:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KAPICAM-(KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "DURULDU-(MALATYA)",
-      "type": "�lksel",
-      "date": "2026.01.01 00:22:50",
-      "lat": 38.3258,
-      "lng": 38.1693,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "8.9",
-      "coordinates": [
-        38.1693,
-        38.3258
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.1693,
-            38.3258
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "DURULDU-(MALATYA)",
-          "time": "2026.01.01 00:22:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.01",
-      "date_hour": "00:22:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
