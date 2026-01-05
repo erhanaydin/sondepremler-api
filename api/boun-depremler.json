@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-05T19:00:33.688Z",
+  "lastUpdate": "2026-01-05T19:26:37.823Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.01.05 22:00:24",
+      "lat": 39.3292,
+      "lng": 25.6807,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "8.4",
+      "coordinates": [
+        25.6807,
+        39.3292
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.6807,
+            39.3292
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "EGE DENIZI",
+          "time": "2026.01.05 22:00:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.05",
+      "date_hour": "22:00:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "UGURLUBAG-FEKE (ADANA)",
+      "type": "�lksel",
+      "date": "2026.01.05 21:34:04",
+      "lat": 37.716,
+      "lng": 35.9283,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "6.4",
+      "coordinates": [
+        35.9283,
+        37.716
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.9283,
+            37.716
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "UGURLUBAG-FEKE (ADANA)",
+          "time": "2026.01.05 21:34:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.05",
+      "date_hour": "21:34:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "KIZILGUR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "AGMUSA-REFAHIYE (ERZINCAN)",
-      "type": "�lksel",
-      "date": "2026.01.01 00:14:05",
-      "lat": 39.7713,
-      "lng": 38.9525,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "8.3",
-      "coordinates": [
-        38.9525,
-        39.7713
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.9525,
-            39.7713
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "AGMUSA-REFAHIYE (ERZINCAN)",
-          "time": "2026.01.01 00:14:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.01",
-      "date_hour": "00:14:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
-    },
-    {
-      "title": "TATLAR-NURHAK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2025.12.31 23:58:05",
-      "lat": 38.0188,
-      "lng": 37.5258,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "5.5",
-      "coordinates": [
-        37.5258,
-        38.0188
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.5258,
-            38.0188
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "TATLAR-NURHAK (KAHRAMANMARAS)",
-          "time": "2025.12.31 23:58:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2025.12.31",
-      "date_hour": "23:58:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
