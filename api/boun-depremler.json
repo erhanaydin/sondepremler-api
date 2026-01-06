@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-06T11:19:33.471Z",
+  "lastUpdate": "2026-01-06T11:34:37.922Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2026.01.06 14:19:10",
+      "lat": 40.831,
+      "lng": 28.1327,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "1.8",
+      "coordinates": [
+        28.1327,
+        40.831
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1327,
+            40.831
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "MARMARA DENIZI",
+          "time": "2026.01.06 14:19:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.06",
+      "date_hour": "14:19:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "ETIMESGUT (ANKARA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.01.01 15:44:57",
-      "lat": 39.0277,
-      "lng": 25.9402,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "15.2",
-      "coordinates": [
-        25.9402,
-        39.0277
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.9402,
-            39.0277
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-          "time": "2026.01.01 15:44:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.01",
-      "date_hour": "15:44:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
