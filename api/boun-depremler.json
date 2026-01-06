@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-06T11:34:37.922Z",
+  "lastUpdate": "2026-01-06T11:46:07.308Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GELINDERE-SIVRICE (ELAZIG)",
+      "type": "�lksel",
+      "date": "2026.01.06 14:36:28",
+      "lat": 38.389,
+      "lng": 38.9288,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "7.2",
+      "coordinates": [
+        38.9288,
+        38.389
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.9288,
+            38.389
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "GELINDERE-SIVRICE (ELAZIG)",
+          "time": "2026.01.06 14:36:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.06",
+      "date_hour": "14:36:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
+    {
+      "title": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.01.06 14:28:33",
+      "lat": 39.4158,
+      "lng": 25.9388,
+      "md": "-.-",
+      "ml": "3.9",
+      "mw": "3.7",
+      "depth": "8.9",
+      "coordinates": [
+        25.9388,
+        39.4158
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.9388,
+            39.4158
+          ]
+        },
+        "properties": {
+          "mag": "3.9",
+          "place": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+          "time": "2026.01.06 14:28:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.06",
+      "date_hour": "14:28:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "UVECIK ACIKLARI-CANAKKALE (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.01.01 16:32:54",
-      "lat": 39.9293,
-      "lng": 26.061,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "12.3",
-      "coordinates": [
-        26.061,
-        39.9293
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.061,
-            39.9293
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "UVECIK ACIKLARI-CANAKKALE (EGE DENIZI)",
-          "time": "2026.01.01 16:32:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.01",
-      "date_hour": "16:32:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
-    },
-    {
-      "title": "FUNDACIK-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2026.01.01 15:52:23",
-      "lat": 38.9795,
-      "lng": 28.1918,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "10.5",
-      "coordinates": [
-        28.1918,
-        38.9795
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1918,
-            38.9795
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "FUNDACIK-GORDES (MANISA)",
-          "time": "2026.01.01 15:52:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.01",
-      "date_hour": "15:52:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
