@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-06T21:52:05.557Z",
+  "lastUpdate": "2026-01-06T22:00:31.813Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "SARIYER-FETHIYE (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.01.07 00:16:52",
+      "lat": 36.6467,
+      "lng": 29.3975,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "2.7",
+      "coordinates": [
+        29.3975,
+        36.6467
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.3975,
+            36.6467
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "SARIYER-FETHIYE (MUGLA)",
+          "time": "2026.01.07 00:16:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.07",
+      "date_hour": "00:16:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
     },
     {
       "title": "TATLAR-NURHAK (KAHRAMANMARAS)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.02 01:29:40",
-      "lat": 39.1343,
-      "lng": 28.2193,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "12.9",
-      "coordinates": [
-        28.2193,
-        39.1343
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2193,
-            39.1343
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.02 01:29:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.02",
-      "date_hour": "01:29:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
