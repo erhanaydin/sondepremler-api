@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-07T07:44:42.142Z",
+  "lastUpdate": "2026-01-07T07:54:48.335Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.07 10:42:56",
+      "lat": 39.1742,
+      "lng": 28.1882,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "16.4",
+      "coordinates": [
+        28.1882,
+        39.1742
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1882,
+            39.1742
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.07 10:42:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.07",
+      "date_hour": "10:42:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.01.07 10:37:57",
+      "lat": 39.1783,
+      "lng": 28.9845,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "17.0",
+      "coordinates": [
+        28.9845,
+        39.1783
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9845,
+            39.1783
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2026.01.07 10:37:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.07",
+      "date_hour": "10:37:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "KARLICA-KARLIOVA (BINGOL)",
-      "type": "�lksel",
-      "date": "2026.01.02 06:13:33",
-      "lat": 39.2693,
-      "lng": 40.7667,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        40.7667,
-        39.2693
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.7667,
-            39.2693
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KARLICA-KARLIOVA (BINGOL)",
-          "time": "2026.01.02 06:13:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.02",
-      "date_hour": "06:13:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
-    },
-    {
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.01.02 06:12:54",
-      "lat": 37.988,
-      "lng": 27.1075,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.1",
-      "coordinates": [
-        27.1075,
-        37.988
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1075,
-            37.988
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KUSADASI KORFEZI (EGE DENIZI)",
-          "time": "2026.01.02 06:12:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.02",
-      "date_hour": "06:12:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
