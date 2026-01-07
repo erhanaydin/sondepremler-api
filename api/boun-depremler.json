@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-07T09:44:00.181Z",
+  "lastUpdate": "2026-01-07T09:56:34.448Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "PURSAKLAR (ANKARA)",
+      "type": "�lksel",
+      "date": "2026.01.07 12:42:57",
+      "lat": 40.1182,
+      "lng": 32.9177,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "13.4",
+      "coordinates": [
+        32.9177,
+        40.1182
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.9177,
+            40.1182
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "PURSAKLAR (ANKARA)",
+          "time": "2026.01.07 12:42:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.07",
+      "date_hour": "12:42:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
+    },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.01.02 09:31:02",
-      "lat": 39.2473,
-      "lng": 29.0293,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "11.0",
-      "coordinates": [
-        29.0293,
-        39.2473
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0293,
-            39.2473
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2026.01.02 09:31:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.02",
-      "date_hour": "09:31:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
