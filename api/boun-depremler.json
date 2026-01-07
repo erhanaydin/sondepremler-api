@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-07T11:48:21.613Z",
+  "lastUpdate": "2026-01-07T11:56:44.075Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -217,6 +217,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MERSIN"
+    },
+    {
+      "title": "DURULDU-(MALATYA)",
+      "type": "�lksel",
+      "date": "2026.01.07 13:08:36",
+      "lat": 38.3027,
+      "lng": 38.1558,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        38.1558,
+        38.3027
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.1558,
+            38.3027
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "DURULDU-(MALATYA)",
+          "time": "2026.01.07 13:08:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.07",
+      "date_hour": "13:08:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "ISKELE-BIGADIC (BALIKESIR)",
@@ -17962,42 +17998,6 @@
       "location_properties": "",
       "date_day": "2026.01.02",
       "date_hour": "13:02:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "RESADIYE-DURSUNBEY (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.02 13:01:35",
-      "lat": 39.4257,
-      "lng": 28.8453,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "13.2",
-      "coordinates": [
-        28.8453,
-        39.4257
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.8453,
-            39.4257
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "RESADIYE-DURSUNBEY (BALIKESIR)",
-          "time": "2026.01.02 13:01:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.02",
-      "date_hour": "13:01:35",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
