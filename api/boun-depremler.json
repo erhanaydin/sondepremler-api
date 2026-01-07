@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-07T19:55:16.561Z",
+  "lastUpdate": "2026-01-07T20:18:17.601Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HEKIMHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.01.07 22:50:24",
+      "lat": 38.8103,
+      "lng": 37.8923,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "14.0",
+      "coordinates": [
+        37.8923,
+        38.8103
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.8923,
+            38.8103
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "HEKIMHAN (MALATYA)",
+          "time": "2026.01.07 22:50:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.07",
+      "date_hour": "22:50:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "ASLANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "ULUCAK-LICE (DIYARBAKIR)",
+      "type": "�lksel",
+      "date": "2026.01.07 22:09:01",
+      "lat": 38.596,
+      "lng": 40.7407,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        40.7407,
+        38.596
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.7407,
+            38.596
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ULUCAK-LICE (DIYARBAKIR)",
+          "time": "2026.01.07 22:09:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.07",
+      "date_hour": "22:09:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DIYARBAKIR"
     },
     {
       "title": "TOLUKLAR-BAYRAMIC (CANAKKALE)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.01.02 19:34:19",
-      "lat": 39.2468,
-      "lng": 29.0142,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "9.1",
-      "coordinates": [
-        29.0142,
-        39.2468
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0142,
-            39.2468
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2026.01.02 19:34:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.02",
-      "date_hour": "19:34:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "BULGARISTAN",
-      "type": "�lksel",
-      "date": "2026.01.02 18:52:18",
-      "lat": 41.9657,
-      "lng": 23.0232,
-      "md": "-.-",
-      "ml": "3.3",
-      "mw": "-.-",
-      "depth": "2.8",
-      "coordinates": [
-        23.0232,
-        41.9657
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            23.0232,
-            41.9657
-          ]
-        },
-        "properties": {
-          "mag": "3.3",
-          "place": "BULGARISTAN",
-          "time": "2026.01.02 18:52:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.02",
-      "date_hour": "18:52:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
