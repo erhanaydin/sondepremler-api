@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-07T17:56:20.327Z",
+  "lastUpdate": "2026-01-07T18:29:34.700Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.01.07 21:02:17",
+      "lat": 37.8945,
+      "lng": 36.5082,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "3.5",
+      "coordinates": [
+        36.5082,
+        37.8945
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.5082,
+            37.8945
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)",
+          "time": "2026.01.07 21:02:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.07",
+      "date_hour": "21:02:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "KAGITHANE (ISTANBUL)",
-      "type": "�lksel",
-      "date": "2026.01.02 18:08:43",
-      "lat": 41.1057,
-      "lng": 28.9447,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        28.9447,
-        41.1057
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9447,
-            41.1057
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "KAGITHANE (ISTANBUL)",
-          "time": "2026.01.02 18:08:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.02",
-      "date_hour": "18:08:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ISTANBUL"
     }
   ]
 }
