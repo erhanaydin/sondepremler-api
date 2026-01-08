@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-08T11:59:11.632Z",
+  "lastUpdate": "2026-01-08T12:57:43.544Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARACAM-KOYCEGIZ (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.01.08 15:18:07",
+      "lat": 37.0633,
+      "lng": 29.0455,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "10.0",
+      "coordinates": [
+        29.0455,
+        37.0633
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0455,
+            37.0633
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KARACAM-KOYCEGIZ (MUGLA)",
+          "time": "2026.01.08 15:18:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.08",
+      "date_hour": "15:18:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "TOLUKLAR-BAYRAMIC (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2026.01.03 08:59:23",
-      "lat": 39.7818,
-      "lng": 26.8462,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "15.6",
-      "coordinates": [
-        26.8462,
-        39.7818
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.8462,
-            39.7818
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "TOLUKLAR-BAYRAMIC (CANAKKALE)",
-          "time": "2026.01.03 08:59:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.03",
-      "date_hour": "08:59:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
