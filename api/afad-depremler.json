@@ -324,6 +324,42 @@
     "city": "Elazığ"
   },
   {
+    "title": "Sındırgı (Balıkesir)",
+    "type": "İlksel",
+    "date": "2026-01-08 07:32:38",
+    "lat": 39.28194,
+    "lng": 28.07583,
+    "md": "-.-",
+    "ml": "1.4",
+    "mw": "-.-",
+    "depth": 6.91,
+    "coordinates": [
+      28.07583,
+      39.28194
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.07583,
+          39.28194
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sındırgı (Balıkesir) (Balıkesir)",
+        "time": 1767857558000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-08",
+    "date_hour": "07:32:38",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Balıkesir"
+  },
+  {
     "title": "Baklan (Denizli)",
     "type": "İlksel",
     "date": "2026-01-08 07:21:29",
@@ -14614,41 +14650,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Uşak"
-  },
-  {
-    "title": "Çelikhan (Adıyaman)",
-    "type": "İlksel",
-    "date": "2026-01-05 11:40:11",
-    "lat": 38.08528,
-    "lng": 38.32083,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      38.32083,
-      38.08528
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.32083,
-          38.08528
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Çelikhan (Adıyaman) (Adıyaman)",
-        "time": 1767613211000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-01-05",
-    "date_hour": "11:40:11",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Adıyaman"
   }
 ]
