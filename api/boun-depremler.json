@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-08T21:40:14.029Z",
+  "lastUpdate": "2026-01-08T21:51:22.392Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -253,6 +253,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
+    },
+    {
+      "title": "BOZAN-KULU (KONYA)",
+      "type": "�lksel",
+      "date": "2026.01.08 23:30:57",
+      "lat": 39.047,
+      "lng": 33.3953,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "4.7",
+      "coordinates": [
+        33.3953,
+        39.047
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.3953,
+            39.047
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "BOZAN-KULU (KONYA)",
+          "time": "2026.01.08 23:30:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.08",
+      "date_hour": "23:30:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KONYA"
     },
     {
       "title": "SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANTALYA"
-    },
-    {
-      "title": "UZUNHUSEYIN-KALE (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.01.03 19:39:14",
-      "lat": 38.3233,
-      "lng": 38.8933,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "7.3",
-      "coordinates": [
-        38.8933,
-        38.3233
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.8933,
-            38.3233
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "UZUNHUSEYIN-KALE (MALATYA)",
-          "time": "2026.01.03 19:39:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.03",
-      "date_hour": "19:39:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
