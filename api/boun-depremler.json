@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-09T16:24:19.467Z",
+  "lastUpdate": "2026-01-09T16:51:20.980Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.09 19:42:13",
+      "lat": 39.1382,
+      "lng": 28.2908,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "9.3",
+      "coordinates": [
+        28.2908,
+        39.1382
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2908,
+            39.1382
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.09 19:42:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.09",
+      "date_hour": "19:42:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "OTMANLAR-KOYCEGIZ (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "DEGIRMENCIUSAGI-SAIMBEYLI (ADANA)",
-      "type": "�lksel",
-      "date": "2026.01.04 15:23:40",
-      "lat": 37.8515,
-      "lng": 36.1223,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "7.2",
-      "coordinates": [
-        36.1223,
-        37.8515
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.1223,
-            37.8515
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "DEGIRMENCIUSAGI-SAIMBEYLI (ADANA)",
-          "time": "2026.01.04 15:23:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.04",
-      "date_hour": "15:23:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
