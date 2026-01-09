@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-09T09:32:13.144Z",
+  "lastUpdate": "2026-01-09T09:52:24.824Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TEKIR-(KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.01.09 12:08:57",
+      "lat": 37.9092,
+      "lng": 36.662,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "8.2",
+      "coordinates": [
+        36.662,
+        37.9092
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.662,
+            37.9092
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "TEKIR-(KAHRAMANMARAS)",
+          "time": "2026.01.09 12:08:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.09",
+      "date_hour": "12:08:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "AKKOY ACIKLARI-AYDIN (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.01.04 07:50:20",
-      "lat": 37.528,
-      "lng": 27.1465,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "4.7",
-      "coordinates": [
-        27.1465,
-        37.528
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1465,
-            37.528
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "AKKOY ACIKLARI-AYDIN (EGE DENIZI)",
-          "time": "2026.01.04 07:50:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.04",
-      "date_hour": "07:50:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
