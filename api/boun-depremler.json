@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-09T09:52:24.824Z",
+  "lastUpdate": "2026-01-09T10:10:58.764Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.09 12:23:50",
+      "lat": 39.1875,
+      "lng": 28.074,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "11.9",
+      "coordinates": [
+        28.074,
+        39.1875
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.074,
+            39.1875
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.09 12:23:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.09",
+      "date_hour": "12:23:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "TEKIR-(KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "TIRKAZ-SARAYKOY (DENIZLI)",
-      "type": "�lksel",
-      "date": "2026.01.04 08:00:53",
-      "lat": 37.8955,
-      "lng": 28.777,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "10.1",
-      "coordinates": [
-        28.777,
-        37.8955
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.777,
-            37.8955
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "TIRKAZ-SARAYKOY (DENIZLI)",
-          "time": "2026.01.04 08:00:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.04",
-      "date_hour": "08:00:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
