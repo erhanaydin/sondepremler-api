@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-10T07:25:50.140Z",
+  "lastUpdate": "2026-01-10T07:38:22.913Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ASAGI CAMLIKALE-HORASAN (ERZURUM)",
+      "type": "�lksel",
+      "date": "2026.01.10 09:42:47",
+      "lat": 40.2525,
+      "lng": 42.0368,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        42.0368,
+        40.2525
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            42.0368,
+            40.2525
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "ASAGI CAMLIKALE-HORASAN (ERZURUM)",
+          "time": "2026.01.10 09:42:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.10",
+      "date_hour": "09:42:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZURUM"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "UYSALLI-SURUC (SANLIURFA)",
-      "type": "�lksel",
-      "date": "2026.01.05 03:51:05",
-      "lat": 36.9598,
-      "lng": 38.382,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        38.382,
-        36.9598
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.382,
-            36.9598
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "UYSALLI-SURUC (SANLIURFA)",
-          "time": "2026.01.05 03:51:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.05",
-      "date_hour": "03:51:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SANLIURFA"
     }
   ]
 }
