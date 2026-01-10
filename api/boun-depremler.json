@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-10T22:35:20.979Z",
+  "lastUpdate": "2026-01-10T22:48:07.424Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SOGUTLU-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2026.01.11 01:00:11",
+      "lat": 39.1765,
+      "lng": 28.0535,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "9.0",
+      "coordinates": [
+        28.0535,
+        39.1765
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0535,
+            39.1765
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "SOGUTLU-AKHISAR (MANISA)",
+          "time": "2026.01.11 01:00:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.11",
+      "date_hour": "01:00:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "DOGU AKDENIZ",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "KARAGOZ-(MALATYA)",
-      "type": "�lksel",
-      "date": "2026.01.05 17:37:50",
-      "lat": 38.273,
-      "lng": 38.3255,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "12.7",
-      "coordinates": [
-        38.3255,
-        38.273
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.3255,
-            38.273
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "KARAGOZ-(MALATYA)",
-          "time": "2026.01.05 17:37:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.05",
-      "date_hour": "17:37:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
