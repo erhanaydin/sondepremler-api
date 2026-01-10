@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-10T17:47:59.277Z",
+  "lastUpdate": "2026-01-10T17:56:31.217Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.01.10 20:46:25",
+      "lat": 38.0943,
+      "lng": 36.6228,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        36.6228,
+        38.0943
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.6228,
+            38.0943
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
+          "time": "2026.01.10 20:46:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.10",
+      "date_hour": "20:46:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "BULUTLU-(MALATYA)",
       "type": "�lksel",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.01.10 20:07:11",
+      "lat": 36.3793,
+      "lng": 28.4027,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "6.2",
+      "coordinates": [
+        28.4027,
+        36.3793
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.4027,
+            36.3793
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "AKDENIZ",
+          "time": "2026.01.10 20:07:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.10",
+      "date_hour": "20:07:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "ARMUT-YESILOVA (BURDUR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ISIKLI-SILIFKE (MERSIN)",
-      "type": "�lksel",
-      "date": "2026.01.05 12:17:39",
-      "lat": 36.2743,
-      "lng": 33.678,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        33.678,
-        36.2743
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.678,
-            36.2743
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "ISIKLI-SILIFKE (MERSIN)",
-          "time": "2026.01.05 12:17:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.05",
-      "date_hour": "12:17:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
-    },
-    {
-      "title": "AKOREN-ZARA (SIVAS)",
-      "type": "�lksel",
-      "date": "2026.01.05 11:44:14",
-      "lat": 39.9892,
-      "lng": 37.5205,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "7.5",
-      "coordinates": [
-        37.5205,
-        39.9892
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.5205,
-            39.9892
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "AKOREN-ZARA (SIVAS)",
-          "time": "2026.01.05 11:44:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.05",
-      "date_hour": "11:44:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
     }
   ]
 }
