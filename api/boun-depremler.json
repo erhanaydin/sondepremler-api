@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-10T17:24:09.340Z",
+  "lastUpdate": "2026-01-10T17:38:50.575Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SADIKLI-YAZIHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.01.10 20:20:11",
+      "lat": 38.5368,
+      "lng": 37.9645,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        37.9645,
+        38.5368
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.9645,
+            38.5368
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "SADIKLI-YAZIHAN (MALATYA)",
+          "time": "2026.01.10 20:20:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.10",
+      "date_hour": "20:20:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "KARLIOVA (BINGOL)",
-      "type": "�lksel",
-      "date": "2026.01.05 11:11:45",
-      "lat": 39.3218,
-      "lng": 41.0332,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "4.9",
-      "coordinates": [
-        41.0332,
-        39.3218
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            41.0332,
-            39.3218
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KARLIOVA (BINGOL)",
-          "time": "2026.01.05 11:11:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.05",
-      "date_hour": "11:11:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
