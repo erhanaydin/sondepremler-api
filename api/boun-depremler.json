@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-10T09:55:31.804Z",
+  "lastUpdate": "2026-01-10T10:16:02.296Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DUMLU-HEKIMHAN (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.01.10 12:52:44",
+      "lat": 38.768,
+      "lng": 37.9618,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "2.2",
+      "coordinates": [
+        37.9618,
+        38.768
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.9618,
+            38.768
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "DUMLU-HEKIMHAN (MALATYA)",
+          "time": "2026.01.10 12:52:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.10",
+      "date_hour": "12:52:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "CAMLICA-(KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "OSMANIYE"
-    },
-    {
-      "title": "TANKOY-KORKUT (MUS)",
-      "type": "�lksel",
-      "date": "2026.01.05 06:30:00",
-      "lat": 38.7792,
-      "lng": 41.8665,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        41.8665,
-        38.7792
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            41.8665,
-            38.7792
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "TANKOY-KORKUT (MUS)",
-          "time": "2026.01.05 06:30:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.05",
-      "date_hour": "06:30:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUS"
     }
   ]
 }
