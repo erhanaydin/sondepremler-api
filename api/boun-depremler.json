@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-10T21:54:43.546Z",
+  "lastUpdate": "2026-01-10T22:13:45.276Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DOGU AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.01.11 00:50:20",
+      "lat": 34.2165,
+      "lng": 34.947,
+      "md": "-.-",
+      "ml": "3.8",
+      "mw": "-.-",
+      "depth": "12.2",
+      "coordinates": [
+        34.947,
+        34.2165
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.947,
+            34.2165
+          ]
+        },
+        "properties": {
+          "mag": "3.8",
+          "place": "DOGU AKDENIZ",
+          "time": "2026.01.11 00:50:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.11",
+      "date_hour": "00:50:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "SOGUKPINAR-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.01.05 17:24:59",
-      "lat": 39.2378,
-      "lng": 28.9948,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "16.8",
-      "coordinates": [
-        28.9948,
-        39.2378
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9948,
-            39.2378
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2026.01.05 17:24:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.05",
-      "date_hour": "17:24:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
