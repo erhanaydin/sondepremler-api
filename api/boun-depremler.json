@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-10T18:27:21.714Z",
+  "lastUpdate": "2026-01-10T18:50:53.699Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOBASDERE-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2026.01.10 21:18:05",
+      "lat": 39.1567,
+      "lng": 27.9823,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "11.3",
+      "coordinates": [
+        27.9823,
+        39.1567
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9823,
+            39.1567
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KOBASDERE-AKHISAR (MANISA)",
+          "time": "2026.01.10 21:18:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.10",
+      "date_hour": "21:18:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "HACILAR-GEYVE (SAKARYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KARAHISAR-GURUN (SIVAS)",
-      "type": "�lksel",
-      "date": "2026.01.05 12:51:13",
-      "lat": 38.6852,
-      "lng": 37.2975,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "4.2",
-      "coordinates": [
-        37.2975,
-        38.6852
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.2975,
-            38.6852
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KARAHISAR-GURUN (SIVAS)",
-          "time": "2026.01.05 12:51:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.05",
-      "date_hour": "12:51:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
     }
   ]
 }
