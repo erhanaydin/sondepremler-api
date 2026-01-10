@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-10T17:56:31.217Z",
+  "lastUpdate": "2026-01-10T18:27:21.714Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HACILAR-GEYVE (SAKARYA)",
+      "type": "�lksel",
+      "date": "2026.01.10 20:48:50",
+      "lat": 40.4245,
+      "lng": 30.1742,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "5.1",
+      "coordinates": [
+        30.1742,
+        40.4245
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1742,
+            40.4245
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "HACILAR-GEYVE (SAKARYA)",
+          "time": "2026.01.10 20:48:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.10",
+      "date_hour": "20:48:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SAKARYA"
+    },
     {
       "title": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -39,31 +75,31 @@
       "city": "KAHRAMANMARAS"
     },
     {
-      "title": "BULUTLU-(MALATYA)",
+      "title": "SOGUTLU-PUTURGE (MALATYA)",
       "type": "�lksel",
       "date": "2026.01.10 20:27:35",
-      "lat": 38.3358,
-      "lng": 38.5867,
+      "lat": 38.217,
+      "lng": 38.5992,
       "md": "-.-",
       "ml": "1.5",
       "mw": "-.-",
-      "depth": "19.1",
+      "depth": "13.4",
       "coordinates": [
-        38.5867,
-        38.3358
+        38.5992,
+        38.217
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            38.5867,
-            38.3358
+            38.5992,
+            38.217
           ]
         },
         "properties": {
           "mag": "1.5",
-          "place": "BULUTLU-(MALATYA)",
+          "place": "SOGUTLU-PUTURGE (MALATYA)",
           "time": "2026.01.10 20:27:35"
         }
       },
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIVAS"
-    },
-    {
-      "title": "DIKMELER-SAVASTEPE (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.05 12:30:30",
-      "lat": 39.377,
-      "lng": 27.7553,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "9.3",
-      "coordinates": [
-        27.7553,
-        39.377
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7553,
-            39.377
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "DIKMELER-SAVASTEPE (BALIKESIR)",
-          "time": "2026.01.05 12:30:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.05",
-      "date_hour": "12:30:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
