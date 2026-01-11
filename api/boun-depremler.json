@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-11T09:37:33.465Z",
+  "lastUpdate": "2026-01-11T09:48:36.530Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SEYITUSAGI-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.01.11 12:06:14",
+      "lat": 38.2715,
+      "lng": 38.1547,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "3.2",
+      "coordinates": [
+        38.1547,
+        38.2715
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.1547,
+            38.2715
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "SEYITUSAGI-YESILYURT (MALATYA)",
+          "time": "2026.01.11 12:06:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.11",
+      "date_hour": "12:06:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "KOZLU-(BOLU)",
-      "type": "�lksel",
-      "date": "2026.01.06 02:11:55",
-      "lat": 40.8255,
-      "lng": 31.5975,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "18.2",
-      "coordinates": [
-        31.5975,
-        40.8255
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.5975,
-            40.8255
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KOZLU-(BOLU)",
-          "time": "2026.01.06 02:11:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.06",
-      "date_hour": "02:11:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BOLU"
     }
   ]
 }
