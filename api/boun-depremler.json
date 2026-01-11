@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-11T16:46:05.917Z",
+  "lastUpdate": "2026-01-11T16:56:57.971Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIRKDONUM-AHLAT (BITLIS)",
+      "type": "�lksel",
+      "date": "2026.01.11 19:39:21",
+      "lat": 38.8765,
+      "lng": 42.434,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "8.4",
+      "coordinates": [
+        42.434,
+        38.8765
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            42.434,
+            38.8765
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "KIRKDONUM-AHLAT (BITLIS)",
+          "time": "2026.01.11 19:39:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.11",
+      "date_hour": "19:39:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BITLIS"
+    },
     {
       "title": "DUMLU-HEKIMHAN (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KARADERE-HENDEK (SAKARYA)",
-      "type": "�lksel",
-      "date": "2026.01.06 08:38:37",
-      "lat": 40.7378,
-      "lng": 30.8527,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "12.0",
-      "coordinates": [
-        30.8527,
-        40.7378
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.8527,
-            40.7378
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KARADERE-HENDEK (SAKARYA)",
-          "time": "2026.01.06 08:38:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.06",
-      "date_hour": "08:38:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SAKARYA"
     }
   ]
 }
