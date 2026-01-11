@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-11T10:52:33.137Z",
+  "lastUpdate": "2026-01-11T11:07:38.533Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "KOZLU-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.11 13:27:28",
+      "lat": 39.2392,
+      "lng": 28.1042,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "13.5",
+      "coordinates": [
+        28.1042,
+        39.2392
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1042,
+            39.2392
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KOZLU-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.11 13:27:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.11",
+      "date_hour": "13:27:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ULUKOY-(MALATYA)",
-      "type": "�lksel",
-      "date": "2026.01.06 02:56:39",
-      "lat": 38.1967,
-      "lng": 38.5588,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "15.4",
-      "coordinates": [
-        38.5588,
-        38.1967
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.5588,
-            38.1967
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "ULUKOY-(MALATYA)",
-          "time": "2026.01.06 02:56:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.06",
-      "date_hour": "02:56:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
