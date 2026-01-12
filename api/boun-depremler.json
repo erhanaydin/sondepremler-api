@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-12T15:58:20.952Z",
+  "lastUpdate": "2026-01-12T16:31:06.623Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CAMLICA-(KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.01.12 19:06:42",
+      "lat": 37.9318,
+      "lng": 36.7162,
+      "md": "-.-",
+      "ml": "3.3",
+      "mw": "3.3",
+      "depth": "5.4",
+      "coordinates": [
+        36.7162,
+        37.9318
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.7162,
+            37.9318
+          ]
+        },
+        "properties": {
+          "mag": "3.3",
+          "place": "CAMLICA-(KAHRAMANMARAS)",
+          "time": "2026.01.12 19:06:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.12",
+      "date_hour": "19:06:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "TOPRAKTEPE-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.01.12 19:02:24",
+      "lat": 38.1005,
+      "lng": 37.8558,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "6.2",
+      "coordinates": [
+        37.8558,
+        38.1005
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.8558,
+            38.1005
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "TOPRAKTEPE-DOGANSEHIR (MALATYA)",
+          "time": "2026.01.12 19:02:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.12",
+      "date_hour": "19:02:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "GOKCEOREN-ORTA (CANKIRI)",
-      "type": "�lksel",
-      "date": "2026.01.07 03:14:52",
-      "lat": 40.5388,
-      "lng": 33.0375,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "1.1",
-      "coordinates": [
-        33.0375,
-        40.5388
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.0375,
-            40.5388
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "GOKCEOREN-ORTA (CANKIRI)",
-          "time": "2026.01.07 03:14:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.07",
-      "date_hour": "03:14:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANKIRI"
-    },
-    {
-      "title": "KARAAGIL-HISARCIK (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.01.07 03:04:41",
-      "lat": 39.2298,
-      "lng": 29.0888,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "7.9",
-      "coordinates": [
-        29.0888,
-        39.2298
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0888,
-            39.2298
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KARAAGIL-HISARCIK (KUTAHYA)",
-          "time": "2026.01.07 03:04:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.07",
-      "date_hour": "03:04:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
