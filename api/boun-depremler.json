@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-12T15:42:30.863Z",
+  "lastUpdate": "2026-01-12T15:58:20.952Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.12 18:33:22",
+      "lat": 39.198,
+      "lng": 28.198,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "8.0",
+      "coordinates": [
+        28.198,
+        39.198
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.198,
+            39.198
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.12 18:33:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.12",
+      "date_hour": "18:33:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "AKGUMUS-ANDIRIN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "ILICA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.07 02:51:43",
-      "lat": 39.1865,
-      "lng": 28.2242,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        28.2242,
-        39.1865
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2242,
-            39.1865
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "ILICA-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.07 02:51:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.07",
-      "date_hour": "02:51:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
