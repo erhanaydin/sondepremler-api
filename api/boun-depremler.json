@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-12T11:54:12.751Z",
+  "lastUpdate": "2026-01-12T12:30:03.450Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YERLI-ISKILIP (CORUM)",
+      "type": "�lksel",
+      "date": "2026.01.12 14:50:34",
+      "lat": 40.6005,
+      "lng": 34.3602,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "19.2",
+      "coordinates": [
+        34.3602,
+        40.6005
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.3602,
+            40.6005
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "YERLI-ISKILIP (CORUM)",
+          "time": "2026.01.12 14:50:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.12",
+      "date_hour": "14:50:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CORUM"
+    },
     {
       "title": "SENLIK-LICE (DIYARBAKIR) REVIZE01 (2026.01.12",
       "type": "14:25:37)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SARITAS-BASKIL (ELAZIG)",
-      "type": "�lksel",
-      "date": "2026.01.07 00:54:31",
-      "lat": 38.423,
-      "lng": 38.9372,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "14.6",
-      "coordinates": [
-        38.9372,
-        38.423
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.9372,
-            38.423
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "SARITAS-BASKIL (ELAZIG)",
-          "time": "2026.01.07 00:54:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.07",
-      "date_hour": "00:54:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
