@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-12T11:31:57.453Z",
+  "lastUpdate": "2026-01-12T11:45:29.269Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -111,6 +111,42 @@
       "city": "ADIYAMAN"
     },
     {
+      "title": "BABAKALE-AYVACIK (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2026.01.12 13:27:34",
+      "lat": 39.5263,
+      "lng": 26.0473,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        26.0473,
+        39.5263
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.0473,
+            39.5263
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "BABAKALE-AYVACIK (CANAKKALE)",
+          "time": "2026.01.12 13:27:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.12",
+      "date_hour": "13:27:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
+    {
       "title": "KIBRIS-BESPARMAK",
       "type": "�lksel",
       "date": "2026.01.12 13:01:28",
@@ -145,6 +181,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "MADENLI-SEYDISEHIR (KONYA)",
+      "type": "�lksel",
+      "date": "2026.01.12 12:35:20",
+      "lat": 37.2945,
+      "lng": 31.8773,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "6.2",
+      "coordinates": [
+        31.8773,
+        37.2945
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.8773,
+            37.2945
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "MADENLI-SEYDISEHIR (KONYA)",
+          "time": "2026.01.12 12:35:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.12",
+      "date_hour": "12:35:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KONYA"
     },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "ESENKOY-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.01.07 00:44:44",
-      "lat": 38.2155,
-      "lng": 36.6768,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "14.0",
-      "coordinates": [
-        36.6768,
-        38.2155
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.6768,
-            38.2155
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "ESENKOY-GOKSUN (KAHRAMANMARAS)",
-          "time": "2026.01.07 00:44:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.07",
-      "date_hour": "00:44:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "CAKILLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.07 00:32:29",
-      "lat": 39.3168,
-      "lng": 28.0782,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "6.9",
-      "coordinates": [
-        28.0782,
-        39.3168
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0782,
-            39.3168
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "CAKILLI-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.07 00:32:29"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.07",
-      "date_hour": "00:32:29",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
