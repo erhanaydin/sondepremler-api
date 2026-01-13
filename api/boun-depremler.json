@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-13T22:55:53.254Z",
+  "lastUpdate": "2026-01-13T23:17:10.977Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.01.14 01:53:46",
+      "lat": 39.1103,
+      "lng": 25.7973,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "7.6",
+      "coordinates": [
+        25.7973,
+        39.1103
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.7973,
+            39.1103
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "EGE DENIZI",
+          "time": "2026.01.14 01:53:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.14",
+      "date_hour": "01:53:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.14 01:52:08",
+      "lat": 39.1923,
+      "lng": 28.2632,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "7.9",
+      "coordinates": [
+        28.2632,
+        39.1923
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2632,
+            39.1923
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.14 01:52:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.14",
+      "date_hour": "01:52:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
-    },
-    {
-      "title": "AYAS-ERDEMLI (MERSIN)",
-      "type": "�lksel",
-      "date": "2026.01.07 16:11:04",
-      "lat": 36.494,
-      "lng": 34.1782,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        34.1782,
-        36.494
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.1782,
-            36.494
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "AYAS-ERDEMLI (MERSIN)",
-          "time": "2026.01.07 16:11:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.07",
-      "date_hour": "16:11:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
-    },
-    {
-      "title": "HEKIMHAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.01.07 15:41:51",
-      "lat": 38.792,
-      "lng": 37.9398,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "9.9",
-      "coordinates": [
-        37.9398,
-        38.792
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.9398,
-            38.792
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "HEKIMHAN (MALATYA)",
-          "time": "2026.01.07 15:41:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.07",
-      "date_hour": "15:41:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
