@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-13T21:57:47.073Z",
+  "lastUpdate": "2026-01-13T22:23:51.100Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.01.14 01:05:26",
+      "lat": 39.091,
+      "lng": 25.809,
+      "md": "-.-",
+      "ml": "3.2",
+      "mw": "3.0",
+      "depth": "6.2",
+      "coordinates": [
+        25.809,
+        39.091
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.809,
+            39.091
+          ]
+        },
+        "properties": {
+          "mag": "3.2",
+          "place": "EGE DENIZI",
+          "time": "2026.01.14 01:05:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.14",
+      "date_hour": "01:05:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.07 15:18:38",
-      "lat": 39.2147,
-      "lng": 28.1578,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "10.4",
-      "coordinates": [
-        28.1578,
-        39.2147
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1578,
-            39.2147
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.07 15:18:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.07",
-      "date_hour": "15:18:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
