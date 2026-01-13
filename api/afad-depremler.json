@@ -216,6 +216,42 @@
     "city": "İzmir"
   },
   {
+    "title": "Merkez (Kırklareli)",
+    "type": "İlksel",
+    "date": "2026-01-13 07:43:45",
+    "lat": 41.93,
+    "lng": 27.32417,
+    "md": "-.-",
+    "ml": "0.7",
+    "mw": "-.-",
+    "depth": 6.48,
+    "coordinates": [
+      27.32417,
+      41.93
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.32417,
+          41.93
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Merkez (Kırklareli) (Kırklareli)",
+        "time": 1768290225000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-13",
+    "date_hour": "07:43:45",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kırklareli"
+  },
+  {
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2026-01-13 07:35:20",
@@ -10942,77 +10978,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Adıyaman"
-  },
-  {
-    "title": "Ege Denizi - [55.06 km] Ayvacık (Çanakkale)",
-    "type": "İlksel",
-    "date": "2026-01-10 11:17:59",
-    "lat": 39.00694,
-    "lng": 25.87222,
-    "md": "-.-",
-    "ml": "2.5",
-    "mw": "-.-",
-    "depth": 17.62,
-    "coordinates": [
-      25.87222,
-      39.00694
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.87222,
-          39.00694
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi - [55.06 km] Ayvacık (Çanakkale) (Çanakkale)",
-        "time": 1768043879000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-01-10",
-    "date_hour": "11:17:59",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Çanakkale"
-  },
-  {
-    "title": "Göksun (Kahramanmaraş)",
-    "type": "İlksel",
-    "date": "2026-01-10 11:03:09",
-    "lat": 37.965,
-    "lng": 36.27639,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 7.03,
-    "coordinates": [
-      36.27639,
-      37.965
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.27639,
-          37.965
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Göksun (Kahramanmaraş) (Kahramanmaraş)",
-        "time": 1768042989000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-01-10",
-    "date_hour": "11:03:09",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kahramanmaraş"
   }
 ]
