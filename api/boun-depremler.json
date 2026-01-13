@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-13T09:45:58.958Z",
+  "lastUpdate": "2026-01-13T09:57:42.200Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.13 12:14:22",
+      "lat": 39.1307,
+      "lng": 28.2805,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "2.9",
+      "depth": "9.8",
+      "coordinates": [
+        28.2805,
+        39.1307
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2805,
+            39.1307
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.13 12:14:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.13",
+      "date_hour": "12:14:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KARSIYAKA-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.01.07 12:09:21",
-      "lat": 38.2917,
-      "lng": 38.7707,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "11.3",
-      "coordinates": [
-        38.7707,
-        38.2917
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.7707,
-            38.2917
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KARSIYAKA-PUTURGE (MALATYA)",
-          "time": "2026.01.07 12:09:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.07",
-      "date_hour": "12:09:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
