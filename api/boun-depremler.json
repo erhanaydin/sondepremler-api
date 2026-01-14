@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-14T23:41:00.608Z",
+  "lastUpdate": "2026-01-14T23:50:02.976Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TATLAR-NURHAK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.01.15 02:31:52",
+      "lat": 38.0692,
+      "lng": 37.5258,
+      "md": "-.-",
+      "ml": "0.9",
+      "mw": "-.-",
+      "depth": "18.3",
+      "coordinates": [
+        37.5258,
+        38.0692
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.5258,
+            38.0692
+          ]
+        },
+        "properties": {
+          "mag": "0.9",
+          "place": "TATLAR-NURHAK (KAHRAMANMARAS)",
+          "time": "2026.01.15 02:31:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.15",
+      "date_hour": "02:31:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "AHIRLI-AGACOREN (AKSARAY)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KADIKOY (ISTANBUL)",
-      "type": "�lksel",
-      "date": "2026.01.08 13:08:08",
-      "lat": 41.0027,
-      "lng": 29.0577,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        29.0577,
-        41.0027
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0577,
-            41.0027
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "KADIKOY (ISTANBUL)",
-          "time": "2026.01.08 13:08:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.08",
-      "date_hour": "13:08:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ISTANBUL"
     }
   ]
 }
