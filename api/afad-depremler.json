@@ -36,6 +36,42 @@
     "city": "Balıkesir"
   },
   {
+    "title": "Sincik (Adıyaman)",
+    "type": "İlksel",
+    "date": "2026-01-14 15:19:00",
+    "lat": 38.15111,
+    "lng": 38.52806,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      38.52806,
+      38.15111
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.52806,
+          38.15111
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sincik (Adıyaman) (Adıyaman)",
+        "time": 1768403940000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-14",
+    "date_hour": "15:19:00",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Adıyaman"
+  },
+  {
     "title": "Tavas (Denizli)",
     "type": "İlksel",
     "date": "2026-01-14 14:52:34",
@@ -9178,41 +9214,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Manisa"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2026-01-11 15:58:13",
-    "lat": 39.19,
-    "lng": 28.13472,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.13472,
-      39.19
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.13472,
-          39.19
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1768147093000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-01-11",
-    "date_hour": "15:58:13",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
