@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-14T10:31:12.361Z",
+  "lastUpdate": "2026-01-14T10:53:06.258Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.14 13:29:55",
+      "lat": 39.14,
+      "lng": 28.2535,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "14.2",
+      "coordinates": [
+        28.2535,
+        39.14
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2535,
+            39.14
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.14 13:29:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.14",
+      "date_hour": "13:29:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "DEGIRMENLI-BIGADIC (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "OSMANIYE"
-    },
-    {
-      "title": "BEYOGLAN-ISKILIP (CORUM)",
-      "type": "�lksel",
-      "date": "2026.01.08 01:24:51",
-      "lat": 40.877,
-      "lng": 34.565,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "8.0",
-      "coordinates": [
-        34.565,
-        40.877
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.565,
-            40.877
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "BEYOGLAN-ISKILIP (CORUM)",
-          "time": "2026.01.08 01:24:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.08",
-      "date_hour": "01:24:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CORUM"
     }
   ]
 }
