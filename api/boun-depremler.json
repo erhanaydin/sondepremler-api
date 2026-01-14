@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-14T16:01:15.994Z",
+  "lastUpdate": "2026-01-14T16:42:27.227Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SALKONAK-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.01.14 18:55:14",
+      "lat": 38.1133,
+      "lng": 38.3757,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.3757,
+        38.1133
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.3757,
+            38.1133
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "SALKONAK-YESILYURT (MALATYA)",
+          "time": "2026.01.14 18:55:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.14",
+      "date_hour": "18:55:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "GECITLI-SINCIK (ADIYAMAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.08 05:22:52",
-      "lat": 39.1842,
-      "lng": 28.139,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "2.4",
-      "coordinates": [
-        28.139,
-        39.1842
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.139,
-            39.1842
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.08 05:22:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.08",
-      "date_hour": "05:22:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
