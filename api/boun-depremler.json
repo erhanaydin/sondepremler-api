@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-14T09:47:01.749Z",
+  "lastUpdate": "2026-01-14T09:59:12.803Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISIKLI-SILIFKE (MERSIN)",
+      "type": "�lksel",
+      "date": "2026.01.14 12:46:01",
+      "lat": 36.2418,
+      "lng": 33.6887,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        33.6887,
+        36.2418
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.6887,
+            36.2418
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "ISIKLI-SILIFKE (MERSIN)",
+          "time": "2026.01.14 12:46:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.14",
+      "date_hour": "12:46:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MERSIN"
+    },
+    {
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.01.14 12:40:19",
+      "lat": 39.0037,
+      "lng": 25.8898,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "2.0",
+      "coordinates": [
+        25.8898,
+        39.0037
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.8898,
+            39.0037
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+          "time": "2026.01.14 12:40:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.14",
+      "date_hour": "12:40:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AGCASAR-NURHAK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.01.08 01:00:15",
-      "lat": 38.0507,
-      "lng": 37.4352,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "2.8",
-      "coordinates": [
-        37.4352,
-        38.0507
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.4352,
-            38.0507
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "AGCASAR-NURHAK (KAHRAMANMARAS)",
-          "time": "2026.01.08 01:00:15"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.08",
-      "date_hour": "01:00:15",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "KAVALA-(TRABZON)",
-      "type": "�lksel",
-      "date": "2026.01.08 00:54:07",
-      "lat": 40.956,
-      "lng": 39.7695,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "8.7",
-      "coordinates": [
-        39.7695,
-        40.956
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.7695,
-            40.956
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "KAVALA-(TRABZON)",
-          "time": "2026.01.08 00:54:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.08",
-      "date_hour": "00:54:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TRABZON"
     }
   ]
 }
