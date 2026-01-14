@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-14T21:42:49.745Z",
+  "lastUpdate": "2026-01-14T21:53:23.726Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.01.15 00:23:59",
+      "lat": 36.2187,
+      "lng": 28.3322,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "58.3",
+      "coordinates": [
+        28.3322,
+        36.2187
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3322,
+            36.2187
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "AKDENIZ",
+          "time": "2026.01.15 00:23:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.15",
+      "date_hour": "00:23:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "GEMLIK KORFEZI (MARMARA DENIZI)",
+      "type": "�lksel",
+      "date": "2026.01.15 00:02:19",
+      "lat": 40.428,
+      "lng": 28.9798,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "11.5",
+      "coordinates": [
+        28.9798,
+        40.428
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9798,
+            40.428
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "GEMLIK KORFEZI (MARMARA DENIZI)",
+          "time": "2026.01.15 00:02:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.15",
+      "date_hour": "00:02:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARMARA DENIZI"
+    },
     {
       "title": "OSMANDEDE-PAZARCIK (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "GAZIANTEP"
-    },
-    {
-      "title": "PURSUNLER-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.08 10:01:18",
-      "lat": 39.236,
-      "lng": 28.1925,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "6.0",
-      "coordinates": [
-        28.1925,
-        39.236
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1925,
-            39.236
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "PURSUNLER-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.08 10:01:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.08",
-      "date_hour": "10:01:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "GUNEDOGRU-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.01.08 09:25:10",
-      "lat": 38.069,
-      "lng": 37.8378,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        37.8378,
-        38.069
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.8378,
-            38.069
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "GUNEDOGRU-DOGANSEHIR (MALATYA)",
-          "time": "2026.01.08 09:25:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.08",
-      "date_hour": "09:25:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
