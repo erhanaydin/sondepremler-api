@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-14T14:24:13.810Z",
+  "lastUpdate": "2026-01-14T14:49:21.465Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MUSAHOCA-KIRKAGAC (MANISA)",
+      "type": "�lksel",
+      "date": "2026.01.14 17:25:45",
+      "lat": 39.1643,
+      "lng": 27.7047,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        27.7047,
+        39.1643
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.7047,
+            39.1643
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "MUSAHOCA-KIRKAGAC (MANISA)",
+          "time": "2026.01.14 17:25:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.14",
+      "date_hour": "17:25:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.01.14 17:09:46",
+      "lat": 40.2007,
+      "lng": 25.1565,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "6.6",
+      "coordinates": [
+        25.1565,
+        40.2007
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.1565,
+            40.2007
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "EGE DENIZI",
+          "time": "2026.01.14 17:09:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.14",
+      "date_hour": "17:09:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2026.01.08 04:50:12",
-      "lat": 35.7647,
-      "lng": 22.7847,
-      "md": "-.-",
-      "ml": "4.7",
-      "mw": "4.8",
-      "depth": "61.5",
-      "coordinates": [
-        22.7847,
-        35.7647
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            22.7847,
-            35.7647
-          ]
-        },
-        "properties": {
-          "mag": "4.7",
-          "place": "GIRIT ADASI (AKDENIZ)",
-          "time": "2026.01.08 04:50:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.08",
-      "date_hour": "04:50:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.01.08 04:15:31",
-      "lat": 39.8463,
-      "lng": 25.8578,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "7.4",
-      "coordinates": [
-        25.8578,
-        39.8463
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.8578,
-            39.8463
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "EGE DENIZI",
-          "time": "2026.01.08 04:15:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.08",
-      "date_hour": "04:15:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
