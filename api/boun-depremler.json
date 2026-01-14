@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-14T06:31:06.982Z",
+  "lastUpdate": "2026-01-14T06:58:10.280Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISIKLI-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.01.14 09:30:49",
+      "lat": 38.2042,
+      "lng": 38.0613,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        38.0613,
+        38.2042
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.0613,
+            38.2042
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "ISIKLI-YESILYURT (MALATYA)",
+          "time": "2026.01.14 09:30:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.14",
+      "date_hour": "09:30:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "KUCUKLU-DOGANSEHIR (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "HATIPLAR-SARUHANLI (MANISA)",
-      "type": "�lksel",
-      "date": "2026.01.07 23:52:19",
-      "lat": 38.8852,
-      "lng": 27.4942,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        27.4942,
-        38.8852
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.4942,
-            38.8852
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "HATIPLAR-SARUHANLI (MANISA)",
-          "time": "2026.01.07 23:52:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.07",
-      "date_hour": "23:52:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
