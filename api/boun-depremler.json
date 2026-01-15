@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-15T22:56:11.501Z",
+  "lastUpdate": "2026-01-15T23:18:20.564Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.01.16 01:07:42",
+      "lat": 35.7307,
+      "lng": 28.538,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "9.9",
+      "coordinates": [
+        28.538,
+        35.7307
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.538,
+            35.7307
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "AKDENIZ",
+          "time": "2026.01.16 01:07:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.16",
+      "date_hour": "01:07:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "YUNANISTAN",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "YANISLI-GULNAR (MERSIN)",
-      "type": "�lksel",
-      "date": "2026.01.09 15:48:03",
-      "lat": 36.0918,
-      "lng": 33.5463,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        33.5463,
-        36.0918
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.5463,
-            36.0918
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "YANISLI-GULNAR (MERSIN)",
-          "time": "2026.01.09 15:48:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.09",
-      "date_hour": "15:48:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
     }
   ]
 }
