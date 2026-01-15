@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-15T20:43:46.178Z",
+  "lastUpdate": "2026-01-15T20:57:12.661Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BELENLI-KELKIT (GUMUSHANE)",
+      "type": "�lksel",
+      "date": "2026.01.15 22:40:14",
+      "lat": 39.9335,
+      "lng": 39.5195,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "11.6",
+      "coordinates": [
+        39.5195,
+        39.9335
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.5195,
+            39.9335
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "BELENLI-KELKIT (GUMUSHANE)",
+          "time": "2026.01.15 22:40:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.15",
+      "date_hour": "22:40:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "GUMUSHANE"
+    },
+    {
+      "title": "YALOVA ACIKLARI (MARMARA DENIZI)",
+      "type": "�lksel",
+      "date": "2026.01.15 22:17:17",
+      "lat": 40.7272,
+      "lng": 29.23,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "12.3",
+      "coordinates": [
+        29.23,
+        40.7272
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.23,
+            40.7272
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YALOVA ACIKLARI (MARMARA DENIZI)",
+          "time": "2026.01.15 22:17:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.15",
+      "date_hour": "22:17:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARMARA DENIZI"
+    },
     {
       "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KERTIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.09 12:23:50",
-      "lat": 39.1875,
-      "lng": 28.074,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "11.9",
-      "coordinates": [
-        28.074,
-        39.1875
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.074,
-            39.1875
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KERTIL-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.09 12:23:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.09",
-      "date_hour": "12:23:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "TEKIR-(KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.01.09 12:08:57",
-      "lat": 37.9092,
-      "lng": 36.662,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        36.662,
-        37.9092
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.662,
-            37.9092
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "TEKIR-(KAHRAMANMARAS)",
-          "time": "2026.01.09 12:08:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.09",
-      "date_hour": "12:08:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
