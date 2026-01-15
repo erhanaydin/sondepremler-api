@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-15T04:59:19.200Z",
+  "lastUpdate": "2026-01-15T05:31:32.074Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.01.15 07:49:48",
+      "lat": 36.1308,
+      "lng": 29.134,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "17.8",
+      "coordinates": [
+        29.134,
+        36.1308
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.134,
+            36.1308
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "AKDENIZ",
+          "time": "2026.01.15 07:49:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.15",
+      "date_hour": "07:49:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.01.15 06:58:52",
+      "lat": 36.4952,
+      "lng": 26.6867,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "99.9",
+      "coordinates": [
+        26.6867,
+        36.4952
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.6867,
+            36.4952
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "EGE DENIZI",
+          "time": "2026.01.15 06:58:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.15",
+      "date_hour": "06:58:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "AKUSAGI-KALE (MALATYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "BOZAN-KULU (KONYA)",
-      "type": "�lksel",
-      "date": "2026.01.08 23:30:57",
-      "lat": 39.047,
-      "lng": 33.3953,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "4.7",
-      "coordinates": [
-        33.3953,
-        39.047
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.3953,
-            39.047
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "BOZAN-KULU (KONYA)",
-          "time": "2026.01.08 23:30:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.08",
-      "date_hour": "23:30:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KONYA"
-    },
-    {
-      "title": "SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.08 23:21:09",
-      "lat": 39.2645,
-      "lng": 28.1688,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "6.9",
-      "coordinates": [
-        28.1688,
-        39.2645
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1688,
-            39.2645
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "SINDIRGI (BALIKESIR)",
-          "time": "2026.01.08 23:21:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.08",
-      "date_hour": "23:21:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
