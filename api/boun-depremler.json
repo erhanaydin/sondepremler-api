@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-15T03:44:35.510Z",
+  "lastUpdate": "2026-01-15T04:29:16.000Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKUSAGI-KALE (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.01.15 06:55:34",
+      "lat": 38.3335,
+      "lng": 38.8203,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "11.0",
+      "coordinates": [
+        38.8203,
+        38.3335
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.8203,
+            38.3335
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "AKUSAGI-KALE (MALATYA)",
+          "time": "2026.01.15 06:55:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.15",
+      "date_hour": "06:55:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "KINIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "GUNDEGER-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.01.08 22:34:34",
-      "lat": 38.2988,
-      "lng": 38.836,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "2.2",
-      "coordinates": [
-        38.836,
-        38.2988
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.836,
-            38.2988
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "GUNDEGER-PUTURGE (MALATYA)",
-          "time": "2026.01.08 22:34:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.08",
-      "date_hour": "22:34:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
