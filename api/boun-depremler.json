@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-15T23:48:08.988Z",
+  "lastUpdate": "2026-01-15T23:56:21.639Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GULEC-BIGA (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2026.01.16 02:37:46",
+      "lat": 40.295,
+      "lng": 27.2205,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "11.0",
+      "coordinates": [
+        27.2205,
+        40.295
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.2205,
+            40.295
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "GULEC-BIGA (CANAKKALE)",
+          "time": "2026.01.16 02:37:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.16",
+      "date_hour": "02:37:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CALIS-ELBISTAN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.01.09 17:07:04",
-      "lat": 38.1272,
-      "lng": 37.0087,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "22.1",
-      "coordinates": [
-        37.0087,
-        38.1272
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.0087,
-            38.1272
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "CALIS-ELBISTAN (KAHRAMANMARAS)",
-          "time": "2026.01.09 17:07:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.09",
-      "date_hour": "17:07:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
