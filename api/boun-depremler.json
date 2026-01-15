@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-15T21:21:45.056Z",
+  "lastUpdate": "2026-01-15T21:39:27.214Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "PIRPIR-CILIMLI (DUZCE)",
+      "type": "�lksel",
+      "date": "2026.01.16 00:15:46",
+      "lat": 40.8597,
+      "lng": 31.0332,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "6.1",
+      "coordinates": [
+        31.0332,
+        40.8597
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.0332,
+            40.8597
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "PIRPIR-CILIMLI (DUZCE)",
+          "time": "2026.01.16 00:15:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.16",
+      "date_hour": "00:15:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DUZCE"
+    },
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2026.01.15 23:52:34",
+      "lat": 40.3205,
+      "lng": 24.1415,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "6.5",
+      "coordinates": [
+        24.1415,
+        40.3205
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.1415,
+            40.3205
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "YUNANISTAN",
+          "time": "2026.01.15 23:52:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.15",
+      "date_hour": "23:52:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YERKESIK-(MUGLA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.09 14:36:49",
-      "lat": 39.1827,
-      "lng": 28.1612,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "15.9",
-      "coordinates": [
-        28.1612,
-        39.1827
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1612,
-            39.1827
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.09 14:36:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.09",
-      "date_hour": "14:36:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "AKSU-SINCIK (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2026.01.09 13:37:55",
-      "lat": 38.128,
-      "lng": 38.4425,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "23.2",
-      "coordinates": [
-        38.4425,
-        38.128
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.4425,
-            38.128
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "AKSU-SINCIK (ADIYAMAN)",
-          "time": "2026.01.09 13:37:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.09",
-      "date_hour": "13:37:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
