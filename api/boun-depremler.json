@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-15T14:53:59.145Z",
+  "lastUpdate": "2026-01-15T15:16:46.010Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SAHINYURDU-GEMLIK (BURSA)",
+      "type": "�lksel",
+      "date": "2026.01.15 17:28:17",
+      "lat": 40.4983,
+      "lng": 29.2123,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        29.2123,
+        40.4983
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.2123,
+            40.4983
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "SAHINYURDU-GEMLIK (BURSA)",
+          "time": "2026.01.15 17:28:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.15",
+      "date_hour": "17:28:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "YUNANISTAN",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "SALKONAK-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.01.09 07:51:48",
-      "lat": 38.1292,
-      "lng": 38.4115,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "8.4",
-      "coordinates": [
-        38.4115,
-        38.1292
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.4115,
-            38.1292
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "SALKONAK-YESILYURT (MALATYA)",
-          "time": "2026.01.09 07:51:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.09",
-      "date_hour": "07:51:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
