@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-15T18:57:43.475Z",
+  "lastUpdate": "2026-01-15T19:25:13.010Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.01.15 21:59:55",
+      "lat": 39.2335,
+      "lng": 29.025,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "15.6",
+      "coordinates": [
+        29.025,
+        39.2335
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.025,
+            39.2335
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2026.01.15 21:59:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.15",
+      "date_hour": "21:59:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "YALOVA ACIKLARI (MARMARA DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CAMLICA-(KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.01.09 11:52:40",
-      "lat": 37.9253,
-      "lng": 36.7132,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.4",
-      "coordinates": [
-        36.7132,
-        37.9253
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.7132,
-            37.9253
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "CAMLICA-(KAHRAMANMARAS)",
-          "time": "2026.01.09 11:52:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.09",
-      "date_hour": "11:52:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
