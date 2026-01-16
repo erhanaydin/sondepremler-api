@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-16T22:51:17.516Z",
+  "lastUpdate": "2026-01-16T22:59:25.233Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOKTAS-SOMA (MANISA)",
+      "type": "�lksel",
+      "date": "2026.01.17 01:44:58",
+      "lat": 39.305,
+      "lng": 27.6987,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "7.9",
+      "coordinates": [
+        27.6987,
+        39.305
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.6987,
+            39.305
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "GOKTAS-SOMA (MANISA)",
+          "time": "2026.01.17 01:44:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.17",
+      "date_hour": "01:44:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "GOKTAS-SOMA (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "DEDEOGLU-KEMAH (ERZINCAN)",
-      "type": "�lksel",
-      "date": "2026.01.11 01:21:42",
-      "lat": 39.7615,
-      "lng": 39.0035,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "7.2",
-      "coordinates": [
-        39.0035,
-        39.7615
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.0035,
-            39.7615
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "DEDEOGLU-KEMAH (ERZINCAN)",
-          "time": "2026.01.11 01:21:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.11",
-      "date_hour": "01:21:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
     }
   ]
 }
