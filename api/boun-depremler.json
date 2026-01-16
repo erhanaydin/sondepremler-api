@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-16T23:26:14.133Z",
+  "lastUpdate": "2026-01-16T23:41:09.062Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOKTAS-SOMA (MANISA)",
+      "type": "�lksel",
+      "date": "2026.01.17 02:20:38",
+      "lat": 39.3165,
+      "lng": 27.67,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        27.67,
+        39.3165
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.67,
+            39.3165
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "GOKTAS-SOMA (MANISA)",
+          "time": "2026.01.17 02:20:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.17",
+      "date_hour": "02:20:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "GOKTAS-SOMA (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YAYLATEPE-YIGILCA (DUZCE)",
-      "type": "�lksel",
-      "date": "2026.01.11 02:09:59",
-      "lat": 40.9353,
-      "lng": 31.6833,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "5.8",
-      "coordinates": [
-        31.6833,
-        40.9353
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.6833,
-            40.9353
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "YAYLATEPE-YIGILCA (DUZCE)",
-          "time": "2026.01.11 02:09:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.11",
-      "date_hour": "02:09:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DUZCE"
     }
   ]
 }
