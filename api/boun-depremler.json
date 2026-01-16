@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-16T21:45:31.582Z",
+  "lastUpdate": "2026-01-16T21:54:13.568Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOKTAS-SOMA (MANISA)",
+      "type": "�lksel",
+      "date": "2026.01.17 00:40:19",
+      "lat": 39.3117,
+      "lng": 27.6737,
+      "md": "-.-",
+      "ml": "3.3",
+      "mw": "3.1",
+      "depth": "7.5",
+      "coordinates": [
+        27.6737,
+        39.3117
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.6737,
+            39.3117
+          ]
+        },
+        "properties": {
+          "mag": "3.3",
+          "place": "GOKTAS-SOMA (MANISA)",
+          "time": "2026.01.17 00:40:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.17",
+      "date_hour": "00:40:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.01.11 00:27:05",
-      "lat": 39.2262,
-      "lng": 28.9587,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "13.6",
-      "coordinates": [
-        28.9587,
-        39.2262
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9587,
-            39.2262
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2026.01.11 00:27:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.11",
-      "date_hour": "00:27:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
