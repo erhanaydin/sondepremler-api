@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-16T19:41:45.323Z",
+  "lastUpdate": "2026-01-16T19:50:09.876Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YESILDERE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.01.16 22:34:22",
+      "lat": 39.2605,
+      "lng": 28.99,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "9.3",
+      "coordinates": [
+        28.99,
+        39.2605
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.99,
+            39.2605
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "YESILDERE-SIMAV (KUTAHYA)",
+          "time": "2026.01.16 22:34:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.16",
+      "date_hour": "22:34:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "KADIIBRAHIM-AKCADAG (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.01.10 22:00:00",
-      "lat": 38.5295,
-      "lng": 38.0082,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "8.4",
-      "coordinates": [
-        38.0082,
-        38.5295
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.0082,
-            38.5295
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "KADIIBRAHIM-AKCADAG (MALATYA)",
-          "time": "2026.01.10 22:00:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.10",
-      "date_hour": "22:00:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
