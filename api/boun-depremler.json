@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-16T14:45:21.349Z",
+  "lastUpdate": "2026-01-16T14:59:19.439Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.01.16 17:44:27",
+      "lat": 39.0168,
+      "lng": 25.865,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "2.6",
+      "coordinates": [
+        25.865,
+        39.0168
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.865,
+            39.0168
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+          "time": "2026.01.16 17:44:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.16",
+      "date_hour": "17:44:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "GOKOVA KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "KOSEUSAGI-CELIKHAN (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2026.01.10 15:34:49",
-      "lat": 38.0565,
-      "lng": 38.2872,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "2.8",
-      "coordinates": [
-        38.2872,
-        38.0565
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.2872,
-            38.0565
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KOSEUSAGI-CELIKHAN (ADIYAMAN)",
-          "time": "2026.01.10 15:34:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.10",
-      "date_hour": "15:34:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
