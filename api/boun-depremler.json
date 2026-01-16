@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-16T21:32:13.497Z",
+  "lastUpdate": "2026-01-16T21:45:31.582Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.17 00:27:38",
+      "lat": 39.1348,
+      "lng": 28.2937,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "10.4",
+      "coordinates": [
+        28.2937,
+        39.1348
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2937,
+            39.1348
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.17 00:27:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.17",
+      "date_hour": "00:27:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KARSIYAKA-DARENDE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "BOLUKKAYA-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.01.11 00:02:28",
-      "lat": 38.2968,
-      "lng": 38.7943,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "7.1",
-      "coordinates": [
-        38.7943,
-        38.2968
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.7943,
-            38.2968
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "BOLUKKAYA-PUTURGE (MALATYA)",
-          "time": "2026.01.11 00:02:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.11",
-      "date_hour": "00:02:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
