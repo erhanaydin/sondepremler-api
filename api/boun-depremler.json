@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-16T17:47:28.029Z",
+  "lastUpdate": "2026-01-16T17:57:15.364Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDAG-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.01.16 19:47:09",
+      "lat": 39.1875,
+      "lng": 28.8845,
+      "md": "-.-",
+      "ml": "0.9",
+      "mw": "-.-",
+      "depth": "10.4",
+      "coordinates": [
+        28.8845,
+        39.1875
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8845,
+            39.1875
+          ]
+        },
+        "properties": {
+          "mag": "0.9",
+          "place": "AKDAG-SIMAV (KUTAHYA)",
+          "time": "2026.01.16 19:47:09"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.16",
+      "date_hour": "19:47:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "SAZOBA-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "DEMIRKANAT-KIGI (BINGOL)",
-      "type": "�lksel",
-      "date": "2026.01.10 19:13:56",
-      "lat": 39.2055,
-      "lng": 40.3092,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        40.3092,
-        39.2055
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.3092,
-            39.2055
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "DEMIRKANAT-KIGI (BINGOL)",
-          "time": "2026.01.10 19:13:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.10",
-      "date_hour": "19:13:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
