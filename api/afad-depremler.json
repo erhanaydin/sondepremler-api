@@ -1,5 +1,41 @@
 [
   {
+    "title": "Gölbaşı (Adıyaman)",
+    "type": "İlksel",
+    "date": "2026-01-16 11:28:22",
+    "lat": 37.8425,
+    "lng": 37.77194,
+    "md": "-.-",
+    "ml": "1.2",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      37.77194,
+      37.8425
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.77194,
+          37.8425
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Gölbaşı (Adıyaman) (Adıyaman)",
+        "time": 1768562902000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-16",
+    "date_hour": "11:28:22",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Adıyaman"
+  },
+  {
     "title": "Akdeniz - [16.86 km] Marmaris (Muğla)",
     "type": "İlksel",
     "date": "2026-01-16 11:12:11",
@@ -12886,77 +12922,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Muğla"
-  },
-  {
-    "title": "Merkez (Adıyaman)",
-    "type": "İlksel",
-    "date": "2026-01-13 11:47:06",
-    "lat": 37.95833,
-    "lng": 38.20778,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 6.99,
-    "coordinates": [
-      38.20778,
-      37.95833
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.20778,
-          37.95833
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Merkez (Adıyaman) (Adıyaman)",
-        "time": 1768304826000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-01-13",
-    "date_hour": "11:47:06",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Adıyaman"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2026-01-13 11:43:47",
-    "lat": 39.34472,
-    "lng": 28.02667,
-    "md": "-.-",
-    "ml": "0.7",
-    "mw": "-.-",
-    "depth": 6.9,
-    "coordinates": [
-      28.02667,
-      39.34472
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.02667,
-          39.34472
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1768304627000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-01-13",
-    "date_hour": "11:43:47",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
