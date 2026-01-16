@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-16T09:31:16.629Z",
+  "lastUpdate": "2026-01-16T09:50:13.230Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.16 12:01:53",
+      "lat": 39.1332,
+      "lng": 28.2532,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "10.6",
+      "coordinates": [
+        28.2532,
+        39.1332
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2532,
+            39.1332
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.16 12:01:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.16",
+      "date_hour": "12:01:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.01.16 11:23:40",
+      "lat": 39.2578,
+      "lng": 28.9907,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "13.1",
+      "coordinates": [
+        28.9907,
+        39.2578
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9907,
+            39.2578
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2026.01.16 11:23:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.16",
+      "date_hour": "11:23:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.10 03:13:00",
-      "lat": 39.1017,
-      "lng": 28.3072,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "9.6",
-      "coordinates": [
-        28.3072,
-        39.1017
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3072,
-            39.1017
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.10 03:13:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.10",
-      "date_hour": "03:13:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "NOHUTALANI-YAVUZELI (GAZIANTEP)",
-      "type": "�lksel",
-      "date": "2026.01.10 03:02:35",
-      "lat": 37.3492,
-      "lng": 37.6975,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "7.0",
-      "coordinates": [
-        37.6975,
-        37.3492
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.6975,
-            37.3492
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "NOHUTALANI-YAVUZELI (GAZIANTEP)",
-          "time": "2026.01.10 03:02:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.10",
-      "date_hour": "03:02:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "GAZIANTEP"
     }
   ]
 }
