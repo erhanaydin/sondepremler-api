@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-16T10:29:50.578Z",
+  "lastUpdate": "2026-01-16T10:50:53.197Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.16 13:19:44",
+      "lat": 39.1535,
+      "lng": 28.2995,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "13.0",
+      "coordinates": [
+        28.2995,
+        39.1535
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2995,
+            39.1535
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.16 13:19:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.16",
+      "date_hour": "13:19:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BUYUKKIZILCIK-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.16 13:11:52",
+      "lat": 39.1357,
+      "lng": 28.2958,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "10.6",
+      "coordinates": [
+        28.2958,
+        39.1357
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2958,
+            39.1357
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.16 13:11:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.16",
+      "date_hour": "13:11:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2026.01.10 05:55:02",
-      "lat": 36.2937,
-      "lng": 28.6995,
-      "md": "-.-",
-      "ml": "4.1",
-      "mw": "4.0",
-      "depth": "34.5",
-      "coordinates": [
-        28.6995,
-        36.2937
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.6995,
-            36.2937
-          ]
-        },
-        "properties": {
-          "mag": "4.1",
-          "place": "AKDENIZ",
-          "time": "2026.01.10 05:55:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.10",
-      "date_hour": "05:55:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "CAKILLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.10 05:51:42",
-      "lat": 39.299,
-      "lng": 28.0812,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "11.6",
-      "coordinates": [
-        28.0812,
-        39.299
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0812,
-            39.299
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "CAKILLI-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.10 05:51:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.10",
-      "date_hour": "05:51:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
