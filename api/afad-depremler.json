@@ -108,6 +108,42 @@
     "city": "Kütahya"
   },
   {
+    "title": "Göle (Ardahan)",
+    "type": "İlksel",
+    "date": "2026-01-16 15:54:21",
+    "lat": 40.86083,
+    "lng": 42.64083,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 5.33,
+    "coordinates": [
+      42.64083,
+      40.86083
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.64083,
+          40.86083
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Göle (Ardahan) (Ardahan)",
+        "time": 1768578861000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-16",
+    "date_hour": "15:54:21",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Ardahan"
+  },
+  {
     "title": "Çelikhan (Adıyaman)",
     "type": "İlksel",
     "date": "2026-01-16 15:38:33",
@@ -13174,77 +13210,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Muğla"
-  },
-  {
-    "title": "Doğanşehir (Malatya)",
-    "type": "İlksel",
-    "date": "2026-01-13 16:48:41",
-    "lat": 38.03667,
-    "lng": 37.70944,
-    "md": "-.-",
-    "ml": "2.6",
-    "mw": "-.-",
-    "depth": 11.18,
-    "coordinates": [
-      37.70944,
-      38.03667
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.70944,
-          38.03667
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Doğanşehir (Malatya) (Malatya)",
-        "time": 1768322921000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-01-13",
-    "date_hour": "16:48:41",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
-  },
-  {
-    "title": "Çat (Erzurum)",
-    "type": "İlksel",
-    "date": "2026-01-13 16:45:47",
-    "lat": 39.61778,
-    "lng": 41.15917,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 18.99,
-    "coordinates": [
-      41.15917,
-      39.61778
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.15917,
-          39.61778
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Çat (Erzurum) (Erzurum)",
-        "time": 1768322747000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-01-13",
-    "date_hour": "16:45:47",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Erzurum"
   }
 ]
