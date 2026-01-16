@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-16T14:21:44.886Z",
+  "lastUpdate": "2026-01-16T14:45:21.349Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.01.16 17:35:16",
+      "lat": 36.9802,
+      "lng": 28.1017,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "8.3",
+      "coordinates": [
+        28.1017,
+        36.9802
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1017,
+            36.9802
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "GOKOVA KORFEZI (EGE DENIZI)",
+          "time": "2026.01.16 17:35:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.16",
+      "date_hour": "17:35:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "TIYENLI-GOLMARMARA (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADIYAMAN"
-    },
-    {
-      "title": "SULLER-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.10 15:32:54",
-      "lat": 39.3275,
-      "lng": 28.1323,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "14.9",
-      "coordinates": [
-        28.1323,
-        39.3275
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1323,
-            39.3275
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "SULLER-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.10 15:32:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.10",
-      "date_hour": "15:32:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
