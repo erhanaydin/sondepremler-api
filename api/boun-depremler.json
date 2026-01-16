@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-16T18:57:33.666Z",
+  "lastUpdate": "2026-01-16T19:20:14.767Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.01.16 21:54:26",
+      "lat": 39.027,
+      "lng": 25.8627,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "17.0",
+      "coordinates": [
+        25.8627,
+        39.027
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.8627,
+            39.027
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+          "time": "2026.01.16 21:54:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.16",
+      "date_hour": "21:54:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "FETHIYE KORFEZI (AKDENIZ)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "KOBASDERE-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2026.01.10 21:18:05",
-      "lat": 39.1567,
-      "lng": 27.9823,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "11.3",
-      "coordinates": [
-        27.9823,
-        39.1567
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9823,
-            39.1567
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KOBASDERE-AKHISAR (MANISA)",
-          "time": "2026.01.10 21:18:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.10",
-      "date_hour": "21:18:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
