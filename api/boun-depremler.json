@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-16T04:51:34.084Z",
+  "lastUpdate": "2026-01-16T05:14:48.918Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.01.16 08:03:04",
+      "lat": 38.3957,
+      "lng": 25.2768,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "9.8",
+      "coordinates": [
+        25.2768,
+        38.3957
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.2768,
+            38.3957
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "EGE DENIZI",
+          "time": "2026.01.16 08:03:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.16",
+      "date_hour": "08:03:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "CUKURCAK-SULTANDAGI (AFYONKARAHISAR)",
+      "type": "�lksel",
+      "date": "2026.01.16 07:47:51",
+      "lat": 38.703,
+      "lng": 31.3552,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "6.7",
+      "coordinates": [
+        31.3552,
+        38.703
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.3552,
+            38.703
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "CUKURCAK-SULTANDAGI (AFYONKARAHISAR)",
+          "time": "2026.01.16 07:47:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.16",
+      "date_hour": "07:47:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AFYONKARAHISAR"
+    },
     {
       "title": "OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.09 23:34:17",
-      "lat": 39.1952,
-      "lng": 28.143,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "16.1",
-      "coordinates": [
-        28.143,
-        39.1952
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.143,
-            39.1952
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.09 23:34:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.09",
-      "date_hour": "23:34:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "HARUNUSAGI-AKCADAG (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.01.09 23:32:42",
-      "lat": 38.2983,
-      "lng": 37.6697,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "18.2",
-      "coordinates": [
-        37.6697,
-        38.2983
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.6697,
-            38.2983
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "HARUNUSAGI-AKCADAG (MALATYA)",
-          "time": "2026.01.09 23:32:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.09",
-      "date_hour": "23:32:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
