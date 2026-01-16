@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-16T11:25:07.413Z",
+  "lastUpdate": "2026-01-16T11:40:05.778Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HACET-KIRKAGAC (MANISA)",
+      "type": "�lksel",
+      "date": "2026.01.16 14:07:00",
+      "lat": 39.2132,
+      "lng": 27.956,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        27.956,
+        39.2132
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.956,
+            39.2132
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "HACET-KIRKAGAC (MANISA)",
+          "time": "2026.01.16 14:07:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.16",
+      "date_hour": "14:07:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "KARACALAR-(OSMANIYE)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2026.01.10 06:33:09",
-      "lat": 40.4283,
-      "lng": 24.0777,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "1.8",
-      "coordinates": [
-        24.0777,
-        40.4283
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.0777,
-            40.4283
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YUNANISTAN",
-          "time": "2026.01.10 06:33:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.10",
-      "date_hour": "06:33:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
