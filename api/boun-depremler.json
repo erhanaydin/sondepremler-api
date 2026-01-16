@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-16T19:20:14.767Z",
+  "lastUpdate": "2026-01-16T19:31:37.434Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -219,6 +219,42 @@
       "city": "EGE DENIZI"
     },
     {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.01.16 20:39:30",
+      "lat": 35.3023,
+      "lng": 27.2312,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "30.3",
+      "coordinates": [
+        27.2312,
+        35.3023
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.2312,
+            35.3023
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "AKDENIZ",
+          "time": "2026.01.16 20:39:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.16",
+      "date_hour": "20:39:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
       "title": "YUNANISTAN",
       "type": "�lksel",
       "date": "2026.01.16 20:28:37",
@@ -250,6 +286,42 @@
       "location_properties": "",
       "date_day": "2026.01.16",
       "date_hour": "20:28:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.01.16 20:19:18",
+      "lat": 35.653,
+      "lng": 27.3697,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "10.0",
+      "coordinates": [
+        27.3697,
+        35.653
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.3697,
+            35.653
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "AKDENIZ",
+          "time": "2026.01.16 20:19:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.16",
+      "date_hour": "20:19:18",
       "timestamp": false,
       "location_tz": "",
       "city": ""
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KOSEUSAGI-CELIKHAN (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2026.01.10 21:56:53",
-      "lat": 38.0417,
-      "lng": 38.2915,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.8",
-      "coordinates": [
-        38.2915,
-        38.0417
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.2915,
-            38.0417
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KOSEUSAGI-CELIKHAN (ADIYAMAN)",
-          "time": "2026.01.10 21:56:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.10",
-      "date_hour": "21:56:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
-    },
-    {
-      "title": "KAPIDERE-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.01.10 21:46:25",
-      "lat": 37.9977,
-      "lng": 37.6588,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "7.7",
-      "coordinates": [
-        37.6588,
-        37.9977
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.6588,
-            37.9977
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KAPIDERE-DOGANSEHIR (MALATYA)",
-          "time": "2026.01.10 21:46:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.10",
-      "date_hour": "21:46:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
