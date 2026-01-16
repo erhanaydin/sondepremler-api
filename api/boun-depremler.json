@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-16T19:31:37.434Z",
+  "lastUpdate": "2026-01-16T19:41:45.323Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -433,6 +433,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.01.16 19:45:01",
+      "lat": 38.3992,
+      "lng": 25.3618,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        25.3618,
+        38.3992
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.3618,
+            38.3992
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "EGE DENIZI",
+          "time": "2026.01.16 19:45:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.16",
+      "date_hour": "19:45:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "SAZOBA-AKHISAR (MANISA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "KONAKPINAR-(BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.10 21:59:23",
-      "lat": 39.4362,
-      "lng": 27.8393,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        27.8393,
-        39.4362
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.8393,
-            39.4362
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "KONAKPINAR-(BALIKESIR)",
-          "time": "2026.01.10 21:59:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.10",
-      "date_hour": "21:59:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
