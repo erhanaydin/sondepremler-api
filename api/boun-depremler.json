@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-17T15:58:12.305Z",
+  "lastUpdate": "2026-01-17T16:26:44.440Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -142,6 +142,42 @@
       "location_properties": "",
       "date_day": "2026.01.17",
       "date_hour": "16:48:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
+    {
+      "title": "DARGIL-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2026.01.17 16:04:35",
+      "lat": 39.0555,
+      "lng": 28.3447,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "14.0",
+      "coordinates": [
+        28.3447,
+        39.0555
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3447,
+            39.0555
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "DARGIL-GORDES (MANISA)",
+          "time": "2026.01.17 16:04:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.17",
+      "date_hour": "16:04:35",
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "AKYAR-(OSMANIYE)",
-      "type": "�lksel",
-      "date": "2026.01.11 15:14:56",
-      "lat": 37.0457,
-      "lng": 36.2218,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "7.0",
-      "coordinates": [
-        36.2218,
-        37.0457
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.2218,
-            37.0457
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "AKYAR-(OSMANIYE)",
-          "time": "2026.01.11 15:14:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.11",
-      "date_hour": "15:14:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "OSMANIYE"
     }
   ]
 }
