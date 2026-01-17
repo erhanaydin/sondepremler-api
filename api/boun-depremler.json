@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-17T20:33:14.190Z",
+  "lastUpdate": "2026-01-17T20:46:36.558Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ELMADALI-HINIS (ERZURUM)",
+      "type": "�lksel",
+      "date": "2026.01.17 23:16:13",
+      "lat": 39.2295,
+      "lng": 41.6328,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "7.7",
+      "coordinates": [
+        41.6328,
+        39.2295
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.6328,
+            39.2295
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "ELMADALI-HINIS (ERZURUM)",
+          "time": "2026.01.17 23:16:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.17",
+      "date_hour": "23:16:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZURUM"
+    },
     {
       "title": "TURGUT-YUNAK (KONYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.11 19:55:58",
-      "lat": 39.1113,
-      "lng": 28.2862,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "15.3",
-      "coordinates": [
-        28.2862,
-        39.1113
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2862,
-            39.1113
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.11 19:55:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.11",
-      "date_hour": "19:55:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
