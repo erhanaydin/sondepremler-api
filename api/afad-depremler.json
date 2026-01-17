@@ -1,5 +1,77 @@
 [
   {
+    "title": "Alaşehir (Manisa)",
+    "type": "İlksel",
+    "date": "2026-01-17 08:48:36",
+    "lat": 38.50583,
+    "lng": 28.42556,
+    "md": "-.-",
+    "ml": "1.1",
+    "mw": "-.-",
+    "depth": 7.06,
+    "coordinates": [
+      28.42556,
+      38.50583
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.42556,
+          38.50583
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Alaşehir (Manisa) (Manisa)",
+        "time": 1768639716000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-17",
+    "date_hour": "08:48:36",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Manisa"
+  },
+  {
+    "title": "Sumbas (Osmaniye)",
+    "type": "İlksel",
+    "date": "2026-01-17 08:37:25",
+    "lat": 37.48528,
+    "lng": 36.09,
+    "md": "-.-",
+    "ml": "2.2",
+    "mw": "-.-",
+    "depth": 6.64,
+    "coordinates": [
+      36.09,
+      37.48528
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.09,
+          37.48528
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sumbas (Osmaniye) (Osmaniye)",
+        "time": 1768639045000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-17",
+    "date_hour": "08:37:25",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Osmaniye"
+  },
+  {
     "title": "Altıeylül (Balıkesir)",
     "type": "İlksel",
     "date": "2026-01-17 07:06:02",
@@ -13102,185 +13174,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Van"
-  },
-  {
-    "title": "Selçuklu (Konya)",
-    "type": "İlksel",
-    "date": "2026-01-14 09:12:20",
-    "lat": 38.09,
-    "lng": 32.77444,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 6.48,
-    "coordinates": [
-      32.77444,
-      38.09
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.77444,
-          38.09
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Selçuklu (Konya) (Konya)",
-        "time": 1768381940000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-01-14",
-    "date_hour": "09:12:20",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Konya"
-  },
-  {
-    "title": "Sungurlu (Çorum)",
-    "type": "İlksel",
-    "date": "2026-01-14 09:09:11",
-    "lat": 40.16694,
-    "lng": 34.56389,
-    "md": "-.-",
-    "ml": "1.6",
-    "mw": "-.-",
-    "depth": 6.93,
-    "coordinates": [
-      34.56389,
-      40.16694
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.56389,
-          40.16694
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sungurlu (Çorum) (Çorum)",
-        "time": 1768381751000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-01-14",
-    "date_hour": "09:09:11",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Çorum"
-  },
-  {
-    "title": "Bala (Ankara)",
-    "type": "İlksel",
-    "date": "2026-01-14 08:58:27",
-    "lat": 39.33889,
-    "lng": 33.42167,
-    "md": "-.-",
-    "ml": "1.3",
-    "mw": "-.-",
-    "depth": 11.91,
-    "coordinates": [
-      33.42167,
-      39.33889
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.42167,
-          39.33889
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Bala (Ankara) (Ankara)",
-        "time": 1768381107000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-01-14",
-    "date_hour": "08:58:27",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Ankara"
-  },
-  {
-    "title": "Ege Denizi",
-    "type": "İlksel",
-    "date": "2026-01-14 08:56:54",
-    "lat": 36.4925,
-    "lng": 25.60833,
-    "md": "-.-",
-    "ml": "2.6",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      25.60833,
-      36.4925
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.60833,
-          36.4925
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi (Muğla)",
-        "time": 1768381014000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-01-14",
-    "date_hour": "08:56:54",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
-  },
-  {
-    "title": "Elbistan (Kahramanmaraş)",
-    "type": "İlksel",
-    "date": "2026-01-14 08:55:22",
-    "lat": 38.03944,
-    "lng": 37.52389,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 6.68,
-    "coordinates": [
-      37.52389,
-      38.03944
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.52389,
-          38.03944
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Elbistan (Kahramanmaraş) (Kahramanmaraş)",
-        "time": 1768380922000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-01-14",
-    "date_hour": "08:55:22",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kahramanmaraş"
   }
 ]
