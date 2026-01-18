@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-18T19:56:04.901Z",
+  "lastUpdate": "2026-01-18T20:19:18.664Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.18 23:05:05",
+      "lat": 39.1407,
+      "lng": 28.2958,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "10.2",
+      "coordinates": [
+        28.2958,
+        39.1407
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2958,
+            39.1407
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.18 23:05:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.18",
+      "date_hour": "23:05:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KARACAY-PAZARCIK (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "IPEKYOLU-HEKIMHAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.01.13 00:41:59",
-      "lat": 38.7347,
-      "lng": 37.9652,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        37.9652,
-        38.7347
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.9652,
-            38.7347
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "IPEKYOLU-HEKIMHAN (MALATYA)",
-          "time": "2026.01.13 00:41:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.13",
-      "date_hour": "00:41:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
