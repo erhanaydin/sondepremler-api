@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-18T05:53:53.337Z",
+  "lastUpdate": "2026-01-18T06:19:31.304Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOSEPINARI-KADIRLI (OSMANIYE)",
+      "type": "�lksel",
+      "date": "2026.01.18 09:01:12",
+      "lat": 37.6152,
+      "lng": 36.1423,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "18.3",
+      "coordinates": [
+        36.1423,
+        37.6152
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.1423,
+            37.6152
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "KOSEPINARI-KADIRLI (OSMANIYE)",
+          "time": "2026.01.18 09:01:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.18",
+      "date_hour": "09:01:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "OSMANIYE"
+    },
     {
       "title": "BIGADIC (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CICEKLI-ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.01.12 04:59:55",
-      "lat": 37.0993,
-      "lng": 28.505,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "14.0",
-      "coordinates": [
-        28.505,
-        37.0993
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.505,
-            37.0993
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "CICEKLI-ULA (MUGLA)",
-          "time": "2026.01.12 04:59:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.12",
-      "date_hour": "04:59:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
