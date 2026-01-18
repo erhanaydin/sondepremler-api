@@ -1,5 +1,41 @@
 [
   {
+    "title": "Elbistan (Kahramanmaraş)",
+    "type": "İlksel",
+    "date": "2026-01-18 22:35:22",
+    "lat": 38.0575,
+    "lng": 37.60056,
+    "md": "-.-",
+    "ml": "1",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      37.60056,
+      38.0575
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.60056,
+          38.0575
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Elbistan (Kahramanmaraş) (Kahramanmaraş)",
+        "time": 1768775722000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-18",
+    "date_hour": "22:35:22",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kahramanmaraş"
+  },
+  {
     "title": "Eğirdir (Isparta)",
     "type": "İlksel",
     "date": "2026-01-18 22:32:13",
@@ -11158,77 +11194,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Isparta"
-  },
-  {
-    "title": "Ege Denizi - [51.47 km] Ayvacık (Çanakkale)",
-    "type": "İlksel",
-    "date": "2026-01-15 23:16:23",
-    "lat": 39.03389,
-    "lng": 25.90139,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 6.01,
-    "coordinates": [
-      25.90139,
-      39.03389
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.90139,
-          39.03389
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi - [51.47 km] Ayvacık (Çanakkale) (Çanakkale)",
-        "time": 1768518983000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-01-15",
-    "date_hour": "23:16:23",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Çanakkale"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2026-01-15 23:14:49",
-    "lat": 39.13444,
-    "lng": 28.29333,
-    "md": "-.-",
-    "ml": "1.1",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.29333,
-      39.13444
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.29333,
-          39.13444
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1768518889000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-01-15",
-    "date_hour": "23:14:49",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
