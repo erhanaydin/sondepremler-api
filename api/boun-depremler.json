@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-18T13:49:14.385Z",
+  "lastUpdate": "2026-01-18T13:57:24.964Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAMAGARA-AKCADAG (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.01.18 16:48:28",
+      "lat": 38.4433,
+      "lng": 38.0153,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "15.7",
+      "coordinates": [
+        38.0153,
+        38.4433
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.0153,
+            38.4433
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KARAMAGARA-AKCADAG (MALATYA)",
+          "time": "2026.01.18 16:48:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.18",
+      "date_hour": "16:48:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "BALCI-ILGAZ (CANKIRI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ALTINTAS-CELIKHAN (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2026.01.12 14:08:08",
-      "lat": 38.1267,
-      "lng": 38.2752,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        38.2752,
-        38.1267
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.2752,
-            38.1267
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "ALTINTAS-CELIKHAN (ADIYAMAN)",
-          "time": "2026.01.12 14:08:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.12",
-      "date_hour": "14:08:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
