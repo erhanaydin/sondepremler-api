@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-18T22:10:58.971Z",
+  "lastUpdate": "2026-01-18T22:34:08.770Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HAMDILLI-CEYHAN (ADANA)",
+      "type": "�lksel",
+      "date": "2026.01.19 01:07:49",
+      "lat": 37.0388,
+      "lng": 35.9473,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "24.1",
+      "coordinates": [
+        35.9473,
+        37.0388
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.9473,
+            37.0388
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "HAMDILLI-CEYHAN (ADANA)",
+          "time": "2026.01.19 01:07:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.19",
+      "date_hour": "01:07:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "HISARCIK-DARENDE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "DURUKKAS-MURADIYE (VAN)",
-      "type": "�lksel",
-      "date": "2026.01.13 01:53:25",
-      "lat": 38.966,
-      "lng": 43.6715,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        43.6715,
-        38.966
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.6715,
-            38.966
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "DURUKKAS-MURADIYE (VAN)",
-          "time": "2026.01.13 01:53:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.13",
-      "date_hour": "01:53:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "VAN"
     }
   ]
 }
