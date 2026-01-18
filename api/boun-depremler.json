@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-18T11:25:31.299Z",
+  "lastUpdate": "2026-01-18T11:36:38.017Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "KAVAKLIDERE-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.01.18 14:09:30",
+      "lat": 38.254,
+      "lng": 38.6375,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "7.7",
+      "coordinates": [
+        38.6375,
+        38.254
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.6375,
+            38.254
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KAVAKLIDERE-PUTURGE (MALATYA)",
+          "time": "2026.01.18 14:09:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.18",
+      "date_hour": "14:09:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "DOGU AKDENIZ",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADIYAMAN"
-    },
-    {
-      "title": "YOLKURU-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.01.12 10:55:00",
-      "lat": 38.1178,
-      "lng": 37.878,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "17.2",
-      "coordinates": [
-        37.878,
-        38.1178
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.878,
-            38.1178
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YOLKURU-DOGANSEHIR (MALATYA)",
-          "time": "2026.01.12 10:55:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.12",
-      "date_hour": "10:55:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
