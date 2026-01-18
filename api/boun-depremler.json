@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-18T14:55:21.840Z",
+  "lastUpdate": "2026-01-18T15:14:59.840Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "ICMELER-GOLYAKA (DUZCE)",
+      "type": "�lksel",
+      "date": "2026.01.18 17:43:13",
+      "lat": 40.803,
+      "lng": 30.997,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        30.997,
+        40.803
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.997,
+            40.803
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "ICMELER-GOLYAKA (DUZCE)",
+          "time": "2026.01.18 17:43:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.18",
+      "date_hour": "17:43:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DUZCE"
     },
     {
       "title": "SELAMLAR-GUMUSOVA (DUZCE)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CORUM"
-    },
-    {
-      "title": "SENLIK-LICE (DIYARBAKIR) REVIZE01 (2026.01.12",
-      "type": "14:25:37)",
-      "date": "2026.01.12 14:25:36",
-      "lat": 38.5413,
-      "lng": 40.4045,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "13.2",
-      "coordinates": [
-        40.4045,
-        38.5413
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.4045,
-            38.5413
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "SENLIK-LICE (DIYARBAKIR) REVIZE01 (2026.01.12",
-          "time": "2026.01.12 14:25:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.12",
-      "date_hour": "14:25:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DIYARBAKIR"
     }
   ]
 }
