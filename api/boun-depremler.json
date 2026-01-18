@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-18T18:44:09.214Z",
+  "lastUpdate": "2026-01-18T18:56:38.891Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KADIRUSAGI-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.01.18 21:40:40",
+      "lat": 38.2483,
+      "lng": 38.2417,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "19.2",
+      "coordinates": [
+        38.2417,
+        38.2483
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.2417,
+            38.2483
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KADIRUSAGI-YESILYURT (MALATYA)",
+          "time": "2026.01.18 21:40:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.18",
+      "date_hour": "21:40:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "CALIS-ELBISTAN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "DEREKOY-KANGAL (SIVAS)",
-      "type": "�lksel",
-      "date": "2026.01.12 21:56:00",
-      "lat": 39.4647,
-      "lng": 37.5068,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        37.5068,
-        39.4647
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.5068,
-            39.4647
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "DEREKOY-KANGAL (SIVAS)",
-          "time": "2026.01.12 21:56:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.12",
-      "date_hour": "21:56:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
     }
   ]
 }
