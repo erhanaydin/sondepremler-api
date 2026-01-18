@@ -72,6 +72,42 @@
     "city": "Adana"
   },
   {
+    "title": "Merkez (Bolu)",
+    "type": "İlksel",
+    "date": "2026-01-18 06:22:48",
+    "lat": 40.82694,
+    "lng": 31.59056,
+    "md": "-.-",
+    "ml": "1.7",
+    "mw": "-.-",
+    "depth": 10.45,
+    "coordinates": [
+      31.59056,
+      40.82694
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.59056,
+          40.82694
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Merkez (Bolu) (Bolu)",
+        "time": 1768717368000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-18",
+    "date_hour": "06:22:48",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Bolu"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2026-01-18 06:16:01",
@@ -106,6 +142,42 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
+  },
+  {
+    "title": "Sumbas (Osmaniye)",
+    "type": "İlksel",
+    "date": "2026-01-18 06:01:10",
+    "lat": 37.59306,
+    "lng": 36.05889,
+    "md": "-.-",
+    "ml": "1.6",
+    "mw": "-.-",
+    "depth": 7.07,
+    "coordinates": [
+      36.05889,
+      37.59306
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.05889,
+          37.59306
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sumbas (Osmaniye) (Osmaniye)",
+        "time": 1768716070000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-18",
+    "date_hour": "06:01:10",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Osmaniye"
   },
   {
     "title": "Battalgazi (Malatya)",
@@ -11122,41 +11194,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "İzmir"
-  },
-  {
-    "title": "Akdeniz - [107.93 km] Marmaris (Muğla)",
-    "type": "İlksel",
-    "date": "2026-01-15 06:53:28",
-    "lat": 35.66139,
-    "lng": 28.18806,
-    "md": "-.-",
-    "ml": "3.5",
-    "mw": "-.-",
-    "depth": 28.16,
-    "coordinates": [
-      28.18806,
-      35.66139
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.18806,
-          35.66139
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akdeniz - [107.93 km] Marmaris (Muğla) (Muğla)",
-        "time": 1768460008000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-01-15",
-    "date_hour": "06:53:28",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
   }
 ]
