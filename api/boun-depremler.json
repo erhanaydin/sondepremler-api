@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-19T23:49:31.607Z",
+  "lastUpdate": "2026-01-19T23:57:42.584Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOCADERE-CINARCIK (YALOVA)",
+      "type": "�lksel",
+      "date": "2026.01.20 02:41:22",
+      "lat": 40.5923,
+      "lng": 29.0257,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "14.7",
+      "coordinates": [
+        29.0257,
+        40.5923
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0257,
+            40.5923
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KOCADERE-CINARCIK (YALOVA)",
+          "time": "2026.01.20 02:41:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.20",
+      "date_hour": "02:41:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "YALOVA"
+    },
     {
       "title": "HAMZABEY-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "CICEKLI-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2026.01.14 03:59:07",
-      "lat": 39.061,
-      "lng": 28.236,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        28.236,
-        39.061
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.236,
-            39.061
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "CICEKLI-GORDES (MANISA)",
-          "time": "2026.01.14 03:59:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.14",
-      "date_hour": "03:59:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
