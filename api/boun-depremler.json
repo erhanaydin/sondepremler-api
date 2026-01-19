@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-19T10:58:22.902Z",
+  "lastUpdate": "2026-01-19T11:24:29.016Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.01.19 13:59:34",
+      "lat": 35.3573,
+      "lng": 32.1887,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        32.1887,
+        35.3573
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.1887,
+            35.3573
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "AKDENIZ",
+          "time": "2026.01.19 13:59:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.19",
+      "date_hour": "13:59:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "KARACAOREN-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.01.19 13:19:45",
+      "lat": 39.1757,
+      "lng": 29.04,
+      "md": "-.-",
+      "ml": "0.8",
+      "mw": "-.-",
+      "depth": "4.2",
+      "coordinates": [
+        29.04,
+        39.1757
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.04,
+            39.1757
+          ]
+        },
+        "properties": {
+          "mag": "0.8",
+          "place": "KARACAOREN-SIMAV (KUTAHYA)",
+          "time": "2026.01.19 13:19:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.19",
+      "date_hour": "13:19:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KIBRIS-BESPARMAK",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "GOZLUHUYUK-NURDAGI (GAZIANTEP)",
-      "type": "�lksel",
-      "date": "2026.01.13 21:24:32",
-      "lat": 37.135,
-      "lng": 36.7567,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "7.1",
-      "coordinates": [
-        36.7567,
-        37.135
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.7567,
-            37.135
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "GOZLUHUYUK-NURDAGI (GAZIANTEP)",
-          "time": "2026.01.13 21:24:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.13",
-      "date_hour": "21:24:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "GAZIANTEP"
-    },
-    {
-      "title": "BEGRE-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.01.13 19:48:41",
-      "lat": 38.0525,
-      "lng": 37.6935,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        37.6935,
-        38.0525
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.6935,
-            38.0525
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "BEGRE-DOGANSEHIR (MALATYA)",
-          "time": "2026.01.13 19:48:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.13",
-      "date_hour": "19:48:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
