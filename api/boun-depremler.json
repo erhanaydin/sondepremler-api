@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-19T20:11:07.515Z",
+  "lastUpdate": "2026-01-19T20:36:34.596Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "POLAT-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.01.19 22:30:06",
+      "lat": 38.1915,
+      "lng": 37.8462,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "11.2",
+      "coordinates": [
+        37.8462,
+        38.1915
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.8462,
+            38.1915
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "POLAT-DOGANSEHIR (MALATYA)",
+          "time": "2026.01.19 22:30:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.19",
+      "date_hour": "22:30:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "ILICAK-AKCADAG (MALATYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KALEMKOY-KINIK (IZMIR)",
-      "type": "�lksel",
-      "date": "2026.01.14 02:18:54",
-      "lat": 39.057,
-      "lng": 27.5168,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "11.1",
-      "coordinates": [
-        27.5168,
-        39.057
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.5168,
-            39.057
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "KALEMKOY-KINIK (IZMIR)",
-          "time": "2026.01.14 02:18:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.14",
-      "date_hour": "02:18:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
