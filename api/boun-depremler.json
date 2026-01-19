@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-19T21:59:34.348Z",
+  "lastUpdate": "2026-01-19T22:28:24.404Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.01.20 01:06:51",
+      "lat": 37.983,
+      "lng": 27.1852,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "12.5",
+      "coordinates": [
+        27.1852,
+        37.983
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.1852,
+            37.983
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2026.01.20 01:06:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.20",
+      "date_hour": "01:06:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "YUNANISTAN",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "ORHANLI-(BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.14 02:21:38",
-      "lat": 39.513,
-      "lng": 27.984,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "7.9",
-      "coordinates": [
-        27.984,
-        39.513
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.984,
-            39.513
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ORHANLI-(BALIKESIR)",
-          "time": "2026.01.14 02:21:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.14",
-      "date_hour": "02:21:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
