@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-20T23:40:53.309Z",
+  "lastUpdate": "2026-01-20T23:52:48.055Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAKOCA-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.01.21 02:37:51",
+      "lat": 39.264,
+      "lng": 28.9703,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "9.5",
+      "coordinates": [
+        28.9703,
+        39.264
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9703,
+            39.264
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "KARAKOCA-SIMAV (KUTAHYA)",
+          "time": "2026.01.21 02:37:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.21",
+      "date_hour": "02:37:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.21 02:33:41",
+      "lat": 39.1988,
+      "lng": 28.0947,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "10.6",
+      "coordinates": [
+        28.0947,
+        39.1988
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0947,
+            39.1988
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.21 02:33:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.21",
+      "date_hour": "02:33:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "GEMLIK KORFEZI (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2026.01.15 00:02:19",
-      "lat": 40.428,
-      "lng": 28.9798,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "11.5",
-      "coordinates": [
-        28.9798,
-        40.428
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9798,
-            40.428
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "GEMLIK KORFEZI (MARMARA DENIZI)",
-          "time": "2026.01.15 00:02:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.15",
-      "date_hour": "00:02:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "OSMANDEDE-PAZARCIK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.01.14 23:56:37",
-      "lat": 37.315,
-      "lng": 37.105,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "6.7",
-      "coordinates": [
-        37.105,
-        37.315
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.105,
-            37.315
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "OSMANDEDE-PAZARCIK (KAHRAMANMARAS)",
-          "time": "2026.01.14 23:56:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.14",
-      "date_hour": "23:56:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
