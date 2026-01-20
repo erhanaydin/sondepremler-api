@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-20T05:03:01.317Z",
+  "lastUpdate": "2026-01-20T05:39:13.167Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CINARCIK (YALOVA)",
+      "type": "�lksel",
+      "date": "2026.01.20 07:58:41",
+      "lat": 40.6878,
+      "lng": 29.0895,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "8.0",
+      "coordinates": [
+        29.0895,
+        40.6878
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0895,
+            40.6878
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "CINARCIK (YALOVA)",
+          "time": "2026.01.20 07:58:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.20",
+      "date_hour": "07:58:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "YALOVA"
+    },
     {
       "title": "KARAGUR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KIRKHARMAN-CILIMLI (DUZCE)",
-      "type": "�lksel",
-      "date": "2026.01.14 05:37:53",
-      "lat": 40.9372,
-      "lng": 31.009,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "15.5",
-      "coordinates": [
-        31.009,
-        40.9372
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.009,
-            40.9372
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KIRKHARMAN-CILIMLI (DUZCE)",
-          "time": "2026.01.14 05:37:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.14",
-      "date_hour": "05:37:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DUZCE"
     }
   ]
 }
