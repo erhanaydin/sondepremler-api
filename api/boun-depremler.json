@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-20T01:52:55.107Z",
+  "lastUpdate": "2026-01-20T03:25:03.153Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.20 05:51:06",
+      "lat": 39.2038,
+      "lng": 28.168,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "9.2",
+      "coordinates": [
+        28.168,
+        39.2038
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.168,
+            39.2038
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.20 05:51:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.20",
+      "date_hour": "05:51:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.01.14 05:01:42",
-      "lat": 37.9173,
-      "lng": 27.1328,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        27.1328,
-        37.9173
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1328,
-            37.9173
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KUSADASI KORFEZI (EGE DENIZI)",
-          "time": "2026.01.14 05:01:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.14",
-      "date_hour": "05:01:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
