@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-20T17:15:39.851Z",
+  "lastUpdate": "2026-01-20T17:47:45.657Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.01.20 20:24:56",
+      "lat": 38.3807,
+      "lng": 37.408,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        37.408,
+        38.3807
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.408,
+            38.3807
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+          "time": "2026.01.20 20:24:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.20",
+      "date_hour": "20:24:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "KARAHIDIR-GURSU (BURSA)",
+      "type": "�lksel",
+      "date": "2026.01.20 20:07:43",
+      "lat": 40.2538,
+      "lng": 29.2303,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.5",
+      "coordinates": [
+        29.2303,
+        40.2538
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.2303,
+            40.2538
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KARAHIDIR-GURSU (BURSA)",
+          "time": "2026.01.20 20:07:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.20",
+      "date_hour": "20:07:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "GECITLI-SINCIK (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2026.01.14 18:19:01",
-      "lat": 38.1377,
-      "lng": 38.5398,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        38.5398,
-        38.1377
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.5398,
-            38.1377
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "GECITLI-SINCIK (ADIYAMAN)",
-          "time": "2026.01.14 18:19:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.14",
-      "date_hour": "18:19:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
-    },
-    {
-      "title": "NIKFER-TAVAS (DENIZLI)",
-      "type": "�lksel",
-      "date": "2026.01.14 17:52:33",
-      "lat": 37.3973,
-      "lng": 29.1997,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "10.8",
-      "coordinates": [
-        29.1997,
-        37.3973
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1997,
-            37.3973
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "NIKFER-TAVAS (DENIZLI)",
-          "time": "2026.01.14 17:52:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.14",
-      "date_hour": "17:52:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
