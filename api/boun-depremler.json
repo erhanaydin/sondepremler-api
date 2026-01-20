@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-20T21:45:08.545Z",
+  "lastUpdate": "2026-01-20T21:53:19.687Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.01.21 00:42:06",
+      "lat": 39.2515,
+      "lng": 28.9852,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        28.9852,
+        39.2515
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9852,
+            39.2515
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2026.01.21 00:42:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.21",
+      "date_hour": "00:42:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "DUNDARLI-TIRE (IZMIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADIYAMAN"
-    },
-    {
-      "title": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2026.01.14 22:29:52",
-      "lat": 40.8735,
-      "lng": 28.6503,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "3.7",
-      "coordinates": [
-        28.6503,
-        40.8735
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.6503,
-            40.8735
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-          "time": "2026.01.14 22:29:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.14",
-      "date_hour": "22:29:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
     }
   ]
 }
