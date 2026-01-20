@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-20T22:49:16.915Z",
+  "lastUpdate": "2026-01-20T22:57:17.498Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.21 01:48:42",
+      "lat": 39.2307,
+      "lng": 28.0607,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "6.8",
+      "coordinates": [
+        28.0607,
+        39.2307
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0607,
+            39.2307
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.21 01:48:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.21",
+      "date_hour": "01:48:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2026.01.14 23:14:47",
-      "lat": 40.8468,
-      "lng": 28.6642,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "7.5",
-      "coordinates": [
-        28.6642,
-        40.8468
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.6642,
-            40.8468
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-          "time": "2026.01.14 23:14:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.14",
-      "date_hour": "23:14:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
     }
   ]
 }
