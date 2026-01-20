@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-20T13:35:39.868Z",
+  "lastUpdate": "2026-01-20T14:04:00.194Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AYVACIK-CAMELI (DENIZLI)",
+      "type": "�lksel",
+      "date": "2026.01.20 16:45:18",
+      "lat": 37.0697,
+      "lng": 29.4455,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "3.2",
+      "coordinates": [
+        29.4455,
+        37.0697
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.4455,
+            37.0697
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "AYVACIK-CAMELI (DENIZLI)",
+          "time": "2026.01.20 16:45:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.20",
+      "date_hour": "16:45:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "YESILYURT (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.14 14:22:32",
-      "lat": 39.1478,
-      "lng": 28.1993,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "15.8",
-      "coordinates": [
-        28.1993,
-        39.1478
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1993,
-            39.1478
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "AKTAS-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.14 14:22:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.14",
-      "date_hour": "14:22:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
