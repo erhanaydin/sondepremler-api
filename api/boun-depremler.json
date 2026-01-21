@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-20T23:52:48.055Z",
+  "lastUpdate": "2026-01-21T00:52:49.695Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.01.21 02:48:44",
+      "lat": 36.7145,
+      "lng": 26.3052,
+      "md": "-.-",
+      "ml": "3.3",
+      "mw": "3.4",
+      "depth": "8.1",
+      "coordinates": [
+        26.3052,
+        36.7145
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.3052,
+            36.7145
+          ]
+        },
+        "properties": {
+          "mag": "3.3",
+          "place": "EGE DENIZI",
+          "time": "2026.01.21 02:48:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.21",
+      "date_hour": "02:48:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KARAKOCA-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANTALYA"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2026.01.15 00:23:59",
-      "lat": 36.2187,
-      "lng": 28.3322,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "58.3",
-      "coordinates": [
-        28.3322,
-        36.2187
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3322,
-            36.2187
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "AKDENIZ",
-          "time": "2026.01.15 00:23:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.15",
-      "date_hour": "00:23:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
