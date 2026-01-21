@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-21T04:52:19.823Z",
+  "lastUpdate": "2026-01-21T05:18:47.175Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAKOY-MUSTAFAKEMALPASA (BURSA)",
+      "type": "�lksel",
+      "date": "2026.01.21 07:45:40",
+      "lat": 39.8547,
+      "lng": 28.6797,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "9.1",
+      "coordinates": [
+        28.6797,
+        39.8547
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.6797,
+            39.8547
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KARAKOY-MUSTAFAKEMALPASA (BURSA)",
+          "time": "2026.01.21 07:45:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.21",
+      "date_hour": "07:45:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "KAYNARPINAR-KARLIOVA (BINGOL)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "DOLEKLI-ALADAG (ADANA)",
-      "type": "�lksel",
-      "date": "2026.01.15 03:14:19",
-      "lat": 37.5903,
-      "lng": 35.2957,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        35.2957,
-        37.5903
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.2957,
-            37.5903
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "DOLEKLI-ALADAG (ADANA)",
-          "time": "2026.01.15 03:14:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.15",
-      "date_hour": "03:14:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
