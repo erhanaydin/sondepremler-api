@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-21T13:33:03.477Z",
+  "lastUpdate": "2026-01-21T14:03:09.144Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.01.21 16:48:55",
+      "lat": 36.4378,
+      "lng": 28.726,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "9.1",
+      "coordinates": [
+        28.726,
+        36.4378
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.726,
+            36.4378
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "AKDENIZ",
+          "time": "2026.01.21 16:48:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.21",
+      "date_hour": "16:48:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.21 16:28:27",
+      "lat": 39.1758,
+      "lng": 28.215,
+      "md": "-.-",
+      "ml": "3.4",
+      "mw": "3.2",
+      "depth": "6.9",
+      "coordinates": [
+        28.215,
+        39.1758
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.215,
+            39.1758
+          ]
+        },
+        "properties": {
+          "mag": "3.4",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.21 16:28:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.21",
+      "date_hour": "16:28:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "VEYSELLI-ERDEMLI (MERSIN)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "KIRANKOY-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.15 12:53:40",
-      "lat": 39.2978,
-      "lng": 28.3722,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "13.8",
-      "coordinates": [
-        28.3722,
-        39.2978
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3722,
-            39.2978
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KIRANKOY-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.15 12:53:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.15",
-      "date_hour": "12:53:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "SURENDAL-CINAR (DIYARBAKIR)",
-      "type": "�lksel",
-      "date": "2026.01.15 12:28:19",
-      "lat": 37.5708,
-      "lng": 40.313,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        40.313,
-        37.5708
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.313,
-            37.5708
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "SURENDAL-CINAR (DIYARBAKIR)",
-          "time": "2026.01.15 12:28:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.15",
-      "date_hour": "12:28:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DIYARBAKIR"
     }
   ]
 }
