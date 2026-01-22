@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-22T09:59:02.518Z",
+  "lastUpdate": "2026-01-22T10:33:57.809Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CITAK-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2026.01.22 13:06:16",
+      "lat": 38.9555,
+      "lng": 28.139,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "19.4",
+      "coordinates": [
+        28.139,
+        38.9555
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.139,
+            38.9555
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "CITAK-AKHISAR (MANISA)",
+          "time": "2026.01.22 13:06:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.22",
+      "date_hour": "13:06:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
+    {
+      "title": "BADEMLI-BIGADIC (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.22 12:54:03",
+      "lat": 39.4188,
+      "lng": 28.0983,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "13.9",
+      "coordinates": [
+        28.0983,
+        39.4188
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0983,
+            39.4188
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "BADEMLI-BIGADIC (BALIKESIR)",
+          "time": "2026.01.22 12:54:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.22",
+      "date_hour": "12:54:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YUKARISAZ-HEKIMHAN (MALATYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2026.01.17 04:12:08",
-      "lat": 40.3338,
-      "lng": 24.173,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.1",
-      "coordinates": [
-        24.173,
-        40.3338
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.173,
-            40.3338
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YUNANISTAN",
-          "time": "2026.01.17 04:12:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.17",
-      "date_hour": "04:12:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "ALICLIBUCAK-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.01.17 04:05:14",
-      "lat": 38.0883,
-      "lng": 36.5375,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "4.5",
-      "coordinates": [
-        36.5375,
-        38.0883
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.5375,
-            38.0883
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "ALICLIBUCAK-GOKSUN (KAHRAMANMARAS)",
-          "time": "2026.01.17 04:05:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.17",
-      "date_hour": "04:05:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
