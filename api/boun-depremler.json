@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-22T18:47:18.075Z",
+  "lastUpdate": "2026-01-22T19:12:41.813Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.22 21:49:20",
+      "lat": 39.162,
+      "lng": 28.2845,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "12.5",
+      "coordinates": [
+        28.2845,
+        39.162
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2845,
+            39.162
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.22 21:49:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.22",
+      "date_hour": "21:49:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SAROS KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SULTANGAZI (ISTANBUL)",
-      "type": "�lksel",
-      "date": "2026.01.17 09:55:30",
-      "lat": 41.1368,
-      "lng": 28.8738,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        28.8738,
-        41.1368
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.8738,
-            41.1368
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "SULTANGAZI (ISTANBUL)",
-          "time": "2026.01.17 09:55:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.17",
-      "date_hour": "09:55:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ISTANBUL"
     }
   ]
 }
