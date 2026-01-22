@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-22T07:51:12.894Z",
+  "lastUpdate": "2026-01-22T07:59:30.236Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -75,6 +75,42 @@
       "city": "MANISA"
     },
     {
+      "title": "KULAHLI-GURUN (SIVAS)",
+      "type": "�lksel",
+      "date": "2026.01.22 10:37:12",
+      "lat": 38.8248,
+      "lng": 37.4435,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        37.4435,
+        38.8248
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.4435,
+            38.8248
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KULAHLI-GURUN (SIVAS)",
+          "time": "2026.01.22 10:37:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.22",
+      "date_hour": "10:37:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SIVAS"
+    },
+    {
       "title": "DEVLETLIBABA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
       "date": "2026.01.22 10:33:23",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "AGACYOLU-(BINGOL)",
+      "type": "�lksel",
+      "date": "2026.01.22 10:32:48",
+      "lat": 38.9913,
+      "lng": 40.5168,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "3.4",
+      "coordinates": [
+        40.5168,
+        38.9913
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.5168,
+            38.9913
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "AGACYOLU-(BINGOL)",
+          "time": "2026.01.22 10:32:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.22",
+      "date_hour": "10:32:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGOL"
     },
     {
       "title": "MALAZ-GORDES (MANISA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.17 00:27:38",
-      "lat": 39.1348,
-      "lng": 28.2937,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "10.4",
-      "coordinates": [
-        28.2937,
-        39.1348
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2937,
-            39.1348
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.17 00:27:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.17",
-      "date_hour": "00:27:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "KARSIYAKA-DARENDE (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.01.17 00:23:25",
-      "lat": 38.4942,
-      "lng": 37.554,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "20.2",
-      "coordinates": [
-        37.554,
-        38.4942
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.554,
-            38.4942
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KARSIYAKA-DARENDE (MALATYA)",
-          "time": "2026.01.17 00:23:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.17",
-      "date_hour": "00:23:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
