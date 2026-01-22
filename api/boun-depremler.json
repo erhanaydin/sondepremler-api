@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-22T22:59:56.472Z",
+  "lastUpdate": "2026-01-22T23:28:12.845Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.23 02:08:51",
+      "lat": 39.2433,
+      "lng": 28.1283,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "10.6",
+      "coordinates": [
+        28.1283,
+        39.2433
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1283,
+            39.2433
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.23 02:08:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.23",
+      "date_hour": "02:08:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "YAYLACIK-(HATAY)",
+      "type": "�lksel",
+      "date": "2026.01.23 01:55:51",
+      "lat": 36.2837,
+      "lng": 36.0207,
+      "md": "-.-",
+      "ml": "3.3",
+      "mw": "3.2",
+      "depth": "7.2",
+      "coordinates": [
+        36.0207,
+        36.2837
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.0207,
+            36.2837
+          ]
+        },
+        "properties": {
+          "mag": "3.3",
+          "place": "YAYLACIK-(HATAY)",
+          "time": "2026.01.23 01:55:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.23",
+      "date_hour": "01:55:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
     {
       "title": "ELMAPINARI-CAT (ERZURUM)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.17 21:35:00",
-      "lat": 39.097,
-      "lng": 28.2717,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "16.4",
-      "coordinates": [
-        28.2717,
-        39.097
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2717,
-            39.097
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.17 21:35:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.17",
-      "date_hour": "21:35:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2026.01.17 21:11:08",
-      "lat": 36.0738,
-      "lng": 28.1277,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "8.7",
-      "coordinates": [
-        28.1277,
-        36.0738
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1277,
-            36.0738
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "AKDENIZ",
-          "time": "2026.01.17 21:11:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.17",
-      "date_hour": "21:11:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
