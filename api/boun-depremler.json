@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-23T06:39:23.268Z",
+  "lastUpdate": "2026-01-23T07:01:56.311Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.23 09:41:40",
+      "lat": 39.1833,
+      "lng": 28.2152,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "10.4",
+      "coordinates": [
+        28.2152,
+        39.1833
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2152,
+            39.1833
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.23 09:41:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.23",
+      "date_hour": "09:41:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "HACISEKILILER-KONYAALTI (ANTALYA)",
-      "type": "�lksel",
-      "date": "2026.01.18 04:46:23",
-      "lat": 36.8255,
-      "lng": 30.5778,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "18.0",
-      "coordinates": [
-        30.5778,
-        36.8255
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.5778,
-            36.8255
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "HACISEKILILER-KONYAALTI (ANTALYA)",
-          "time": "2026.01.18 04:46:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.18",
-      "date_hour": "04:46:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANTALYA"
     }
   ]
 }
