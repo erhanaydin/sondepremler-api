@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-23T07:57:38.546Z",
+  "lastUpdate": "2026-01-23T08:32:24.091Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.23 11:26:35",
+      "lat": 39.155,
+      "lng": 28.2933,
+      "md": "-.-",
+      "ml": "3.0",
+      "mw": "-.-",
+      "depth": "13.8",
+      "coordinates": [
+        28.2933,
+        39.155
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2933,
+            39.155
+          ]
+        },
+        "properties": {
+          "mag": "3.0",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.23 11:26:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.23",
+      "date_hour": "11:26:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "KORU-CINARCIK (YALOVA)",
+      "type": "�lksel",
+      "date": "2026.01.23 10:59:14",
+      "lat": 40.6987,
+      "lng": 29.14,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "12.5",
+      "coordinates": [
+        29.14,
+        40.6987
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.14,
+            40.6987
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "KORU-CINARCIK (YALOVA)",
+          "time": "2026.01.23 10:59:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.23",
+      "date_hour": "10:59:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "YALOVA"
+    },
     {
       "title": "YUNANISTAN",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "CIGSAR-ANDIRIN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.01.18 06:17:40",
-      "lat": 37.8258,
-      "lng": 36.2825,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        36.2825,
-        37.8258
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.2825,
-            37.8258
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "CIGSAR-ANDIRIN (KAHRAMANMARAS)",
-          "time": "2026.01.18 06:17:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.18",
-      "date_hour": "06:17:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "SAGRAKCI-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2026.01.18 05:57:26",
-      "lat": 39.117,
-      "lng": 28.063,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "3.4",
-      "coordinates": [
-        28.063,
-        39.117
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.063,
-            39.117
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "SAGRAKCI-AKHISAR (MANISA)",
-          "time": "2026.01.18 05:57:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.18",
-      "date_hour": "05:57:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
