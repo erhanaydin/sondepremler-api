@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-23T23:42:30.102Z",
+  "lastUpdate": "2026-01-23T23:52:10.202Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SEKLI-BEYPAZARI (ANKARA)",
+      "type": "�lksel",
+      "date": "2026.01.24 02:32:24",
+      "lat": 40.1722,
+      "lng": 31.7092,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "12.6",
+      "coordinates": [
+        31.7092,
+        40.1722
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.7092,
+            40.1722
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "SEKLI-BEYPAZARI (ANKARA)",
+          "time": "2026.01.24 02:32:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.24",
+      "date_hour": "02:32:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KAYABASI-(AMASYA)",
-      "type": "�lksel",
-      "date": "2026.01.19 14:17:25",
-      "lat": 40.5643,
-      "lng": 35.7315,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "4.9",
-      "coordinates": [
-        35.7315,
-        40.5643
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.7315,
-            40.5643
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KAYABASI-(AMASYA)",
-          "time": "2026.01.19 14:17:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.19",
-      "date_hour": "14:17:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AMASYA"
     }
   ]
 }
