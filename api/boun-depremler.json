@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-23T09:31:44.666Z",
+  "lastUpdate": "2026-01-23T09:53:10.601Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOZLU-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.23 12:39:22",
+      "lat": 39.2503,
+      "lng": 28.0975,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "6.2",
+      "coordinates": [
+        28.0975,
+        39.2503
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0975,
+            39.2503
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "KOZLU-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.23 12:39:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.23",
+      "date_hour": "12:39:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "INCECIK-ELBISTAN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.01.23 12:26:07",
+      "lat": 38.3692,
+      "lng": 37.377,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "4.1",
+      "coordinates": [
+        37.377,
+        38.3692
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.377,
+            38.3692
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "INCECIK-ELBISTAN (KAHRAMANMARAS)",
+          "time": "2026.01.23 12:26:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.23",
+      "date_hour": "12:26:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "YENIKOY-SAIMBEYLI (ADANA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KONYA"
-    },
-    {
-      "title": "KOSEPINARI-KADIRLI (OSMANIYE)",
-      "type": "�lksel",
-      "date": "2026.01.18 09:01:12",
-      "lat": 37.6152,
-      "lng": 36.1423,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "18.3",
-      "coordinates": [
-        36.1423,
-        37.6152
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.1423,
-            37.6152
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "KOSEPINARI-KADIRLI (OSMANIYE)",
-          "time": "2026.01.18 09:01:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.18",
-      "date_hour": "09:01:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "OSMANIYE"
-    },
-    {
-      "title": "BIGADIC (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.18 08:25:55",
-      "lat": 39.3965,
-      "lng": 28.0987,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "27.8",
-      "coordinates": [
-        28.0987,
-        39.3965
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0987,
-            39.3965
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "BIGADIC (BALIKESIR)",
-          "time": "2026.01.18 08:25:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.18",
-      "date_hour": "08:25:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
