@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-24T09:37:31.020Z",
+  "lastUpdate": "2026-01-24T09:48:05.049Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOZLU-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.24 12:33:24",
+      "lat": 39.2413,
+      "lng": 28.0777,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "14.4",
+      "coordinates": [
+        28.0777,
+        39.2413
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0777,
+            39.2413
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "KOZLU-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.24 12:33:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.24",
+      "date_hour": "12:33:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.24 12:31:19",
+      "lat": 39.1632,
+      "lng": 28.2748,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "2.8",
+      "depth": "9.1",
+      "coordinates": [
+        28.2748,
+        39.1632
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2748,
+            39.1632
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.24 12:31:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.24",
+      "date_hour": "12:31:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "CEVIRME-AKCADAG (MALATYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "PAYAMBURNU-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.01.21 05:19:09",
-      "lat": 37.8665,
-      "lng": 36.3142,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "6.1",
-      "coordinates": [
-        36.3142,
-        37.8665
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.3142,
-            37.8665
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "PAYAMBURNU-GOKSUN (KAHRAMANMARAS)",
-          "time": "2026.01.21 05:19:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.21",
-      "date_hour": "05:19:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "SARNICKOY-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2026.01.21 04:26:08",
-      "lat": 40.1188,
-      "lng": 27.2985,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "8.8",
-      "coordinates": [
-        27.2985,
-        40.1188
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.2985,
-            40.1188
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "SARNICKOY-BIGA (CANAKKALE)",
-          "time": "2026.01.21 04:26:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.21",
-      "date_hour": "04:26:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
