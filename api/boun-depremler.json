@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-24T07:33:04.431Z",
+  "lastUpdate": "2026-01-24T07:44:14.380Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TEKELIOGLU-SALIHLI (MANISA)",
+      "type": "�lksel",
+      "date": "2026.01.24 10:15:34",
+      "lat": 38.6055,
+      "lng": 27.9588,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "12.6",
+      "coordinates": [
+        27.9588,
+        38.6055
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9588,
+            38.6055
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "TEKELIOGLU-SALIHLI (MANISA)",
+          "time": "2026.01.24 10:15:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.24",
+      "date_hour": "10:15:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "GOKOVA KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "ACIELMA-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.01.20 22:30:48",
-      "lat": 38.0203,
-      "lng": 36.4287,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "6.6",
-      "coordinates": [
-        36.4287,
-        38.0203
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.4287,
-            38.0203
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ACIELMA-GOKSUN (KAHRAMANMARAS)",
-          "time": "2026.01.20 22:30:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.20",
-      "date_hour": "22:30:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
