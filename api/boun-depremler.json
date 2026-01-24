@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-24T15:19:05.807Z",
+  "lastUpdate": "2026-01-24T15:36:12.911Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.24 18:03:23",
+      "lat": 39.1568,
+      "lng": 28.2755,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "2.7",
+      "depth": "12.3",
+      "coordinates": [
+        28.2755,
+        39.1568
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2755,
+            39.1568
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.24 18:03:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.24",
+      "date_hour": "18:03:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ZAFER-BUCA (IZMIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MERSIN"
-    },
-    {
-      "title": "KARAPINAR-ANDIRIN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.01.21 16:14:42",
-      "lat": 37.6183,
-      "lng": 36.2935,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "8.8",
-      "coordinates": [
-        36.2935,
-        37.6183
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.2935,
-            37.6183
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KARAPINAR-ANDIRIN (KAHRAMANMARAS)",
-          "time": "2026.01.21 16:14:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.21",
-      "date_hour": "16:14:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
