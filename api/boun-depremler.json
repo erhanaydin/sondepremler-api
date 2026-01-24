@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-24T16:44:02.853Z",
+  "lastUpdate": "2026-01-24T16:56:20.188Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAGLICAY-GURUN (SIVAS)",
+      "type": "�lksel",
+      "date": "2026.01.24 19:07:10",
+      "lat": 38.803,
+      "lng": 37.4908,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "1.7",
+      "coordinates": [
+        37.4908,
+        38.803
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.4908,
+            38.803
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "BAGLICAY-GURUN (SIVAS)",
+          "time": "2026.01.24 19:07:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.24",
+      "date_hour": "19:07:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SIVAS"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "AKKOPRU-KOYCEGIZ (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.01.21 17:55:03",
-      "lat": 36.946,
-      "lng": 28.926,
-      "md": "-.-",
-      "ml": "3.4",
-      "mw": "3.3",
-      "depth": "6.7",
-      "coordinates": [
-        28.926,
-        36.946
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.926,
-            36.946
-          ]
-        },
-        "properties": {
-          "mag": "3.4",
-          "place": "AKKOPRU-KOYCEGIZ (MUGLA)",
-          "time": "2026.01.21 17:55:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.21",
-      "date_hour": "17:55:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
