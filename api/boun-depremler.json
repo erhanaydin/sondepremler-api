@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-24T10:41:37.876Z",
+  "lastUpdate": "2026-01-24T10:52:52.278Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YENIKOY-KARAYAZI (ERZURUM)",
+      "type": "�lksel",
+      "date": "2026.01.24 13:37:25",
+      "lat": 39.7477,
+      "lng": 41.9892,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        41.9892,
+        39.7477
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.9892,
+            39.7477
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "YENIKOY-KARAYAZI (ERZURUM)",
+          "time": "2026.01.24 13:37:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.24",
+      "date_hour": "13:37:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZURUM"
+    },
     {
       "title": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
-    },
-    {
-      "title": "SAROS KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.01.21 06:31:13",
-      "lat": 40.4168,
-      "lng": 26.1213,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "20.7",
-      "coordinates": [
-        26.1213,
-        40.4168
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.1213,
-            40.4168
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "SAROS KORFEZI (EGE DENIZI)",
-          "time": "2026.01.21 06:31:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.21",
-      "date_hour": "06:31:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
