@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-24T15:55:40.959Z",
+  "lastUpdate": "2026-01-24T16:19:44.020Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "YAKINCA-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.01.24 18:08:27",
+      "lat": 38.3103,
+      "lng": 38.2287,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "10.0",
+      "coordinates": [
+        38.2287,
+        38.3103
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.2287,
+            38.3103
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "YAKINCA-YESILYURT (MALATYA)",
+          "time": "2026.01.24 18:08:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.24",
+      "date_hour": "18:08:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "TATLAR-NURHAK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.01.21 16:59:43",
-      "lat": 38.029,
-      "lng": 37.536,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "14.8",
-      "coordinates": [
-        37.536,
-        38.029
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.536,
-            38.029
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "TATLAR-NURHAK (KAHRAMANMARAS)",
-          "time": "2026.01.21 16:59:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.21",
-      "date_hour": "16:59:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
