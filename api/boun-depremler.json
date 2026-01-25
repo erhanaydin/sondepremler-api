@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-25T14:59:54.898Z",
+  "lastUpdate": "2026-01-25T15:27:57.791Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.01.25 17:34:19",
+      "lat": 39.1787,
+      "lng": 28.988,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "6.1",
+      "coordinates": [
+        28.988,
+        39.1787
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.988,
+            39.1787
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2026.01.25 17:34:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.25",
+      "date_hour": "17:34:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "SAZAKKINIK-(BOLU)",
+      "type": "�lksel",
+      "date": "2026.01.25 17:32:21",
+      "lat": 40.773,
+      "lng": 31.8408,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "14.3",
+      "coordinates": [
+        31.8408,
+        40.773
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.8408,
+            40.773
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "SAZAKKINIK-(BOLU)",
+          "time": "2026.01.25 17:32:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.25",
+      "date_hour": "17:32:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BOLU"
+    },
     {
       "title": "KOZLU-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.22 04:46:03",
-      "lat": 39.1672,
-      "lng": 28.2712,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "15.4",
-      "coordinates": [
-        28.2712,
-        39.1672
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2712,
-            39.1672
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.22 04:46:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.22",
-      "date_hour": "04:46:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.01.22 04:42:31",
-      "lat": 35.8085,
-      "lng": 27.4875,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        27.4875,
-        35.8085
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.4875,
-            35.8085
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "EGE DENIZI",
-          "time": "2026.01.22 04:42:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.22",
-      "date_hour": "04:42:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
