@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-25T20:32:46.338Z",
+  "lastUpdate": "2026-01-25T20:48:28.842Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TASLI-KANGAL (SIVAS)",
+      "type": "�lksel",
+      "date": "2026.01.25 23:28:00",
+      "lat": 39.1085,
+      "lng": 37.8247,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "2.4",
+      "coordinates": [
+        37.8247,
+        39.1085
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.8247,
+            39.1085
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "TASLI-KANGAL (SIVAS)",
+          "time": "2026.01.25 23:28:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.25",
+      "date_hour": "23:28:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SIVAS"
+    },
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.25 23:23:59",
+      "lat": 39.1668,
+      "lng": 28.2867,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "9.8",
+      "coordinates": [
+        28.2867,
+        39.1668
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2867,
+            39.1668
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.25 23:23:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.25",
+      "date_hour": "23:23:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ESENPINAR-ERDEMLI (MERSIN)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "SAKIZ ADASI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.01.22 09:49:19",
-      "lat": 38.251,
-      "lng": 25.8693,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "7.8",
-      "coordinates": [
-        25.8693,
-        38.251
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.8693,
-            38.251
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "SAKIZ ADASI (EGE DENIZI)",
-          "time": "2026.01.22 09:49:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.22",
-      "date_hour": "09:49:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
-    },
-    {
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.22 09:46:31",
-      "lat": 39.1182,
-      "lng": 28.3353,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "9.2",
-      "coordinates": [
-        28.3353,
-        39.1182
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3353,
-            39.1182
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.22 09:46:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.22",
-      "date_hour": "09:46:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
