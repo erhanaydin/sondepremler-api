@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-25T21:19:04.971Z",
+  "lastUpdate": "2026-01-25T21:35:04.711Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YALINCA-(ERZINCAN)",
+      "type": "�lksel",
+      "date": "2026.01.26 00:13:23",
+      "lat": 39.62,
+      "lng": 39.6277,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        39.6277,
+        39.62
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.6277,
+            39.62
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "YALINCA-(ERZINCAN)",
+          "time": "2026.01.26 00:13:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.26",
+      "date_hour": "00:13:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZINCAN"
+    },
     {
       "title": "SARILAR-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "DARGIL-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2026.01.22 10:38:21",
-      "lat": 39.0583,
-      "lng": 28.363,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "3.1",
-      "coordinates": [
-        28.363,
-        39.0583
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.363,
-            39.0583
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "DARGIL-GORDES (MANISA)",
-          "time": "2026.01.22 10:38:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.22",
-      "date_hour": "10:38:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
