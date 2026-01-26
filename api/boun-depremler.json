@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-26T16:19:34.054Z",
+  "lastUpdate": "2026-01-26T16:55:42.842Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -106,6 +106,42 @@
       "location_properties": "",
       "date_day": "2026.01.26",
       "date_hour": "18:59:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.26 18:58:02",
+      "lat": 39.1773,
+      "lng": 28.2168,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "8.1",
+      "coordinates": [
+        28.2168,
+        39.1773
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2168,
+            39.1773
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.26 18:58:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.26",
+      "date_hour": "18:58:02",
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.01.23 18:59:06",
-      "lat": 38.9812,
-      "lng": 25.8808,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "21.4",
-      "coordinates": [
-        25.8808,
-        38.9812
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.8808,
-            38.9812
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-          "time": "2026.01.23 18:59:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.23",
-      "date_hour": "18:59:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
