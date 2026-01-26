@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-26T05:39:01.964Z",
+  "lastUpdate": "2026-01-26T05:57:58.722Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.26 08:38:39",
+      "lat": 39.14,
+      "lng": 28.3498,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "8.1",
+      "coordinates": [
+        28.3498,
+        39.14
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3498,
+            39.14
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.26 08:38:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.26",
+      "date_hour": "08:38:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "GUNBATMAZ-BULANIK (MUS)",
-      "type": "�lksel",
-      "date": "2026.01.23 03:48:33",
-      "lat": 38.9717,
-      "lng": 42.0022,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "2.2",
-      "coordinates": [
-        42.0022,
-        38.9717
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.0022,
-            38.9717
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "GUNBATMAZ-BULANIK (MUS)",
-          "time": "2026.01.23 03:48:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.23",
-      "date_hour": "03:48:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUS"
     }
   ]
 }
