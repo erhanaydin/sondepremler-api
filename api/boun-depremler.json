@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-26T19:19:29.233Z",
+  "lastUpdate": "2026-01-26T19:40:22.468Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.01.26 22:16:23",
+      "lat": 34.8402,
+      "lng": 33.8482,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "31.2",
+      "coordinates": [
+        33.8482,
+        34.8402
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.8482,
+            34.8402
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "AKDENIZ",
+          "time": "2026.01.26 22:16:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.26",
+      "date_hour": "22:16:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BAGLICAY-GURUN (SIVAS)",
-      "type": "�lksel",
-      "date": "2026.01.23 22:06:54",
-      "lat": 38.793,
-      "lng": 37.4832,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        37.4832,
-        38.793
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.4832,
-            38.793
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "BAGLICAY-GURUN (SIVAS)",
-          "time": "2026.01.23 22:06:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.23",
-      "date_hour": "22:06:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
     }
   ]
 }
