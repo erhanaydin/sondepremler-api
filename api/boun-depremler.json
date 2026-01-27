@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-27T20:32:20.375Z",
+  "lastUpdate": "2026-01-27T20:50:53.904Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUSUMLAR-ORHANELI (BURSA)",
+      "type": "�lksel",
+      "date": "2026.01.27 23:23:26",
+      "lat": 39.9057,
+      "lng": 28.9092,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "8.5",
+      "coordinates": [
+        28.9092,
+        39.9057
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9092,
+            39.9057
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "KUSUMLAR-ORHANELI (BURSA)",
+          "time": "2026.01.27 23:23:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.27",
+      "date_hour": "23:23:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "TRABZON ACIKLARI (KARADENIZ)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.24 08:43:05",
-      "lat": 39.1622,
-      "lng": 28.2205,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.9",
-      "coordinates": [
-        28.2205,
-        39.1622
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2205,
-            39.1622
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.24 08:43:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.24",
-      "date_hour": "08:43:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
