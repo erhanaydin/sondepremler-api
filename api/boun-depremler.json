@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-28T08:41:57.699Z",
+  "lastUpdate": "2026-01-28T09:04:33.405Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIBRIS-ZUMRUTKOY",
+      "type": "�lksel",
+      "date": "2026.01.28 11:38:27",
+      "lat": 35.0222,
+      "lng": 33.0913,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "33.0",
+      "coordinates": [
+        33.0913,
+        35.0222
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.0913,
+            35.0222
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "KIBRIS-ZUMRUTKOY",
+          "time": "2026.01.28 11:38:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.28",
+      "date_hour": "11:38:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YENIKOY-KARAYAZI (ERZURUM)",
-      "type": "�lksel",
-      "date": "2026.01.24 13:37:25",
-      "lat": 39.7477,
-      "lng": 41.9892,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        41.9892,
-        39.7477
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            41.9892,
-            39.7477
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "YENIKOY-KARAYAZI (ERZURUM)",
-          "time": "2026.01.24 13:37:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.24",
-      "date_hour": "13:37:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZURUM"
     }
   ]
 }
