@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-29T15:02:22.225Z",
+  "lastUpdate": "2026-01-29T15:47:22.679Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.01.29 17:52:34",
+      "lat": 39.0428,
+      "lng": 25.7363,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        25.7363,
+        39.0428
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.7363,
+            39.0428
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "EGE DENIZI",
+          "time": "2026.01.29 17:52:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.29",
+      "date_hour": "17:52:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "DEGIRMENLI-CEYHAN (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CANDARLI KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.01.25 04:33:31",
-      "lat": 38.841,
-      "lng": 26.8658,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "10.2",
-      "coordinates": [
-        26.8658,
-        38.841
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.8658,
-            38.841
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "CANDARLI KORFEZI (EGE DENIZI)",
-          "time": "2026.01.25 04:33:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.25",
-      "date_hour": "04:33:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
