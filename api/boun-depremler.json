@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-01-29T13:37:33.777Z",
+  "lastUpdate": "2026-01-29T14:23:16.459Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.01.29 16:56:05",
+      "lat": 39.2513,
+      "lng": 29.0063,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "17.6",
+      "coordinates": [
+        29.0063,
+        39.2513
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0063,
+            39.2513
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2026.01.29 16:56:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.29",
+      "date_hour": "16:56:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "DAGDELEN-DOGUBAYAZIT (AGRI)",
+      "type": "�lksel",
+      "date": "2026.01.29 16:53:32",
+      "lat": 39.3805,
+      "lng": 44.1765,
+      "md": "-.-",
+      "ml": "3.5",
+      "mw": "3.6",
+      "depth": "5.0",
+      "coordinates": [
+        44.1765,
+        39.3805
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            44.1765,
+            39.3805
+          ]
+        },
+        "properties": {
+          "mag": "3.5",
+          "place": "DAGDELEN-DOGUBAYAZIT (AGRI)",
+          "time": "2026.01.29 16:53:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.29",
+      "date_hour": "16:53:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AGRI"
+    },
     {
       "title": "CAKILLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "YALOVA"
-    },
-    {
-      "title": "MIDILLI ADASI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.01.25 04:10:12",
-      "lat": 39.2495,
-      "lng": 26.1548,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        26.1548,
-        39.2495
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.1548,
-            39.2495
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "MIDILLI ADASI (EGE DENIZI)",
-          "time": "2026.01.25 04:10:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.25",
-      "date_hour": "04:10:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
-    },
-    {
-      "title": "GOLGOREN-AHLAT (BITLIS)",
-      "type": "�lksel",
-      "date": "2026.01.25 03:56:56",
-      "lat": 38.8713,
-      "lng": 42.3412,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "8.6",
-      "coordinates": [
-        42.3412,
-        38.8713
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.3412,
-            38.8713
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "GOLGOREN-AHLAT (BITLIS)",
-          "time": "2026.01.25 03:56:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.25",
-      "date_hour": "03:56:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BITLIS"
     }
   ]
 }
