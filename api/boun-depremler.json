@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-29T19:40:36.792Z",
+  "lastUpdate": "2026-01-29T19:58:37.961Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2026.01.29 22:06:41",
+      "lat": 40.8368,
+      "lng": 28.3412,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "7.2",
+      "coordinates": [
+        28.3412,
+        40.8368
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3412,
+            40.8368
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "MARMARA DENIZI",
+          "time": "2026.01.29 22:06:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.29",
+      "date_hour": "22:06:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZINCAN"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.25 05:13:29",
-      "lat": 39.1545,
-      "lng": 28.1445,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        28.1445,
-        39.1545
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1445,
-            39.1545
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.25 05:13:29"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.25",
-      "date_hour": "05:13:29",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
