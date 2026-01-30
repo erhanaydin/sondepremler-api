@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-30T23:19:45.002Z",
+  "lastUpdate": "2026-01-30T23:43:25.062Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.01.31 02:25:57",
+      "lat": 39.1347,
+      "lng": 28.1362,
+      "md": "-.-",
+      "ml": "0.6",
+      "mw": "-.-",
+      "depth": "20.5",
+      "coordinates": [
+        28.1362,
+        39.1347
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1362,
+            39.1347
+          ]
+        },
+        "properties": {
+          "mag": "0.6",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2026.01.31 02:25:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.31",
+      "date_hour": "02:25:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CUKURCA-(BINGOL)",
-      "type": "�lksel",
-      "date": "2026.01.26 03:13:07",
-      "lat": 38.9577,
-      "lng": 40.5067,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "9.5",
-      "coordinates": [
-        40.5067,
-        38.9577
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.5067,
-            38.9577
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "CUKURCA-(BINGOL)",
-          "time": "2026.01.26 03:13:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.26",
-      "date_hour": "03:13:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
