@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-30T17:08:37.641Z",
+  "lastUpdate": "2026-01-30T17:49:58.506Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAKIRLI-(BOLU)",
+      "type": "�lksel",
+      "date": "2026.01.30 20:38:04",
+      "lat": 40.7758,
+      "lng": 31.6332,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "3.1",
+      "depth": "5.3",
+      "coordinates": [
+        31.6332,
+        40.7758
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.6332,
+            40.7758
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "BAKIRLI-(BOLU)",
+          "time": "2026.01.30 20:38:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.30",
+      "date_hour": "20:38:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BOLU"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KONYA"
-    },
-    {
-      "title": "SUTCULER-KEMALPASA (IZMIR)",
-      "type": "�lksel",
-      "date": "2026.01.25 22:57:56",
-      "lat": 38.4935,
-      "lng": 27.4622,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "13.3",
-      "coordinates": [
-        27.4622,
-        38.4935
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.4622,
-            38.4935
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "SUTCULER-KEMALPASA (IZMIR)",
-          "time": "2026.01.25 22:57:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.25",
-      "date_hour": "22:57:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
