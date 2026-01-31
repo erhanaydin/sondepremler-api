@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-31T11:28:58.646Z",
+  "lastUpdate": "2026-01-31T11:44:37.429Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.01.31 14:18:28",
+      "lat": 34.6343,
+      "lng": 32.5365,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "41.5",
+      "coordinates": [
+        32.5365,
+        34.6343
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.5365,
+            34.6343
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "AKDENIZ",
+          "time": "2026.01.31 14:18:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.31",
+      "date_hour": "14:18:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "COMLECIK-KELKIT (GUMUSHANE)",
+      "type": "�lksel",
+      "date": "2026.01.31 13:51:20",
+      "lat": 39.927,
+      "lng": 39.7012,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "4.9",
+      "coordinates": [
+        39.7012,
+        39.927
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.7012,
+            39.927
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "COMLECIK-KELKIT (GUMUSHANE)",
+          "time": "2026.01.31 13:51:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.31",
+      "date_hour": "13:51:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "GUMUSHANE"
     },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "ASLANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.26 23:11:01",
-      "lat": 39.1983,
-      "lng": 28.2848,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        28.2848,
-        39.1983
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2848,
-            39.1983
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ASLANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.26 23:11:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.26",
-      "date_hour": "23:11:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "DOGUSOREN-KOPRUBASI (MANISA)",
-      "type": "�lksel",
-      "date": "2026.01.26 22:27:30",
-      "lat": 38.7708,
-      "lng": 28.364,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "27.8",
-      "coordinates": [
-        28.364,
-        38.7708
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.364,
-            38.7708
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "DOGUSOREN-KOPRUBASI (MANISA)",
-          "time": "2026.01.26 22:27:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.26",
-      "date_hour": "22:27:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
