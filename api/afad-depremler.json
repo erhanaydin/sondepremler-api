@@ -1,5 +1,41 @@
 [
   {
+    "title": "Beypazarı (Ankara)",
+    "type": "İlksel",
+    "date": "2026-01-31 21:08:00",
+    "lat": 40.20556,
+    "lng": 31.72222,
+    "md": "-.-",
+    "ml": "2.1",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      31.72222,
+      40.20556
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.72222,
+          40.20556
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Beypazarı (Ankara) (Ankara)",
+        "time": 1769893680000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-01-31",
+    "date_hour": "21:08:00",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Ankara"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2026-01-31 20:54:40",
@@ -12382,41 +12418,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Uğurludağ (Çorum)",
-    "type": "İlksel",
-    "date": "2026-01-28 21:21:22",
-    "lat": 40.47417,
-    "lng": 34.47361,
-    "md": "-.-",
-    "ml": "1.6",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      34.47361,
-      40.47417
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.47361,
-          40.47417
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Uğurludağ (Çorum) (Çorum)",
-        "time": 1769635282000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-01-28",
-    "date_hour": "21:21:22",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Çorum"
   }
 ]
