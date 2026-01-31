@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-31T20:53:10.731Z",
+  "lastUpdate": "2026-01-31T21:11:29.895Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SARIOT-KALE (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.01.31 23:53:26",
+      "lat": 38.3503,
+      "lng": 38.7405,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "6.8",
+      "coordinates": [
+        38.7405,
+        38.3503
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.7405,
+            38.3503
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "SARIOT-KALE (MALATYA)",
+          "time": "2026.01.31 23:53:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.01.31",
+      "date_hour": "23:53:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "EDREMIT KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "VAN"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2026.01.27 04:24:46",
-      "lat": 39.345,
-      "lng": 23.8315,
-      "md": "-.-",
-      "ml": "3.5",
-      "mw": "3.4",
-      "depth": "17.3",
-      "coordinates": [
-        23.8315,
-        39.345
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            23.8315,
-            39.345
-          ]
-        },
-        "properties": {
-          "mag": "3.5",
-          "place": "YUNANISTAN",
-          "time": "2026.01.27 04:24:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.27",
-      "date_hour": "04:24:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
