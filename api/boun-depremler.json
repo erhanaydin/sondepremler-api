@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-01T09:59:46.382Z",
+  "lastUpdate": "2026-02-01T10:34:47.540Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TUNALI-BOZOVA (SANLIURFA)",
+      "type": "�lksel",
+      "date": "2026.02.01 12:46:00",
+      "lat": 37.3155,
+      "lng": 38.426,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "17.4",
+      "coordinates": [
+        38.426,
+        37.3155
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.426,
+            37.3155
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "TUNALI-BOZOVA (SANLIURFA)",
+          "time": "2026.02.01 12:46:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.01",
+      "date_hour": "12:46:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SANLIURFA"
+    },
     {
       "title": "DUALAR-KIRKAGAC (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ALACATLI-REFAHIYE (ERZINCAN)",
-      "type": "�lksel",
-      "date": "2026.01.27 14:40:17",
-      "lat": 39.8615,
-      "lng": 38.8992,
-      "md": "-.-",
-      "ml": "3.6",
-      "mw": "-.-",
-      "depth": "8.1",
-      "coordinates": [
-        38.8992,
-        39.8615
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.8992,
-            39.8615
-          ]
-        },
-        "properties": {
-          "mag": "3.6",
-          "place": "ALACATLI-REFAHIYE (ERZINCAN)",
-          "time": "2026.01.27 14:40:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.27",
-      "date_hour": "14:40:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
     }
   ]
 }
