@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-01T16:47:27.223Z",
+  "lastUpdate": "2026-02-01T17:11:05.979Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2026.02.01 19:47:30",
+      "lat": 40.367,
+      "lng": 24.0933,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "7.5",
+      "coordinates": [
+        24.0933,
+        40.367
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.0933,
+            40.367
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "YUNANISTAN",
+          "time": "2026.02.01 19:47:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.01",
+      "date_hour": "19:47:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "HAMZABEY-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.01.27 17:44:35",
-      "lat": 36.5442,
-      "lng": 26.8532,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "129.7",
-      "coordinates": [
-        26.8532,
-        36.5442
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.8532,
-            36.5442
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "EGE DENIZI",
-          "time": "2026.01.27 17:44:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.27",
-      "date_hour": "17:44:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
