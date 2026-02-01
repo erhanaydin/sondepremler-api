@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-01T07:52:38.337Z",
+  "lastUpdate": "2026-02-01T08:18:03.035Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KORUCAK-CELIKHAN (ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2026.02.01 10:43:13",
+      "lat": 38.0683,
+      "lng": 38.3667,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "14.3",
+      "coordinates": [
+        38.3667,
+        38.0683
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.3667,
+            38.0683
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KORUCAK-CELIKHAN (ADIYAMAN)",
+          "time": "2026.02.01 10:43:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.01",
+      "date_hour": "10:43:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
+    },
     {
       "title": "GORGU-YESILYURT (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.01.27 14:35:46",
-      "lat": 39.2508,
-      "lng": 29.0198,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "11.0",
-      "coordinates": [
-        29.0198,
-        39.2508
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0198,
-            39.2508
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2026.01.27 14:35:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.27",
-      "date_hour": "14:35:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
