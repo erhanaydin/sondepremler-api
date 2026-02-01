@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-01T23:41:22.273Z",
+  "lastUpdate": "2026-02-01T23:56:29.039Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.02 02:35:13",
+      "lat": 39.1458,
+      "lng": 28.2528,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        28.2528,
+        39.1458
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2528,
+            39.1458
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2026.02.02 02:35:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.02",
+      "date_hour": "02:35:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.27 21:07:16",
-      "lat": 39.181,
-      "lng": 28.2907,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.4",
-      "coordinates": [
-        28.2907,
-        39.181
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2907,
-            39.181
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
-          "time": "2026.01.27 21:07:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.27",
-      "date_hour": "21:07:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
