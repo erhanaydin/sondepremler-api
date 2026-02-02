@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-02T17:06:18.374Z",
+  "lastUpdate": "2026-02-02T17:54:23.014Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAKUZU-ALIAGA (IZMIR)",
+      "type": "�lksel",
+      "date": "2026.02.02 20:10:40",
+      "lat": 38.759,
+      "lng": 27.1293,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "3.0",
+      "depth": "14.0",
+      "coordinates": [
+        27.1293,
+        38.759
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.1293,
+            38.759
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "KARAKUZU-ALIAGA (IZMIR)",
+          "time": "2026.02.02 20:10:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.02",
+      "date_hour": "20:10:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
     {
       "title": "YUNANISTAN",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AGAMCAGAM-OTLUKBELI (ERZINCAN)",
-      "type": "�lksel",
-      "date": "2026.01.28 08:10:51",
-      "lat": 40.0153,
-      "lng": 40.051,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "17.8",
-      "coordinates": [
-        40.051,
-        40.0153
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.051,
-            40.0153
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "AGAMCAGAM-OTLUKBELI (ERZINCAN)",
-          "time": "2026.01.28 08:10:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.28",
-      "date_hour": "08:10:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
     }
   ]
 }
