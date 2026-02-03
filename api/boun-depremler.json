@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-03T21:35:55.306Z",
+  "lastUpdate": "2026-02-03T22:01:23.811Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "NASA-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.02.04 00:31:52",
+      "lat": 39.1777,
+      "lng": 28.9557,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "17.6",
+      "coordinates": [
+        28.9557,
+        39.1777
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9557,
+            39.1777
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "NASA-SIMAV (KUTAHYA)",
+          "time": "2026.02.04 00:31:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.04",
+      "date_hour": "00:31:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "GUNDUZBEY-YESILYURT (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "ATALAR-SEHITKAMIL (GAZIANTEP)",
-      "type": "�lksel",
-      "date": "2026.01.29 14:57:57",
-      "lat": 37.1905,
-      "lng": 37.0363,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        37.0363,
-        37.1905
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.0363,
-            37.1905
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ATALAR-SEHITKAMIL (GAZIANTEP)",
-          "time": "2026.01.29 14:57:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.29",
-      "date_hour": "14:57:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "GAZIANTEP"
     }
   ]
 }
