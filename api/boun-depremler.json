@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-03T22:40:15.300Z",
+  "lastUpdate": "2026-02-03T23:01:43.359Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.04 01:54:07",
+      "lat": 39.1557,
+      "lng": 28.241,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "15.3",
+      "coordinates": [
+        28.241,
+        39.1557
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.241,
+            39.1557
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2026.02.04 01:54:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.04",
+      "date_hour": "01:54:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KAVAK-(ADIYAMAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANTALYA"
-    },
-    {
-      "title": "ASAGIKILICLI (TEKIRDAG)",
-      "type": "�lksel",
-      "date": "2026.01.29 15:35:04",
-      "lat": 40.9355,
-      "lng": 27.3662,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "7.9",
-      "coordinates": [
-        27.3662,
-        40.9355
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.3662,
-            40.9355
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ASAGIKILICLI (TEKIRDAG)",
-          "time": "2026.01.29 15:35:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.29",
-      "date_hour": "15:35:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TEKIRDAG"
     }
   ]
 }
