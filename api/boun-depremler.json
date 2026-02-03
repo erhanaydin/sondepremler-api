@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-03T23:01:43.359Z",
+  "lastUpdate": "2026-02-03T23:36:40.130Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CEVIRME-AKCADAG (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.02.04 02:15:48",
+      "lat": 38.2818,
+      "lng": 37.739,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "8.5",
+      "coordinates": [
+        37.739,
+        38.2818
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.739,
+            38.2818
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "CEVIRME-AKCADAG (MALATYA)",
+          "time": "2026.02.04 02:15:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.04",
+      "date_hour": "02:15:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AKKOC-DOSEMEALTI (ANTALYA)",
-      "type": "�lksel",
-      "date": "2026.01.29 15:50:36",
-      "lat": 37.1613,
-      "lng": 30.4783,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "10.0",
-      "coordinates": [
-        30.4783,
-        37.1613
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.4783,
-            37.1613
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "AKKOC-DOSEMEALTI (ANTALYA)",
-          "time": "2026.01.29 15:50:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.29",
-      "date_hour": "15:50:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANTALYA"
     }
   ]
 }
