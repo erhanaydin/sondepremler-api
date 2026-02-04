@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-04T23:01:28.077Z",
+  "lastUpdate": "2026-02-04T23:36:26.484Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAYISLAR-SARUHANLI (MANISA)",
+      "type": "�lksel",
+      "date": "2026.02.05 02:11:55",
+      "lat": 38.8305,
+      "lng": 27.7138,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "6.4",
+      "coordinates": [
+        27.7138,
+        38.8305
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.7138,
+            38.8305
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KAYISLAR-SARUHANLI (MANISA)",
+          "time": "2026.02.05 02:11:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.05",
+      "date_hour": "02:11:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "CORTUNLU-SIVRICE (ELAZIG)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "DISBUDAK-LAPSEKI (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2026.01.30 17:33:18",
-      "lat": 40.3348,
-      "lng": 27.0032,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "9.2",
-      "coordinates": [
-        27.0032,
-        40.3348
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0032,
-            40.3348
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "DISBUDAK-LAPSEKI (CANAKKALE)",
-          "time": "2026.01.30 17:33:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.30",
-      "date_hour": "17:33:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
