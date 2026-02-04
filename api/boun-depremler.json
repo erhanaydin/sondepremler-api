@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-04T21:26:09.224Z",
+  "lastUpdate": "2026-02-04T21:52:38.407Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.02.05 00:31:13",
+      "lat": 39.0702,
+      "lng": 25.857,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "9.3",
+      "coordinates": [
+        25.857,
+        39.0702
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.857,
+            39.0702
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+          "time": "2026.02.05 00:31:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.05",
+      "date_hour": "00:31:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "SIGIRLIHACI-CUBUK (ANKARA)",
-      "type": "�lksel",
-      "date": "2026.01.30 15:21:49",
-      "lat": 40.2173,
-      "lng": 32.9378,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "3.0",
-      "depth": "5.9",
-      "coordinates": [
-        32.9378,
-        40.2173
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.9378,
-            40.2173
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "SIGIRLIHACI-CUBUK (ANKARA)",
-          "time": "2026.01.30 15:21:49"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.30",
-      "date_hour": "15:21:49",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
