@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-02-04T15:08:34.936Z",
+  "lastUpdate": "2026-02-04T15:58:40.676Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.02.04 18:51:14",
+      "lat": 35.576,
+      "lng": 26.5718,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "3.1",
+      "depth": "10.8",
+      "coordinates": [
+        26.5718,
+        35.576
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.5718,
+            35.576
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "EGE DENIZI",
+          "time": "2026.02.04 18:51:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.04",
+      "date_hour": "18:51:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "HAMZABEY-(BOLU)",
+      "type": "�lksel",
+      "date": "2026.02.04 18:16:47",
+      "lat": 40.789,
+      "lng": 31.654,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "7.0",
+      "coordinates": [
+        31.654,
+        40.789
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.654,
+            40.789
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "HAMZABEY-(BOLU)",
+          "time": "2026.02.04 18:16:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.04",
+      "date_hour": "18:16:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BOLU"
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.01.30 11:24:23",
-      "lat": 39.244,
-      "lng": 29.0267,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "10.8",
-      "coordinates": [
-        29.0267,
-        39.244
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0267,
-            39.244
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2026.01.30 11:24:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.30",
-      "date_hour": "11:24:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "KOBAKLAR-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2026.01.30 10:58:47",
-      "lat": 39.0602,
-      "lng": 28.3678,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "15.3",
-      "coordinates": [
-        28.3678,
-        39.0602
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3678,
-            39.0602
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KOBAKLAR-GORDES (MANISA)",
-          "time": "2026.01.30 10:58:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.30",
-      "date_hour": "10:58:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
