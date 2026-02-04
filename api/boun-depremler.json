@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-04T17:40:17.495Z",
+  "lastUpdate": "2026-02-04T18:26:53.651Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.02.04 19:58:16",
+      "lat": 39.2147,
+      "lng": 29.0325,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "7.1",
+      "coordinates": [
+        29.0325,
+        39.2147
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0325,
+            39.2147
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2026.02.04 19:58:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.04",
+      "date_hour": "19:58:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ISTANBUL"
-    },
-    {
-      "title": "KOCAOZ-COBANLAR (AFYONKARAHISAR)",
-      "type": "�lksel",
-      "date": "2026.01.30 12:17:45",
-      "lat": 38.6897,
-      "lng": 30.8412,
-      "md": "-.-",
-      "ml": "0.7",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        30.8412,
-        38.6897
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.8412,
-            38.6897
-          ]
-        },
-        "properties": {
-          "mag": "0.7",
-          "place": "KOCAOZ-COBANLAR (AFYONKARAHISAR)",
-          "time": "2026.01.30 12:17:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.30",
-      "date_hour": "12:17:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AFYONKARAHISAR"
     }
   ]
 }
