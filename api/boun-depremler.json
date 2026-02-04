@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-04T21:52:38.407Z",
+  "lastUpdate": "2026-02-04T22:13:55.038Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.05 00:42:48",
+      "lat": 39.1865,
+      "lng": 28.1783,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "16.4",
+      "coordinates": [
+        28.1783,
+        39.1865
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1783,
+            39.1865
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
+          "time": "2026.02.05 00:42:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.05",
+      "date_hour": "00:42:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "YALOVA"
-    },
-    {
-      "title": "KAVAKTEPE (ELAZIG)",
-      "type": "�lksel",
-      "date": "2026.01.30 15:31:56",
-      "lat": 38.5027,
-      "lng": 39.1878,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "6.6",
-      "coordinates": [
-        39.1878,
-        38.5027
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.1878,
-            38.5027
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KAVAKTEPE (ELAZIG)",
-          "time": "2026.01.30 15:31:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.30",
-      "date_hour": "15:31:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
