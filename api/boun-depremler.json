@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-02-05T07:16:07.640Z",
+  "lastUpdate": "2026-02-05T07:59:38.565Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DIKME-YAHYALI (KAYSERI)",
+      "type": "�lksel",
+      "date": "2026.02.05 10:38:50",
+      "lat": 38.016,
+      "lng": 35.5123,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        35.5123,
+        38.016
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.5123,
+            38.016
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "DIKME-YAHYALI (KAYSERI)",
+          "time": "2026.02.05 10:38:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.05",
+      "date_hour": "10:38:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAYSERI"
+    },
+    {
+      "title": "KAYALIDERE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.02.05 10:29:58",
+      "lat": 39.2405,
+      "lng": 28.8793,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "10.2",
+      "coordinates": [
+        28.8793,
+        39.2405
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8793,
+            39.2405
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KAYALIDERE-SIMAV (KUTAHYA)",
+          "time": "2026.02.05 10:29:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.05",
+      "date_hour": "10:29:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KEKLIKPINARI-AKCADAG (MALATYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KIRAN-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2026.01.31 02:01:14",
-      "lat": 38.9867,
-      "lng": 28.2522,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "18.9",
-      "coordinates": [
-        28.2522,
-        38.9867
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2522,
-            38.9867
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "KIRAN-GORDES (MANISA)",
-          "time": "2026.01.31 02:01:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.31",
-      "date_hour": "02:01:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
-    },
-    {
-      "title": "SELIMIYE (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.01.31 01:40:42",
-      "lat": 39.5027,
-      "lng": 27.9318,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "4.3",
-      "coordinates": [
-        27.9318,
-        39.5027
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9318,
-            39.5027
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "SELIMIYE (BALIKESIR)",
-          "time": "2026.01.31 01:40:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.31",
-      "date_hour": "01:40:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
