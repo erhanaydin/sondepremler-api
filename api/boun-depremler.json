@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-05T16:00:23.696Z",
+  "lastUpdate": "2026-02-05T17:00:43.688Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAMISLIK-SIVRICE (ELAZIG)",
+      "type": "�lksel",
+      "date": "2026.02.05 19:16:06",
+      "lat": 38.4318,
+      "lng": 39.092,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        39.092,
+        38.4318
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.092,
+            38.4318
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "KAMISLIK-SIVRICE (ELAZIG)",
+          "time": "2026.02.05 19:16:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.05",
+      "date_hour": "19:16:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "UZUNOLUK-BEYAGAC (DENIZLI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "KOYUNOBA-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.01.31 05:45:13",
-      "lat": 39.2287,
-      "lng": 28.8905,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "12.8",
-      "coordinates": [
-        28.8905,
-        39.2287
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.8905,
-            39.2287
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KOYUNOBA-SIMAV (KUTAHYA)",
-          "time": "2026.01.31 05:45:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.31",
-      "date_hour": "05:45:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
