@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-02-06T20:18:07.732Z",
+  "lastUpdate": "2026-02-06T20:53:13.213Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2026.02.06 23:15:36",
+      "lat": 40.8373,
+      "lng": 28.0387,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "14.0",
+      "coordinates": [
+        28.0387,
+        40.8373
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0387,
+            40.8373
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "MARMARA DENIZI",
+          "time": "2026.02.06 23:15:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.06",
+      "date_hour": "23:15:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "CIFTLIKKOY-(BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.06 23:13:43",
+      "lat": 39.481,
+      "lng": 27.9972,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        27.9972,
+        39.481
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9972,
+            39.481
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "CIFTLIKKOY-(BALIKESIR)",
+          "time": "2026.02.06 23:13:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.06",
+      "date_hour": "23:13:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SACAKLI-(HATAY)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "NASA-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.02.01 03:21:50",
-      "lat": 39.1575,
-      "lng": 28.9482,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "15.0",
-      "coordinates": [
-        28.9482,
-        39.1575
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9482,
-            39.1575
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "NASA-SIMAV (KUTAHYA)",
-          "time": "2026.02.01 03:21:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.01",
-      "date_hour": "03:21:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "BALTASI-(ERZINCAN)",
-      "type": "�lksel",
-      "date": "2026.02.01 03:19:16",
-      "lat": 39.7947,
-      "lng": 39.1967,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        39.1967,
-        39.7947
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.1967,
-            39.7947
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "BALTASI-(ERZINCAN)",
-          "time": "2026.02.01 03:19:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.01",
-      "date_hour": "03:19:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
     }
   ]
 }
