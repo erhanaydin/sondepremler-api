@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-06T18:28:55.614Z",
+  "lastUpdate": "2026-02-06T19:21:52.666Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TEPEKOY-MEZITLI (MERSIN)",
+      "type": "�lksel",
+      "date": "2026.02.06 21:19:38",
+      "lat": 36.919,
+      "lng": 34.2222,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "20.4",
+      "coordinates": [
+        34.2222,
+        36.919
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.2222,
+            36.919
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "TEPEKOY-MEZITLI (MERSIN)",
+          "time": "2026.02.06 21:19:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.06",
+      "date_hour": "21:19:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MERSIN"
+    },
     {
       "title": "POLATDERESI-DOGANSEHIR (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.01 02:41:09",
-      "lat": 39.135,
-      "lng": 28.288,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        28.288,
-        39.135
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.288,
-            39.135
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.01 02:41:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.01",
-      "date_hour": "02:41:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
