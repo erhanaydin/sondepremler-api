@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-06T07:11:56.661Z",
+  "lastUpdate": "2026-02-06T07:55:19.010Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOBAKLAR-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2026.02.06 10:37:19",
+      "lat": 39.09,
+      "lng": 28.3882,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "10.9",
+      "coordinates": [
+        28.3882,
+        39.09
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3882,
+            39.09
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KOBAKLAR-GORDES (MANISA)",
+          "time": "2026.02.06 10:37:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.06",
+      "date_hour": "10:37:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AKSAAGAC-SAIMBEYLI (ADANA)",
-      "type": "�lksel",
-      "date": "2026.01.31 18:38:14",
-      "lat": 37.9147,
-      "lng": 36.2232,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        36.2232,
-        37.9147
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.2232,
-            37.9147
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "AKSAAGAC-SAIMBEYLI (ADANA)",
-          "time": "2026.01.31 18:38:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.01.31",
-      "date_hour": "18:38:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
