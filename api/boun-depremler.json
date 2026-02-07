@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-02-07T11:49:04.393Z",
+  "lastUpdate": "2026-02-07T11:58:24.431Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ICME-(ELAZIG)",
+      "type": "�lksel",
+      "date": "2026.02.07 14:08:59",
+      "lat": 38.6397,
+      "lng": 39.5407,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "7.7",
+      "coordinates": [
+        39.5407,
+        38.6397
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.5407,
+            38.6397
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "ICME-(ELAZIG)",
+          "time": "2026.02.07 14:08:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.07",
+      "date_hour": "14:08:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
+    {
+      "title": "BICER-SELCUKLU (KONYA)",
+      "type": "�lksel",
+      "date": "2026.02.07 12:47:19",
+      "lat": 38.2337,
+      "lng": 32.5527,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "11.7",
+      "coordinates": [
+        32.5527,
+        38.2337
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.5527,
+            38.2337
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "BICER-SELCUKLU (KONYA)",
+          "time": "2026.02.07 12:47:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.07",
+      "date_hour": "12:47:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KONYA"
+    },
     {
       "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2026.02.01 19:47:30",
-      "lat": 40.367,
-      "lng": 24.0933,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "7.5",
-      "coordinates": [
-        24.0933,
-        40.367
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.0933,
-            40.367
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "YUNANISTAN",
-          "time": "2026.02.01 19:47:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.01",
-      "date_hour": "19:47:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "HAMZABEY-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.02.01 19:36:10",
-      "lat": 39.1992,
-      "lng": 28.9282,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "11.7",
-      "coordinates": [
-        28.9282,
-        39.1992
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9282,
-            39.1992
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "HAMZABEY-SIMAV (KUTAHYA)",
-          "time": "2026.02.01 19:36:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.01",
-      "date_hour": "19:36:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
