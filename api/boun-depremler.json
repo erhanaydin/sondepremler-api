@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-07T13:42:31.310Z",
+  "lastUpdate": "2026-02-07T14:03:09.191Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SOGUTLUOZ-KIRIKHAN (HATAY)",
+      "type": "�lksel",
+      "date": "2026.02.07 16:44:57",
+      "lat": 36.6158,
+      "lng": 36.4332,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "7.1",
+      "coordinates": [
+        36.4332,
+        36.6158
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.4332,
+            36.6158
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "SOGUTLUOZ-KIRIKHAN (HATAY)",
+          "time": "2026.02.07 16:44:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.07",
+      "date_hour": "16:44:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
     {
       "title": "HAKBILIR-KEMAH (ERZINCAN)",
       "type": "�lksel",
@@ -757,6 +793,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.02.07 09:29:19",
+      "lat": 36.6455,
+      "lng": 25.6727,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "4.7",
+      "coordinates": [
+        25.6727,
+        36.6455
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.6727,
+            36.6455
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "EGE DENIZI",
+          "time": "2026.02.07 09:29:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.07",
+      "date_hour": "09:29:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BALIKESIR (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.01 22:44:01",
-      "lat": 39.6453,
-      "lng": 27.8797,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "12.7",
-      "coordinates": [
-        27.8797,
-        39.6453
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.8797,
-            39.6453
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "BALIKESIR (BALIKESIR)",
-          "time": "2026.02.01 22:44:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.01",
-      "date_hour": "22:44:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "ERKENEK-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.02.01 22:09:02",
-      "lat": 37.9138,
-      "lng": 37.9312,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "16.7",
-      "coordinates": [
-        37.9312,
-        37.9138
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.9312,
-            37.9138
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "ERKENEK-DOGANSEHIR (MALATYA)",
-          "time": "2026.02.01 22:09:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.01",
-      "date_hour": "22:09:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
