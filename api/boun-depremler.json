@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-07T09:56:52.833Z",
+  "lastUpdate": "2026-02-07T10:25:06.503Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,78 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2026.02.07 12:10:43",
+      "lat": 34.992,
+      "lng": 25.5615,
+      "md": "-.-",
+      "ml": "3.6",
+      "mw": "3.6",
+      "depth": "26.0",
+      "coordinates": [
+        25.5615,
+        34.992
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.5615,
+            34.992
+          ]
+        },
+        "properties": {
+          "mag": "3.6",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2026.02.07 12:10:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.07",
+      "date_hour": "12:10:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
+    {
+      "title": "CATKOY-DORTYOL (HATAY)",
+      "type": "�lksel",
+      "date": "2026.02.07 12:00:22",
+      "lat": 36.9122,
+      "lng": 36.4192,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "9.2",
+      "coordinates": [
+        36.4192,
+        36.9122
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.4192,
+            36.9122
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "CATKOY-DORTYOL (HATAY)",
+          "time": "2026.02.07 12:00:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.07",
+      "date_hour": "12:00:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
     },
     {
       "title": "ALACAATLI-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.01 18:48:13",
-      "lat": 39.221,
-      "lng": 28.1163,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "16.7",
-      "coordinates": [
-        28.1163,
-        39.221
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1163,
-            39.221
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.01 18:48:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.01",
-      "date_hour": "18:48:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "BALPINARI-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.02.01 18:48:06",
-      "lat": 38.2718,
-      "lng": 38.7475,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        38.7475,
-        38.2718
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.7475,
-            38.2718
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "BALPINARI-PUTURGE (MALATYA)",
-          "time": "2026.02.01 18:48:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.01",
-      "date_hour": "18:48:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
