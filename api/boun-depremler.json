@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-07T08:00:09.454Z",
+  "lastUpdate": "2026-02-07T08:41:36.382Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALACAATLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.07 10:40:13",
+      "lat": 39.2487,
+      "lng": 28.0648,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "9.4",
+      "coordinates": [
+        28.0648,
+        39.2487
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0648,
+            39.2487
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "ALACAATLI-SINDIRGI (BALIKESIR)",
+          "time": "2026.02.07 10:40:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.07",
+      "date_hour": "10:40:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "BOZKURT (DENIZLI)",
       "type": "�lksel",
@@ -325,6 +361,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "ULUKOY-NALLIHAN (ANKARA)",
+      "type": "�lksel",
+      "date": "2026.02.07 08:57:51",
+      "lat": 40.1507,
+      "lng": 31.7003,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "7.6",
+      "coordinates": [
+        31.7003,
+        40.1507
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.7003,
+            40.1507
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "ULUKOY-NALLIHAN (ANKARA)",
+          "time": "2026.02.07 08:57:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.07",
+      "date_hour": "08:57:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
     },
     {
       "title": "CAVUSAGA-KOCASINAN (KAYSERI)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADIYAMAN"
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.01 17:03:10",
-      "lat": 39.1743,
-      "lng": 28.1327,
-      "md": "-.-",
-      "ml": "3.3",
-      "mw": "3.0",
-      "depth": "14.3",
-      "coordinates": [
-        28.1327,
-        39.1743
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1327,
-            39.1743
-          ]
-        },
-        "properties": {
-          "mag": "3.3",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.01 17:03:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.01",
-      "date_hour": "17:03:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.02.01 15:37:59",
-      "lat": 39.2522,
-      "lng": 28.9813,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "12.5",
-      "coordinates": [
-        28.9813,
-        39.2522
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9813,
-            39.2522
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2026.02.01 15:37:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.01",
-      "date_hour": "15:37:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
