@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-08T19:51:54.486Z",
+  "lastUpdate": "2026-02-08T20:00:19.194Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CAGLAYAN-(KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.02.08 22:54:39",
+      "lat": 37.8243,
+      "lng": 36.644,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "8.8",
+      "coordinates": [
+        36.644,
+        37.8243
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.644,
+            37.8243
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "CAGLAYAN-(KAHRAMANMARAS)",
+          "time": "2026.02.08 22:54:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.08",
+      "date_hour": "22:54:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "BABAASLAN-REFAHIYE (ERZINCAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "TOKAT"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.02.03 19:25:29",
-      "lat": 39.242,
-      "lng": 29.0468,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "9.9",
-      "coordinates": [
-        29.0468,
-        39.242
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0468,
-            39.242
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2026.02.03 19:25:29"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.03",
-      "date_hour": "19:25:29",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
