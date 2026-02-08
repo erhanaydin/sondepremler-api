@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-08T13:36:24.705Z",
+  "lastUpdate": "2026-02-08T14:03:19.750Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SENYAYLA-(MUGLA)",
+      "type": "�lksel",
+      "date": "2026.02.08 16:48:18",
+      "lat": 37.3092,
+      "lng": 28.4607,
+      "md": "-.-",
+      "ml": "3.4",
+      "mw": "3.4",
+      "depth": "2.1",
+      "coordinates": [
+        28.4607,
+        37.3092
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.4607,
+            37.3092
+          ]
+        },
+        "properties": {
+          "mag": "3.4",
+          "place": "SENYAYLA-(MUGLA)",
+          "time": "2026.02.08 16:48:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.08",
+      "date_hour": "16:48:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "GURLE-(MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2026.02.02 18:14:47",
-      "lat": 34.883,
-      "lng": 25.9005,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "13.8",
-      "coordinates": [
-        25.9005,
-        34.883
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.9005,
-            34.883
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-          "time": "2026.02.02 18:14:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.02",
-      "date_hour": "18:14:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
