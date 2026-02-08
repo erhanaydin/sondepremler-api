@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-08T10:00:45.690Z",
+  "lastUpdate": "2026-02-08T10:38:09.155Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.02.08 12:51:47",
+      "lat": 35.4875,
+      "lng": 31.297,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "6.6",
+      "coordinates": [
+        31.297,
+        35.4875
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.297,
+            35.4875
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "AKDENIZ",
+          "time": "2026.02.08 12:51:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.08",
+      "date_hour": "12:51:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "BEZIRHANE-CALDIRAN (VAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "HAMZABEY-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.02.02 16:14:13",
-      "lat": 39.2202,
-      "lng": 28.9457,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "17.0",
-      "coordinates": [
-        28.9457,
-        39.2202
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9457,
-            39.2202
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "HAMZABEY-SIMAV (KUTAHYA)",
-          "time": "2026.02.02 16:14:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.02",
-      "date_hour": "16:14:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
