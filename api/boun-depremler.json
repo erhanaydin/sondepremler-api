@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-02-09T06:15:04.254Z",
+  "lastUpdate": "2026-02-09T07:33:00.984Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAYALIDERE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.02.09 10:14:45",
+      "lat": 39.2587,
+      "lng": 28.9142,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "10.1",
+      "coordinates": [
+        28.9142,
+        39.2587
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9142,
+            39.2587
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "KAYALIDERE-SIMAV (KUTAHYA)",
+          "time": "2026.02.09 10:14:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.09",
+      "date_hour": "10:14:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2026.02.09 10:09:04",
+      "lat": 40.6702,
+      "lng": 24.4138,
+      "md": "-.-",
+      "ml": "3.3",
+      "mw": "3.5",
+      "depth": "6.3",
+      "coordinates": [
+        24.4138,
+        40.6702
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.4138,
+            40.6702
+          ]
+        },
+        "properties": {
+          "mag": "3.3",
+          "place": "YUNANISTAN",
+          "time": "2026.02.09 10:09:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.09",
+      "date_hour": "10:09:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "DIBEKOREN-BEYPAZARI (ANKARA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "TOKMAKLAR (BOLU)",
-      "type": "�lksel",
-      "date": "2026.02.04 03:02:22",
-      "lat": 40.8252,
-      "lng": 31.771,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        31.771,
-        40.8252
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.771,
-            40.8252
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "TOKMAKLAR (BOLU)",
-          "time": "2026.02.04 03:02:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.04",
-      "date_hour": "03:02:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BOLU"
-    },
-    {
-      "title": "DEMIRCILI-ODEMIS (IZMIR)",
-      "type": "�lksel",
-      "date": "2026.02.04 02:46:47",
-      "lat": 38.2157,
-      "lng": 27.9137,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        27.9137,
-        38.2157
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9137,
-            38.2157
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "DEMIRCILI-ODEMIS (IZMIR)",
-          "time": "2026.02.04 02:46:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.04",
-      "date_hour": "02:46:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
