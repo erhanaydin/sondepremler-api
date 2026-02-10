@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-10T06:18:24.816Z",
+  "lastUpdate": "2026-02-10T07:33:39.424Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2026.02.10 09:18:13",
+      "lat": 40.8048,
+      "lng": 28.798,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "19.8",
+      "coordinates": [
+        28.798,
+        40.8048
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.798,
+            40.8048
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "MARMARA DENIZI",
+          "time": "2026.02.10 09:18:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.10",
+      "date_hour": "09:18:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "SEYITUSAGI-YESILYURT (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.02.04 23:14:21",
-      "lat": 39.2335,
-      "lng": 29.0528,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "10.2",
-      "coordinates": [
-        29.0528,
-        39.2335
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0528,
-            39.2335
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2026.02.04 23:14:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.04",
-      "date_hour": "23:14:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
