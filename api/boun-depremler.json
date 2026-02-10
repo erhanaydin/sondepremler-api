@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-10T08:09:01.971Z",
+  "lastUpdate": "2026-02-10T09:11:05.186Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -253,6 +253,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2026.02.10 07:55:18",
+      "lat": 35.3433,
+      "lng": 23.336,
+      "md": "-.-",
+      "ml": "3.6",
+      "mw": "3.8",
+      "depth": "4.8",
+      "coordinates": [
+        23.336,
+        35.3433
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.336,
+            35.3433
+          ]
+        },
+        "properties": {
+          "mag": "3.6",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2026.02.10 07:55:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.10",
+      "date_hour": "07:55:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
     },
     {
       "title": "EGE DENIZI",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2026.02.05 00:14:43",
-      "lat": 40.7123,
-      "lng": 27.7667,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "14.0",
-      "coordinates": [
-        27.7667,
-        40.7123
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7667,
-            40.7123
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "MARMARA DENIZI",
-          "time": "2026.02.05 00:14:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.05",
-      "date_hour": "00:14:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
