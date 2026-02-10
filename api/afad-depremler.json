@@ -1,5 +1,41 @@
 [
   {
+    "title": "Simav (Kütahya)",
+    "type": "İlksel",
+    "date": "2026-02-10 22:59:34",
+    "lat": 39.25056,
+    "lng": 29.00361,
+    "md": "-.-",
+    "ml": "1.4",
+    "mw": "-.-",
+    "depth": 7.01,
+    "coordinates": [
+      29.00361,
+      39.25056
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.00361,
+          39.25056
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Simav (Kütahya) (Kütahya)",
+        "time": 1770764374000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-02-10",
+    "date_hour": "22:59:34",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2026-02-10 22:19:36",
@@ -11338,77 +11374,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2026-02-07 23:19:12",
-    "lat": 39.22028,
-    "lng": 28.11722,
-    "md": "-.-",
-    "ml": "2.7",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.11722,
-      39.22028
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.11722,
-          39.22028
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1770506352000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-02-07",
-    "date_hour": "23:19:12",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
-  },
-  {
-    "title": "Ege Denizi - [62.78 km] Bodrum (Muğla)",
-    "type": "İlksel",
-    "date": "2026-02-07 22:59:25",
-    "lat": 36.97194,
-    "lng": 26.55333,
-    "md": "-.-",
-    "ml": "2.3",
-    "mw": "-.-",
-    "depth": 7.13,
-    "coordinates": [
-      26.55333,
-      36.97194
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.55333,
-          36.97194
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi - [62.78 km] Bodrum (Muğla) (Muğla)",
-        "time": 1770505165000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-02-07",
-    "date_hour": "22:59:25",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
   }
 ]
