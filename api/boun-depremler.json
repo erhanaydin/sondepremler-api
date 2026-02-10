@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-10T03:22:48.264Z",
+  "lastUpdate": "2026-02-10T05:14:31.500Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.02.10 07:34:58",
+      "lat": 36.0248,
+      "lng": 25.8552,
+      "md": "-.-",
+      "ml": "3.8",
+      "mw": "3.9",
+      "depth": "118.3",
+      "coordinates": [
+        25.8552,
+        36.0248
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.8552,
+            36.0248
+          ]
+        },
+        "properties": {
+          "mag": "3.8",
+          "place": "EGE DENIZI",
+          "time": "2026.02.10 07:34:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.10",
+      "date_hour": "07:34:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "SOGUCAK-AFSIN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.02.04 22:46:38",
-      "lat": 36.4825,
-      "lng": 25.487,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "4.0",
-      "coordinates": [
-        25.487,
-        36.4825
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.487,
-            36.4825
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "EGE DENIZI",
-          "time": "2026.02.04 22:46:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.04",
-      "date_hour": "22:46:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
