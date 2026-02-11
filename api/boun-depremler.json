@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-11T08:06:31.209Z",
+  "lastUpdate": "2026-02-11T09:02:56.731Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.11 11:36:05",
+      "lat": 39.167,
+      "lng": 28.2898,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "11.9",
+      "coordinates": [
+        28.2898,
+        39.167
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2898,
+            39.167
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2026.02.11 11:36:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.11",
+      "date_hour": "11:36:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "PARMAKDERE-SARIKAMIS (KARS)",
-      "type": "�lksel",
-      "date": "2026.02.05 23:22:20",
-      "lat": 40.3193,
-      "lng": 42.1725,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        42.1725,
-        40.3193
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.1725,
-            40.3193
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "PARMAKDERE-SARIKAMIS (KARS)",
-          "time": "2026.02.05 23:22:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.05",
-      "date_hour": "23:22:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KARS"
     }
   ]
 }
