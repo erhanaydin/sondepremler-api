@@ -1,5 +1,41 @@
 [
   {
+    "title": "İliç (Erzincan)",
+    "type": "İlksel",
+    "date": "2026-02-12 09:15:00",
+    "lat": 39.43317,
+    "lng": 38.61367,
+    "md": "-.-",
+    "ml": "2",
+    "mw": "-.-",
+    "depth": 14.3,
+    "coordinates": [
+      38.61367,
+      39.43317
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.61367,
+          39.43317
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "İliç (Erzincan) (Erzincan)",
+        "time": 1770887700000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-02-12",
+    "date_hour": "09:15:00",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Erzincan"
+  },
+  {
     "title": "Göksun (Kahramanmaraş)",
     "type": "İlksel",
     "date": "2026-02-12 08:33:47",
@@ -70,6 +106,42 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Bolu"
+  },
+  {
+    "title": "Pazarcık (Kahramanmaraş)",
+    "type": "İlksel",
+    "date": "2026-02-12 07:26:14",
+    "lat": 37.31944,
+    "lng": 37.14611,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 13.97,
+    "coordinates": [
+      37.14611,
+      37.31944
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.14611,
+          37.31944
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Pazarcık (Kahramanmaraş) (Kahramanmaraş)",
+        "time": 1770881174000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-02-12",
+    "date_hour": "07:26:14",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kahramanmaraş"
   },
   {
     "title": "Kemah (Erzincan)",
@@ -11446,113 +11518,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Bayburt"
-  },
-  {
-    "title": "Akçadağ (Malatya)",
-    "type": "İlksel",
-    "date": "2026-02-09 09:25:47",
-    "lat": 38.25639,
-    "lng": 38.08361,
-    "md": "-.-",
-    "ml": "1.1",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      38.08361,
-      38.25639
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.08361,
-          38.25639
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akçadağ (Malatya) (Malatya)",
-        "time": 1770629147000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-02-09",
-    "date_hour": "09:25:47",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
-  },
-  {
-    "title": "Marmara Denizi - [20.68 km] Marmaraereğlisi (Tekirdağ)",
-    "type": "İlksel",
-    "date": "2026-02-09 09:18:55",
-    "lat": 40.82528,
-    "lng": 27.77444,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      27.77444,
-      40.82528
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.77444,
-          40.82528
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Marmara Denizi - [20.68 km] Marmaraereğlisi (Tekirdağ) (Tekirdağ)",
-        "time": 1770628735000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-02-09",
-    "date_hour": "09:18:55",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Tekirdağ"
-  },
-  {
-    "title": "Aladağ (Adana)",
-    "type": "İlksel",
-    "date": "2026-02-09 09:03:21",
-    "lat": 37.52389,
-    "lng": 35.42139,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      35.42139,
-      37.52389
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.42139,
-          37.52389
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Aladağ (Adana) (Adana)",
-        "time": 1770627801000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-02-09",
-    "date_hour": "09:03:21",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Adana"
   }
 ]
