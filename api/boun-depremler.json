@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-13T17:55:26.335Z",
+  "lastUpdate": "2026-02-13T18:40:04.057Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.13 21:08:15",
+      "lat": 39.2228,
+      "lng": 28.0435,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "13.0",
+      "coordinates": [
+        28.0435,
+        39.2228
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0435,
+            39.2228
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
+          "time": "2026.02.13 21:08:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.13",
+      "date_hour": "21:08:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KAVSUT-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.08 00:10:35",
-      "lat": 39.1302,
-      "lng": 28.352,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "27.0",
-      "coordinates": [
-        28.352,
-        39.1302
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.352,
-            39.1302
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.08 00:10:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.08",
-      "date_hour": "00:10:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
