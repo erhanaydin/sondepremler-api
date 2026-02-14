@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-14T07:56:54.741Z",
+  "lastUpdate": "2026-02-14T08:31:35.855Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "POLAT-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.02.14 11:00:44",
+      "lat": 38.1453,
+      "lng": 37.8595,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "14.1",
+      "coordinates": [
+        37.8595,
+        38.1453
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.8595,
+            38.1453
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "POLAT-DOGANSEHIR (MALATYA)",
+          "time": "2026.02.14 11:00:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.14",
+      "date_hour": "11:00:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "SARNICKOY-DURSUNBEY (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.08 11:07:43",
-      "lat": 39.6033,
-      "lng": 28.3777,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "8.6",
-      "coordinates": [
-        28.3777,
-        39.6033
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3777,
-            39.6033
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "SARNICKOY-DURSUNBEY (BALIKESIR)",
-          "time": "2026.02.08 11:07:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.08",
-      "date_hour": "11:07:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
