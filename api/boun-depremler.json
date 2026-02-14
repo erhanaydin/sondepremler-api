@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-14T10:28:07.839Z",
+  "lastUpdate": "2026-02-14T10:54:06.529Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CELTEK-ZILE (TOKAT)",
+      "type": "�lksel",
+      "date": "2026.02.14 13:33:16",
+      "lat": 40.201,
+      "lng": 35.9487,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "19.0",
+      "coordinates": [
+        35.9487,
+        40.201
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.9487,
+            40.201
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "CELTEK-ZILE (TOKAT)",
+          "time": "2026.02.14 13:33:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.14",
+      "date_hour": "13:33:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "TOKAT"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.08 16:05:11",
-      "lat": 39.1212,
-      "lng": 28.3043,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "14.9",
-      "coordinates": [
-        28.3043,
-        39.1212
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3043,
-            39.1212
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.08 16:05:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.08",
-      "date_hour": "16:05:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
