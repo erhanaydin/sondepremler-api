@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-14T11:42:16.460Z",
+  "lastUpdate": "2026-02-14T11:43:30.365Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ESKIKIZILELMA-MUSTAFAKEMALPASA (BURSA)",
+      "type": "�lksel",
+      "date": "2026.02.14 14:34:52",
+      "lat": 40.0355,
+      "lng": 28.7502,
+      "md": "-.-",
+      "ml": "3.7",
+      "mw": "3.5",
+      "depth": "5.4",
+      "coordinates": [
+        28.7502,
+        40.0355
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.7502,
+            40.0355
+          ]
+        },
+        "properties": {
+          "mag": "3.7",
+          "place": "ESKIKIZILELMA-MUSTAFAKEMALPASA (BURSA)",
+          "time": "2026.02.14 14:34:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.14",
+      "date_hour": "14:34:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SENYAYLA (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.02.08 16:48:18",
-      "lat": 37.3092,
-      "lng": 28.4607,
-      "md": "-.-",
-      "ml": "3.4",
-      "mw": "3.4",
-      "depth": "2.1",
-      "coordinates": [
-        28.4607,
-        37.3092
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.4607,
-            37.3092
-          ]
-        },
-        "properties": {
-          "mag": "3.4",
-          "place": "SENYAYLA (MUGLA)",
-          "time": "2026.02.08 16:48:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.08",
-      "date_hour": "16:48:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
