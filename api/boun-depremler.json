@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-14T08:59:46.379Z",
+  "lastUpdate": "2026-02-14T09:38:27.119Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAYMAKLI-ILIC (ERZINCAN)",
+      "type": "�lksel",
+      "date": "2026.02.14 12:28:31",
+      "lat": 39.4257,
+      "lng": 38.8708,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "13.2",
+      "coordinates": [
+        38.8708,
+        39.4257
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.8708,
+            39.4257
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KAYMAKLI-ILIC (ERZINCAN)",
+          "time": "2026.02.14 12:28:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.14",
+      "date_hour": "12:28:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZINCAN"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2026.02.08 12:51:47",
-      "lat": 35.4875,
-      "lng": 31.297,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "6.6",
-      "coordinates": [
-        31.297,
-        35.4875
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.297,
-            35.4875
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "AKDENIZ",
-          "time": "2026.02.08 12:51:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.08",
-      "date_hour": "12:51:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
