@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-14T13:58:28.433Z",
+  "lastUpdate": "2026-02-14T14:30:30.375Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZINCAN"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.02.14 16:47:02",
+      "lat": 38.7125,
+      "lng": 25.547,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "9.7",
+      "coordinates": [
+        25.547,
+        38.7125
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.547,
+            38.7125
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "EGE DENIZI",
+          "time": "2026.02.14 16:47:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.14",
+      "date_hour": "16:47:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "SEYITUSAGI-YESILYURT (MALATYA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "BOZKURT (DENIZLI)",
-      "type": "�lksel",
-      "date": "2026.02.08 18:28:20",
-      "lat": 37.8287,
-      "lng": 29.5883,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "4.8",
-      "coordinates": [
-        29.5883,
-        37.8287
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.5883,
-            37.8287
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "BOZKURT (DENIZLI)",
-          "time": "2026.02.08 18:28:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.08",
-      "date_hour": "18:28:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
