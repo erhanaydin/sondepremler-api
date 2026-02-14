@@ -36,6 +36,42 @@
     "city": "Aydın"
   },
   {
+    "title": "Göksun (Kahramanmaraş)",
+    "type": "İlksel",
+    "date": "2026-02-14 19:24:11",
+    "lat": 37.9425,
+    "lng": 36.50667,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 7.01,
+    "coordinates": [
+      36.50667,
+      37.9425
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.50667,
+          37.9425
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Göksun (Kahramanmaraş) (Kahramanmaraş)",
+        "time": 1771097051000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-02-14",
+    "date_hour": "19:24:11",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kahramanmaraş"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2026-02-14 19:18:25",
@@ -10222,77 +10258,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Malatya"
-  },
-  {
-    "title": "İvrindi (Balıkesir)",
-    "type": "İlksel",
-    "date": "2026-02-11 19:51:45",
-    "lat": 39.52833,
-    "lng": 27.52,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 6.99,
-    "coordinates": [
-      27.52,
-      39.52833
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.52,
-          39.52833
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "İvrindi (Balıkesir) (Balıkesir)",
-        "time": 1770839505000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-02-11",
-    "date_hour": "19:51:45",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
-  },
-  {
-    "title": "Ekinözü (Kahramanmaraş)",
-    "type": "İlksel",
-    "date": "2026-02-11 19:40:15",
-    "lat": 38.0775,
-    "lng": 37.18361,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      37.18361,
-      38.0775
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.18361,
-          38.0775
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ekinözü (Kahramanmaraş) (Kahramanmaraş)",
-        "time": 1770838815000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-02-11",
-    "date_hour": "19:40:15",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kahramanmaraş"
   }
 ]

@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-14T19:39:46.921Z",
+  "lastUpdate": "2026-02-14T19:52:42.583Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MURSALLI-GERMENCIK (AYDIN)",
+      "type": "�lksel",
+      "date": "2026.02.14 22:25:33",
+      "lat": 37.8625,
+      "lng": 27.5787,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "17.0",
+      "coordinates": [
+        27.5787,
+        37.8625
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.5787,
+            37.8625
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "MURSALLI-GERMENCIK (AYDIN)",
+          "time": "2026.02.14 22:25:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.14",
+      "date_hour": "22:25:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AYDIN"
+    },
     {
       "title": "KURUCAOVA-(KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.08 23:13:38",
-      "lat": 39.1782,
-      "lng": 28.2962,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "9.0",
-      "coordinates": [
-        28.2962,
-        39.1782
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2962,
-            39.1782
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.08 23:13:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.08",
-      "date_hour": "23:13:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
