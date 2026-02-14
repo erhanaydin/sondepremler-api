@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-14T11:15:54.918Z",
+  "lastUpdate": "2026-02-14T11:38:59.620Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.14 14:09:28",
+      "lat": 39.1582,
+      "lng": 28.2517,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "13.1",
+      "coordinates": [
+        28.2517,
+        39.1582
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2517,
+            39.1582
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2026.02.14 14:09:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.14",
+      "date_hour": "14:09:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "CELTEK-ZILE (TOKAT)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "GURLE (MANISA)",
-      "type": "�lksel",
-      "date": "2026.02.08 16:22:51",
-      "lat": 38.5937,
-      "lng": 27.2935,
-      "md": "-.-",
-      "ml": "2.9",
-      "mw": "-.-",
-      "depth": "11.7",
-      "coordinates": [
-        27.2935,
-        38.5937
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.2935,
-            38.5937
-          ]
-        },
-        "properties": {
-          "mag": "2.9",
-          "place": "GURLE (MANISA)",
-          "time": "2026.02.08 16:22:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.08",
-      "date_hour": "16:22:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
