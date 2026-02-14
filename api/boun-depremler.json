@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-14T19:52:42.583Z",
+  "lastUpdate": "2026-02-14T20:12:22.117Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KANTARMA-ELBISTAN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.02.14 22:58:24",
+      "lat": 38.1977,
+      "lng": 37.5523,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "5.1",
+      "coordinates": [
+        37.5523,
+        38.1977
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.5523,
+            38.1977
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KANTARMA-ELBISTAN (KAHRAMANMARAS)",
+          "time": "2026.02.14 22:58:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.14",
+      "date_hour": "22:58:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "MURSALLI-GERMENCIK (AYDIN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "ARMUTCUK-YENICE (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2026.02.08 23:18:33",
-      "lat": 39.7113,
-      "lng": 27.2705,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "28.1",
-      "coordinates": [
-        27.2705,
-        39.7113
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.2705,
-            39.7113
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "ARMUTCUK-YENICE (CANAKKALE)",
-          "time": "2026.02.08 23:18:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.08",
-      "date_hour": "23:18:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
