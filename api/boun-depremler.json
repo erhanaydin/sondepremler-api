@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-15T09:49:35.174Z",
+  "lastUpdate": "2026-02-15T10:01:42.500Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -217,6 +217,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "KARLIK-ISKILIP (CORUM)",
+      "type": "�lksel",
+      "date": "2026.02.15 08:28:30",
+      "lat": 40.6178,
+      "lng": 34.532,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "8.4",
+      "coordinates": [
+        34.532,
+        40.6178
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.532,
+            40.6178
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KARLIK-ISKILIP (CORUM)",
+          "time": "2026.02.15 08:28:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.15",
+      "date_hour": "08:28:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CORUM"
     },
     {
       "title": "GURCAYIR-SARKISLA (SIVAS)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.02.09 11:04:35",
-      "lat": 39.0828,
-      "lng": 25.8782,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.5",
-      "coordinates": [
-        25.8782,
-        39.0828
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.8782,
-            39.0828
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-          "time": "2026.02.09 11:04:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.09",
-      "date_hour": "11:04:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
