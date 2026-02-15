@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-15T21:30:53.550Z",
+  "lastUpdate": "2026-02-15T21:43:34.707Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -39,6 +39,42 @@
       "city": "ISTANBUL"
     },
     {
+      "title": "IZMIR KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.02.15 23:14:09",
+      "lat": 38.45,
+      "lng": 26.908,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "7.7",
+      "coordinates": [
+        26.908,
+        38.45
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.908,
+            38.45
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "IZMIR KORFEZI (EGE DENIZI)",
+          "time": "2026.02.15 23:14:09"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.15",
+      "date_hour": "23:14:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
+    {
       "title": "AKDENIZ",
       "type": "�lksel",
       "date": "2026.02.15 22:07:04",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.15 20:44:59",
+      "lat": 39.2072,
+      "lng": 28.1012,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        28.1012,
+        39.2072
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1012,
+            39.2072
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2026.02.15 20:44:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.15",
+      "date_hour": "20:44:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "GORGU-YESILYURT (MALATYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.09 15:55:07",
-      "lat": 39.1887,
-      "lng": 28.32,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "23.5",
-      "coordinates": [
-        28.32,
-        39.1887
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.32,
-            39.1887
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.09 15:55:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.09",
-      "date_hour": "15:55:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "AVLAGI-YAHYALI (KAYSERI)",
-      "type": "�lksel",
-      "date": "2026.02.09 15:53:43",
-      "lat": 38.0077,
-      "lng": 35.4807,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "1.9",
-      "coordinates": [
-        35.4807,
-        38.0077
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.4807,
-            38.0077
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "AVLAGI-YAHYALI (KAYSERI)",
-          "time": "2026.02.09 15:53:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.09",
-      "date_hour": "15:53:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAYSERI"
     }
   ]
 }
