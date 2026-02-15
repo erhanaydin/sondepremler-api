@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-15T17:54:37.190Z",
+  "lastUpdate": "2026-02-15T18:26:06.732Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,78 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "TEPEBASI-(BINGOL)",
+      "type": "�lksel",
+      "date": "2026.02.15 19:59:40",
+      "lat": 39.0818,
+      "lng": 40.4662,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        40.4662,
+        39.0818
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.4662,
+            39.0818
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "TEPEBASI-(BINGOL)",
+          "time": "2026.02.15 19:59:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.15",
+      "date_hour": "19:59:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGOL"
+    },
+    {
+      "title": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.02.15 19:40:25",
+      "lat": 38.0932,
+      "lng": 37.4923,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        37.4923,
+        38.0932
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.4923,
+            38.0932
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
+          "time": "2026.02.15 19:40:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.15",
+      "date_hour": "19:40:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
     },
     {
       "title": "DOGANKOY-SENKAYA (ERZURUM)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BALCILAR-KOYCEGIZ (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.02.09 15:09:44",
-      "lat": 37.076,
-      "lng": 28.6155,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        28.6155,
-        37.076
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.6155,
-            37.076
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BALCILAR-KOYCEGIZ (MUGLA)",
-          "time": "2026.02.09 15:09:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.09",
-      "date_hour": "15:09:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.02.09 15:04:52",
-      "lat": 39.224,
-      "lng": 29.0347,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "2.4",
-      "coordinates": [
-        29.0347,
-        39.224
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0347,
-            39.224
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2026.02.09 15:04:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.09",
-      "date_hour": "15:04:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
