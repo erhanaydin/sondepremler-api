@@ -2,7 +2,7 @@ import fetch from 'node-fetch';
 import fs from 'fs';
 import { parse } from 'node-html-parser';
 
-const url = "http://www.koeri.boun.edu.tr/scripts/lst5.asp";
+const url = "http://www.koeri.boun.edu.tr/scripts/lst9.asp";
 const now = new Date().toISOString();
 
 try {
