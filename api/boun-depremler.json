@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-15T08:51:35.743Z",
+  "lastUpdate": "2026-02-15T09:18:07.745Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CORUS-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.02.15 10:40:57",
+      "lat": 36.9845,
+      "lng": 28.4933,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "9.5",
+      "coordinates": [
+        28.4933,
+        36.9845
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.4933,
+            36.9845
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "CORUS-ULA (MUGLA)",
+          "time": "2026.02.15 10:40:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.15",
+      "date_hour": "10:40:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2026.02.09 10:09:04",
-      "lat": 40.6702,
-      "lng": 24.4138,
-      "md": "-.-",
-      "ml": "3.3",
-      "mw": "3.5",
-      "depth": "6.3",
-      "coordinates": [
-        24.4138,
-        40.6702
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.4138,
-            40.6702
-          ]
-        },
-        "properties": {
-          "mag": "3.3",
-          "place": "YUNANISTAN",
-          "time": "2026.02.09 10:09:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.09",
-      "date_hour": "10:09:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
