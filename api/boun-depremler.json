@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-15T14:02:07.177Z",
+  "lastUpdate": "2026-02-15T14:38:05.432Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARALARGUNEY-OSMANCIK (CORUM)",
+      "type": "�lksel",
+      "date": "2026.02.15 16:54:34",
+      "lat": 41.1217,
+      "lng": 34.9373,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "5.5",
+      "coordinates": [
+        34.9373,
+        41.1217
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.9373,
+            41.1217
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "KARALARGUNEY-OSMANCIK (CORUM)",
+          "time": "2026.02.15 16:54:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.15",
+      "date_hour": "16:54:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CORUM"
+    },
     {
       "title": "AKSU-SINCIK (ADIYAMAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "BUYUKECELI-GULNAR (MERSIN)",
-      "type": "�lksel",
-      "date": "2026.02.09 13:34:37",
-      "lat": 36.1297,
-      "lng": 33.561,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        33.561,
-        36.1297
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.561,
-            36.1297
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "BUYUKECELI-GULNAR (MERSIN)",
-          "time": "2026.02.09 13:34:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.09",
-      "date_hour": "13:34:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
     }
   ]
 }
