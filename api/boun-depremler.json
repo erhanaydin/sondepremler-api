@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-15T11:56:07.566Z",
+  "lastUpdate": "2026-02-15T12:43:35.974Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -181,6 +181,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADIYAMAN"
+    },
+    {
+      "title": "CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.02.15 12:54:52",
+      "lat": 37.3077,
+      "lng": 37.0337,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "14.3",
+      "coordinates": [
+        37.0337,
+        37.3077
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.0337,
+            37.3077
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
+          "time": "2026.02.15 12:54:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.15",
+      "date_hour": "12:54:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
     },
     {
       "title": "AKDENIZ",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.09 13:07:23",
-      "lat": 39.1297,
-      "lng": 28.3205,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "10.2",
-      "coordinates": [
-        28.3205,
-        39.1297
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3205,
-            39.1297
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.09 13:07:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.09",
-      "date_hour": "13:07:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
