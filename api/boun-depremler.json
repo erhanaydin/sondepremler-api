@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-15T14:38:05.432Z",
+  "lastUpdate": "2026-02-15T14:58:22.103Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.02.15 17:49:52",
+      "lat": 36.6453,
+      "lng": 25.6277,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "9.6",
+      "coordinates": [
+        25.6277,
+        36.6453
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.6277,
+            36.6453
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "EGE DENIZI",
+          "time": "2026.02.15 17:49:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.15",
+      "date_hour": "17:49:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KARALARGUNEY-OSMANCIK (CORUM)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.02.09 13:36:12",
-      "lat": 39.273,
-      "lng": 29.0483,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "4.8",
-      "coordinates": [
-        29.0483,
-        39.273
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0483,
-            39.273
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KATRANDAGI-EMET (KUTAHYA)",
-          "time": "2026.02.09 13:36:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.09",
-      "date_hour": "13:36:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
