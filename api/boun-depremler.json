@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-02-16T11:06:30.730Z",
+  "lastUpdate": "2026-02-16T11:50:38.248Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.16 14:38:13",
+      "lat": 39.2417,
+      "lng": 28.148,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "11.7",
+      "coordinates": [
+        28.148,
+        39.2417
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.148,
+            39.2417
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
+          "time": "2026.02.16 14:38:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.16",
+      "date_hour": "14:38:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "YAZLIK-GOLYAKA (DUZCE)",
+      "type": "�lksel",
+      "date": "2026.02.16 13:59:19",
+      "lat": 40.786,
+      "lng": 30.9838,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "4.2",
+      "coordinates": [
+        30.9838,
+        40.786
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.9838,
+            40.786
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "YAZLIK-GOLYAKA (DUZCE)",
+          "time": "2026.02.16 13:59:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.16",
+      "date_hour": "13:59:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DUZCE"
+    },
     {
       "title": "AGCASAR-AFSIN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -327,6 +399,42 @@
       "city": "BALIKESIR"
     },
     {
+      "title": "CATALELMA-SENKAYA (ERZURUM)",
+      "type": "�lksel",
+      "date": "2026.02.16 10:08:38",
+      "lat": 40.4788,
+      "lng": 42.3658,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "13.9",
+      "coordinates": [
+        42.3658,
+        40.4788
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            42.3658,
+            40.4788
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "CATALELMA-SENKAYA (ERZURUM)",
+          "time": "2026.02.16 10:08:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.16",
+      "date_hour": "10:08:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZURUM"
+    },
+    {
       "title": "ASAGIMIRAHMET-KOVANCILAR (ELAZIG)",
       "type": "�lksel",
       "date": "2026.02.16 09:50:50",
@@ -361,6 +469,78 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
+    },
+    {
+      "title": "AKCIFT-(VAN)",
+      "type": "�lksel",
+      "date": "2026.02.16 09:48:52",
+      "lat": 38.8387,
+      "lng": 43.567,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "14.9",
+      "coordinates": [
+        43.567,
+        38.8387
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.567,
+            38.8387
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "AKCIFT-(VAN)",
+          "time": "2026.02.16 09:48:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.16",
+      "date_hour": "09:48:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "VAN"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.02.16 09:22:19",
+      "lat": 36.3872,
+      "lng": 28.707,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "19.8",
+      "coordinates": [
+        28.707,
+        36.3872
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.707,
+            36.3872
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "AKDENIZ",
+          "time": "2026.02.16 09:22:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.16",
+      "date_hour": "09:22:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "KARACAOREN-SIMAV (KUTAHYA)",
@@ -17821,186 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KERTIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.10 01:50:27",
-      "lat": 39.2085,
-      "lng": 28.1213,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "12.8",
-      "coordinates": [
-        28.1213,
-        39.2085
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1213,
-            39.2085
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "KERTIL-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.10 01:50:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.10",
-      "date_hour": "01:50:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "ALACAATLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.10 01:44:08",
-      "lat": 39.2587,
-      "lng": 28.0677,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "16.3",
-      "coordinates": [
-        28.0677,
-        39.2587
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0677,
-            39.2587
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ALACAATLI-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.10 01:44:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.10",
-      "date_hour": "01:44:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "BEKIRLER-NAZILLI (AYDIN)",
-      "type": "�lksel",
-      "date": "2026.02.10 01:39:32",
-      "lat": 38.0025,
-      "lng": 28.4197,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        28.4197,
-        38.0025
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.4197,
-            38.0025
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "BEKIRLER-NAZILLI (AYDIN)",
-          "time": "2026.02.10 01:39:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.10",
-      "date_hour": "01:39:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AYDIN"
-    },
-    {
-      "title": "TAHTAKOPRU-(HATAY)",
-      "type": "�lksel",
-      "date": "2026.02.10 01:27:19",
-      "lat": 36.3742,
-      "lng": 36.1203,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "2.7",
-      "coordinates": [
-        36.1203,
-        36.3742
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.1203,
-            36.3742
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "TAHTAKOPRU-(HATAY)",
-          "time": "2026.02.10 01:27:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.10",
-      "date_hour": "01:27:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
-    },
-    {
-      "title": "TIPIKOY-AKSEHIR (KONYA)",
-      "type": "�lksel",
-      "date": "2026.02.10 01:21:07",
-      "lat": 38.5242,
-      "lng": 31.4198,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        31.4198,
-        38.5242
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.4198,
-            38.5242
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "TIPIKOY-AKSEHIR (KONYA)",
-          "time": "2026.02.10 01:21:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.10",
-      "date_hour": "01:21:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KONYA"
     }
   ]
 }
