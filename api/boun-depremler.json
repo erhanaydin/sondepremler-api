@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-16T09:12:17.205Z",
+  "lastUpdate": "2026-02-16T10:10:45.003Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "URUNLU-MAZIDAGI (MARDIN)",
+      "type": "�lksel",
+      "date": "2026.02.16 12:58:26",
+      "lat": 37.3492,
+      "lng": 40.5005,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        40.5005,
+        37.3492
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.5005,
+            37.3492
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "URUNLU-MAZIDAGI (MARDIN)",
+          "time": "2026.02.16 12:58:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.16",
+      "date_hour": "12:58:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARDIN"
+    },
     {
       "title": "IZMIR KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AYDIN"
-    },
-    {
-      "title": "CAYAN-FETHIYE (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.02.09 23:33:09",
-      "lat": 36.7785,
-      "lng": 29.3155,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "2.8",
-      "coordinates": [
-        29.3155,
-        36.7785
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.3155,
-            36.7785
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "CAYAN-FETHIYE (MUGLA)",
-          "time": "2026.02.09 23:33:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.09",
-      "date_hour": "23:33:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
