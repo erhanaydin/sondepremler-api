@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-02-16T17:24:20.882Z",
+  "lastUpdate": "2026-02-16T17:59:44.710Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAHCEKOY-(HATAY)",
+      "type": "�lksel",
+      "date": "2026.02.16 19:49:19",
+      "lat": 36.1262,
+      "lng": 36.1158,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        36.1158,
+        36.1262
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.1158,
+            36.1262
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "BAHCEKOY-(HATAY)",
+          "time": "2026.02.16 19:49:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.16",
+      "date_hour": "19:49:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.02.16 19:30:21",
+      "lat": 36.4257,
+      "lng": 28.5567,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "21.3",
+      "coordinates": [
+        28.5567,
+        36.4257
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.5567,
+            36.4257
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "AKDENIZ",
+          "time": "2026.02.16 19:30:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.16",
+      "date_hour": "19:30:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2026.02.10 07:55:18",
-      "lat": 35.3433,
-      "lng": 23.336,
-      "md": "-.-",
-      "ml": "3.6",
-      "mw": "3.8",
-      "depth": "4.8",
-      "coordinates": [
-        23.336,
-        35.3433
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            23.336,
-            35.3433
-          ]
-        },
-        "properties": {
-          "mag": "3.6",
-          "place": "GIRIT ADASI (AKDENIZ)",
-          "time": "2026.02.10 07:55:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.10",
-      "date_hour": "07:55:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.02.10 07:34:58",
-      "lat": 36.0248,
-      "lng": 25.8552,
-      "md": "-.-",
-      "ml": "3.8",
-      "mw": "3.9",
-      "depth": "118.3",
-      "coordinates": [
-        25.8552,
-        36.0248
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.8552,
-            36.0248
-          ]
-        },
-        "properties": {
-          "mag": "3.8",
-          "place": "EGE DENIZI",
-          "time": "2026.02.10 07:34:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.10",
-      "date_hour": "07:34:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
