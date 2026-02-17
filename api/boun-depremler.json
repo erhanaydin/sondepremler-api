@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-17T22:51:57.149Z",
+  "lastUpdate": "2026-02-17T23:15:29.578Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKKOCALI-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2026.02.18 01:32:37",
+      "lat": 39.196,
+      "lng": 27.9645,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "4.9",
+      "coordinates": [
+        27.9645,
+        39.196
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9645,
+            39.196
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "AKKOCALI-AKHISAR (MANISA)",
+          "time": "2026.02.18 01:32:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.18",
+      "date_hour": "01:32:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "KOBAKLAR-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2026.02.11 18:52:51",
-      "lat": 39.0863,
-      "lng": 28.3248,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "17.8",
-      "coordinates": [
-        28.3248,
-        39.0863
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3248,
-            39.0863
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KOBAKLAR-GORDES (MANISA)",
-          "time": "2026.02.11 18:52:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.11",
-      "date_hour": "18:52:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
