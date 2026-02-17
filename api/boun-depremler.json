@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-17T19:29:08.923Z",
+  "lastUpdate": "2026-02-17T20:00:03.486Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.02.17 22:02:35",
+      "lat": 39.2387,
+      "lng": 28.986,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "10.5",
+      "coordinates": [
+        28.986,
+        39.2387
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.986,
+            39.2387
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2026.02.17 22:02:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.17",
+      "date_hour": "22:02:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KARABAHSILI-GOLBASI (ADIYAMAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "HISARLI-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2026.02.11 16:47:45",
-      "lat": 40.2877,
-      "lng": 27.0368,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "10.4",
-      "coordinates": [
-        27.0368,
-        40.2877
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0368,
-            40.2877
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "HISARLI-BIGA (CANAKKALE)",
-          "time": "2026.02.11 16:47:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.11",
-      "date_hour": "16:47:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
