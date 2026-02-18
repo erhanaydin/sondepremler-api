@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-18T07:38:59.650Z",
+  "lastUpdate": "2026-02-18T08:24:54.435Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.18 11:03:13",
+      "lat": 39.1542,
+      "lng": 28.2417,
+      "md": "-.-",
+      "ml": "3.0",
+      "mw": "-.-",
+      "depth": "10.4",
+      "coordinates": [
+        28.2417,
+        39.1542
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2417,
+            39.1542
+          ]
+        },
+        "properties": {
+          "mag": "3.0",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2026.02.18 11:03:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.18",
+      "date_hour": "11:03:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KONYA"
-    },
-    {
-      "title": "KABAAGAC-AFSIN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.02.12 02:09:13",
-      "lat": 38.1883,
-      "lng": 37.0343,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        37.0343,
-        38.1883
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.0343,
-            38.1883
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KABAAGAC-AFSIN (KAHRAMANMARAS)",
-          "time": "2026.02.12 02:09:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.12",
-      "date_hour": "02:09:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
