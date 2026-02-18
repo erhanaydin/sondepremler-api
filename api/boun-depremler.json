@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-18T22:22:11.748Z",
+  "lastUpdate": "2026-02-18T22:56:21.087Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SANDALCIK-ACIPAYAM (DENIZLI)",
+      "type": "�lksel",
+      "date": "2026.02.19 01:16:00",
+      "lat": 37.1193,
+      "lng": 29.0512,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "11.3",
+      "coordinates": [
+        29.0512,
+        37.1193
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0512,
+            37.1193
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "SANDALCIK-ACIPAYAM (DENIZLI)",
+          "time": "2026.02.19 01:16:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.19",
+      "date_hour": "01:16:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "ESENLI-SUMBAS (OSMANIYE)",
-      "type": "�lksel",
-      "date": "2026.02.12 20:41:19",
-      "lat": 37.632,
-      "lng": 36.1225,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "3.6",
-      "coordinates": [
-        36.1225,
-        37.632
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.1225,
-            37.632
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "ESENLI-SUMBAS (OSMANIYE)",
-          "time": "2026.02.12 20:41:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.12",
-      "date_hour": "20:41:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "OSMANIYE"
     }
   ]
 }
