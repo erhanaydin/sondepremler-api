@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-19T09:31:57.438Z",
+  "lastUpdate": "2026-02-19T10:24:04.903Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARLI-CAN (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2026.02.19 12:22:32",
+      "lat": 40.0562,
+      "lng": 26.9645,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "6.0",
+      "coordinates": [
+        26.9645,
+        40.0562
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.9645,
+            40.0562
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KARLI-CAN (CANAKKALE)",
+          "time": "2026.02.19 12:22:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.19",
+      "date_hour": "12:22:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
     {
       "title": "KIRANKOY-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ACAROBA-SEHITKAMIL (GAZIANTEP)",
-      "type": "�lksel",
-      "date": "2026.02.13 11:54:57",
-      "lat": 37.1815,
-      "lng": 37.1252,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "27.1",
-      "coordinates": [
-        37.1252,
-        37.1815
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.1252,
-            37.1815
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ACAROBA-SEHITKAMIL (GAZIANTEP)",
-          "time": "2026.02.13 11:54:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.13",
-      "date_hour": "11:54:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "GAZIANTEP"
     }
   ]
 }
