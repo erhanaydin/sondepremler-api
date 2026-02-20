@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-20T19:58:34.516Z",
+  "lastUpdate": "2026-02-20T20:37:07.069Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.20 22:44:46",
+      "lat": 39.1708,
+      "lng": 28.133,
+      "md": "-.-",
+      "ml": "3.0",
+      "mw": "2.8",
+      "depth": "9.0",
+      "coordinates": [
+        28.133,
+        39.1708
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.133,
+            39.1708
+          ]
+        },
+        "properties": {
+          "mag": "3.0",
+          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
+          "time": "2026.02.20 22:44:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.20",
+      "date_hour": "22:44:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AYDIN"
-    },
-    {
-      "title": "KURUCAOVA (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.02.14 22:24:11",
-      "lat": 37.9605,
-      "lng": 36.5443,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "7.4",
-      "coordinates": [
-        36.5443,
-        37.9605
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.5443,
-            37.9605
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KURUCAOVA (KAHRAMANMARAS)",
-          "time": "2026.02.14 22:24:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.14",
-      "date_hour": "22:24:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
