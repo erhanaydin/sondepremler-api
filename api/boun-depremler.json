@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-20T07:08:33.592Z",
+  "lastUpdate": "2026-02-20T07:53:44.430Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOCAK-ERBAA (TOKAT)",
+      "type": "�lksel",
+      "date": "2026.02.20 10:05:02",
+      "lat": 40.6462,
+      "lng": 36.537,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "9.6",
+      "coordinates": [
+        36.537,
+        40.6462
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.537,
+            40.6462
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "KOCAK-ERBAA (TOKAT)",
+          "time": "2026.02.20 10:05:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.20",
+      "date_hour": "10:05:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "TOKAT"
+    },
     {
       "title": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZINCAN"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.02.14 11:49:46",
-      "lat": 35.7107,
-      "lng": 25.8292,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "25.5",
-      "coordinates": [
-        25.8292,
-        35.7107
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.8292,
-            35.7107
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "EGE DENIZI",
-          "time": "2026.02.14 11:49:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.14",
-      "date_hour": "11:49:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
