@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-02-20T16:05:25.531Z",
+  "lastUpdate": "2026-02-20T16:55:33.587Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HASSEKI-KARABURUN (IZMIR)",
+      "type": "�lksel",
+      "date": "2026.02.20 19:01:23",
+      "lat": 38.6922,
+      "lng": 26.4343,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "26.3",
+      "coordinates": [
+        26.4343,
+        38.6922
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.4343,
+            38.6922
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "HASSEKI-KARABURUN (IZMIR)",
+          "time": "2026.02.20 19:01:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.20",
+      "date_hour": "19:01:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
+    {
+      "title": "SIVRIKESE-HAVZA (SAMSUN)",
+      "type": "�lksel",
+      "date": "2026.02.20 18:51:30",
+      "lat": 41.0525,
+      "lng": 35.653,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        35.653,
+        41.0525
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.653,
+            41.0525
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "SIVRIKESE-HAVZA (SAMSUN)",
+          "time": "2026.02.20 18:51:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.20",
+      "date_hour": "18:51:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SAMSUN"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.14 17:25:42",
-      "lat": 39.1845,
-      "lng": 28.1342,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "13.7",
-      "coordinates": [
-        28.1342,
-        39.1845
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1342,
-            39.1845
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.14 17:25:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.14",
-      "date_hour": "17:25:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "SARPUNKAVAK-OSMANCIK (CORUM)",
-      "type": "�lksel",
-      "date": "2026.02.14 17:15:16",
-      "lat": 40.9362,
-      "lng": 34.6832,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.8",
-      "coordinates": [
-        34.6832,
-        40.9362
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.6832,
-            40.9362
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "SARPUNKAVAK-OSMANCIK (CORUM)",
-          "time": "2026.02.14 17:15:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.14",
-      "date_hour": "17:15:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CORUM"
     }
   ]
 }
