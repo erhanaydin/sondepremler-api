@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-20T20:37:07.069Z",
+  "lastUpdate": "2026-02-20T20:57:59.311Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.20 23:27:47",
+      "lat": 39.1883,
+      "lng": 28.1677,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "11.9",
+      "coordinates": [
+        28.1677,
+        39.1883
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1677,
+            39.1883
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
+          "time": "2026.02.20 23:27:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.20",
+      "date_hour": "23:27:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "MURSALLI-GERMENCIK (AYDIN)",
-      "type": "�lksel",
-      "date": "2026.02.14 22:25:33",
-      "lat": 37.8625,
-      "lng": 27.5787,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "17.0",
-      "coordinates": [
-        27.5787,
-        37.8625
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.5787,
-            37.8625
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "MURSALLI-GERMENCIK (AYDIN)",
-          "time": "2026.02.14 22:25:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.14",
-      "date_hour": "22:25:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AYDIN"
     }
   ]
 }
