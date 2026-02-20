@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-20T07:53:44.430Z",
+  "lastUpdate": "2026-02-20T08:30:21.832Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.02.20 11:13:44",
+      "lat": 38.927,
+      "lng": 26.0883,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "14.6",
+      "coordinates": [
+        26.0883,
+        38.927
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.0883,
+            38.927
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+          "time": "2026.02.20 11:13:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.20",
+      "date_hour": "11:13:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "KOCAK-ERBAA (TOKAT)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "KAYMAKLI-ILIC (ERZINCAN)",
-      "type": "�lksel",
-      "date": "2026.02.14 12:28:31",
-      "lat": 39.4257,
-      "lng": 38.8708,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "13.2",
-      "coordinates": [
-        38.8708,
-        39.4257
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.8708,
-            39.4257
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KAYMAKLI-ILIC (ERZINCAN)",
-          "time": "2026.02.14 12:28:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.14",
-      "date_hour": "12:28:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
     }
   ]
 }
