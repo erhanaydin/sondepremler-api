@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-02-21T10:56:16.482Z",
+  "lastUpdate": "2026-02-21T11:20:09.624Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SOGUKSU-KESTEL (BURSA)",
+      "type": "�lksel",
+      "date": "2026.02.21 13:12:56",
+      "lat": 40.1967,
+      "lng": 29.44,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "15.4",
+      "coordinates": [
+        29.44,
+        40.1967
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.44,
+            40.1967
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "SOGUKSU-KESTEL (BURSA)",
+          "time": "2026.02.21 13:12:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.21",
+      "date_hour": "13:12:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
+    {
+      "title": "OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2026.02.21 13:10:02",
+      "lat": 36.351,
+      "lng": 28.8908,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        28.8908,
+        36.351
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8908,
+            36.351
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)",
+          "time": "2026.02.21 13:10:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.21",
+      "date_hour": "13:10:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADIYAMAN"
-    },
-    {
-      "title": "CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.02.15 12:54:52",
-      "lat": 37.3077,
-      "lng": 37.0337,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "14.3",
-      "coordinates": [
-        37.0337,
-        37.3077
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.0337,
-            37.3077
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
-          "time": "2026.02.15 12:54:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.15",
-      "date_hour": "12:54:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2026.02.15 12:53:59",
-      "lat": 35.498,
-      "lng": 32.7505,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "10.6",
-      "coordinates": [
-        32.7505,
-        35.498
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.7505,
-            35.498
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "AKDENIZ",
-          "time": "2026.02.15 12:53:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.15",
-      "date_hour": "12:53:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
