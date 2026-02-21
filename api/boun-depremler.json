@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-02-21T23:37:17.520Z",
+  "lastUpdate": "2026-02-21T23:53:23.169Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.22 02:41:25",
+      "lat": 39.1838,
+      "lng": 28.2625,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "9.9",
+      "coordinates": [
+        28.2625,
+        39.1838
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2625,
+            39.1838
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2026.02.22 02:41:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.22",
+      "date_hour": "02:41:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.02.22 02:23:36",
+      "lat": 36.0732,
+      "lng": 27.1135,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "7.0",
+      "coordinates": [
+        27.1135,
+        36.0732
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.1135,
+            36.0732
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "EGE DENIZI",
+          "time": "2026.02.22 02:23:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.22",
+      "date_hour": "02:23:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KURTBAGI-ARSUZ (HATAY)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "YARDIBI-SAIMBEYLI (ADANA)",
-      "type": "�lksel",
-      "date": "2026.02.16 13:09:44",
-      "lat": 37.8667,
-      "lng": 36.122,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "4.9",
-      "coordinates": [
-        36.122,
-        37.8667
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.122,
-            37.8667
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "YARDIBI-SAIMBEYLI (ADANA)",
-          "time": "2026.02.16 13:09:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.16",
-      "date_hour": "13:09:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
-    },
-    {
-      "title": "URUNLU-MAZIDAGI (MARDIN)",
-      "type": "�lksel",
-      "date": "2026.02.16 12:58:26",
-      "lat": 37.3492,
-      "lng": 40.5005,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        40.5005,
-        37.3492
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.5005,
-            37.3492
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "URUNLU-MAZIDAGI (MARDIN)",
-          "time": "2026.02.16 12:58:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.16",
-      "date_hour": "12:58:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARDIN"
     }
   ]
 }
