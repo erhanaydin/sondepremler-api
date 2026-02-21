@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-21T07:33:16.592Z",
+  "lastUpdate": "2026-02-21T07:53:44.598Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.02.21 10:31:55",
+      "lat": 39.2413,
+      "lng": 28.9722,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "14.3",
+      "coordinates": [
+        28.9722,
+        39.2413
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9722,
+            39.2413
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2026.02.21 10:31:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.21",
+      "date_hour": "10:31:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "BOYALILAR-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "VAN"
-    },
-    {
-      "title": "CORUS-ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.02.15 10:40:57",
-      "lat": 36.9845,
-      "lng": 28.4933,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "9.5",
-      "coordinates": [
-        28.4933,
-        36.9845
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.4933,
-            36.9845
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "CORUS-ULA (MUGLA)",
-          "time": "2026.02.15 10:40:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.15",
-      "date_hour": "10:40:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
