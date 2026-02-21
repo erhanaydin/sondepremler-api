@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-21T09:16:31.480Z",
+  "lastUpdate": "2026-02-21T09:47:08.490Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.21 11:28:47",
+      "lat": 39.2353,
+      "lng": 28.1468,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "8.7",
+      "coordinates": [
+        28.1468,
+        39.2353
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1468,
+            39.2353
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
+          "time": "2026.02.21 11:28:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.21",
+      "date_hour": "11:28:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KARAKURT-KIRKAGAC (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "BALLITAS-ASKALE (ERZURUM)",
-      "type": "�lksel",
-      "date": "2026.02.15 11:50:19",
-      "lat": 40.046,
-      "lng": 40.7448,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "3.4",
-      "coordinates": [
-        40.7448,
-        40.046
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.7448,
-            40.046
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BALLITAS-ASKALE (ERZURUM)",
-          "time": "2026.02.15 11:50:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.15",
-      "date_hour": "11:50:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZURUM"
     }
   ]
 }
