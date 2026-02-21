@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-21T19:58:08.544Z",
+  "lastUpdate": "2026-02-21T20:28:34.615Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -111,6 +111,42 @@
       "city": "BALIKESIR"
     },
     {
+      "title": "BELEMEDIK-POZANTI (ADANA)",
+      "type": "�lksel",
+      "date": "2026.02.21 21:24:55",
+      "lat": 37.3745,
+      "lng": 34.9737,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "9.0",
+      "coordinates": [
+        34.9737,
+        37.3745
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.9737,
+            37.3745
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "BELEMEDIK-POZANTI (ADANA)",
+          "time": "2026.02.21 21:24:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.21",
+      "date_hour": "21:24:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
+    {
       "title": "PINARBASI-CELIKHAN (ADIYAMAN)",
       "type": "�lksel",
       "date": "2026.02.21 21:23:33",
@@ -181,6 +217,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
+    },
+    {
+      "title": "KINIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.21 21:04:13",
+      "lat": 39.108,
+      "lng": 28.1295,
+      "md": "-.-",
+      "ml": "0.9",
+      "mw": "-.-",
+      "depth": "22.1",
+      "coordinates": [
+        28.1295,
+        39.108
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1295,
+            39.108
+          ]
+        },
+        "properties": {
+          "mag": "0.9",
+          "place": "KINIK-SINDIRGI (BALIKESIR)",
+          "time": "2026.02.21 21:04:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.21",
+      "date_hour": "21:04:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
-    },
-    {
-      "title": "KARACAOREN-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.02.16 07:06:43",
-      "lat": 39.2047,
-      "lng": 29.0413,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        29.0413,
-        39.2047
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0413,
-            39.2047
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KARACAOREN-SIMAV (KUTAHYA)",
-          "time": "2026.02.16 07:06:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.16",
-      "date_hour": "07:06:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.16 06:49:28",
-      "lat": 39.1565,
-      "lng": 28.3357,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "8.9",
-      "coordinates": [
-        28.3357,
-        39.1565
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3357,
-            39.1565
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.16 06:49:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.16",
-      "date_hour": "06:49:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
