@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-21T13:13:05.990Z",
+  "lastUpdate": "2026-02-21T13:52:33.575Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KALINAGIL-MILAS (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.02.21 16:19:49",
+      "lat": 37.2522,
+      "lng": 27.8473,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "10.5",
+      "coordinates": [
+        27.8473,
+        37.2522
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.8473,
+            37.2522
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KALINAGIL-MILAS (MUGLA)",
+          "time": "2026.02.21 16:19:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.21",
+      "date_hour": "16:19:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "BALPINARI-PUTURGE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.02.15 17:49:52",
-      "lat": 36.6453,
-      "lng": 25.6277,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "9.6",
-      "coordinates": [
-        25.6277,
-        36.6453
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.6277,
-            36.6453
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "EGE DENIZI",
-          "time": "2026.02.15 17:49:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.15",
-      "date_hour": "17:49:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
