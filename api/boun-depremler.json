@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-22T19:50:26.175Z",
+  "lastUpdate": "2026-02-22T19:58:58.525Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOBAKLAR-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2026.02.22 22:14:11",
+      "lat": 39.1002,
+      "lng": 28.3458,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "13.7",
+      "coordinates": [
+        28.3458,
+        39.1002
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3458,
+            39.1002
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KOBAKLAR-GORDES (MANISA)",
+          "time": "2026.02.22 22:14:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.22",
+      "date_hour": "22:14:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "SURIYE",
-      "type": "�lksel",
-      "date": "2026.02.17 09:08:06",
-      "lat": 36.5075,
-      "lng": 36.7702,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.5",
-      "coordinates": [
-        36.7702,
-        36.5075
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.7702,
-            36.5075
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "SURIYE",
-          "time": "2026.02.17 09:08:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.17",
-      "date_hour": "09:08:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
