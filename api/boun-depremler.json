@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-22T11:10:22.503Z",
+  "lastUpdate": "2026-02-22T11:34:02.480Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -543,6 +543,42 @@
       "city": "ERZINCAN"
     },
     {
+      "title": "YALINKAYA-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.02.22 08:55:31",
+      "lat": 38.1292,
+      "lng": 38.0962,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "9.2",
+      "coordinates": [
+        38.0962,
+        38.1292
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.0962,
+            38.1292
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "YALINKAYA-YESILYURT (MALATYA)",
+          "time": "2026.02.22 08:55:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.22",
+      "date_hour": "08:55:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
       "date": "2026.02.22 08:36:36",
@@ -577,6 +613,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.02.22 08:30:47",
+      "lat": 35.101,
+      "lng": 29.2702,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.9",
+      "coordinates": [
+        29.2702,
+        35.101
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.2702,
+            35.101
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "AKDENIZ",
+          "time": "2026.02.22 08:30:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.22",
+      "date_hour": "08:30:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "GOKBUDAK-PERVARI (SIIRT)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.17 01:03:39",
-      "lat": 39.2162,
-      "lng": 28.1288,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "12.7",
-      "coordinates": [
-        28.1288,
-        39.2162
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1288,
-            39.2162
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.17 01:03:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.17",
-      "date_hour": "01:03:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "KINIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.17 00:48:18",
-      "lat": 39.1042,
-      "lng": 28.2335,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "15.7",
-      "coordinates": [
-        28.2335,
-        39.1042
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2335,
-            39.1042
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KINIK-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.17 00:48:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.17",
-      "date_hour": "00:48:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
