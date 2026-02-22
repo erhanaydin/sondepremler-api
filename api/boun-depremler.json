@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-22T21:16:33.344Z",
+  "lastUpdate": "2026-02-22T21:41:37.758Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.02.23 00:19:36",
+      "lat": 34.7007,
+      "lng": 29.1232,
+      "md": "-.-",
+      "ml": "3.7",
+      "mw": "-.-",
+      "depth": "10.3",
+      "coordinates": [
+        29.1232,
+        34.7007
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1232,
+            34.7007
+          ]
+        },
+        "properties": {
+          "mag": "3.7",
+          "place": "AKDENIZ",
+          "time": "2026.02.23 00:19:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.23",
+      "date_hour": "00:19:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.02.17 10:57:26",
-      "lat": 39.2135,
-      "lng": 28.9915,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "20.0",
-      "coordinates": [
-        28.9915,
-        39.2135
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9915,
-            39.2135
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2026.02.17 10:57:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.17",
-      "date_hour": "10:57:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
