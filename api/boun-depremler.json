@@ -1,7 +1,511 @@
 {
-  "lastUpdate": "2026-02-23T03:47:58.412Z",
+  "lastUpdate": "2026-02-23T05:18:05.921Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOBAKLAR-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2026.02.23 08:09:47",
+      "lat": 39.1143,
+      "lng": 28.3525,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.1",
+      "coordinates": [
+        28.3525,
+        39.1143
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3525,
+            39.1143
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KOBAKLAR-GORDES (MANISA)",
+          "time": "2026.02.23 08:09:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.23",
+      "date_hour": "08:09:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
+    {
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.23 07:58:47",
+      "lat": 39.228,
+      "lng": 28.1455,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "9.4",
+      "coordinates": [
+        28.1455,
+        39.228
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1455,
+            39.228
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
+          "time": "2026.02.23 07:58:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.23",
+      "date_hour": "07:58:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.02.23 07:55:50",
+      "lat": 37.8735,
+      "lng": 26.9435,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        26.9435,
+        37.8735
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.9435,
+            37.8735
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2026.02.23 07:55:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.23",
+      "date_hour": "07:55:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.02.23 07:21:15",
+      "lat": 37.8838,
+      "lng": 26.9413,
+      "md": "-.-",
+      "ml": "3.6",
+      "mw": "3.7",
+      "depth": "10.0",
+      "coordinates": [
+        26.9413,
+        37.8838
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.9413,
+            37.8838
+          ]
+        },
+        "properties": {
+          "mag": "3.6",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2026.02.23 07:21:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.23",
+      "date_hour": "07:21:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
+    {
+      "title": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.02.23 06:59:52",
+      "lat": 39.4247,
+      "lng": 26.0148,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        26.0148,
+        39.4247
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.0148,
+            39.4247
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+          "time": "2026.02.23 06:59:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.23",
+      "date_hour": "06:59:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
+    {
+      "title": "KOCOGLU-MANYAS (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.23 06:54:16",
+      "lat": 39.9682,
+      "lng": 27.8992,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "11.5",
+      "coordinates": [
+        27.8992,
+        39.9682
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.8992,
+            39.9682
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KOCOGLU-MANYAS (BALIKESIR)",
+          "time": "2026.02.23 06:54:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.23",
+      "date_hour": "06:54:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "HACET-KIRKAGAC (MANISA)",
+      "type": "�lksel",
+      "date": "2026.02.23 06:49:09",
+      "lat": 39.222,
+      "lng": 27.9667,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "8.3",
+      "coordinates": [
+        27.9667,
+        39.222
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9667,
+            39.222
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "HACET-KIRKAGAC (MANISA)",
+          "time": "2026.02.23 06:49:09"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.23",
+      "date_hour": "06:49:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.02.23 06:38:02",
+      "lat": 37.8875,
+      "lng": 26.9107,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "8.3",
+      "coordinates": [
+        26.9107,
+        37.8875
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.9107,
+            37.8875
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2026.02.23 06:38:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.23",
+      "date_hour": "06:38:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
+    {
+      "title": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.23 06:37:12",
+      "lat": 39.1658,
+      "lng": 28.3352,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "17.8",
+      "coordinates": [
+        28.3352,
+        39.1658
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3352,
+            39.1658
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+          "time": "2026.02.23 06:37:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.23",
+      "date_hour": "06:37:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "YUMRUKAYA-(BOLU)",
+      "type": "�lksel",
+      "date": "2026.02.23 06:27:44",
+      "lat": 40.7485,
+      "lng": 31.502,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.5",
+      "coordinates": [
+        31.502,
+        40.7485
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.502,
+            40.7485
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YUMRUKAYA-(BOLU)",
+          "time": "2026.02.23 06:27:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.23",
+      "date_hour": "06:27:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BOLU"
+    },
+    {
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.02.23 06:09:09",
+      "lat": 38.8792,
+      "lng": 26.4093,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "7.3",
+      "coordinates": [
+        26.4093,
+        38.8792
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.4093,
+            38.8792
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+          "time": "2026.02.23 06:09:09"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.23",
+      "date_hour": "06:09:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
+    {
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.02.23 05:49:52",
+      "lat": 39.0043,
+      "lng": 25.8545,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "9.0",
+      "coordinates": [
+        25.8545,
+        39.0043
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.8545,
+            39.0043
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+          "time": "2026.02.23 05:49:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.23",
+      "date_hour": "05:49:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
+    {
+      "title": "SENKOY-CINARCIK (YALOVA)",
+      "type": "�lksel",
+      "date": "2026.02.23 04:47:40",
+      "lat": 40.621,
+      "lng": 28.9878,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "6.9",
+      "coordinates": [
+        28.9878,
+        40.621
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9878,
+            40.621
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "SENKOY-CINARCIK (YALOVA)",
+          "time": "2026.02.23 04:47:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.23",
+      "date_hour": "04:47:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "YALOVA"
+    },
+    {
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.02.23 04:44:45",
+      "lat": 38.9008,
+      "lng": 26.484,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "9.3",
+      "coordinates": [
+        26.484,
+        38.9008
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.484,
+            38.9008
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+          "time": "2026.02.23 04:44:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.23",
+      "date_hour": "04:44:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17497,510 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "AKKOCALI-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2026.02.18 01:32:37",
-      "lat": 39.196,
-      "lng": 27.9645,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "4.9",
-      "coordinates": [
-        27.9645,
-        39.196
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9645,
-            39.196
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "AKKOCALI-AKHISAR (MANISA)",
-          "time": "2026.02.18 01:32:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.18",
-      "date_hour": "01:32:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
-    },
-    {
-      "title": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.18 01:29:23",
-      "lat": 39.1595,
-      "lng": 28.328,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "22.9",
-      "coordinates": [
-        28.328,
-        39.1595
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.328,
-            39.1595
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.18 01:29:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.18",
-      "date_hour": "01:29:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.18 00:30:40",
-      "lat": 39.2038,
-      "lng": 28.1578,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "24.8",
-      "coordinates": [
-        28.1578,
-        39.2038
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1578,
-            39.2038
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.18 00:30:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.18",
-      "date_hour": "00:30:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "KARACAOREN-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.02.17 23:43:43",
-      "lat": 39.1613,
-      "lng": 29.0367,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "12.9",
-      "coordinates": [
-        29.0367,
-        39.1613
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0367,
-            39.1613
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KARACAOREN-SIMAV (KUTAHYA)",
-          "time": "2026.02.17 23:43:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.17",
-      "date_hour": "23:43:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
-      "type": "�lksel",
-      "date": "2026.02.17 23:02:39",
-      "lat": 40.1837,
-      "lng": 31.754,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "15.0",
-      "coordinates": [
-        31.754,
-        40.1837
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.754,
-            40.1837
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "HIRKATEPE-BEYPAZARI (ANKARA)",
-          "time": "2026.02.17 23:02:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.17",
-      "date_hour": "23:02:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
-    },
-    {
-      "title": "IZMIR KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.02.17 22:57:15",
-      "lat": 38.6405,
-      "lng": 26.6942,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "10.7",
-      "coordinates": [
-        26.6942,
-        38.6405
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.6942,
-            38.6405
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "IZMIR KORFEZI (EGE DENIZI)",
-          "time": "2026.02.17 22:57:15"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.17",
-      "date_hour": "22:57:15",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
-    },
-    {
-      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.17 22:53:44",
-      "lat": 39.2262,
-      "lng": 28.1058,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "11.8",
-      "coordinates": [
-        28.1058,
-        39.2262
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1058,
-            39.2262
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.17 22:53:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.17",
-      "date_hour": "22:53:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.17 22:40:47",
-      "lat": 39.221,
-      "lng": 28.0462,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "8.7",
-      "coordinates": [
-        28.0462,
-        39.221
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0462,
-            39.221
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.17 22:40:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.17",
-      "date_hour": "22:40:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.02.17 22:02:35",
-      "lat": 39.2387,
-      "lng": 28.986,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "10.5",
-      "coordinates": [
-        28.986,
-        39.2387
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.986,
-            39.2387
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2026.02.17 22:02:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.17",
-      "date_hour": "22:02:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "KARABAHSILI-GOLBASI (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2026.02.17 21:00:43",
-      "lat": 37.8785,
-      "lng": 37.7322,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        37.7322,
-        37.8785
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.7322,
-            37.8785
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KARABAHSILI-GOLBASI (ADIYAMAN)",
-          "time": "2026.02.17 21:00:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.17",
-      "date_hour": "21:00:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2026.02.17 20:55:12",
-      "lat": 36.2177,
-      "lng": 28.488,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "-.-",
-      "depth": "8.0",
-      "coordinates": [
-        28.488,
-        36.2177
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.488,
-            36.2177
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "AKDENIZ",
-          "time": "2026.02.17 20:55:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.17",
-      "date_hour": "20:55:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "BUYUKOBA-SAMANDAG (HATAY)",
-      "type": "�lksel",
-      "date": "2026.02.17 20:34:03",
-      "lat": 36.218,
-      "lng": 35.9163,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "5.7",
-      "coordinates": [
-        35.9163,
-        36.218
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.9163,
-            36.218
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "BUYUKOBA-SAMANDAG (HATAY)",
-          "time": "2026.02.17 20:34:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.17",
-      "date_hour": "20:34:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
-    },
-    {
-      "title": "CAYGOREN-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.17 20:09:40",
-      "lat": 39.2458,
-      "lng": 28.1952,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        28.1952,
-        39.2458
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1952,
-            39.2458
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "CAYGOREN-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.17 20:09:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.17",
-      "date_hour": "20:09:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "KAZKELI-KIRIKHAN (HATAY)",
-      "type": "�lksel",
-      "date": "2026.02.17 19:20:47",
-      "lat": 36.3762,
-      "lng": 36.3738,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "2.6",
-      "coordinates": [
-        36.3738,
-        36.3762
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.3738,
-            36.3762
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KAZKELI-KIRIKHAN (HATAY)",
-          "time": "2026.02.17 19:20:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.17",
-      "date_hour": "19:20:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
