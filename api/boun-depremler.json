@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-23T21:06:12.362Z",
+  "lastUpdate": "2026-02-23T21:57:42.781Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.02.24 00:22:40",
+      "lat": 36.696,
+      "lng": 26.3433,
+      "md": "-.-",
+      "ml": "3.4",
+      "mw": "3.5",
+      "depth": "9.2",
+      "coordinates": [
+        26.3433,
+        36.696
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.3433,
+            36.696
+          ]
+        },
+        "properties": {
+          "mag": "3.4",
+          "place": "EGE DENIZI",
+          "time": "2026.02.24 00:22:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.24",
+      "date_hour": "00:22:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "GOKOVA KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.02.18 16:26:43",
-      "lat": 36.936,
-      "lng": 27.5635,
-      "md": "-.-",
-      "ml": "3.1",
-      "mw": "3.1",
-      "depth": "4.1",
-      "coordinates": [
-        27.5635,
-        36.936
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.5635,
-            36.936
-          ]
-        },
-        "properties": {
-          "mag": "3.1",
-          "place": "GOKOVA KORFEZI (EGE DENIZI)",
-          "time": "2026.02.18 16:26:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.18",
-      "date_hour": "16:26:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
