@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-24T21:19:29.500Z",
+  "lastUpdate": "2026-02-24T21:53:39.690Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAALI-(HATAY)",
+      "type": "�lksel",
+      "date": "2026.02.25 00:40:13",
+      "lat": 36.3288,
+      "lng": 36.1288,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "5.8",
+      "coordinates": [
+        36.1288,
+        36.3288
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.1288,
+            36.3288
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "KARAALI-(HATAY)",
+          "time": "2026.02.25 00:40:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.25",
+      "date_hour": "00:40:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
     {
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "CANAKPINAR-AKSEKI (ANTALYA)",
-      "type": "�lksel",
-      "date": "2026.02.19 17:05:56",
-      "lat": 36.9842,
-      "lng": 31.8712,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "10.8",
-      "coordinates": [
-        31.8712,
-        36.9842
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.8712,
-            36.9842
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "CANAKPINAR-AKSEKI (ANTALYA)",
-          "time": "2026.02.19 17:05:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.19",
-      "date_hour": "17:05:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANTALYA"
     }
   ]
 }
