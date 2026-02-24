@@ -1,7 +1,115 @@
 {
-  "lastUpdate": "2026-02-24T06:12:03.436Z",
+  "lastUpdate": "2026-02-24T07:15:44.007Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KULVEREN-(KARS)",
+      "type": "�lksel",
+      "date": "2026.02.24 09:44:54",
+      "lat": 40.634,
+      "lng": 43.4642,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "25.7",
+      "coordinates": [
+        43.4642,
+        40.634
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.4642,
+            40.634
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "KULVEREN-(KARS)",
+          "time": "2026.02.24 09:44:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.24",
+      "date_hour": "09:44:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KARS"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.02.24 09:28:22",
+      "lat": 34.7135,
+      "lng": 28.9915,
+      "md": "-.-",
+      "ml": "3.7",
+      "mw": "3.9",
+      "depth": "56.4",
+      "coordinates": [
+        28.9915,
+        34.7135
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9915,
+            34.7135
+          ]
+        },
+        "properties": {
+          "mag": "3.7",
+          "place": "AKDENIZ",
+          "time": "2026.02.24 09:28:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.24",
+      "date_hour": "09:28:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "CIRPILAR-BAYRAMIC (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2026.02.24 08:51:05",
+      "lat": 39.8092,
+      "lng": 26.8443,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "9.0",
+      "coordinates": [
+        26.8443,
+        39.8092
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.8443,
+            39.8092
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "CIRPILAR-BAYRAMIC (CANAKKALE)",
+          "time": "2026.02.24 08:51:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.24",
+      "date_hour": "08:51:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17893,114 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "IGDE-ELBISTAN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.02.19 03:27:37",
-      "lat": 38.1488,
-      "lng": 37.084,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "6.0",
-      "coordinates": [
-        37.084,
-        38.1488
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.084,
-            38.1488
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "IGDE-ELBISTAN (KAHRAMANMARAS)",
-          "time": "2026.02.19 03:27:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.19",
-      "date_hour": "03:27:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2026.02.19 03:17:22",
-      "lat": 36.0707,
-      "lng": 31.3843,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "12.2",
-      "coordinates": [
-        31.3843,
-        36.0707
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.3843,
-            36.0707
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "AKDENIZ",
-          "time": "2026.02.19 03:17:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.19",
-      "date_hour": "03:17:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.02.19 03:00:53",
-      "lat": 39.3992,
-      "lng": 25.9728,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "10.9",
-      "coordinates": [
-        25.9728,
-        39.3992
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.9728,
-            39.3992
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
-          "time": "2026.02.19 03:00:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.19",
-      "date_hour": "03:00:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
