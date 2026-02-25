@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-25T19:38:43.809Z",
+  "lastUpdate": "2026-02-25T20:02:22.673Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SARITAS-BASKIL (ELAZIG)",
+      "type": "�lksel",
+      "date": "2026.02.25 22:37:20",
+      "lat": 38.4218,
+      "lng": 38.951,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "6.7",
+      "coordinates": [
+        38.951,
+        38.4218
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.951,
+            38.4218
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "SARITAS-BASKIL (ELAZIG)",
+          "time": "2026.02.25 22:37:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.25",
+      "date_hour": "22:37:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "SAKCAGOZE-NURDAGI (GAZIANTEP)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ISIKLI-SILIFKE (MERSIN)",
-      "type": "�lksel",
-      "date": "2026.02.20 11:57:06",
-      "lat": 36.2412,
-      "lng": 33.7177,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        33.7177,
-        36.2412
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.7177,
-            36.2412
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ISIKLI-SILIFKE (MERSIN)",
-          "time": "2026.02.20 11:57:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.20",
-      "date_hour": "11:57:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
     }
   ]
 }
