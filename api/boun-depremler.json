@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-25T07:38:59.622Z",
+  "lastUpdate": "2026-02-25T08:26:15.452Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUCUKLU-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.02.25 10:43:39",
+      "lat": 38,
+      "lng": 37.6917,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        37.6917,
+        38
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.6917,
+            38
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KUCUKLU-DOGANSEHIR (MALATYA)",
+          "time": "2026.02.25 10:43:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.25",
+      "date_hour": "10:43:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "DEMIRKENT-YUSUFELI (ARTVIN)",
-      "type": "�lksel",
-      "date": "2026.02.20 04:53:34",
-      "lat": 40.8597,
-      "lng": 41.7732,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "7.2",
-      "coordinates": [
-        41.7732,
-        40.8597
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            41.7732,
-            40.8597
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "DEMIRKENT-YUSUFELI (ARTVIN)",
-          "time": "2026.02.20 04:53:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.20",
-      "date_hour": "04:53:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ARTVIN"
     }
   ]
 }
