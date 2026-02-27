@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-27T10:57:01.782Z",
+  "lastUpdate": "2026-02-27T11:31:44.289Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.27 13:14:08",
+      "lat": 39.1905,
+      "lng": 28.1467,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "9.2",
+      "coordinates": [
+        28.1467,
+        39.1905
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1467,
+            39.1905
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
+          "time": "2026.02.27 13:14:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.27",
+      "date_hour": "13:14:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KURUCAOVA-DOGANSEHIR (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
-    },
-    {
-      "title": "AFSAR-BALA (ANKARA)",
-      "type": "�lksel",
-      "date": "2026.02.21 13:39:09",
-      "lat": 39.4777,
-      "lng": 33.0977,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        33.0977,
-        39.4777
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.0977,
-            39.4777
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "AFSAR-BALA (ANKARA)",
-          "time": "2026.02.21 13:39:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.21",
-      "date_hour": "13:39:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
