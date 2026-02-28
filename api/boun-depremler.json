@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-28T09:01:13.184Z",
+  "lastUpdate": "2026-02-28T09:35:08.462Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HASANBEYLI (OSMANIYE)",
+      "type": "�lksel",
+      "date": "2026.02.28 12:06:02",
+      "lat": 37.1217,
+      "lng": 36.5763,
+      "md": "-.-",
+      "ml": "3.4",
+      "mw": "3.3",
+      "depth": "5.0",
+      "coordinates": [
+        36.5763,
+        37.1217
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.5763,
+            37.1217
+          ]
+        },
+        "properties": {
+          "mag": "3.4",
+          "place": "HASANBEYLI (OSMANIYE)",
+          "time": "2026.02.28 12:06:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.28",
+      "date_hour": "12:06:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "OSMANIYE"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
-    },
-    {
-      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.22 03:13:57",
-      "lat": 39.1782,
-      "lng": 28.2892,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "13.6",
-      "coordinates": [
-        28.2892,
-        39.1782
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2892,
-            39.1782
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.22 03:13:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.22",
-      "date_hour": "03:13:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
