@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-28T16:51:54.188Z",
+  "lastUpdate": "2026-02-28T17:08:33.799Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MINARE-FETHIYE (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.02.28 19:47:43",
+      "lat": 36.5208,
+      "lng": 29.2592,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "15.1",
+      "coordinates": [
+        29.2592,
+        36.5208
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.2592,
+            36.5208
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "MINARE-FETHIYE (MUGLA)",
+          "time": "2026.02.28 19:47:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.28",
+      "date_hour": "19:47:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "AKOLUK-FEKE (ADANA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AKUSAGI-KALE (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.02.22 09:10:13",
-      "lat": 38.3358,
-      "lng": 38.815,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        38.815,
-        38.3358
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.815,
-            38.3358
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "AKUSAGI-KALE (MALATYA)",
-          "time": "2026.02.22 09:10:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.22",
-      "date_hour": "09:10:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
