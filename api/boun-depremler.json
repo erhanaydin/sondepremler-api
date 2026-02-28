@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-28T19:48:05.016Z",
+  "lastUpdate": "2026-02-28T19:56:08.070Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.02.28 22:42:15",
+      "lat": 39.1707,
+      "lng": 28.2497,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        28.2497,
+        39.1707
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2497,
+            39.1707
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2026.02.28 22:42:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.28",
+      "date_hour": "22:42:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YOGUNOLUK-MILAS (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YESILCELE-(BOLU)",
-      "type": "�lksel",
-      "date": "2026.02.22 10:53:06",
-      "lat": 40.8405,
-      "lng": 31.696,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "11.4",
-      "coordinates": [
-        31.696,
-        40.8405
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.696,
-            40.8405
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YESILCELE-(BOLU)",
-          "time": "2026.02.22 10:53:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.22",
-      "date_hour": "10:53:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BOLU"
     }
   ]
 }
