@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-28T15:49:03.512Z",
+  "lastUpdate": "2026-02-28T15:58:45.909Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YESILDERE-HORASAN (ERZURUM)",
+      "type": "�lksel",
+      "date": "2026.02.28 18:37:39",
+      "lat": 40.1413,
+      "lng": 42.0852,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "16.9",
+      "coordinates": [
+        42.0852,
+        40.1413
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            42.0852,
+            40.1413
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "YESILDERE-HORASAN (ERZURUM)",
+          "time": "2026.02.28 18:37:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.28",
+      "date_hour": "18:37:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZURUM"
+    },
     {
       "title": "KARBASAN-HISARCIK (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "YAKUPLU-ILIC (ERZINCAN)",
-      "type": "�lksel",
-      "date": "2026.02.22 09:01:56",
-      "lat": 39.3913,
-      "lng": 38.6258,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "7.0",
-      "coordinates": [
-        38.6258,
-        39.3913
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.6258,
-            39.3913
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "YAKUPLU-ILIC (ERZINCAN)",
-          "time": "2026.02.22 09:01:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.22",
-      "date_hour": "09:01:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
     }
   ]
 }
