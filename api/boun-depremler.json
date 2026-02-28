@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-28T19:21:28.929Z",
+  "lastUpdate": "2026-02-28T19:37:35.751Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YOGUNOLUK-MILAS (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.02.28 22:23:23",
+      "lat": 37.1318,
+      "lng": 27.9588,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "8.8",
+      "coordinates": [
+        27.9588,
+        37.1318
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9588,
+            37.1318
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "YOGUNOLUK-MILAS (MUGLA)",
+          "time": "2026.02.28 22:23:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.28",
+      "date_hour": "22:23:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "BESTUT-(CANKIRI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BOLU"
-    },
-    {
-      "title": "ZEYTINLER-URLA (IZMIR)",
-      "type": "�lksel",
-      "date": "2026.02.22 10:47:25",
-      "lat": 38.2943,
-      "lng": 26.573,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "6.6",
-      "coordinates": [
-        26.573,
-        38.2943
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.573,
-            38.2943
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ZEYTINLER-URLA (IZMIR)",
-          "time": "2026.02.22 10:47:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.22",
-      "date_hour": "10:47:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
