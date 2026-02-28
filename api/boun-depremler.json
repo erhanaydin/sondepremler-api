@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-28T08:19:49.206Z",
+  "lastUpdate": "2026-02-28T08:46:19.984Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ZEYTIN-(MUGLA)",
+      "type": "�lksel",
+      "date": "2026.02.28 11:14:11",
+      "lat": 37.0813,
+      "lng": 28.1,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        28.1,
+        37.0813
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1,
+            37.0813
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "ZEYTIN-(MUGLA)",
+          "time": "2026.02.28 11:14:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.28",
+      "date_hour": "11:14:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.22 02:51:44",
-      "lat": 39.231,
-      "lng": 28.1823,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "10.0",
-      "coordinates": [
-        28.1823,
-        39.231
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1823,
-            39.231
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "SINDIRGI (BALIKESIR)",
-          "time": "2026.02.22 02:51:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.22",
-      "date_hour": "02:51:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
