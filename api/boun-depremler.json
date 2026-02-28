@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-28T11:38:30.167Z",
+  "lastUpdate": "2026-02-28T11:49:25.460Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GULPINAR-AYVACIK (CANAKKALE) REVIZE01 (2026.02.28",
+      "type": "14:24:47)",
+      "date": "2026.02.28 14:24:47",
+      "lat": 39.5593,
+      "lng": 26.0525,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "10.5",
+      "coordinates": [
+        26.0525,
+        39.5593
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.0525,
+            39.5593
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "GULPINAR-AYVACIK (CANAKKALE) REVIZE01 (2026.02.28",
+          "time": "2026.02.28 14:24:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.28",
+      "date_hour": "14:24:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
     {
       "title": "KOBAKLAR-GORDES (MANISA)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
+    },
+    {
+      "title": "ERDEMLI ACIKLARI-MERSIN (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2026.02.28 13:04:15",
+      "lat": 36.5095,
+      "lng": 34.3145,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "12.0",
+      "coordinates": [
+        34.3145,
+        36.5095
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.3145,
+            36.5095
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "ERDEMLI ACIKLARI-MERSIN (AKDENIZ)",
+          "time": "2026.02.28 13:04:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.02.28",
+      "date_hour": "13:04:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
     },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
-    },
-    {
-      "title": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.02.22 06:56:48",
-      "lat": 38.1135,
-      "lng": 36.5875,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "9.2",
-      "coordinates": [
-        36.5875,
-        38.1135
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.5875,
-            38.1135
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
-          "time": "2026.02.22 06:56:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.22",
-      "date_hour": "06:56:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "KARAKUYU-SAIMBEYLI (ADANA)",
-      "type": "�lksel",
-      "date": "2026.02.22 06:41:11",
-      "lat": 37.8888,
-      "lng": 36.1845,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "9.6",
-      "coordinates": [
-        36.1845,
-        37.8888
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.1845,
-            37.8888
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "KARAKUYU-SAIMBEYLI (ADANA)",
-          "time": "2026.02.22 06:41:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.22",
-      "date_hour": "06:41:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
