@@ -36,6 +36,42 @@
     "city": "Balıkesir"
   },
   {
+    "title": "Yahyalı (Kayseri)",
+    "type": "İlksel",
+    "date": "2026-02-28 07:27:44",
+    "lat": 37.99139,
+    "lng": 35.55167,
+    "md": "-.-",
+    "ml": "1.6",
+    "mw": "-.-",
+    "depth": 8.5,
+    "coordinates": [
+      35.55167,
+      37.99139
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.55167,
+          37.99139
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Yahyalı (Kayseri) (Kayseri)",
+        "time": 1772263664000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-02-28",
+    "date_hour": "07:27:44",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kayseri"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2026-02-28 06:33:43",
@@ -9106,41 +9142,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Muğla"
-  },
-  {
-    "title": "Doğanşehir (Malatya)",
-    "type": "İlksel",
-    "date": "2026-02-25 07:43:39",
-    "lat": 38.04944,
-    "lng": 37.67806,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      37.67806,
-      38.04944
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.67806,
-          38.04944
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Doğanşehir (Malatya) (Malatya)",
-        "time": 1772005419000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-02-25",
-    "date_hour": "07:43:39",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
   }
 ]
