@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-03-01T11:43:45.272Z",
+  "lastUpdate": "2026-03-01T11:53:49.017Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TOPRAKTEPE-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.03.01 14:08:22",
+      "lat": 38.1077,
+      "lng": 37.8358,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "7.9",
+      "coordinates": [
+        37.8358,
+        38.1077
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.8358,
+            38.1077
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "TOPRAKTEPE-DOGANSEHIR (MALATYA)",
+          "time": "2026.03.01 14:08:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.01",
+      "date_hour": "14:08:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.03.01 13:29:10",
+      "lat": 35.8688,
+      "lng": 27.918,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "6.1",
+      "coordinates": [
+        27.918,
+        35.8688
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.918,
+            35.8688
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "AKDENIZ",
+          "time": "2026.03.01 13:29:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.01",
+      "date_hour": "13:29:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ASLANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.23 02:25:01",
-      "lat": 39.1965,
-      "lng": 28.284,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "9.6",
-      "coordinates": [
-        28.284,
-        39.1965
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.284,
-            39.1965
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ASLANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.23 02:25:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.23",
-      "date_hour": "02:25:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "TAHIR-ELESKIRT (AGRI)",
-      "type": "�lksel",
-      "date": "2026.02.23 02:20:11",
-      "lat": 39.8532,
-      "lng": 42.4692,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        42.4692,
-        39.8532
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.4692,
-            39.8532
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "TAHIR-ELESKIRT (AGRI)",
-          "time": "2026.02.23 02:20:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.23",
-      "date_hour": "02:20:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AGRI"
     }
   ]
 }
