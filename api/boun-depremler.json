@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-01T20:58:40.195Z",
+  "lastUpdate": "2026-03-01T21:27:17.978Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CEVIRME-AKCADAG (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.03.01 23:49:22",
+      "lat": 38.2375,
+      "lng": 37.7752,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "7.6",
+      "coordinates": [
+        37.7752,
+        38.2375
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.7752,
+            38.2375
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "CEVIRME-AKCADAG (MALATYA)",
+          "time": "2026.03.01 23:49:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.01",
+      "date_hour": "23:49:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "KALEALTI-ELBISTAN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.23 08:17:32",
-      "lat": 39.1363,
-      "lng": 28.3635,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "8.5",
-      "coordinates": [
-        28.3635,
-        39.1363
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3635,
-            39.1363
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.23 08:17:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.23",
-      "date_hour": "08:17:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
