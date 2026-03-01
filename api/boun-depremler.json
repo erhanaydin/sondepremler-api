@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-01T13:51:54.577Z",
+  "lastUpdate": "2026-03-01T14:11:54.725Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GECITKOY-CUNGUS (DIYARBAKIR)",
+      "type": "�lksel",
+      "date": "2026.03.01 16:50:30",
+      "lat": 38.2013,
+      "lng": 39.2692,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "4.9",
+      "coordinates": [
+        39.2692,
+        38.2013
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.2692,
+            38.2013
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "GECITKOY-CUNGUS (DIYARBAKIR)",
+          "time": "2026.03.01 16:50:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.01",
+      "date_hour": "16:50:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DIYARBAKIR"
+    },
     {
       "title": "SAROS KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "SENKOY-CINARCIK (YALOVA)",
-      "type": "�lksel",
-      "date": "2026.02.23 04:47:40",
-      "lat": 40.621,
-      "lng": 28.9878,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "6.9",
-      "coordinates": [
-        28.9878,
-        40.621
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9878,
-            40.621
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "SENKOY-CINARCIK (YALOVA)",
-          "time": "2026.02.23 04:47:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.23",
-      "date_hour": "04:47:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "YALOVA"
     }
   ]
 }
