@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-01T09:58:22.431Z",
+  "lastUpdate": "2026-03-01T10:28:52.170Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
+    },
+    {
+      "title": "KOSEDERE-KARABURUN (IZMIR)",
+      "type": "�lksel",
+      "date": "2026.03.01 11:52:40",
+      "lat": 38.567,
+      "lng": 26.54,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "3.9",
+      "coordinates": [
+        26.54,
+        38.567
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.54,
+            38.567
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KOSEDERE-KARABURUN (IZMIR)",
+          "time": "2026.03.01 11:52:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.01",
+      "date_hour": "11:52:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
     },
     {
       "title": "BOZBEL-DALAMAN (MUGLA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "ACARLAR-SELCUK (IZMIR)",
-      "type": "�lksel",
-      "date": "2026.02.23 02:06:09",
-      "lat": 37.908,
-      "lng": 27.3775,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "3.1",
-      "coordinates": [
-        27.3775,
-        37.908
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.3775,
-            37.908
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ACARLAR-SELCUK (IZMIR)",
-          "time": "2026.02.23 02:06:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.23",
-      "date_hour": "02:06:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
