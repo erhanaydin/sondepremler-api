@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-01T22:58:50.353Z",
+  "lastUpdate": "2026-03-01T23:28:54.237Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SARIKOC-REFAHIYE (ERZINCAN)",
+      "type": "�lksel",
+      "date": "2026.03.02 00:59:56",
+      "lat": 39.7332,
+      "lng": 38.8705,
+      "md": "-.-",
+      "ml": "3.3",
+      "mw": "3.2",
+      "depth": "2.4",
+      "coordinates": [
+        38.8705,
+        39.7332
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.8705,
+            39.7332
+          ]
+        },
+        "properties": {
+          "mag": "3.3",
+          "place": "SARIKOC-REFAHIYE (ERZINCAN)",
+          "time": "2026.03.02 00:59:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.02",
+      "date_hour": "00:59:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZINCAN"
+    },
     {
       "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "BOZKOY-KARABURUN (IZMIR)",
-      "type": "�lksel",
-      "date": "2026.02.23 09:01:18",
-      "lat": 38.6667,
-      "lng": 26.4763,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "12.9",
-      "coordinates": [
-        26.4763,
-        38.6667
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.4763,
-            38.6667
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "BOZKOY-KARABURUN (IZMIR)",
-          "time": "2026.02.23 09:01:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.23",
-      "date_hour": "09:01:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
