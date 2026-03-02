@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-02T11:10:28.756Z",
+  "lastUpdate": "2026-03-02T11:45:02.529Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAYRAK-GULNAR (MERSIN)",
+      "type": "�lksel",
+      "date": "2026.03.02 14:25:21",
+      "lat": 36.366,
+      "lng": 33.5118,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        33.5118,
+        36.366
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.5118,
+            36.366
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "KAYRAK-GULNAR (MERSIN)",
+          "time": "2026.03.02 14:25:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.02",
+      "date_hour": "14:25:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MERSIN"
+    },
     {
       "title": "YUKARIHACIBEKIR-BALA (ANKARA)",
       "type": "�lksel",
@@ -145,6 +181,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
+    },
+    {
+      "title": "YENIGECITVEREN-(BOLU)",
+      "type": "�lksel",
+      "date": "2026.03.02 12:39:32",
+      "lat": 40.7217,
+      "lng": 31.6802,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        31.6802,
+        40.7217
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.6802,
+            40.7217
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "YENIGECITVEREN-(BOLU)",
+          "time": "2026.03.02 12:39:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.02",
+      "date_hour": "12:39:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BOLU"
     },
     {
       "title": "FILIKLI-KARAISALI (ADANA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ARDAHAN"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.02.23 21:45:58",
-      "lat": 39.9237,
-      "lng": 25.8968,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "7.1",
-      "coordinates": [
-        25.8968,
-        39.9237
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.8968,
-            39.9237
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "EGE DENIZI",
-          "time": "2026.02.23 21:45:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.23",
-      "date_hour": "21:45:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "YIGITALI-OSMANGAZI (BURSA)",
-      "type": "�lksel",
-      "date": "2026.02.23 21:40:01",
-      "lat": 40.1857,
-      "lng": 29.0128,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.1",
-      "coordinates": [
-        29.0128,
-        40.1857
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0128,
-            40.1857
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YIGITALI-OSMANGAZI (BURSA)",
-          "time": "2026.02.23 21:40:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.23",
-      "date_hour": "21:40:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
     }
   ]
 }
