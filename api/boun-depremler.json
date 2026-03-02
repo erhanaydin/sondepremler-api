@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-02T07:32:56.175Z",
+  "lastUpdate": "2026-03-02T08:03:27.632Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SAZOBA-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2026.03.02 10:16:42",
+      "lat": 38.77,
+      "lng": 27.7935,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "16.4",
+      "coordinates": [
+        27.7935,
+        38.77
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.7935,
+            38.77
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "SAZOBA-AKHISAR (MANISA)",
+          "time": "2026.03.02 10:16:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.02",
+      "date_hour": "10:16:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "CEVIZDERE-(ELAZIG)",
-      "type": "�lksel",
-      "date": "2026.02.23 17:13:06",
-      "lat": 38.5285,
-      "lng": 39.3448,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        39.3448,
-        38.5285
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.3448,
-            38.5285
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "CEVIZDERE-(ELAZIG)",
-          "time": "2026.02.23 17:13:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.23",
-      "date_hour": "17:13:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
