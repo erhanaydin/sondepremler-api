@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-03T22:19:00.525Z",
+  "lastUpdate": "2026-03-03T22:48:55.339Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKCAKOYUNLU-PAZARCIK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.03.04 01:01:51",
+      "lat": 37.3418,
+      "lng": 37.1788,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "7.8",
+      "coordinates": [
+        37.1788,
+        37.3418
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.1788,
+            37.3418
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "AKCAKOYUNLU-PAZARCIK (KAHRAMANMARAS)",
+          "time": "2026.03.04 01:01:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.04",
+      "date_hour": "01:01:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "GULUMUSAGI-(MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SOGUT-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.02.25 10:07:44",
-      "lat": 38.0867,
-      "lng": 37.7395,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "9.4",
-      "coordinates": [
-        37.7395,
-        38.0867
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.7395,
-            38.0867
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "SOGUT-DOGANSEHIR (MALATYA)",
-          "time": "2026.02.25 10:07:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.25",
-      "date_hour": "10:07:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
