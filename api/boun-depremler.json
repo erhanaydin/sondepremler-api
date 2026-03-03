@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-03T16:57:24.728Z",
+  "lastUpdate": "2026-03-03T17:43:10.409Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -34,6 +34,78 @@
       "location_properties": "",
       "date_day": "2026.03.03",
       "date_hour": "18:49:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
+      "title": "AKIN-SEREFLIKOCHISAR (ANKARA)",
+      "type": "�lksel",
+      "date": "2026.03.03 18:35:01",
+      "lat": 39.111,
+      "lng": 33.2652,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "10.7",
+      "coordinates": [
+        33.2652,
+        39.111
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.2652,
+            39.111
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "AKIN-SEREFLIKOCHISAR (ANKARA)",
+          "time": "2026.03.03 18:35:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.03",
+      "date_hour": "18:35:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
+    },
+    {
+      "title": "ASAGIORUKCU-AKCADAG (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.03.03 18:16:03",
+      "lat": 38.4218,
+      "lng": 38.0767,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.0767,
+        38.4218
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.0767,
+            38.4218
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "ASAGIORUKCU-AKCADAG (MALATYA)",
+          "time": "2026.03.03 18:16:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.03",
+      "date_hour": "18:16:03",
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2026.02.25 02:59:42",
-      "lat": 40.7425,
-      "lng": 28.6158,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "8.6",
-      "coordinates": [
-        28.6158,
-        40.7425
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.6158,
-            40.7425
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "MARMARA DENIZI",
-          "time": "2026.02.25 02:59:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.25",
-      "date_hour": "02:59:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.25 02:54:44",
-      "lat": 39.1825,
-      "lng": 28.2033,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "13.5",
-      "coordinates": [
-        28.2033,
-        39.1825
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2033,
-            39.1825
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "AKTAS-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.25 02:54:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.25",
-      "date_hour": "02:54:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
