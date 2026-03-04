@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-04T10:29:38.479Z",
+  "lastUpdate": "2026-03-04T11:03:55.946Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.03.04 13:46:14",
+      "lat": 39.5245,
+      "lng": 25.7912,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "18.1",
+      "coordinates": [
+        25.7912,
+        39.5245
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.7912,
+            39.5245
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "EGE DENIZI",
+          "time": "2026.03.04 13:46:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.04",
+      "date_hour": "13:46:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KONYA"
-    },
-    {
-      "title": "KULLUK-(ELAZIG)",
-      "type": "�lksel",
-      "date": "2026.02.26 03:46:34",
-      "lat": 38.4542,
-      "lng": 39.0393,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        39.0393,
-        38.4542
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.0393,
-            38.4542
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KULLUK-(ELAZIG)",
-          "time": "2026.02.26 03:46:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.26",
-      "date_hour": "03:46:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
