@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-03-04T01:27:45.693Z",
+  "lastUpdate": "2026-03-04T03:40:47.407Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAKOY-ALIAGA (IZMIR)",
+      "type": "�lksel",
+      "date": "2026.03.04 03:45:04",
+      "lat": 38.7968,
+      "lng": 27.1202,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        27.1202,
+        38.7968
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.1202,
+            38.7968
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KARAKOY-ALIAGA (IZMIR)",
+          "time": "2026.03.04 03:45:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.04",
+      "date_hour": "03:45:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
+    {
+      "title": "KARABOGURTLEN-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.03.04 03:23:08",
+      "lat": 37.0282,
+      "lng": 28.5472,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "15.3",
+      "coordinates": [
+        28.5472,
+        37.0282
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.5472,
+            37.0282
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "KARABOGURTLEN-ULA (MUGLA)",
+          "time": "2026.03.04 03:23:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.04",
+      "date_hour": "03:23:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "KIZILAGAC-ULA (MUGLA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "AKUSAGI-KALE (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.02.25 12:24:05",
-      "lat": 38.3373,
-      "lng": 38.813,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        38.813,
-        38.3373
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.813,
-            38.3373
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "AKUSAGI-KALE (MALATYA)",
-          "time": "2026.02.25 12:24:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.25",
-      "date_hour": "12:24:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "DEREBAG-YAHYALI (KAYSERI)",
-      "type": "�lksel",
-      "date": "2026.02.25 12:16:11",
-      "lat": 38.0463,
-      "lng": 35.245,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "8.0",
-      "coordinates": [
-        35.245,
-        38.0463
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.245,
-            38.0463
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "DEREBAG-YAHYALI (KAYSERI)",
-          "time": "2026.02.25 12:16:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.25",
-      "date_hour": "12:16:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAYSERI"
     }
   ]
 }
