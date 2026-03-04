@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-04T15:21:25.541Z",
+  "lastUpdate": "2026-03-04T15:59:54.089Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.03.04 18:22:20",
+      "lat": 39.088,
+      "lng": 28.3103,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "16.5",
+      "coordinates": [
+        28.3103,
+        39.088
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3103,
+            39.088
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "time": "2026.03.04 18:22:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.04",
+      "date_hour": "18:22:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAYLASOGUT-ULA (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.02.26 06:30:11",
-      "lat": 36.6537,
-      "lng": 25.7173,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "9.3",
-      "coordinates": [
-        25.7173,
-        36.6537
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.7173,
-            36.6537
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "EGE DENIZI",
-          "time": "2026.02.26 06:30:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.26",
-      "date_hour": "06:30:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
