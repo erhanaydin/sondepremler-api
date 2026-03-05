@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-03-05T14:29:18.863Z",
+  "lastUpdate": "2026-03-05T15:26:29.258Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.03.05 17:55:20",
+      "lat": 39.166,
+      "lng": 28.2633,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "11.9",
+      "coordinates": [
+        28.2633,
+        39.166
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2633,
+            39.166
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
+          "time": "2026.03.05 17:55:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.05",
+      "date_hour": "17:55:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "ALEMBEY-ELBISTAN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.03.05 17:30:27",
+      "lat": 38.2502,
+      "lng": 37.174,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "4.3",
+      "coordinates": [
+        37.174,
+        38.2502
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.174,
+            38.2502
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "ALEMBEY-ELBISTAN (KAHRAMANMARAS)",
+          "time": "2026.03.05 17:30:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.05",
+      "date_hour": "17:30:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "GULLUDAG-NARMAN (ERZURUM)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.02.28 01:03:28",
-      "lat": 39.1527,
-      "lng": 28.272,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "13.3",
-      "coordinates": [
-        28.272,
-        39.1527
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.272,
-            39.1527
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2026.02.28 01:03:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.28",
-      "date_hour": "01:03:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "YILANLI-KIRIKHAN (HATAY)",
-      "type": "�lksel",
-      "date": "2026.02.28 00:51:56",
-      "lat": 36.5813,
-      "lng": 36.3243,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "5.5",
-      "coordinates": [
-        36.3243,
-        36.5813
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.3243,
-            36.5813
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "YILANLI-KIRIKHAN (HATAY)",
-          "time": "2026.02.28 00:51:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.28",
-      "date_hour": "00:51:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
