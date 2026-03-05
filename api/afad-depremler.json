@@ -1,5 +1,41 @@
 [
   {
+    "title": "Antakya (Hatay)",
+    "type": "İlksel",
+    "date": "2026-03-05 20:59:45",
+    "lat": 36.39306,
+    "lng": 36.26778,
+    "md": "-.-",
+    "ml": "2.1",
+    "mw": "-.-",
+    "depth": 7.07,
+    "coordinates": [
+      36.26778,
+      36.39306
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.26778,
+          36.39306
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Antakya (Hatay) (Hatay)",
+        "time": 1772744385000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-03-05",
+    "date_hour": "20:59:45",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Hatay"
+  },
+  {
     "title": "Marmara Denizi - [05.80 km] Şarköy (Tekirdağ)",
     "type": "İlksel",
     "date": "2026-03-05 20:55:37",
@@ -11014,77 +11050,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Erzincan"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2026-03-02 21:37:40",
-    "lat": 39.165,
-    "lng": 28.31028,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 6.19,
-    "coordinates": [
-      28.31028,
-      39.165
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.31028,
-          39.165
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1772487460000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-03-02",
-    "date_hour": "21:37:40",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
-  },
-  {
-    "title": "Ege Denizi - [02.75 km] Ayvacık (Çanakkale)",
-    "type": "İlksel",
-    "date": "2026-03-02 21:27:58",
-    "lat": 39.48694,
-    "lng": 26.03528,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7.72,
-    "coordinates": [
-      26.03528,
-      39.48694
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.03528,
-          39.48694
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi - [02.75 km] Ayvacık (Çanakkale) (Çanakkale)",
-        "time": 1772486878000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-03-02",
-    "date_hour": "21:27:58",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Çanakkale"
   }
 ]
