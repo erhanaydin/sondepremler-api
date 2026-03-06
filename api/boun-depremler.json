@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-06T07:47:52.943Z",
+  "lastUpdate": "2026-03-06T08:19:38.097Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
+    },
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.03.06 10:00:57",
+      "lat": 35.22,
+      "lng": 29.3745,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "59.7",
+      "coordinates": [
+        29.3745,
+        35.22
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.3745,
+            35.22
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "AKDENIZ",
+          "time": "2026.03.06 10:00:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.06",
+      "date_hour": "10:00:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "AKDENIZ",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2026.02.28 23:20:01",
-      "lat": 40.5678,
-      "lng": 27.1522,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "13.2",
-      "coordinates": [
-        27.1522,
-        40.5678
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1522,
-            40.5678
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "MARMARA DENIZI",
-          "time": "2026.02.28 23:20:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.02.28",
-      "date_hour": "23:20:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
