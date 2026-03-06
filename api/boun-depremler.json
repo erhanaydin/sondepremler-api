@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-06T22:37:19.328Z",
+  "lastUpdate": "2026-03-06T22:59:23.451Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BULGARISTAN",
+      "type": "�lksel",
+      "date": "2026.03.07 01:19:44",
+      "lat": 41.8388,
+      "lng": 25.4278,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "4.1",
+      "coordinates": [
+        25.4278,
+        41.8388
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.4278,
+            41.8388
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "BULGARISTAN",
+          "time": "2026.03.07 01:19:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.07",
+      "date_hour": "01:19:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DIYARBAKIR"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2026.03.01 09:07:11",
-      "lat": 40.2773,
-      "lng": 24.0817,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "6.5",
-      "coordinates": [
-        24.0817,
-        40.2773
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.0817,
-            40.2773
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "YUNANISTAN",
-          "time": "2026.03.01 09:07:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.01",
-      "date_hour": "09:07:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
