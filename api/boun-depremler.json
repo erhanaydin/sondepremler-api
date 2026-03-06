@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-06T15:23:15.406Z",
+  "lastUpdate": "2026-03-06T15:56:32.256Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BOLU"
+    },
+    {
+      "title": "KAVAKLIDERE-BORNOVA (IZMIR)",
+      "type": "�lksel",
+      "date": "2026.03.06 18:04:25",
+      "lat": 38.462,
+      "lng": 27.307,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "4.6",
+      "coordinates": [
+        27.307,
+        38.462
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.307,
+            38.462
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KAVAKLIDERE-BORNOVA (IZMIR)",
+          "time": "2026.03.06 18:04:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.06",
+      "date_hour": "18:04:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
     },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZINCAN"
-    },
-    {
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.03.01 05:28:14",
-      "lat": 39.1162,
-      "lng": 28.296,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "8.9",
-      "coordinates": [
-        28.296,
-        39.1162
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.296,
-            39.1162
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
-          "time": "2026.03.01 05:28:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.01",
-      "date_hour": "05:28:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
