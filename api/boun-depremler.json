@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-06T21:15:46.441Z",
+  "lastUpdate": "2026-03-06T21:45:32.379Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2026.03.06 23:58:31",
+      "lat": 40.8297,
+      "lng": 28.1118,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "14.7",
+      "coordinates": [
+        28.1118,
+        40.8297
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1118,
+            40.8297
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "MARMARA DENIZI",
+          "time": "2026.03.06 23:58:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.06",
+      "date_hour": "23:58:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "AKYAKA-ULA (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "TOKAT-HISARCIK (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.03.01 08:41:00",
-      "lat": 39.1743,
-      "lng": 29.104,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "10.6",
-      "coordinates": [
-        29.104,
-        39.1743
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.104,
-            39.1743
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "TOKAT-HISARCIK (KUTAHYA)",
-          "time": "2026.03.01 08:41:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.01",
-      "date_hour": "08:41:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
