@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-03-06T08:57:41.745Z",
+  "lastUpdate": "2026-03-06T09:40:14.409Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.03.06 11:53:33",
+      "lat": 34.7675,
+      "lng": 28.9805,
+      "md": "-.-",
+      "ml": "3.7",
+      "mw": "-.-",
+      "depth": "79.7",
+      "coordinates": [
+        28.9805,
+        34.7675
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9805,
+            34.7675
+          ]
+        },
+        "properties": {
+          "mag": "3.7",
+          "place": "AKDENIZ",
+          "time": "2026.03.06 11:53:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.06",
+      "date_hour": "11:53:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "CELTIKCI-ORHANGAZI (BURSA)",
+      "type": "�lksel",
+      "date": "2026.03.06 11:44:36",
+      "lat": 40.4542,
+      "lng": 29.2823,
+      "md": "-.-",
+      "ml": "0.9",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        29.2823,
+        40.4542
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.2823,
+            40.4542
+          ]
+        },
+        "properties": {
+          "mag": "0.9",
+          "place": "CELTIKCI-ORHANGAZI (BURSA)",
+          "time": "2026.03.06 11:44:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.06",
+      "date_hour": "11:44:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AKSU-SINCIK (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2026.03.01 01:31:41",
-      "lat": 38.1458,
-      "lng": 38.4627,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        38.4627,
-        38.1458
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.4627,
-            38.1458
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "AKSU-SINCIK (ADIYAMAN)",
-          "time": "2026.03.01 01:31:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.01",
-      "date_hour": "01:31:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
-    },
-    {
-      "title": "FINDIKLIKOYAK-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.03.01 00:28:51",
-      "lat": 37.9328,
-      "lng": 36.4495,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.9",
-      "coordinates": [
-        36.4495,
-        37.9328
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.4495,
-            37.9328
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "FINDIKLIKOYAK-GOKSUN (KAHRAMANMARAS)",
-          "time": "2026.03.01 00:28:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.01",
-      "date_hour": "00:28:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
