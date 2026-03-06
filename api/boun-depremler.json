@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-06T16:38:46.557Z",
+  "lastUpdate": "2026-03-06T17:20:10.746Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KURUCAOVA-(KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.03.06 19:31:37",
+      "lat": 37.9605,
+      "lng": 36.599,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "6.8",
+      "coordinates": [
+        36.599,
+        37.9605
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.599,
+            37.9605
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KURUCAOVA-(KAHRAMANMARAS)",
+          "time": "2026.03.06 19:31:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.06",
+      "date_hour": "19:31:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "SOGUTLU-PUTURGE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.03.01 06:11:20",
-      "lat": 36.0408,
-      "lng": 26.975,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "15.4",
-      "coordinates": [
-        26.975,
-        36.0408
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.975,
-            36.0408
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "EGE DENIZI",
-          "time": "2026.03.01 06:11:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.01",
-      "date_hour": "06:11:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
