@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-06T21:45:32.379Z",
+  "lastUpdate": "2026-03-06T22:00:00.392Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.03.07 00:51:44",
+      "lat": 39.1378,
+      "lng": 28.293,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "9.1",
+      "coordinates": [
+        28.293,
+        39.1378
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.293,
+            39.1378
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "time": "2026.03.07 00:51:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.07",
+      "date_hour": "00:51:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "BAYIRKOY-MILAS (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.03.01 09:02:41",
-      "lat": 37.1152,
-      "lng": 27.8803,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "4.8",
-      "coordinates": [
-        27.8803,
-        37.1152
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.8803,
-            37.1152
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "BAYIRKOY-MILAS (MUGLA)",
-          "time": "2026.03.01 09:02:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.01",
-      "date_hour": "09:02:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
