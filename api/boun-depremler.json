@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-06T17:54:45.526Z",
+  "lastUpdate": "2026-03-06T18:35:06.216Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GURLE-(MANISA)",
+      "type": "�lksel",
+      "date": "2026.03.06 21:02:16",
+      "lat": 38.6163,
+      "lng": 27.2798,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "1.5",
+      "coordinates": [
+        27.2798,
+        38.6163
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.2798,
+            38.6163
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "GURLE-(MANISA)",
+          "time": "2026.03.06 21:02:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.06",
+      "date_hour": "21:02:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "BOZELI-EZINE (CANAKKALE)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YAYLAKOY-KARABURUN (IZMIR)",
-      "type": "�lksel",
-      "date": "2026.03.01 06:27:45",
-      "lat": 38.5393,
-      "lng": 26.4475,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.1",
-      "coordinates": [
-        26.4475,
-        38.5393
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.4475,
-            38.5393
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YAYLAKOY-KARABURUN (IZMIR)",
-          "time": "2026.03.01 06:27:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.01",
-      "date_hour": "06:27:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
