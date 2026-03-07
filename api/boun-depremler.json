@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-07T10:00:32.630Z",
+  "lastUpdate": "2026-03-07T10:33:31.433Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KULFAL-CAN (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2026.03.07 12:42:13",
+      "lat": 40.0255,
+      "lng": 26.9772,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "13.5",
+      "coordinates": [
+        26.9772,
+        40.0255
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.9772,
+            40.0255
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KULFAL-CAN (CANAKKALE)",
+          "time": "2026.03.07 12:42:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.07",
+      "date_hour": "12:42:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "KALEALTI-ELBISTAN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.03.01 23:38:17",
-      "lat": 38.1522,
-      "lng": 37.0568,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        37.0568,
-        38.1522
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.0568,
-            38.1522
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KALEALTI-ELBISTAN (KAHRAMANMARAS)",
-          "time": "2026.03.01 23:38:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.01",
-      "date_hour": "23:38:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
