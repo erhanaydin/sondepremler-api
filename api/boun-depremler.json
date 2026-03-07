@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-07T21:37:51.763Z",
+  "lastUpdate": "2026-03-07T21:50:56.219Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AYVALIK ACIKLARI-BALIKESIR (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.03.08 00:23:19",
+      "lat": 39.2215,
+      "lng": 26.5608,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "11.2",
+      "coordinates": [
+        26.5608,
+        39.2215
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.5608,
+            39.2215
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "AYVALIK ACIKLARI-BALIKESIR (EGE DENIZI)",
+          "time": "2026.03.08 00:23:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.08",
+      "date_hour": "00:23:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "KUCUKBUKU-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.03.02 08:28:27",
-      "lat": 39.1622,
-      "lng": 28.2288,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "8.1",
-      "coordinates": [
-        28.2288,
-        39.1622
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2288,
-            39.1622
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2026.03.02 08:28:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.02",
-      "date_hour": "08:28:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
