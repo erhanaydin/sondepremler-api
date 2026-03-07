@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-07T16:45:39.804Z",
+  "lastUpdate": "2026-03-07T17:00:09.128Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
+    },
+    {
+      "title": "DUTLUPINAR-CEYHAN (ADANA)",
+      "type": "�lksel",
+      "date": "2026.03.07 18:03:30",
+      "lat": 37.0132,
+      "lng": 36.049,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "15.2",
+      "coordinates": [
+        36.049,
+        37.0132
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.049,
+            37.0132
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "DUTLUPINAR-CEYHAN (ADANA)",
+          "time": "2026.03.07 18:03:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.07",
+      "date_hour": "18:03:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
     },
     {
       "title": "EKMEKCI-KARACABEY (BURSA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "SOGUTLUDERE-FETHIYE (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.03.02 02:33:21",
-      "lat": 36.8123,
-      "lng": 29.3515,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "3.3",
-      "coordinates": [
-        29.3515,
-        36.8123
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.3515,
-            36.8123
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "SOGUTLUDERE-FETHIYE (MUGLA)",
-          "time": "2026.03.02 02:33:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.02",
-      "date_hour": "02:33:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
