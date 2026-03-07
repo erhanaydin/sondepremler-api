@@ -1,5 +1,41 @@
 [
   {
+    "title": "Yunak (Konya)",
+    "type": "İlksel",
+    "date": "2026-03-07 21:45:01",
+    "lat": 38.60778,
+    "lng": 31.99194,
+    "md": "-.-",
+    "ml": "0.9",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      31.99194,
+      38.60778
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.99194,
+          38.60778
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Yunak (Konya) (Konya)",
+        "time": 1772919901000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-03-07",
+    "date_hour": "21:45:01",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Konya"
+  },
+  {
     "title": "Akpınar (Kırşehir)",
     "type": "İlksel",
     "date": "2026-03-07 21:26:46",
@@ -11518,41 +11554,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Çankırı"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2026-03-04 22:19:05",
-    "lat": 39.17167,
-    "lng": 28.29722,
-    "md": "-.-",
-    "ml": "1.6",
-    "mw": "-.-",
-    "depth": 9.49,
-    "coordinates": [
-      28.29722,
-      39.17167
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.29722,
-          39.17167
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1772662745000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-03-04",
-    "date_hour": "22:19:05",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
