@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-07T22:59:58.655Z",
+  "lastUpdate": "2026-03-07T23:30:33.837Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISIKLAR-KIRKAGAC (MANISA)",
+      "type": "�lksel",
+      "date": "2026.03.08 01:45:11",
+      "lat": 39.1632,
+      "lng": 27.8742,
+      "md": "-.-",
+      "ml": "0.8",
+      "mw": "-.-",
+      "depth": "10.4",
+      "coordinates": [
+        27.8742,
+        39.1632
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.8742,
+            39.1632
+          ]
+        },
+        "properties": {
+          "mag": "0.8",
+          "place": "ISIKLAR-KIRKAGAC (MANISA)",
+          "time": "2026.03.08 01:45:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.08",
+      "date_hour": "01:45:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "CIVRIL-YAZIHAN (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "SAZOBA-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2026.03.02 10:16:42",
-      "lat": 38.77,
-      "lng": 27.7935,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "16.4",
-      "coordinates": [
-        27.7935,
-        38.77
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7935,
-            38.77
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "SAZOBA-AKHISAR (MANISA)",
-          "time": "2026.03.02 10:16:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.02",
-      "date_hour": "10:16:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
