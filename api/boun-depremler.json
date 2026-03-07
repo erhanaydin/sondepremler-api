@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-07T17:29:13.710Z",
+  "lastUpdate": "2026-03-07T17:47:26.690Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KEPEZ-AKCADAG (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.03.07 20:00:05",
+      "lat": 38.3392,
+      "lng": 37.75,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "8.2",
+      "coordinates": [
+        37.75,
+        38.3392
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.75,
+            38.3392
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "KEPEZ-AKCADAG (MALATYA)",
+          "time": "2026.03.07 20:00:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.07",
+      "date_hour": "20:00:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "KERTIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.03.02 02:33:45",
-      "lat": 39.182,
-      "lng": 28.0907,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "16.4",
-      "coordinates": [
-        28.0907,
-        39.182
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0907,
-            39.182
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KERTIL-SINDIRGI (BALIKESIR)",
-          "time": "2026.03.02 02:33:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.02",
-      "date_hour": "02:33:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
