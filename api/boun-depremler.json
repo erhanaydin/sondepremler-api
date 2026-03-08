@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-08T09:58:56.861Z",
+  "lastUpdate": "2026-03-08T10:30:36.287Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HAMZABEYLI-(MANISA)",
+      "type": "�lksel",
+      "date": "2026.03.08 13:10:53",
+      "lat": 38.5827,
+      "lng": 27.6313,
+      "md": "-.-",
+      "ml": "3.9",
+      "mw": "-.-",
+      "depth": "12.0",
+      "coordinates": [
+        27.6313,
+        38.5827
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.6313,
+            38.5827
+          ]
+        },
+        "properties": {
+          "mag": "3.9",
+          "place": "HAMZABEYLI-(MANISA)",
+          "time": "2026.03.08 13:10:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.08",
+      "date_hour": "13:10:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "BABAKOY-BIGADIC (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CORUM"
-    },
-    {
-      "title": "KIZILGUR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.03.02 19:55:41",
-      "lat": 39.2413,
-      "lng": 28.0135,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.5",
-      "coordinates": [
-        28.0135,
-        39.2413
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0135,
-            39.2413
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KIZILGUR-SINDIRGI (BALIKESIR)",
-          "time": "2026.03.02 19:55:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.02",
-      "date_hour": "19:55:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
