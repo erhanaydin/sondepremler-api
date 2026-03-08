@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-08T08:48:39.183Z",
+  "lastUpdate": "2026-03-08T09:14:31.735Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "VAN GOLU",
+      "type": "�lksel",
+      "date": "2026.03.08 11:03:55",
+      "lat": 38.6472,
+      "lng": 43.0963,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        43.0963,
+        38.6472
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.0963,
+            38.6472
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "VAN GOLU",
+          "time": "2026.03.08 11:03:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.08",
+      "date_hour": "11:03:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "COBANISA-(ISPARTA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.03.02 19:25:54",
-      "lat": 39.2475,
-      "lng": 28.1397,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "14.8",
-      "coordinates": [
-        28.1397,
-        39.2475
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1397,
-            39.2475
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
-          "time": "2026.03.02 19:25:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.02",
-      "date_hour": "19:25:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
