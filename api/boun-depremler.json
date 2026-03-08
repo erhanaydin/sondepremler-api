@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-08T15:49:10.178Z",
+  "lastUpdate": "2026-03-08T15:59:46.335Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUCUKKOY-AYVALIK (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.03.08 18:40:17",
+      "lat": 39.2298,
+      "lng": 26.6772,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "5.8",
+      "coordinates": [
+        26.6772,
+        39.2298
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.6772,
+            39.2298
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "KUCUKKOY-AYVALIK (BALIKESIR)",
+          "time": "2026.03.08 18:40:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.08",
+      "date_hour": "18:40:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "YESILDERE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.03.08 18:17:55",
+      "lat": 39.2785,
+      "lng": 29.0083,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "15.8",
+      "coordinates": [
+        29.0083,
+        39.2785
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0083,
+            39.2785
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YESILDERE-SIMAV (KUTAHYA)",
+          "time": "2026.03.08 18:17:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.08",
+      "date_hour": "18:17:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "ASAGIOZLUCE-KELKIT (GUMUSHANE)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
-    },
-    {
-      "title": "SEKLI-BEYPAZARI (ANKARA)",
-      "type": "�lksel",
-      "date": "2026.03.02 23:36:22",
-      "lat": 40.1942,
-      "lng": 31.7112,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "10.9",
-      "coordinates": [
-        31.7112,
-        40.1942
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.7112,
-            40.1942
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "SEKLI-BEYPAZARI (ANKARA)",
-          "time": "2026.03.02 23:36:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.02",
-      "date_hour": "23:36:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.03.02 23:36:19",
-      "lat": 39.169,
-      "lng": 28.2335,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "14.0",
-      "coordinates": [
-        28.2335,
-        39.169
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2335,
-            39.169
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2026.03.02 23:36:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.02",
-      "date_hour": "23:36:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
