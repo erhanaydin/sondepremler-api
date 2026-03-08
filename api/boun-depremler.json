@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-03-08T07:51:20.832Z",
+  "lastUpdate": "2026-03-08T08:14:49.594Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "COBANISA-(ISPARTA)",
+      "type": "�lksel",
+      "date": "2026.03.08 10:58:48",
+      "lat": 37.7713,
+      "lng": 30.7685,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "15.9",
+      "coordinates": [
+        30.7685,
+        37.7713
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.7685,
+            37.7713
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "COBANISA-(ISPARTA)",
+          "time": "2026.03.08 10:58:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.08",
+      "date_hour": "10:58:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ISPARTA"
+    },
+    {
+      "title": "IZMIR KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.03.08 10:06:15",
+      "lat": 38.6075,
+      "lng": 26.7667,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "2.7",
+      "coordinates": [
+        26.7667,
+        38.6075
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.7667,
+            38.6075
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "IZMIR KORFEZI (EGE DENIZI)",
+          "time": "2026.03.08 10:06:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.08",
+      "date_hour": "10:06:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "GUNYAKA-AKSEKI (ANTALYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2026.03.02 19:20:12",
-      "lat": 35.5222,
-      "lng": 27.6028,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "7.0",
-      "coordinates": [
-        27.6028,
-        35.5222
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.6028,
-            35.5222
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "AKDENIZ",
-          "time": "2026.03.02 19:20:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.02",
-      "date_hour": "19:20:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "GULUMUSAGI-(MALATYA)",
-      "type": "�lksel",
-      "date": "2026.03.02 18:56:11",
-      "lat": 38.2172,
-      "lng": 38.4645,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "14.0",
-      "coordinates": [
-        38.4645,
-        38.2172
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.4645,
-            38.2172
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "GULUMUSAGI-(MALATYA)",
-          "time": "2026.03.02 18:56:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.02",
-      "date_hour": "18:56:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
