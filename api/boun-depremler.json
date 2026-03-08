@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-03-08T15:32:49.203Z",
+  "lastUpdate": "2026-03-08T15:49:10.178Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.03.08 18:32:30",
+      "lat": 36.2208,
+      "lng": 28.2557,
+      "md": "-.-",
+      "ml": "3.5",
+      "mw": "3.2",
+      "depth": "25.8",
+      "coordinates": [
+        28.2557,
+        36.2208
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2557,
+            36.2208
+          ]
+        },
+        "properties": {
+          "mag": "3.5",
+          "place": "AKDENIZ",
+          "time": "2026.03.08 18:32:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.08",
+      "date_hour": "18:32:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "ASAGIOZLUCE-KELKIT (GUMUSHANE)",
+      "type": "�lksel",
+      "date": "2026.03.08 17:30:52",
+      "lat": 39.9852,
+      "lng": 39.5575,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "2.5",
+      "coordinates": [
+        39.5575,
+        39.9852
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.5575,
+            39.9852
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "ASAGIOZLUCE-KELKIT (GUMUSHANE)",
+          "time": "2026.03.08 17:30:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.08",
+      "date_hour": "17:30:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "GUMUSHANE"
+    },
     {
       "title": "GOKOVA KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2026.03.02 23:21:32",
-      "lat": 35.3,
-      "lng": 25.4582,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "6.0",
-      "coordinates": [
-        25.4582,
-        35.3
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.4582,
-            35.3
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "GIRIT ADASI (AKDENIZ)",
-          "time": "2026.03.02 23:21:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.02",
-      "date_hour": "23:21:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
-    },
-    {
-      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
-      "type": "�lksel",
-      "date": "2026.03.02 23:20:31",
-      "lat": 40.2303,
-      "lng": 31.7398,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "8.1",
-      "coordinates": [
-        31.7398,
-        40.2303
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.7398,
-            40.2303
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "HIRKATEPE-BEYPAZARI (ANKARA)",
-          "time": "2026.03.02 23:20:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.02",
-      "date_hour": "23:20:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
