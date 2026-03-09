@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-09T05:45:28.605Z",
+  "lastUpdate": "2026-03-09T06:23:46.622Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "IZZETTIN-TURGUTLU (MANISA)",
+      "type": "�lksel",
+      "date": "2026.03.09 08:40:21",
+      "lat": 38.5443,
+      "lng": 27.6852,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "7.3",
+      "coordinates": [
+        27.6852,
+        38.5443
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.6852,
+            38.5443
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "IZZETTIN-TURGUTLU (MANISA)",
+          "time": "2026.03.09 08:40:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.09",
+      "date_hour": "08:40:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MERSIN"
-    },
-    {
-      "title": "GUNEYKOY-(YALOVA)",
-      "type": "�lksel",
-      "date": "2026.03.03 15:00:52",
-      "lat": 40.5535,
-      "lng": 29.2847,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        29.2847,
-        40.5535
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.2847,
-            40.5535
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "GUNEYKOY-(YALOVA)",
-          "time": "2026.03.03 15:00:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.03",
-      "date_hour": "15:00:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "YALOVA"
     }
   ]
 }
