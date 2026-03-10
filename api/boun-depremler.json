@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-03-10T09:05:26.946Z",
+  "lastUpdate": "2026-03-10T09:57:29.975Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ISIKLI-SILIFKE (MERSIN)",
+      "type": "�lksel",
+      "date": "2026.03.10 12:09:39",
+      "lat": 36.232,
+      "lng": 33.7123,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        33.7123,
+        36.232
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.7123,
+            36.232
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "ISIKLI-SILIFKE (MERSIN)",
+          "time": "2026.03.10 12:09:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.10",
+      "date_hour": "12:09:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MERSIN"
+    },
+    {
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.03.10 11:52:52",
+      "lat": 39.092,
+      "lng": 25.9557,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "10.6",
+      "coordinates": [
+        25.9557,
+        39.092
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.9557,
+            39.092
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+          "time": "2026.03.10 11:52:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.10",
+      "date_hour": "11:52:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "KARABIGA-BIGA (CANAKKALE)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "BAYRAMGAZI-PAZARCIK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.03.05 23:42:41",
-      "lat": 37.2825,
-      "lng": 36.9838,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        36.9838,
-        37.2825
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.9838,
-            37.2825
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "BAYRAMGAZI-PAZARCIK (KAHRAMANMARAS)",
-          "time": "2026.03.05 23:42:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.05",
-      "date_hour": "23:42:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "CAMKOY-GERMENCIK (AYDIN)",
-      "type": "�lksel",
-      "date": "2026.03.05 23:32:15",
-      "lat": 37.9485,
-      "lng": 27.5847,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "14.6",
-      "coordinates": [
-        27.5847,
-        37.9485
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.5847,
-            37.9485
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "CAMKOY-GERMENCIK (AYDIN)",
-          "time": "2026.03.05 23:32:15"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.05",
-      "date_hour": "23:32:15",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AYDIN"
     }
   ]
 }
