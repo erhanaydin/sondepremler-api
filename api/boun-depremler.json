@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-11T21:49:47.663Z",
+  "lastUpdate": "2026-03-11T22:13:56.914Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KORKMAZ-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.03.12 01:00:05",
+      "lat": 38.0907,
+      "lng": 36.7748,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "8.7",
+      "coordinates": [
+        36.7748,
+        38.0907
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.7748,
+            38.0907
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KORKMAZ-GOKSUN (KAHRAMANMARAS)",
+          "time": "2026.03.12 01:00:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.12",
+      "date_hour": "01:00:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "TEKEDERESI-PUTURGE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2026.03.08 05:46:21",
-      "lat": 40.8302,
-      "lng": 28.9385,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "11.0",
-      "coordinates": [
-        28.9385,
-        40.8302
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9385,
-            40.8302
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "MARMARA DENIZI",
-          "time": "2026.03.08 05:46:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.08",
-      "date_hour": "05:46:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
