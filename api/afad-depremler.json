@@ -1,5 +1,77 @@
 [
   {
+    "title": "Muradiye (Van)",
+    "type": "İlksel",
+    "date": "2026-03-11 22:45:55",
+    "lat": 38.98889,
+    "lng": 43.75111,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      43.75111,
+      38.98889
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.75111,
+          38.98889
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Muradiye (Van) (Van)",
+        "time": 1773269155000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-03-11",
+    "date_hour": "22:45:55",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Van"
+  },
+  {
+    "title": "Bayramiç (Çanakkale)",
+    "type": "İlksel",
+    "date": "2026-03-11 22:36:08",
+    "lat": 39.745,
+    "lng": 26.61722,
+    "md": "-.-",
+    "ml": "1.7",
+    "mw": "-.-",
+    "depth": 10.42,
+    "coordinates": [
+      26.61722,
+      39.745
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.61722,
+          39.745
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Bayramiç (Çanakkale) (Çanakkale)",
+        "time": 1773268568000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-03-11",
+    "date_hour": "22:36:08",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Çanakkale"
+  },
+  {
     "title": "Güney (Denizli)",
     "type": "İlksel",
     "date": "2026-03-11 22:00:48",
@@ -18034,41 +18106,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Çanakkale"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2026-03-08 23:22:39",
-    "lat": 39.23139,
-    "lng": 28.14528,
-    "md": "-.-",
-    "ml": "2.7",
-    "mw": "-.-",
-    "depth": 10.09,
-    "coordinates": [
-      28.14528,
-      39.23139
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.14528,
-          39.23139
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1773012159000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-03-08",
-    "date_hour": "23:22:39",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
