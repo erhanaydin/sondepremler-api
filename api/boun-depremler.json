@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-03-12T06:57:27.749Z",
+  "lastUpdate": "2026-03-12T07:46:56.575Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CEVIZLI-AKSEKI (ANTALYA)",
+      "type": "�lksel",
+      "date": "2026.03.12 10:35:37",
+      "lat": 37.1787,
+      "lng": 31.7897,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        31.7897,
+        37.1787
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.7897,
+            37.1787
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "CEVIZLI-AKSEKI (ANTALYA)",
+          "time": "2026.03.12 10:35:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.12",
+      "date_hour": "10:35:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANTALYA"
+    },
+    {
+      "title": "HAMDIYE-GUNEY (DENIZLI)",
+      "type": "�lksel",
+      "date": "2026.03.12 10:14:38",
+      "lat": 38.114,
+      "lng": 28.9538,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "4.2",
+      "coordinates": [
+        28.9538,
+        38.114
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9538,
+            38.114
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "HAMDIYE-GUNEY (DENIZLI)",
+          "time": "2026.03.12 10:14:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.12",
+      "date_hour": "10:14:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "BAKIS-ELBISTAN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.03.08 23:54:55",
-      "lat": 36.6823,
-      "lng": 25.6848,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "2.8",
-      "coordinates": [
-        25.6848,
-        36.6823
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.6848,
-            36.6823
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "EGE DENIZI",
-          "time": "2026.03.08 23:54:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.08",
-      "date_hour": "23:54:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "TAYTAN-SALIHLI (MANISA)",
-      "type": "�lksel",
-      "date": "2026.03.08 23:29:06",
-      "lat": 38.538,
-      "lng": 28.2232,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "3.4",
-      "coordinates": [
-        28.2232,
-        38.538
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2232,
-            38.538
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "TAYTAN-SALIHLI (MANISA)",
-          "time": "2026.03.08 23:29:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.08",
-      "date_hour": "23:29:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
