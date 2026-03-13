@@ -1,5 +1,77 @@
 [
   {
+    "title": "Simav (Kütahya)",
+    "type": "İlksel",
+    "date": "2026-03-13 11:23:25",
+    "lat": 39.25333,
+    "lng": 29.01028,
+    "md": "-.-",
+    "ml": "1.4",
+    "mw": "-.-",
+    "depth": 7.11,
+    "coordinates": [
+      29.01028,
+      39.25333
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.01028,
+          39.25333
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Simav (Kütahya) (Kütahya)",
+        "time": 1773401005000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-03-13",
+    "date_hour": "11:23:25",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
+  },
+  {
+    "title": "Niksar (Tokat)",
+    "type": "İlksel",
+    "date": "2026-03-13 11:19:57",
+    "lat": 40.63944,
+    "lng": 36.78806,
+    "md": "-.-",
+    "ml": "2.2",
+    "mw": "-.-",
+    "depth": 8.14,
+    "coordinates": [
+      36.78806,
+      40.63944
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.78806,
+          40.63944
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Niksar (Tokat) (Tokat)",
+        "time": 1773400797000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-03-13",
+    "date_hour": "11:19:57",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Tokat"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2026-03-13 10:51:16",
@@ -15295,186 +15367,6 @@
     "location_properties": "",
     "date_day": "2026-03-10",
     "date_hour": "12:09:29",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Denizli"
-  },
-  {
-    "title": "Emirdağ (Afyonkarahisar)",
-    "type": "İlksel",
-    "date": "2026-03-10 11:58:50",
-    "lat": 39,
-    "lng": 31.65222,
-    "md": "-.-",
-    "ml": "1.3",
-    "mw": "-.-",
-    "depth": 8.62,
-    "coordinates": [
-      31.65222,
-      39
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.65222,
-          39
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Emirdağ (Afyonkarahisar) (Afyonkarahisar)",
-        "time": 1773143930000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-03-10",
-    "date_hour": "11:58:50",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Afyonkarahisar"
-  },
-  {
-    "title": "Buldan (Denizli)",
-    "type": "İlksel",
-    "date": "2026-03-10 11:58:05",
-    "lat": 38.07944,
-    "lng": 28.97806,
-    "md": "-.-",
-    "ml": "2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.97806,
-      38.07944
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.97806,
-          38.07944
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Buldan (Denizli) (Denizli)",
-        "time": 1773143885000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-03-10",
-    "date_hour": "11:58:05",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Denizli"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2026-03-10 11:47:35",
-    "lat": 39.13889,
-    "lng": 28.22667,
-    "md": "-.-",
-    "ml": "2",
-    "mw": "-.-",
-    "depth": 6.98,
-    "coordinates": [
-      28.22667,
-      39.13889
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.22667,
-          39.13889
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1773143255000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-03-10",
-    "date_hour": "11:47:35",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
-  },
-  {
-    "title": "Akçadağ (Malatya)",
-    "type": "İlksel",
-    "date": "2026-03-10 11:46:50",
-    "lat": 38.51056,
-    "lng": 38.02778,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      38.02778,
-      38.51056
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.02778,
-          38.51056
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akçadağ (Malatya) (Malatya)",
-        "time": 1773143210000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-03-10",
-    "date_hour": "11:46:50",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
-  },
-  {
-    "title": "Güney (Denizli)",
-    "type": "İlksel",
-    "date": "2026-03-10 11:41:13",
-    "lat": 38.08556,
-    "lng": 28.99083,
-    "md": "-.-",
-    "ml": "1",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      28.99083,
-      38.08556
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.99083,
-          38.08556
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Güney (Denizli) (Denizli)",
-        "time": 1773142873000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-03-10",
-    "date_hour": "11:41:13",
     "timestamp": false,
     "location_tz": "",
     "city": "Denizli"
