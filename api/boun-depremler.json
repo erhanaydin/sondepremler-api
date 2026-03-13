@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-03-13T20:45:46.732Z",
+  "lastUpdate": "2026-03-13T21:18:10.210Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "IBILLER-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.03.13 23:40:56",
+      "lat": 39.2517,
+      "lng": 28.1302,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "11.3",
+      "coordinates": [
+        28.1302,
+        39.2517
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1302,
+            39.2517
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "IBILLER-SINDIRGI (BALIKESIR)",
+          "time": "2026.03.13 23:40:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.13",
+      "date_hour": "23:40:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "GUNLUCE-NIKSAR (TOKAT)",
+      "type": "�lksel",
+      "date": "2026.03.13 23:31:28",
+      "lat": 40.606,
+      "lng": 36.792,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        36.792,
+        40.606
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.792,
+            40.606
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "GUNLUCE-NIKSAR (TOKAT)",
+          "time": "2026.03.13 23:31:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.13",
+      "date_hour": "23:31:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "TOKAT"
+    },
     {
       "title": "BUZKOY-NIKSAR (TOKAT)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "HAMDIYE-GUNEY (DENIZLI)",
-      "type": "�lksel",
-      "date": "2026.03.10 15:09:28",
-      "lat": 38.117,
-      "lng": 28.9805,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "9.9",
-      "coordinates": [
-        28.9805,
-        38.117
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9805,
-            38.117
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "HAMDIYE-GUNEY (DENIZLI)",
-          "time": "2026.03.10 15:09:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.10",
-      "date_hour": "15:09:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
-    },
-    {
-      "title": "MAHMUTLU-BULDAN (DENIZLI)",
-      "type": "�lksel",
-      "date": "2026.03.10 14:58:05",
-      "lat": 38.0557,
-      "lng": 28.9893,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "17.3",
-      "coordinates": [
-        28.9893,
-        38.0557
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9893,
-            38.0557
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "MAHMUTLU-BULDAN (DENIZLI)",
-          "time": "2026.03.10 14:58:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.10",
-      "date_hour": "14:58:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
