@@ -1,5 +1,77 @@
 [
   {
+    "title": "Erbaa (Tokat)",
+    "type": "İlksel",
+    "date": "2026-03-14 17:08:09",
+    "lat": 40.65278,
+    "lng": 36.72583,
+    "md": "-.-",
+    "ml": "1.6",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      36.72583,
+      40.65278
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.72583,
+          40.65278
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Erbaa (Tokat) (Tokat)",
+        "time": 1773508089000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-03-14",
+    "date_hour": "17:08:09",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Tokat"
+  },
+  {
+    "title": "Gediz (Kütahya)",
+    "type": "İlksel",
+    "date": "2026-03-14 17:00:26",
+    "lat": 39.11333,
+    "lng": 29.50806,
+    "md": "-.-",
+    "ml": "1",
+    "mw": "-.-",
+    "depth": 6.37,
+    "coordinates": [
+      29.50806,
+      39.11333
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.50806,
+          39.11333
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Gediz (Kütahya) (Kütahya)",
+        "time": 1773507626000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-03-14",
+    "date_hour": "17:00:26",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
+  },
+  {
     "title": "Güney (Denizli)",
     "type": "İlksel",
     "date": "2026-03-14 16:03:05",
@@ -14398,77 +14470,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Denizli"
-  },
-  {
-    "title": "Gemerek (Sivas)",
-    "type": "İlksel",
-    "date": "2026-03-11 17:24:12",
-    "lat": 39.4925,
-    "lng": 35.97389,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 6.84,
-    "coordinates": [
-      35.97389,
-      39.4925
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.97389,
-          39.4925
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Gemerek (Sivas) (Sivas)",
-        "time": 1773249852000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-03-11",
-    "date_hour": "17:24:12",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Sivas"
-  },
-  {
-    "title": "Ege Denizi",
-    "type": "İlksel",
-    "date": "2026-03-11 17:06:11",
-    "lat": 40.16028,
-    "lng": 24.855,
-    "md": "-.-",
-    "ml": "2.6",
-    "mw": "-.-",
-    "depth": 19.4,
-    "coordinates": [
-      24.855,
-      40.16028
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.855,
-          40.16028
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi (Çanakkale)",
-        "time": 1773248771000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-03-11",
-    "date_hour": "17:06:11",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Çanakkale"
   }
 ]
