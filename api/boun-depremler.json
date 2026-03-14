@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-03-14T21:01:56.869Z",
+  "lastUpdate": "2026-03-14T21:35:55.995Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUMBETLI-NIKSAR (TOKAT)",
+      "type": "�lksel",
+      "date": "2026.03.15 00:03:51",
+      "lat": 40.6393,
+      "lng": 36.7872,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "2.9",
+      "depth": "5.4",
+      "coordinates": [
+        36.7872,
+        40.6393
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.7872,
+            40.6393
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "KUMBETLI-NIKSAR (TOKAT)",
+          "time": "2026.03.15 00:03:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.15",
+      "date_hour": "00:03:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "TOKAT"
+    },
+    {
+      "title": "SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.03.15 00:00:29",
+      "lat": 39.2255,
+      "lng": 28.1638,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "12.0",
+      "coordinates": [
+        28.1638,
+        39.2255
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1638,
+            39.2255
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "SINDIRGI (BALIKESIR)",
+          "time": "2026.03.15 00:00:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.15",
+      "date_hour": "00:00:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KOZLU-(BOLU)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "TEPEKOY-HAYMANA (ANKARA)",
-      "type": "�lksel",
-      "date": "2026.03.11 09:59:50",
-      "lat": 39.0533,
-      "lng": 32.5042,
-      "md": "-.-",
-      "ml": "3.9",
-      "mw": "4.2",
-      "depth": "5.5",
-      "coordinates": [
-        32.5042,
-        39.0533
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.5042,
-            39.0533
-          ]
-        },
-        "properties": {
-          "mag": "3.9",
-          "place": "TEPEKOY-HAYMANA (ANKARA)",
-          "time": "2026.03.11 09:59:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.11",
-      "date_hour": "09:59:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
-    },
-    {
-      "title": "ORENLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.03.11 09:39:06",
-      "lat": 39.202,
-      "lng": 28.887,
-      "md": "-.-",
-      "ml": "0.6",
-      "mw": "-.-",
-      "depth": "15.2",
-      "coordinates": [
-        28.887,
-        39.202
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.887,
-            39.202
-          ]
-        },
-        "properties": {
-          "mag": "0.6",
-          "place": "ORENLI-SIMAV (KUTAHYA)",
-          "time": "2026.03.11 09:39:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.11",
-      "date_hour": "09:39:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
