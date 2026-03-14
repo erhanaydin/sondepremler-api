@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-14T22:46:47.442Z",
+  "lastUpdate": "2026-03-14T23:02:48.896Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MENTESE-HONAZ (DENIZLI)",
+      "type": "�lksel",
+      "date": "2026.03.15 01:41:12",
+      "lat": 37.6928,
+      "lng": 29.3052,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "11.3",
+      "coordinates": [
+        29.3052,
+        37.6928
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.3052,
+            37.6928
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "MENTESE-HONAZ (DENIZLI)",
+          "time": "2026.03.15 01:41:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.15",
+      "date_hour": "01:41:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "KORU-GEYVE (SAKARYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.03.11 10:30:05",
-      "lat": 39.0058,
-      "lng": 25.9402,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "4.9",
-      "coordinates": [
-        25.9402,
-        39.0058
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.9402,
-            39.0058
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-          "time": "2026.03.11 10:30:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.11",
-      "date_hour": "10:30:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
