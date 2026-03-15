@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-15T10:15:02.633Z",
+  "lastUpdate": "2026-03-15T10:50:40.287Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2026.03.15 13:10:26",
+      "lat": 35.883,
+      "lng": 23.2807,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "8.4",
+      "coordinates": [
+        23.2807,
+        35.883
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.2807,
+            35.883
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2026.03.15 13:10:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.15",
+      "date_hour": "13:10:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "SAATLI-HAYMANA (ANKARA)",
-      "type": "�lksel",
-      "date": "2026.03.11 18:23:17",
-      "lat": 39.0613,
-      "lng": 32.5407,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "4.9",
-      "coordinates": [
-        32.5407,
-        39.0613
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.5407,
-            39.0613
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "SAATLI-HAYMANA (ANKARA)",
-          "time": "2026.03.11 18:23:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.11",
-      "date_hour": "18:23:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
