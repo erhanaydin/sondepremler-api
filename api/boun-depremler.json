@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-15T18:37:17.669Z",
+  "lastUpdate": "2026-03-15T19:06:43.887Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SEYHYAYLA-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2026.03.15 21:55:58",
+      "lat": 39.0223,
+      "lng": 28.3608,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        28.3608,
+        39.0223
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3608,
+            39.0223
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "SEYHYAYLA-GORDES (MANISA)",
+          "time": "2026.03.15 21:55:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.15",
+      "date_hour": "21:55:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -289,6 +325,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
+    },
+    {
+      "title": "SOGUTLU-FETHIYE (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.03.15 19:51:45",
+      "lat": 36.8477,
+      "lng": 29.2518,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        29.2518,
+        36.8477
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.2518,
+            36.8477
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "SOGUTLU-FETHIYE (MUGLA)",
+          "time": "2026.03.15 19:51:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.15",
+      "date_hour": "19:51:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
     },
     {
       "title": "KARAKAS-ARICAK (ELAZIG)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "YENICEKENT-BULDAN (DENIZLI)",
-      "type": "�lksel",
-      "date": "2026.03.12 06:35:37",
-      "lat": 38.0683,
-      "lng": 28.9548,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        28.9548,
-        38.0683
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9548,
-            38.0683
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "YENICEKENT-BULDAN (DENIZLI)",
-          "time": "2026.03.12 06:35:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.12",
-      "date_hour": "06:35:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
-    },
-    {
-      "title": "BADEMLI-ISPIR (ERZURUM)",
-      "type": "�lksel",
-      "date": "2026.03.12 05:58:53",
-      "lat": 40.4362,
-      "lng": 40.9,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        40.9,
-        40.4362
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.9,
-            40.4362
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "BADEMLI-ISPIR (ERZURUM)",
-          "time": "2026.03.12 05:58:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.12",
-      "date_hour": "05:58:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZURUM"
     }
   ]
 }
