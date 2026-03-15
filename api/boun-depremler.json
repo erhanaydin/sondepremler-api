@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-15T08:49:41.333Z",
+  "lastUpdate": "2026-03-15T09:20:08.581Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "PINARBEYLI-ERBAA (TOKAT)",
+      "type": "�lksel",
+      "date": "2026.03.15 11:32:24",
+      "lat": 40.663,
+      "lng": 36.777,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "11.5",
+      "coordinates": [
+        36.777,
+        40.663
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.777,
+            40.663
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "PINARBEYLI-ERBAA (TOKAT)",
+          "time": "2026.03.15 11:32:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.15",
+      "date_hour": "11:32:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "TOKAT"
+    },
     {
       "title": "SAHINLI-NIKSAR (TOKAT)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "TOKAT"
+    },
+    {
+      "title": "HASBAGLAR-ADAKLI (BINGOL)",
+      "type": "�lksel",
+      "date": "2026.03.15 11:23:44",
+      "lat": 39.1847,
+      "lng": 40.375,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        40.375,
+        39.1847
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.375,
+            39.1847
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "HASBAGLAR-ADAKLI (BINGOL)",
+          "time": "2026.03.15 11:23:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.15",
+      "date_hour": "11:23:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGOL"
     },
     {
       "title": "KORKMAZ-GOKSUN (KAHRAMANMARAS)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BATMAN"
-    },
-    {
-      "title": "HAMDIYE-GUNEY (DENIZLI)",
-      "type": "�lksel",
-      "date": "2026.03.11 17:09:26",
-      "lat": 38.0942,
-      "lng": 28.9725,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "19.3",
-      "coordinates": [
-        28.9725,
-        38.0942
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9725,
-            38.0942
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "HAMDIYE-GUNEY (DENIZLI)",
-          "time": "2026.03.11 17:09:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.11",
-      "date_hour": "17:09:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
-    },
-    {
-      "title": "ISIKLI-MECITOZU (CORUM)",
-      "type": "�lksel",
-      "date": "2026.03.11 17:07:13",
-      "lat": 40.6257,
-      "lng": 35.3748,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "10.4",
-      "coordinates": [
-        35.3748,
-        40.6257
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.3748,
-            40.6257
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ISIKLI-MECITOZU (CORUM)",
-          "time": "2026.03.11 17:07:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.11",
-      "date_hour": "17:07:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CORUM"
     }
   ]
 }

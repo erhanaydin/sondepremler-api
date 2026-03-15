@@ -1,5 +1,41 @@
 [
   {
+    "title": "Akdeniz",
+    "type": "İlksel",
+    "date": "2026-03-15 08:48:22",
+    "lat": 35.81083,
+    "lng": 35.73,
+    "md": "-.-",
+    "ml": "2.1",
+    "mw": "-.-",
+    "depth": 23.06,
+    "coordinates": [
+      35.73,
+      35.81083
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.73,
+          35.81083
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Akdeniz (Hatay)",
+        "time": 1773564502000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-03-15",
+    "date_hour": "08:48:22",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Hatay"
+  },
+  {
     "title": "Niksar (Tokat)",
     "type": "İlksel",
     "date": "2026-03-15 08:25:30",
@@ -14398,41 +14434,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kahramanmaraş"
-  },
-  {
-    "title": "Battalgazi (Malatya)",
-    "type": "İlksel",
-    "date": "2026-03-12 09:18:22",
-    "lat": 38.21806,
-    "lng": 38.48472,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7.04,
-    "coordinates": [
-      38.48472,
-      38.21806
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.48472,
-          38.21806
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Battalgazi (Malatya) (Malatya)",
-        "time": 1773307102000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-03-12",
-    "date_hour": "09:18:22",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
   }
 ]
