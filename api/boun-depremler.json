@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-18T21:53:18.843Z",
+  "lastUpdate": "2026-03-18T22:22:18.572Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "YUKARIULUPINAR-DARENDE (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.03.19 00:11:37",
+      "lat": 38.3563,
+      "lng": 37.5873,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "9.6",
+      "coordinates": [
+        37.5873,
+        38.3563
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.5873,
+            38.3563
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YUKARIULUPINAR-DARENDE (MALATYA)",
+          "time": "2026.03.19 00:11:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.19",
+      "date_hour": "00:11:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
     },
     {
       "title": "DATCA ACIKLARI-MUGLA (EGE DENIZI)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AYAN-ERBAA (TOKAT)",
-      "type": "�lksel",
-      "date": "2026.03.14 01:29:59",
-      "lat": 40.655,
-      "lng": 36.7702,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.5",
-      "coordinates": [
-        36.7702,
-        40.655
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.7702,
-            40.655
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "AYAN-ERBAA (TOKAT)",
-          "time": "2026.03.14 01:29:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.14",
-      "date_hour": "01:29:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TOKAT"
     }
   ]
 }
