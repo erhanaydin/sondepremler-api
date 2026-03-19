@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-19T20:59:38.944Z",
+  "lastUpdate": "2026-03-19T21:42:15.302Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.03.20 00:28:43",
+      "lat": 39.177,
+      "lng": 28.2355,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "9.4",
+      "coordinates": [
+        28.2355,
+        39.177
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2355,
+            39.177
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2026.03.20 00:28:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.20",
+      "date_hour": "00:28:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YONCALIK-KARLIOVA (BINGOL)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BUZKOY-NIKSAR (TOKAT)",
-      "type": "�lksel",
-      "date": "2026.03.14 21:11:34",
-      "lat": 40.6445,
-      "lng": 36.8028,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        36.8028,
-        40.6445
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.8028,
-            40.6445
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "BUZKOY-NIKSAR (TOKAT)",
-          "time": "2026.03.14 21:11:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.14",
-      "date_hour": "21:11:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TOKAT"
     }
   ]
 }
