@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-19T07:11:53.106Z",
+  "lastUpdate": "2026-03-19T07:54:46.861Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.03.19 10:42:43",
+      "lat": 36.4087,
+      "lng": 25.8018,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "9.2",
+      "coordinates": [
+        25.8018,
+        36.4087
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.8018,
+            36.4087
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "EGE DENIZI",
+          "time": "2026.03.19 10:42:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.19",
+      "date_hour": "10:42:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "SOMKAYA-DOGUBAYAZIT (AGRI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2026.03.14 06:00:04",
-      "lat": 33.8495,
-      "lng": 31.184,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "85.9",
-      "coordinates": [
-        31.184,
-        33.8495
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.184,
-            33.8495
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "AKDENIZ",
-          "time": "2026.03.14 06:00:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.14",
-      "date_hour": "06:00:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
