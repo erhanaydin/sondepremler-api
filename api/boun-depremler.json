@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-19T23:37:42.444Z",
+  "lastUpdate": "2026-03-19T23:56:55.775Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.03.20 02:32:33",
+      "lat": 39.216,
+      "lng": 28.1378,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "10.2",
+      "coordinates": [
+        28.1378,
+        39.216
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1378,
+            39.216
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
+          "time": "2026.03.20 02:32:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.20",
+      "date_hour": "02:32:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "TORBALI (IZMIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KOZLU (BOLU)",
-      "type": "�lksel",
-      "date": "2026.03.14 22:38:34",
-      "lat": 40.847,
-      "lng": 31.569,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "12.5",
-      "coordinates": [
-        31.569,
-        40.847
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.569,
-            40.847
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KOZLU (BOLU)",
-          "time": "2026.03.14 22:38:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.14",
-      "date_hour": "22:38:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BOLU"
     }
   ]
 }
