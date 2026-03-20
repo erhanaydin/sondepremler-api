@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-20T13:41:42.088Z",
+  "lastUpdate": "2026-03-20T14:27:51.941Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ORTAKARABAG-BOLVADIN (AFYONKARAHISAR)",
+      "type": "�lksel",
+      "date": "2026.03.20 16:46:39",
+      "lat": 38.6778,
+      "lng": 31.266,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "5.1",
+      "coordinates": [
+        31.266,
+        38.6778
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.266,
+            38.6778
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "ORTAKARABAG-BOLVADIN (AFYONKARAHISAR)",
+          "time": "2026.03.20 16:46:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.20",
+      "date_hour": "16:46:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AFYONKARAHISAR"
+    },
     {
       "title": "EGRIDERE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BUYUKYURT-NIKSAR (TOKAT)",
-      "type": "�lksel",
-      "date": "2026.03.15 14:15:36",
-      "lat": 40.6403,
-      "lng": 37.048,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        37.048,
-        40.6403
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.048,
-            40.6403
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "BUYUKYURT-NIKSAR (TOKAT)",
-          "time": "2026.03.15 14:15:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.15",
-      "date_hour": "14:15:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TOKAT"
     }
   ]
 }
