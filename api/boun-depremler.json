@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-20T20:26:58.411Z",
+  "lastUpdate": "2026-03-20T20:57:10.435Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -253,6 +253,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
+    },
+    {
+      "title": "ESKIKOY-KALECIK (ANKARA)",
+      "type": "�lksel",
+      "date": "2026.03.20 22:19:17",
+      "lat": 40.1333,
+      "lng": 33.3057,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "5.5",
+      "coordinates": [
+        33.3057,
+        40.1333
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.3057,
+            40.1333
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ESKIKOY-KALECIK (ANKARA)",
+          "time": "2026.03.20 22:19:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.20",
+      "date_hour": "22:19:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
     },
     {
       "title": "DEMIRLI-KAMAN (KIRSEHIR)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2026.03.15 21:50:58",
-      "lat": 41.4372,
-      "lng": 24.0255,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "13.7",
-      "coordinates": [
-        24.0255,
-        41.4372
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.0255,
-            41.4372
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "YUNANISTAN",
-          "time": "2026.03.15 21:50:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.15",
-      "date_hour": "21:50:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
