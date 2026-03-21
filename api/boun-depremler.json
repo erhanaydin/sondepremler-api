@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-21T15:57:59.915Z",
+  "lastUpdate": "2026-03-21T16:33:14.746Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.03.21 18:57:38",
+      "lat": 39.1543,
+      "lng": 28.3107,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "11.6",
+      "coordinates": [
+        28.3107,
+        39.1543
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3107,
+            39.1543
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+          "time": "2026.03.21 18:57:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.21",
+      "date_hour": "18:57:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YARAS-(MUGLA)",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "KUP-ALADAG (ADANA)",
+      "type": "�lksel",
+      "date": "2026.03.21 18:01:04",
+      "lat": 37.6952,
+      "lng": 35.3977,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "19.0",
+      "coordinates": [
+        35.3977,
+        37.6952
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.3977,
+            37.6952
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "KUP-ALADAG (ADANA)",
+          "time": "2026.03.21 18:01:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.21",
+      "date_hour": "18:01:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
     },
     {
       "title": "OBRUK-BOR (NIGDE)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZURUM"
-    },
-    {
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2026.03.16 12:42:56",
-      "lat": 35.6655,
-      "lng": 25.3213,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "10.6",
-      "coordinates": [
-        25.3213,
-        35.6655
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.3213,
-            35.6655
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "GIRIT ADASI (AKDENIZ)",
-          "time": "2026.03.16 12:42:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.16",
-      "date_hour": "12:42:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
-    },
-    {
-      "title": "GURCESME-NIKSAR (TOKAT)",
-      "type": "�lksel",
-      "date": "2026.03.16 12:40:37",
-      "lat": 40.5675,
-      "lng": 36.7982,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "1.3",
-      "coordinates": [
-        36.7982,
-        40.5675
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.7982,
-            40.5675
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "GURCESME-NIKSAR (TOKAT)",
-          "time": "2026.03.16 12:40:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.16",
-      "date_hour": "12:40:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TOKAT"
     }
   ]
 }
