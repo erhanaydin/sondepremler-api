@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-21T09:47:28.402Z",
+  "lastUpdate": "2026-03-21T10:00:38.134Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YONCALIK-KARLIOVA (BINGOL)",
+      "type": "�lksel",
+      "date": "2026.03.21 11:51:36",
+      "lat": 39.3408,
+      "lng": 41.094,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "20.1",
+      "coordinates": [
+        41.094,
+        39.3408
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.094,
+            39.3408
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "YONCALIK-KARLIOVA (BINGOL)",
+          "time": "2026.03.21 11:51:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.21",
+      "date_hour": "11:51:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGOL"
+    },
     {
       "title": "OBRUK-BOR (NIGDE)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "NIGDE"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.03.21 11:34:25",
+      "lat": 38.8003,
+      "lng": 25.6313,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "6.1",
+      "coordinates": [
+        25.6313,
+        38.8003
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.6313,
+            38.8003
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "EGE DENIZI",
+          "time": "2026.03.21 11:34:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.21",
+      "date_hour": "11:34:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "AKDENIZ",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.03.16 07:40:19",
-      "lat": 39.1657,
-      "lng": 28.3253,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "12.0",
-      "coordinates": [
-        28.3253,
-        39.1657
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3253,
-            39.1657
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
-          "time": "2026.03.16 07:40:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.16",
-      "date_hour": "07:40:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "SARIKAYA (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2026.03.16 06:52:17",
-      "lat": 37.9685,
-      "lng": 38.172,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        38.172,
-        37.9685
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.172,
-            37.9685
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "SARIKAYA (ADIYAMAN)",
-          "time": "2026.03.16 06:52:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.16",
-      "date_hour": "06:52:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
