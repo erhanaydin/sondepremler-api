@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-21T19:51:09.031Z",
+  "lastUpdate": "2026-03-21T19:59:34.929Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "PLAJKOY-MADEN (ELAZIG)",
+      "type": "�lksel",
+      "date": "2026.03.21 22:34:48",
+      "lat": 38.5083,
+      "lng": 39.5103,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "7.4",
+      "coordinates": [
+        39.5103,
+        38.5083
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.5103,
+            38.5083
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "PLAJKOY-MADEN (ELAZIG)",
+          "time": "2026.03.21 22:34:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.21",
+      "date_hour": "22:34:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "KIZILGUR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADIYAMAN"
-    },
-    {
-      "title": "BESYOL-ECEABAT (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2026.03.16 14:43:15",
-      "lat": 40.3595,
-      "lng": 26.3762,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "12.0",
-      "coordinates": [
-        26.3762,
-        40.3595
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.3762,
-            40.3595
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BESYOL-ECEABAT (CANAKKALE)",
-          "time": "2026.03.16 14:43:15"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.16",
-      "date_hour": "14:43:15",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
