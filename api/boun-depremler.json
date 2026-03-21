@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-21T20:55:16.633Z",
+  "lastUpdate": "2026-03-21T21:19:51.197Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KONAKALMAZ-(ELAZIG)",
+      "type": "�lksel",
+      "date": "2026.03.21 23:58:14",
+      "lat": 38.6355,
+      "lng": 39.6317,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.5",
+      "coordinates": [
+        39.6317,
+        38.6355
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.6317,
+            38.6355
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KONAKALMAZ-(ELAZIG)",
+          "time": "2026.03.21 23:58:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.21",
+      "date_hour": "23:58:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "AVLAGI-YAHYALI (KAYSERI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.03.16 15:57:41",
-      "lat": 39.218,
-      "lng": 28.9828,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "19.8",
-      "coordinates": [
-        28.9828,
-        39.218
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9828,
-            39.218
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2026.03.16 15:57:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.16",
-      "date_hour": "15:57:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
