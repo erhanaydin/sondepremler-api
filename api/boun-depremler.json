@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-21T17:25:08.505Z",
+  "lastUpdate": "2026-03-21T17:48:34.236Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -433,6 +433,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.03.21 16:44:26",
+      "lat": 39.205,
+      "lng": 28.1922,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "15.4",
+      "coordinates": [
+        28.1922,
+        39.205
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1922,
+            39.205
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
+          "time": "2026.03.21 16:44:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.21",
+      "date_hour": "16:44:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
     },
     {
       "title": "ORTATEPE-GOKSUN (KAHRAMANMARAS)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZINCAN"
-    },
-    {
-      "title": "KARINCALIK-BAYRAMIC (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2026.03.16 13:35:52",
-      "lat": 39.9227,
-      "lng": 26.6168,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "2.9",
-      "coordinates": [
-        26.6168,
-        39.9227
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.6168,
-            39.9227
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KARINCALIK-BAYRAMIC (CANAKKALE)",
-          "time": "2026.03.16 13:35:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.16",
-      "date_hour": "13:35:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
