@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-21T19:36:39.119Z",
+  "lastUpdate": "2026-03-21T19:51:09.031Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIZILGUR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.03.21 22:28:06",
+      "lat": 39.2585,
+      "lng": 28.0365,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "10.2",
+      "coordinates": [
+        28.0365,
+        39.2585
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0365,
+            39.2585
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KIZILGUR-SINDIRGI (BALIKESIR)",
+          "time": "2026.03.21 22:28:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.21",
+      "date_hour": "22:28:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "KUCUKMUHSINE-SELCUKLU (KONYA)",
-      "type": "�lksel",
-      "date": "2026.03.16 14:22:56",
-      "lat": 37.9623,
-      "lng": 32.402,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        32.402,
-        37.9623
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.402,
-            37.9623
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KUCUKMUHSINE-SELCUKLU (KONYA)",
-          "time": "2026.03.16 14:22:56"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.16",
-      "date_hour": "14:22:56",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KONYA"
     }
   ]
 }
