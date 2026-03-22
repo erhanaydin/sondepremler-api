@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-22T20:56:58.908Z",
+  "lastUpdate": "2026-03-22T21:26:08.061Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GUNDEGER-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.03.23 00:08:03",
+      "lat": 38.3047,
+      "lng": 38.8347,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.8347,
+        38.3047
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.8347,
+            38.3047
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "GUNDEGER-PUTURGE (MALATYA)",
+          "time": "2026.03.23 00:08:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.23",
+      "date_hour": "00:08:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "KUSKUNKIRAN-CALDIRAN (VAN)",
       "type": "�lksel",
@@ -217,6 +253,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
+    },
+    {
+      "title": "SELCUKLU (KONYA)",
+      "type": "�lksel",
+      "date": "2026.03.22 23:16:09",
+      "lat": 37.9388,
+      "lng": 32.4537,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "7.1",
+      "coordinates": [
+        32.4537,
+        37.9388
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.4537,
+            37.9388
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "SELCUKLU (KONYA)",
+          "time": "2026.03.22 23:16:09"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.22",
+      "date_hour": "23:16:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KONYA"
     },
     {
       "title": "ORTAKLI-AFSIN (KAHRAMANMARAS)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "YOGUNSOGUT-ELBISTAN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.03.17 21:53:09",
-      "lat": 38.3143,
-      "lng": 37.4965,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "13.8",
-      "coordinates": [
-        37.4965,
-        38.3143
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.4965,
-            38.3143
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YOGUNSOGUT-ELBISTAN (KAHRAMANMARAS)",
-          "time": "2026.03.17 21:53:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.17",
-      "date_hour": "21:53:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "SUGUL-DARENDE (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.03.17 21:49:37",
-      "lat": 38.4205,
-      "lng": 37.494,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "7.9",
-      "coordinates": [
-        37.494,
-        38.4205
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.494,
-            38.4205
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "SUGUL-DARENDE (MALATYA)",
-          "time": "2026.03.17 21:49:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.17",
-      "date_hour": "21:49:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
