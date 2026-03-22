@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-03-22T16:16:23.070Z",
+  "lastUpdate": "2026-03-22T16:49:08.735Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.03.22 19:30:30",
+      "lat": 39.18,
+      "lng": 28.1883,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "9.5",
+      "coordinates": [
+        28.1883,
+        39.18
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1883,
+            39.18
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "AKTAS-SINDIRGI (BALIKESIR)",
+          "time": "2026.03.22 19:30:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.22",
+      "date_hour": "19:30:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.03.22 19:15:41",
+      "lat": 39.3567,
+      "lng": 26.0855,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "8.6",
+      "coordinates": [
+        26.0855,
+        39.3567
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.0855,
+            39.3567
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+          "time": "2026.03.22 19:15:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.22",
+      "date_hour": "19:15:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "CERITLER-ALADAG (ADANA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "YAYLASOGUT-ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.03.17 07:57:25",
-      "lat": 37.1635,
-      "lng": 28.5445,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "11.1",
-      "coordinates": [
-        28.5445,
-        37.1635
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.5445,
-            37.1635
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YAYLASOGUT-ULA (MUGLA)",
-          "time": "2026.03.17 07:57:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.17",
-      "date_hour": "07:57:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
-    },
-    {
-      "title": "CUKUROREN-(BOLU)",
-      "type": "�lksel",
-      "date": "2026.03.17 07:36:03",
-      "lat": 40.8332,
-      "lng": 31.649,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "11.6",
-      "coordinates": [
-        31.649,
-        40.8332
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.649,
-            40.8332
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "CUKUROREN-(BOLU)",
-          "time": "2026.03.17 07:36:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.17",
-      "date_hour": "07:36:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BOLU"
     }
   ]
 }
