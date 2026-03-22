@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-22T14:15:39.208Z",
+  "lastUpdate": "2026-03-22T14:47:39.013Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CEYLANDERE-SAMANDAG (HATAY)",
+      "type": "�lksel",
+      "date": "2026.03.22 17:09:45",
+      "lat": 36.2757,
+      "lng": 35.9897,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        35.9897,
+        36.2757
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.9897,
+            36.2757
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "CEYLANDERE-SAMANDAG (HATAY)",
+          "time": "2026.03.22 17:09:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.22",
+      "date_hour": "17:09:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
     {
       "title": "KARAKOCA-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZURUM"
-    },
-    {
-      "title": "KOBAKLAR-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2026.03.17 06:29:53",
-      "lat": 39.0743,
-      "lng": 28.3257,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "9.9",
-      "coordinates": [
-        28.3257,
-        39.0743
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3257,
-            39.0743
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "KOBAKLAR-GORDES (MANISA)",
-          "time": "2026.03.17 06:29:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.17",
-      "date_hour": "06:29:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
