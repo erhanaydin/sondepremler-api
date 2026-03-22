@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-22T10:47:05.492Z",
+  "lastUpdate": "2026-03-22T11:02:20.188Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.03.22 13:41:28",
+      "lat": 39.1735,
+      "lng": 28.2425,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "11.2",
+      "coordinates": [
+        28.2425,
+        39.1735
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2425,
+            39.1735
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+          "time": "2026.03.22 13:41:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.22",
+      "date_hour": "13:41:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SISAM ADASI (EGE DENIZI)",
       "type": "�lksel",
@@ -325,6 +361,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.03.22 12:01:30",
+      "lat": 39.2408,
+      "lng": 29.0143,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "4.1",
+      "coordinates": [
+        29.0143,
+        39.2408
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0143,
+            39.2408
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2026.03.22 12:01:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.22",
+      "date_hour": "12:01:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "DUTLUCA-GORDES (MANISA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.03.17 04:25:17",
-      "lat": 39.1785,
-      "lng": 28.3063,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        28.3063,
-        39.1785
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3063,
-            39.1785
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
-          "time": "2026.03.17 04:25:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.17",
-      "date_hour": "04:25:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "GUNLUCE-NIKSAR (TOKAT)",
-      "type": "�lksel",
-      "date": "2026.03.17 04:20:58",
-      "lat": 40.6175,
-      "lng": 36.7755,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.7",
-      "coordinates": [
-        36.7755,
-        40.6175
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.7755,
-            40.6175
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "GUNLUCE-NIKSAR (TOKAT)",
-          "time": "2026.03.17 04:20:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.17",
-      "date_hour": "04:20:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TOKAT"
     }
   ]
 }
