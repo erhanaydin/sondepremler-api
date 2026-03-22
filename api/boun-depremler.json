@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-22T22:56:44.149Z",
+  "lastUpdate": "2026-03-22T23:26:38.070Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KABAAGAC-SARAYKOY (DENIZLI)",
+      "type": "�lksel",
+      "date": "2026.03.23 02:05:15",
+      "lat": 37.932,
+      "lng": 28.7815,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "13.5",
+      "coordinates": [
+        28.7815,
+        37.932
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.7815,
+            37.932
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KABAAGAC-SARAYKOY (DENIZLI)",
+          "time": "2026.03.23 02:05:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.23",
+      "date_hour": "02:05:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "TOKAT"
-    },
-    {
-      "title": "CAMLICA-(KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.03.17 22:30:34",
-      "lat": 37.9777,
-      "lng": 36.7052,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "14.7",
-      "coordinates": [
-        36.7052,
-        37.9777
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.7052,
-            37.9777
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "CAMLICA-(KAHRAMANMARAS)",
-          "time": "2026.03.17 22:30:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.17",
-      "date_hour": "22:30:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
