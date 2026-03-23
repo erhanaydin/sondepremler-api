@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-23T15:41:45.850Z",
+  "lastUpdate": "2026-03-23T16:35:02.612Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YENIALIBUDAK-KESKIN (KIRIKKALE)",
+      "type": "�lksel",
+      "date": "2026.03.23 18:32:49",
+      "lat": 39.6255,
+      "lng": 33.7215,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        33.7215,
+        39.6255
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.7215,
+            39.6255
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "YENIALIBUDAK-KESKIN (KIRIKKALE)",
+          "time": "2026.03.23 18:32:49"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.23",
+      "date_hour": "18:32:49",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KIRIKKALE"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "TOKAT-HISARCIK (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.03.23 17:00:31",
+      "lat": 39.1853,
+      "lng": 29.0812,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "18.1",
+      "coordinates": [
+        29.0812,
+        39.1853
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0812,
+            39.1853
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "TOKAT-HISARCIK (KUTAHYA)",
+          "time": "2026.03.23 17:00:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.23",
+      "date_hour": "17:00:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
     },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "YALOVA"
-    },
-    {
-      "title": "ORTAKOY-(MUGLA)",
-      "type": "�lksel",
-      "date": "2026.03.18 17:41:25",
-      "lat": 37.2303,
-      "lng": 28.4402,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "4.5",
-      "coordinates": [
-        28.4402,
-        37.2303
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.4402,
-            37.2303
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "ORTAKOY-(MUGLA)",
-          "time": "2026.03.18 17:41:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.18",
-      "date_hour": "17:41:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
-    },
-    {
-      "title": "OSMANBEY-AKYAZI (SAKARYA)",
-      "type": "�lksel",
-      "date": "2026.03.18 17:23:09",
-      "lat": 40.7352,
-      "lng": 30.5998,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "25.1",
-      "coordinates": [
-        30.5998,
-        40.7352
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.5998,
-            40.7352
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "OSMANBEY-AKYAZI (SAKARYA)",
-          "time": "2026.03.18 17:23:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.18",
-      "date_hour": "17:23:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SAKARYA"
     }
   ]
 }
