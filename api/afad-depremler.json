@@ -1,5 +1,41 @@
 [
   {
+    "title": "Simav (Kütahya)",
+    "type": "İlksel",
+    "date": "2026-03-25 20:51:19",
+    "lat": 39.23694,
+    "lng": 29.02194,
+    "md": "-.-",
+    "ml": "1.7",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      29.02194,
+      39.23694
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.02194,
+          39.23694
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Simav (Kütahya) (Kütahya)",
+        "time": 1774471879000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-03-25",
+    "date_hour": "20:51:19",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
+  },
+  {
     "title": "Sivrice (Elazığ)",
     "type": "İlksel",
     "date": "2026-03-25 19:58:33",
@@ -10762,77 +10798,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Mecitözü (Çorum)",
-    "type": "İlksel",
-    "date": "2026-03-22 21:13:18",
-    "lat": 40.69389,
-    "lng": 35.28556,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 6.88,
-    "coordinates": [
-      35.28556,
-      40.69389
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.28556,
-          40.69389
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Mecitözü (Çorum) (Çorum)",
-        "time": 1774213998000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-03-22",
-    "date_hour": "21:13:18",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Çorum"
-  },
-  {
-    "title": "Pütürge (Malatya)",
-    "type": "İlksel",
-    "date": "2026-03-22 21:08:04",
-    "lat": 38.25306,
-    "lng": 38.83556,
-    "md": "-.-",
-    "ml": "1.6",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      38.83556,
-      38.25306
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.83556,
-          38.25306
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Pütürge (Malatya) (Malatya)",
-        "time": 1774213684000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-03-22",
-    "date_hour": "21:08:04",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
   }
 ]
