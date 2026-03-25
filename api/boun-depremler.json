@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-25T10:26:28.716Z",
+  "lastUpdate": "2026-03-25T11:11:39.625Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "OGUZ-KELKIT (GUMUSHANE)",
+      "type": "�lksel",
+      "date": "2026.03.25 13:25:01",
+      "lat": 39.9665,
+      "lng": 39.6302,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "9.4",
+      "coordinates": [
+        39.6302,
+        39.9665
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.6302,
+            39.9665
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "OGUZ-KELKIT (GUMUSHANE)",
+          "time": "2026.03.25 13:25:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.25",
+      "date_hour": "13:25:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "GUMUSHANE"
+    },
     {
       "title": "KARACAOREN-KELKIT (GUMUSHANE)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AFYONKARAHISAR"
-    },
-    {
-      "title": "YESILYURT-NIKSAR (TOKAT)",
-      "type": "�lksel",
-      "date": "2026.03.20 16:33:40",
-      "lat": 40.6105,
-      "lng": 36.875,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "3.0",
-      "coordinates": [
-        36.875,
-        40.6105
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.875,
-            40.6105
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YESILYURT-NIKSAR (TOKAT)",
-          "time": "2026.03.20 16:33:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.20",
-      "date_hour": "16:33:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TOKAT"
     }
   ]
 }
