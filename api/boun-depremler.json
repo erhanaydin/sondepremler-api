@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-26T05:26:14.234Z",
+  "lastUpdate": "2026-03-26T06:43:31.147Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAGUR-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.03.26 08:38:46",
+      "lat": 39.248,
+      "lng": 28.108,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "11.7",
+      "coordinates": [
+        28.108,
+        39.248
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.108,
+            39.248
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KARAGUR-SINDIRGI (BALIKESIR)",
+          "time": "2026.03.26 08:38:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.26",
+      "date_hour": "08:38:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "PINAR-KOYCEGIZ (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.03.21 05:28:48",
-      "lat": 39.207,
-      "lng": 29.0003,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "13.2",
-      "coordinates": [
-        29.0003,
-        39.207
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0003,
-            39.207
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "EGIRLER-SIMAV (KUTAHYA)",
-          "time": "2026.03.21 05:28:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.21",
-      "date_hour": "05:28:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
