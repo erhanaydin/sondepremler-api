@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-26T07:46:20.222Z",
+  "lastUpdate": "2026-03-26T08:34:47.853Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.03.26 11:11:26",
+      "lat": 35.8377,
+      "lng": 29.8368,
+      "md": "-.-",
+      "ml": "3.7",
+      "mw": "3.7",
+      "depth": "9.7",
+      "coordinates": [
+        29.8368,
+        35.8377
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.8368,
+            35.8377
+          ]
+        },
+        "properties": {
+          "mag": "3.7",
+          "place": "AKDENIZ",
+          "time": "2026.03.26 11:11:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.26",
+      "date_hour": "11:11:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "ALINCIK-SIVRICE (ELAZIG)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
+    },
+    {
+      "title": "BADEMLI-AYVACIK (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2026.03.26 09:58:34",
+      "lat": 39.434,
+      "lng": 26.1345,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "11.6",
+      "coordinates": [
+        26.1345,
+        39.434
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.1345,
+            39.434
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "BADEMLI-AYVACIK (CANAKKALE)",
+          "time": "2026.03.26 09:58:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.26",
+      "date_hour": "09:58:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
     },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "GOKOVA-ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.03.21 07:13:00",
-      "lat": 37.05,
-      "lng": 28.3763,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "19.8",
-      "coordinates": [
-        28.3763,
-        37.05
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3763,
-            37.05
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "GOKOVA-ULA (MUGLA)",
-          "time": "2026.03.21 07:13:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.21",
-      "date_hour": "07:13:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
-    },
-    {
-      "title": "CICEKLI-ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.03.21 07:12:08",
-      "lat": 37.0792,
-      "lng": 28.487,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "3.3",
-      "coordinates": [
-        28.487,
-        37.0792
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.487,
-            37.0792
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "CICEKLI-ULA (MUGLA)",
-          "time": "2026.03.21 07:12:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.21",
-      "date_hour": "07:12:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
