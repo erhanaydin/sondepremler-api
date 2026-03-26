@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-26T22:01:28.672Z",
+  "lastUpdate": "2026-03-26T22:41:28.277Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YENILER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.03.27 01:08:17",
+      "lat": 39.2548,
+      "lng": 28.9605,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "13.4",
+      "coordinates": [
+        28.9605,
+        39.2548
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9605,
+            39.2548
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "YENILER-SIMAV (KUTAHYA)",
+          "time": "2026.03.27 01:08:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.27",
+      "date_hour": "01:08:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "TATLAR-NURHAK (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "HAMDIYE-GUNEY (DENIZLI)",
-      "type": "�lksel",
-      "date": "2026.03.22 00:47:26",
-      "lat": 38.0982,
-      "lng": 28.9522,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "6.4",
-      "coordinates": [
-        28.9522,
-        38.0982
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9522,
-            38.0982
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "HAMDIYE-GUNEY (DENIZLI)",
-          "time": "2026.03.22 00:47:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.22",
-      "date_hour": "00:47:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
