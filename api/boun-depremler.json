@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-26T20:47:27.421Z",
+  "lastUpdate": "2026-03-26T21:17:24.646Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2026.03.26 23:52:30",
+      "lat": 40.7967,
+      "lng": 27.7615,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "15.9",
+      "coordinates": [
+        27.7615,
+        40.7967
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.7615,
+            40.7967
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "MARMARA DENIZI",
+          "time": "2026.03.26 23:52:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.26",
+      "date_hour": "23:52:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KONAKALMAZ (ELAZIG)",
-      "type": "�lksel",
-      "date": "2026.03.21 23:58:14",
-      "lat": 38.6355,
-      "lng": 39.6317,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "7.5",
-      "coordinates": [
-        39.6317,
-        38.6355
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.6317,
-            38.6355
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KONAKALMAZ (ELAZIG)",
-          "time": "2026.03.21 23:58:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.21",
-      "date_hour": "23:58:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
