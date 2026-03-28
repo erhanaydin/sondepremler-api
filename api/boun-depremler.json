@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-28T17:01:21.118Z",
+  "lastUpdate": "2026-03-28T17:38:24.037Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "FESLEGEN-MILAS (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.03.28 19:57:56",
+      "lat": 37.0702,
+      "lng": 27.7882,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "12.8",
+      "coordinates": [
+        27.7882,
+        37.0702
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.7882,
+            37.0702
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "FESLEGEN-MILAS (MUGLA)",
+          "time": "2026.03.28 19:57:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.28",
+      "date_hour": "19:57:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "HACET-KIRKAGAC (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "GEBEN-ANDIRIN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.03.23 04:37:23",
-      "lat": 37.833,
-      "lng": 36.4128,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "5.9",
-      "coordinates": [
-        36.4128,
-        37.833
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.4128,
-            37.833
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "GEBEN-ANDIRIN (KAHRAMANMARAS)",
-          "time": "2026.03.23 04:37:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.23",
-      "date_hour": "04:37:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
