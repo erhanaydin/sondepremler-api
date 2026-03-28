@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-28T21:39:04.739Z",
+  "lastUpdate": "2026-03-28T21:57:30.875Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.03.29 00:10:23",
+      "lat": 37.8848,
+      "lng": 26.9527,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "4.9",
+      "coordinates": [
+        26.9527,
+        37.8848
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.9527,
+            37.8848
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2026.03.29 00:10:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.29",
+      "date_hour": "00:10:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "TURGUTLU (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
-    },
-    {
-      "title": "YUKSEKOLUK-TOROSLAR (MERSIN)",
-      "type": "�lksel",
-      "date": "2026.03.23 09:44:00",
-      "lat": 36.9737,
-      "lng": 34.412,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "6.7",
-      "coordinates": [
-        34.412,
-        36.9737
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.412,
-            36.9737
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "YUKSEKOLUK-TOROSLAR (MERSIN)",
-          "time": "2026.03.23 09:44:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.23",
-      "date_hour": "09:44:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
     }
   ]
 }
