@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-28T23:34:07.964Z",
+  "lastUpdate": "2026-03-28T23:57:49.181Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GURCEGIZ-MILAS (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.03.29 02:46:16",
+      "lat": 37.06,
+      "lng": 27.8672,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "9.3",
+      "coordinates": [
+        27.8672,
+        37.06
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.8672,
+            37.06
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "GURCEGIZ-MILAS (MUGLA)",
+          "time": "2026.03.29 02:46:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.29",
+      "date_hour": "02:46:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "CANAKCI-KALE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.03.23 09:58:08",
-      "lat": 39.1808,
-      "lng": 28.16,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        28.16,
-        39.1808
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.16,
-            39.1808
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "SINANDEDE-SINDIRGI (BALIKESIR)",
-          "time": "2026.03.23 09:58:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.23",
-      "date_hour": "09:58:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
