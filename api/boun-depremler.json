@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-29T18:56:55.227Z",
+  "lastUpdate": "2026-03-29T19:31:18.778Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SAROS KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.03.29 22:13:01",
+      "lat": 40.4522,
+      "lng": 26.2648,
+      "md": "-.-",
+      "ml": "0.8",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        26.2648,
+        40.4522
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.2648,
+            40.4522
+          ]
+        },
+        "properties": {
+          "mag": "0.8",
+          "place": "SAROS KORFEZI (EGE DENIZI)",
+          "time": "2026.03.29 22:13:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.29",
+      "date_hour": "22:13:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "GOZPINAR-EKINOZU (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.03.24 01:57:30",
-      "lat": 38.7468,
-      "lng": 26.0645,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "7.2",
-      "coordinates": [
-        26.0645,
-        38.7468
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.0645,
-            38.7468
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "EGE DENIZI",
-          "time": "2026.03.24 01:57:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.24",
-      "date_hour": "01:57:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
