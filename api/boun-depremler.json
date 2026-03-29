@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-29T15:53:48.485Z",
+  "lastUpdate": "2026-03-29T16:24:42.694Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CEVIRME-AKCADAG (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.03.29 18:46:55",
+      "lat": 38.2773,
+      "lng": 37.766,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "7.2",
+      "coordinates": [
+        37.766,
+        38.2773
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.766,
+            38.2773
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "CEVIRME-AKCADAG (MALATYA)",
+          "time": "2026.03.29 18:46:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.29",
+      "date_hour": "18:46:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -145,6 +181,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
+      "type": "�lksel",
+      "date": "2026.03.29 17:22:14",
+      "lat": 40.21,
+      "lng": 31.7575,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "10.0",
+      "coordinates": [
+        31.7575,
+        40.21
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.7575,
+            40.21
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "HIRKATEPE-BEYPAZARI (ANKARA)",
+          "time": "2026.03.29 17:22:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.29",
+      "date_hour": "17:22:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
     },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.03.23 22:33:13",
-      "lat": 39.1623,
-      "lng": 28.2677,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "12.2",
-      "coordinates": [
-        28.2677,
-        39.1623
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2677,
-            39.1623
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "ISIKLAR-SINDIRGI (BALIKESIR)",
-          "time": "2026.03.23 22:33:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.23",
-      "date_hour": "22:33:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "BOZBURUN ACIKLARI-MUGLA (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2026.03.23 22:22:59",
-      "lat": 36.6053,
-      "lng": 28.1862,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "2.6",
-      "depth": "82.3",
-      "coordinates": [
-        28.1862,
-        36.6053
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1862,
-            36.6053
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "BOZBURUN ACIKLARI-MUGLA (AKDENIZ)",
-          "time": "2026.03.23 22:22:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.23",
-      "date_hour": "22:22:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
