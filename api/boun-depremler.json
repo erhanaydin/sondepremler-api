@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-03-30T11:11:21.641Z",
+  "lastUpdate": "2026-03-30T12:04:32.720Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKKOCALI-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2026.03.30 13:56:20",
+      "lat": 39.1733,
+      "lng": 27.9942,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "9.7",
+      "coordinates": [
+        27.9942,
+        39.1733
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9942,
+            39.1733
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "AKKOCALI-AKHISAR (MANISA)",
+          "time": "2026.03.30 13:56:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.30",
+      "date_hour": "13:56:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BINGOL"
-    },
-    {
-      "title": "AKARCA-SEREFLIKOCHISAR (ANKARA)",
-      "type": "�lksel",
-      "date": "2026.03.24 13:55:05",
-      "lat": 39.174,
-      "lng": 33.2298,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "16.3",
-      "coordinates": [
-        33.2298,
-        39.174
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.2298,
-            39.174
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "AKARCA-SEREFLIKOCHISAR (ANKARA)",
-          "time": "2026.03.24 13:55:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.24",
-      "date_hour": "13:55:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
