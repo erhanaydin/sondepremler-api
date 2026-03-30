@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-03-30T21:41:07.798Z",
+  "lastUpdate": "2026-03-30T22:18:14.161Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.03.31 01:04:35",
+      "lat": 34.7568,
+      "lng": 33.842,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "23.7",
+      "coordinates": [
+        33.842,
+        34.7568
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.842,
+            34.7568
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "AKDENIZ",
+          "time": "2026.03.31 01:04:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.31",
+      "date_hour": "01:04:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "AGCASAR-NURHAK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.03.31 00:55:22",
+      "lat": 38.0517,
+      "lng": 37.4162,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        37.4162,
+        38.0517
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.4162,
+            38.0517
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "AGCASAR-NURHAK (KAHRAMANMARAS)",
+          "time": "2026.03.31 00:55:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.31",
+      "date_hour": "00:55:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -505,6 +577,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
+    },
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.03.30 21:17:52",
+      "lat": 37.8138,
+      "lng": 26.9568,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "7.4",
+      "coordinates": [
+        26.9568,
+        37.8138
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.9568,
+            37.8138
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2026.03.30 21:17:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.30",
+      "date_hour": "21:17:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
     },
     {
       "title": "GUNLUCE-NIKSAR (TOKAT)",
@@ -17890,114 +17998,6 @@
       "location_properties": "",
       "date_day": "2026.03.25",
       "date_hour": "07:05:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "AKNEHIR-SAMANDAG (HATAY)",
-      "type": "�lksel",
-      "date": "2026.03.25 06:56:40",
-      "lat": 36.1018,
-      "lng": 36.0603,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        36.0603,
-        36.1018
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.0603,
-            36.1018
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "AKNEHIR-SAMANDAG (HATAY)",
-          "time": "2026.03.25 06:56:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.25",
-      "date_hour": "06:56:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
-    },
-    {
-      "title": "YENIKARABAG-SULTANDAGI (AFYONKARAHISAR)",
-      "type": "�lksel",
-      "date": "2026.03.25 06:35:42",
-      "lat": 38.657,
-      "lng": 31.3143,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "9.0",
-      "coordinates": [
-        31.3143,
-        38.657
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.3143,
-            38.657
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "YENIKARABAG-SULTANDAGI (AFYONKARAHISAR)",
-          "time": "2026.03.25 06:35:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.25",
-      "date_hour": "06:35:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AFYONKARAHISAR"
-    },
-    {
-      "title": "ESENCE-AFSIN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.03.25 06:24:28",
-      "lat": 38.1398,
-      "lng": 36.8595,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "11.4",
-      "coordinates": [
-        36.8595,
-        38.1398
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.8595,
-            38.1398
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ESENCE-AFSIN (KAHRAMANMARAS)",
-          "time": "2026.03.25 06:24:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.25",
-      "date_hour": "06:24:28",
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
