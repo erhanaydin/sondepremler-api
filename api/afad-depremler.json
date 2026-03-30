@@ -1,5 +1,41 @@
 [
   {
+    "title": "Simav (Kütahya)",
+    "type": "İlksel",
+    "date": "2026-03-30 22:48:20",
+    "lat": 39.23417,
+    "lng": 29.01889,
+    "md": "-.-",
+    "ml": "2.5",
+    "mw": "-.-",
+    "depth": 9.39,
+    "coordinates": [
+      29.01889,
+      39.23417
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.01889,
+          39.23417
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Simav (Kütahya) (Kütahya)",
+        "time": 1774910900000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-03-30",
+    "date_hour": "22:48:20",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kütahya"
+  },
+  {
     "title": "Akdeniz",
     "type": "İlksel",
     "date": "2026-03-30 22:04:37",
@@ -10762,41 +10798,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kahramanmaraş"
-  },
-  {
-    "title": "Yenice (Çanakkale)",
-    "type": "İlksel",
-    "date": "2026-03-27 23:18:20",
-    "lat": 39.91806,
-    "lng": 27.50111,
-    "md": "-.-",
-    "ml": "1.9",
-    "mw": "-.-",
-    "depth": 6.99,
-    "coordinates": [
-      27.50111,
-      39.91806
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.50111,
-          39.91806
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Yenice (Çanakkale) (Çanakkale)",
-        "time": 1774653500000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-03-27",
-    "date_hour": "23:18:20",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Çanakkale"
   }
 ]
