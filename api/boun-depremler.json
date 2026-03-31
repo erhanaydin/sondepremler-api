@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-03-31T23:24:41.642Z",
+  "lastUpdate": "2026-03-31T23:55:17.564Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKTAS-(AMASYA)",
+      "type": "�lksel",
+      "date": "2026.04.01 02:28:52",
+      "lat": 40.8202,
+      "lng": 36.0888,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "17.7",
+      "coordinates": [
+        36.0888,
+        40.8202
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.0888,
+            40.8202
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "AKTAS-(AMASYA)",
+          "time": "2026.04.01 02:28:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.01",
+      "date_hour": "02:28:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AMASYA"
+    },
+    {
+      "title": "ESENBEY-AKCADAG (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.04.01 02:22:51",
+      "lat": 38.4705,
+      "lng": 37.7448,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "7.0",
+      "coordinates": [
+        37.7448,
+        38.4705
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.7448,
+            38.4705
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "ESENBEY-AKCADAG (MALATYA)",
+          "time": "2026.04.01 02:22:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.01",
+      "date_hour": "02:22:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "TASLIYURT-PASINLER (ERZURUM)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "POLAT-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.03.26 03:04:17",
-      "lat": 38.1467,
-      "lng": 37.8323,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "13.2",
-      "coordinates": [
-        37.8323,
-        38.1467
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.8323,
-            38.1467
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "POLAT-DOGANSEHIR (MALATYA)",
-          "time": "2026.03.26 03:04:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.26",
-      "date_hour": "03:04:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "INCELER-BOZKURT (DENIZLI)",
-      "type": "�lksel",
-      "date": "2026.03.26 02:58:02",
-      "lat": 37.7265,
-      "lng": 29.6062,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "9.6",
-      "coordinates": [
-        29.6062,
-        37.7265
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.6062,
-            37.7265
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "INCELER-BOZKURT (DENIZLI)",
-          "time": "2026.03.26 02:58:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.26",
-      "date_hour": "02:58:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
