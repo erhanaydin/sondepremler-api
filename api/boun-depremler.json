@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-03-30T23:38:12.098Z",
+  "lastUpdate": "2026-03-31T00:02:53.768Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEGIRMENBELI-(BOLU)",
+      "type": "�lksel",
+      "date": "2026.03.31 02:47:15",
+      "lat": 40.8583,
+      "lng": 31.7828,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        31.7828,
+        40.8583
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.7828,
+            40.8583
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "DEGIRMENBELI-(BOLU)",
+          "time": "2026.03.31 02:47:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.31",
+      "date_hour": "02:47:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BOLU"
+    },
+    {
+      "title": "KAVAKCALI-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.03.31 02:36:22",
+      "lat": 37.083,
+      "lng": 28.6755,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "11.1",
+      "coordinates": [
+        28.6755,
+        37.083
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.6755,
+            37.083
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KAVAKCALI-ULA (MUGLA)",
+          "time": "2026.03.31 02:36:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.03.31",
+      "date_hour": "02:36:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "ALICLIBUCAK-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "CAMLIK-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.03.25 08:01:27",
-      "lat": 39.2772,
-      "lng": 28.7777,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        28.7777,
-        39.2772
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7777,
-            39.2772
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "CAMLIK-SIMAV (KUTAHYA)",
-          "time": "2026.03.25 08:01:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.25",
-      "date_hour": "08:01:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "TASLI-KANGAL (SIVAS)",
-      "type": "�lksel",
-      "date": "2026.03.25 07:31:17",
-      "lat": 39.1012,
-      "lng": 37.8135,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "16.4",
-      "coordinates": [
-        37.8135,
-        39.1012
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.8135,
-            39.1012
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "TASLI-KANGAL (SIVAS)",
-          "time": "2026.03.25 07:31:17"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.25",
-      "date_hour": "07:31:17",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
     }
   ]
 }
