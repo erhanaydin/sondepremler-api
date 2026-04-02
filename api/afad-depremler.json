@@ -1,5 +1,41 @@
 [
   {
+    "title": "Tire (İzmir)",
+    "type": "İlksel",
+    "date": "2026-04-02 20:51:50",
+    "lat": 38.03611,
+    "lng": 27.51778,
+    "md": "-.-",
+    "ml": "1.4",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      27.51778,
+      38.03611
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51778,
+          38.03611
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Tire (İzmir) (İzmir)",
+        "time": 1775163110000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-04-02",
+    "date_hour": "20:51:50",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "İzmir"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2026-04-02 20:29:20",
@@ -11158,77 +11194,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kahramanmaraş"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2026-03-30 21:20:16",
-    "lat": 39.21861,
-    "lng": 28.15389,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 10.92,
-    "coordinates": [
-      28.15389,
-      39.21861
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.15389,
-          39.21861
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1774905616000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-03-30",
-    "date_hour": "21:20:16",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
-  },
-  {
-    "title": "Maden (Elazığ)",
-    "type": "İlksel",
-    "date": "2026-03-30 21:14:42",
-    "lat": 38.46306,
-    "lng": 39.67861,
-    "md": "-.-",
-    "ml": "2.6",
-    "mw": "-.-",
-    "depth": 7.02,
-    "coordinates": [
-      39.67861,
-      38.46306
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.67861,
-          38.46306
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Maden (Elazığ) (Elazığ)",
-        "time": 1774905282000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-03-30",
-    "date_hour": "21:14:42",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Elazığ"
   }
 ]
