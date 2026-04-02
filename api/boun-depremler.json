@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-02T11:27:47.665Z",
+  "lastUpdate": "2026-04-02T12:06:31.737Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ILICA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.04.02 14:41:42",
+      "lat": 39.1975,
+      "lng": 28.2173,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "10.3",
+      "coordinates": [
+        28.2173,
+        39.1975
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2173,
+            39.1975
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "ILICA-SINDIRGI (BALIKESIR)",
+          "time": "2026.04.02 14:41:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.02",
+      "date_hour": "14:41:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "CAYKOY-PUTURGE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "TATLAR-NURHAK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.03.27 00:35:24",
-      "lat": 38.0692,
-      "lng": 37.5457,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        37.5457,
-        38.0692
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.5457,
-            38.0692
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "TATLAR-NURHAK (KAHRAMANMARAS)",
-          "time": "2026.03.27 00:35:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.27",
-      "date_hour": "00:35:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
