@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-04-02T23:26:51.374Z",
+  "lastUpdate": "2026-04-02T23:57:23.315Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.04.03 02:20:26",
+      "lat": 39.238,
+      "lng": 28.998,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "12.9",
+      "coordinates": [
+        28.998,
+        39.238
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.998,
+            39.238
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2026.04.03 02:20:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.03",
+      "date_hour": "02:20:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "GOVDELI-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.04.03 02:07:12",
+      "lat": 38.0443,
+      "lng": 37.6318,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "6.8",
+      "coordinates": [
+        37.6318,
+        38.0443
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.6318,
+            38.0443
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "GOVDELI-DOGANSEHIR (MALATYA)",
+          "time": "2026.04.03 02:07:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.03",
+      "date_hour": "02:07:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KARLIOVA (BINGOL)",
-      "type": "�lksel",
-      "date": "2026.03.27 13:50:36",
-      "lat": 39.3033,
-      "lng": 41.037,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.1",
-      "coordinates": [
-        41.037,
-        39.3033
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            41.037,
-            39.3033
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KARLIOVA (BINGOL)",
-          "time": "2026.03.27 13:50:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.27",
-      "date_hour": "13:50:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
-    },
-    {
-      "title": "BAYIRKOY-MILAS (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.03.27 13:08:37",
-      "lat": 37.1055,
-      "lng": 27.902,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        27.902,
-        37.1055
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.902,
-            37.1055
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "BAYIRKOY-MILAS (MUGLA)",
-          "time": "2026.03.27 13:08:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.27",
-      "date_hour": "13:08:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
