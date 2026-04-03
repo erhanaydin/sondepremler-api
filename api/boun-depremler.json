@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-03T17:00:10.890Z",
+  "lastUpdate": "2026-04-03T17:42:30.385Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.04.03 19:55:24",
+      "lat": 39.2183,
+      "lng": 28.1303,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "9.5",
+      "coordinates": [
+        28.1303,
+        39.2183
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1303,
+            39.2183
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "MANDIRA-SINDIRGI (BALIKESIR)",
+          "time": "2026.04.03 19:55:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.03",
+      "date_hour": "19:55:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "ERDEMLI ACIKLARI-MERSIN (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2026.03.28 12:48:02",
-      "lat": 36.4945,
-      "lng": 34.2797,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "9.0",
-      "coordinates": [
-        34.2797,
-        36.4945
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.2797,
-            36.4945
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ERDEMLI ACIKLARI-MERSIN (AKDENIZ)",
-          "time": "2026.03.28 12:48:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.28",
-      "date_hour": "12:48:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
