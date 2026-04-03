@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-04-03T13:24:08.054Z",
+  "lastUpdate": "2026-04-03T14:09:44.845Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ESENCE-(ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2026.04.03 16:45:33",
+      "lat": 37.8687,
+      "lng": 38.313,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "19.9",
+      "coordinates": [
+        38.313,
+        37.8687
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.313,
+            37.8687
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "ESENCE-(ADIYAMAN)",
+          "time": "2026.04.03 16:45:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.03",
+      "date_hour": "16:45:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
+    },
+    {
+      "title": "KAYALIDERE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.04.03 16:29:20",
+      "lat": 39.242,
+      "lng": 28.9135,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "1.4",
+      "coordinates": [
+        28.9135,
+        39.242
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9135,
+            39.242
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KAYALIDERE-SIMAV (KUTAHYA)",
+          "time": "2026.04.03 16:29:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.03",
+      "date_hour": "16:29:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AYDIN"
-    },
-    {
-      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.03.28 09:32:24",
-      "lat": 38.8793,
-      "lng": 26.6025,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        26.6025,
-        38.8793
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.6025,
-            38.8793
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-          "time": "2026.03.28 09:32:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.28",
-      "date_hour": "09:32:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
-    },
-    {
-      "title": "SAKCAGOZE-NURDAGI (GAZIANTEP)",
-      "type": "�lksel",
-      "date": "2026.03.28 09:17:40",
-      "lat": 37.177,
-      "lng": 36.9435,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "7.7",
-      "coordinates": [
-        36.9435,
-        37.177
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.9435,
-            37.177
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "SAKCAGOZE-NURDAGI (GAZIANTEP)",
-          "time": "2026.03.28 09:17:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.28",
-      "date_hour": "09:17:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "GAZIANTEP"
     }
   ]
 }
