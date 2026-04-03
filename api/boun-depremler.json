@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-04-03T21:31:48.501Z",
+  "lastUpdate": "2026-04-03T21:59:48.210Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AHLATCIK-(KASTAMONU)",
+      "type": "�lksel",
+      "date": "2026.04.04 00:39:46",
+      "lat": 41.356,
+      "lng": 33.5695,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "4.4",
+      "coordinates": [
+        33.5695,
+        41.356
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.5695,
+            41.356
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "AHLATCIK-(KASTAMONU)",
+          "time": "2026.04.04 00:39:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.04",
+      "date_hour": "00:39:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KASTAMONU"
+    },
+    {
+      "title": "IKIZCE-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.04.04 00:32:19",
+      "lat": 38.2992,
+      "lng": 38.2093,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "8.3",
+      "coordinates": [
+        38.2093,
+        38.2992
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.2093,
+            38.2992
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "IKIZCE-YESILYURT (MALATYA)",
+          "time": "2026.04.04 00:32:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.04",
+      "date_hour": "00:32:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "OZLUCE-(MUGLA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KUP-ALADAG (ADANA)",
-      "type": "�lksel",
-      "date": "2026.03.28 17:40:03",
-      "lat": 37.6635,
-      "lng": 35.401,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        35.401,
-        37.6635
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.401,
-            37.6635
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KUP-ALADAG (ADANA)",
-          "time": "2026.03.28 17:40:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.28",
-      "date_hour": "17:40:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
-    },
-    {
-      "title": "KUMBETLI-NIKSAR (TOKAT)",
-      "type": "�lksel",
-      "date": "2026.03.28 17:16:22",
-      "lat": 40.6412,
-      "lng": 36.7723,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "3.8",
-      "coordinates": [
-        36.7723,
-        40.6412
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.7723,
-            40.6412
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "KUMBETLI-NIKSAR (TOKAT)",
-          "time": "2026.03.28 17:16:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.28",
-      "date_hour": "17:16:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TOKAT"
     }
   ]
 }
