@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-04T19:48:14.796Z",
+  "lastUpdate": "2026-04-04T20:02:26.268Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EFIR-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.04.04 22:29:48",
+      "lat": 39.2255,
+      "lng": 28.8118,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "20.2",
+      "coordinates": [
+        28.8118,
+        39.2255
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.8118,
+            39.2255
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "EFIR-SIMAV (KUTAHYA)",
+          "time": "2026.04.04 22:29:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.04",
+      "date_hour": "22:29:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "GAZIEMIR (IZMIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "KISLA-ARGUVAN (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.03.29 14:19:54",
-      "lat": 38.7253,
-      "lng": 38.176,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "15.7",
-      "coordinates": [
-        38.176,
-        38.7253
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.176,
-            38.7253
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KISLA-ARGUVAN (MALATYA)",
-          "time": "2026.03.29 14:19:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.29",
-      "date_hour": "14:19:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
