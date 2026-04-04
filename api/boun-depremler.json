@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-04T09:57:39.348Z",
+  "lastUpdate": "2026-04-04T10:35:36.335Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "IBILLER-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.04.04 12:58:42",
+      "lat": 39.2607,
+      "lng": 28.1178,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "8.6",
+      "coordinates": [
+        28.1178,
+        39.2607
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1178,
+            39.2607
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "IBILLER-SINDIRGI (BALIKESIR)",
+          "time": "2026.04.04 12:58:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.04",
+      "date_hour": "12:58:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "HASSA (HATAY)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "ORTAKARABAG-BOLVADIN (AFYONKARAHISAR)",
-      "type": "�lksel",
-      "date": "2026.03.29 04:03:44",
-      "lat": 38.6858,
-      "lng": 31.2668,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "7.7",
-      "coordinates": [
-        31.2668,
-        38.6858
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.2668,
-            38.6858
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ORTAKARABAG-BOLVADIN (AFYONKARAHISAR)",
-          "time": "2026.03.29 04:03:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.29",
-      "date_hour": "04:03:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AFYONKARAHISAR"
     }
   ]
 }
