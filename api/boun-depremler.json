@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-04-05T14:19:00.604Z",
+  "lastUpdate": "2026-04-05T14:55:59.961Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.04.05 17:19:35",
+      "lat": 39.2308,
+      "lng": 28.9795,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        28.9795,
+        39.2308
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9795,
+            39.2308
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2026.04.05 17:19:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.05",
+      "date_hour": "17:19:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "GOZPINARI-AFSIN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.04.05 17:01:43",
+      "lat": 38.2253,
+      "lng": 36.8497,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "25.9",
+      "coordinates": [
+        36.8497,
+        38.2253
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8497,
+            38.2253
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "GOZPINARI-AFSIN (KAHRAMANMARAS)",
+          "time": "2026.04.05 17:01:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.05",
+      "date_hour": "17:01:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "MECIDIYE-EZINE (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2026.03.30 12:21:28",
-      "lat": 39.8305,
-      "lng": 26.2217,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        26.2217,
-        39.8305
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.2217,
-            39.8305
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "MECIDIYE-EZINE (CANAKKALE)",
-          "time": "2026.03.30 12:21:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.30",
-      "date_hour": "12:21:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
-    },
-    {
-      "title": "CIDE ACIKLARI-KASTAMONU (KARADENIZ)",
-      "type": "�lksel",
-      "date": "2026.03.30 11:52:55",
-      "lat": 42.2862,
-      "lng": 32.8237,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        32.8237,
-        42.2862
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.8237,
-            42.2862
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "CIDE ACIKLARI-KASTAMONU (KARADENIZ)",
-          "time": "2026.03.30 11:52:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.30",
-      "date_hour": "11:52:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KARADENIZ"
     }
   ]
 }
