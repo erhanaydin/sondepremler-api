@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-05T10:56:38.384Z",
+  "lastUpdate": "2026-04-05T11:28:08.777Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YENILER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.04.05 14:14:29",
+      "lat": 39.252,
+      "lng": 28.9428,
+      "md": "-.-",
+      "ml": "3.6",
+      "mw": "3.4",
+      "depth": "7.6",
+      "coordinates": [
+        28.9428,
+        39.252
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9428,
+            39.252
+          ]
+        },
+        "properties": {
+          "mag": "3.6",
+          "place": "YENILER-SIMAV (KUTAHYA)",
+          "time": "2026.04.05 14:14:29"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.05",
+      "date_hour": "14:14:29",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "SUDALAN-GEYVE (SAKARYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "UZUNKOY-(ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2026.03.30 07:45:50",
-      "lat": 37.9427,
-      "lng": 38.1223,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "27.2",
-      "coordinates": [
-        38.1223,
-        37.9427
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.1223,
-            37.9427
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "UZUNKOY-(ADIYAMAN)",
-          "time": "2026.03.30 07:45:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.30",
-      "date_hour": "07:45:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
