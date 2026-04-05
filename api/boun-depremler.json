@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-05T15:28:52.480Z",
+  "lastUpdate": "2026-04-05T15:56:26.984Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KALEMOGLU-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2026.04.05 18:22:07",
+      "lat": 39.0455,
+      "lng": 28.1922,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "3.3",
+      "coordinates": [
+        28.1922,
+        39.0455
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1922,
+            39.0455
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "KALEMOGLU-GORDES (MANISA)",
+          "time": "2026.04.05 18:22:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.05",
+      "date_hour": "18:22:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "KARBASAN-HISARCIK (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KISAC-CERKES (CANKIRI)",
-      "type": "�lksel",
-      "date": "2026.03.30 14:27:33",
-      "lat": 40.7117,
-      "lng": 32.821,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "10.2",
-      "coordinates": [
-        32.821,
-        40.7117
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.821,
-            40.7117
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KISAC-CERKES (CANKIRI)",
-          "time": "2026.03.30 14:27:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.30",
-      "date_hour": "14:27:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANKIRI"
     }
   ]
 }
