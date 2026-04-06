@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-04-06T10:33:07.245Z",
+  "lastUpdate": "2026-04-06T11:28:46.252Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALINCIK-SIVRICE (ELAZIG)",
+      "type": "�lksel",
+      "date": "2026.04.06 13:43:38",
+      "lat": 38.4562,
+      "lng": 39.2342,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "7.6",
+      "coordinates": [
+        39.2342,
+        38.4562
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.2342,
+            38.4562
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "ALINCIK-SIVRICE (ELAZIG)",
+          "time": "2026.04.06 13:43:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.06",
+      "date_hour": "13:43:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
+    {
+      "title": "CITAK-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2026.04.06 13:02:37",
+      "lat": 38.9482,
+      "lng": 28.163,
+      "md": "-.-",
+      "ml": "0.9",
+      "mw": "-.-",
+      "depth": "9.4",
+      "coordinates": [
+        28.163,
+        38.9482
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.163,
+            38.9482
+          ]
+        },
+        "properties": {
+          "mag": "0.9",
+          "place": "CITAK-AKHISAR (MANISA)",
+          "time": "2026.04.06 13:02:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.06",
+      "date_hour": "13:02:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "KOSELER-ULUBEY (USAK)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "TUNCELI"
-    },
-    {
-      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.03.31 11:25:13",
-      "lat": 39.2373,
-      "lng": 28.0468,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "8.8",
-      "coordinates": [
-        28.0468,
-        39.2373
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0468,
-            39.2373
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "ALAKIR-SINDIRGI (BALIKESIR)",
-          "time": "2026.03.31 11:25:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.31",
-      "date_hour": "11:25:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "PALANDOKEN (ERZURUM)",
-      "type": "�lksel",
-      "date": "2026.03.31 11:22:11",
-      "lat": 39.8465,
-      "lng": 41.2907,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "8.3",
-      "coordinates": [
-        41.2907,
-        39.8465
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            41.2907,
-            39.8465
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "PALANDOKEN (ERZURUM)",
-          "time": "2026.03.31 11:22:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.03.31",
-      "date_hour": "11:22:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZURUM"
     }
   ]
 }
