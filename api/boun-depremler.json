@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-04-07T13:56:03.013Z",
+  "lastUpdate": "2026-04-07T15:04:52.876Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KASIKARA-OZALP (VAN)",
+      "type": "�lksel",
+      "date": "2026.04.07 17:12:00",
+      "lat": 38.5485,
+      "lng": 43.978,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "8.7",
+      "coordinates": [
+        43.978,
+        38.5485
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.978,
+            38.5485
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "KASIKARA-OZALP (VAN)",
+          "time": "2026.04.07 17:12:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.07",
+      "date_hour": "17:12:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "VAN"
+    },
+    {
+      "title": "KOZLU-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.04.07 17:02:18",
+      "lat": 39.2298,
+      "lng": 28.0765,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.8",
+      "coordinates": [
+        28.0765,
+        39.2298
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0765,
+            39.2298
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KOZLU-SINDIRGI (BALIKESIR)",
+          "time": "2026.04.07 17:02:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.07",
+      "date_hour": "17:02:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "ONIKI ADALAR (EGE DENIZI)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "AKCIFT-(VAN)",
-      "type": "�lksel",
-      "date": "2026.04.02 05:19:24",
-      "lat": 38.8503,
-      "lng": 43.6098,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "10.8",
-      "coordinates": [
-        43.6098,
-        38.8503
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.6098,
-            38.8503
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "AKCIFT-(VAN)",
-          "time": "2026.04.02 05:19:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.02",
-      "date_hour": "05:19:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "VAN"
-    },
-    {
-      "title": "KARAYAZI (ERZURUM)",
-      "type": "�lksel",
-      "date": "2026.04.02 05:10:26",
-      "lat": 39.7122,
-      "lng": 42.1643,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "8.7",
-      "coordinates": [
-        42.1643,
-        39.7122
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.1643,
-            39.7122
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KARAYAZI (ERZURUM)",
-          "time": "2026.04.02 05:10:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.02",
-      "date_hour": "05:10:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZURUM"
     }
   ]
 }
