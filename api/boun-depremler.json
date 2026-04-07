@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-06T23:40:26.310Z",
+  "lastUpdate": "2026-04-07T00:04:12.586Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BECIN-MILAS (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.04.07 02:42:32",
+      "lat": 37.2535,
+      "lng": 27.7895,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "7.5",
+      "coordinates": [
+        27.7895,
+        37.2535
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.7895,
+            37.2535
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "BECIN-MILAS (MUGLA)",
+          "time": "2026.04.07 02:42:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.07",
+      "date_hour": "02:42:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "HACIKODAL-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -217,6 +253,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "SAZAK-(CORUM)",
+      "type": "�lksel",
+      "date": "2026.04.07 00:54:58",
+      "lat": 40.4027,
+      "lng": 35.083,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "19.7",
+      "coordinates": [
+        35.083,
+        40.4027
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.083,
+            40.4027
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "SAZAK-(CORUM)",
+          "time": "2026.04.07 00:54:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.07",
+      "date_hour": "00:54:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CORUM"
     },
     {
       "title": "HACIOSMANLAR-SERIK (ANTALYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "YENICEKENT-BULDAN (DENIZLI)",
-      "type": "�lksel",
-      "date": "2026.04.01 04:07:55",
-      "lat": 38.0673,
-      "lng": 28.9595,
-      "md": "-.-",
-      "ml": "3.1",
-      "mw": "3.0",
-      "depth": "5.5",
-      "coordinates": [
-        28.9595,
-        38.0673
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9595,
-            38.0673
-          ]
-        },
-        "properties": {
-          "mag": "3.1",
-          "place": "YENICEKENT-BULDAN (DENIZLI)",
-          "time": "2026.04.01 04:07:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.01",
-      "date_hour": "04:07:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
-    },
-    {
-      "title": "KULTAK-MILAS (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.04.01 03:54:45",
-      "lat": 37.0375,
-      "lng": 28.0703,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "15.6",
-      "coordinates": [
-        28.0703,
-        37.0375
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0703,
-            37.0375
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KULTAK-MILAS (MUGLA)",
-          "time": "2026.04.01 03:54:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.01",
-      "date_hour": "03:54:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
