@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-07T17:17:09.058Z",
+  "lastUpdate": "2026-04-07T18:11:29.076Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOLE-CAN (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2026.04.07 20:11:17",
+      "lat": 39.9573,
+      "lng": 26.924,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "10.7",
+      "coordinates": [
+        26.924,
+        39.9573
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.924,
+            39.9573
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "GOLE-CAN (CANAKKALE)",
+          "time": "2026.04.07 20:11:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.07",
+      "date_hour": "20:11:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
     {
       "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "KURUDERE-BORNOVA (IZMIR)",
-      "type": "�lksel",
-      "date": "2026.04.02 09:05:58",
-      "lat": 38.5628,
-      "lng": 27.2227,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "11.2",
-      "coordinates": [
-        27.2227,
-        38.5628
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.2227,
-            38.5628
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KURUDERE-BORNOVA (IZMIR)",
-          "time": "2026.04.02 09:05:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.02",
-      "date_hour": "09:05:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
