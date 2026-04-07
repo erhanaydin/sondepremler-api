@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-07T11:16:01.591Z",
+  "lastUpdate": "2026-04-07T12:04:14.638Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.04.07 14:38:55",
+      "lat": 39.2427,
+      "lng": 28.9757,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "14.2",
+      "coordinates": [
+        28.9757,
+        39.2427
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9757,
+            39.2427
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2026.04.07 14:38:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.07",
+      "date_hour": "14:38:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "TATLAR-NURHAK (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "GURCISTAN",
-      "type": "�lksel",
-      "date": "2026.04.02 00:07:43",
-      "lat": 41.1548,
-      "lng": 43.8522,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "4.6",
-      "coordinates": [
-        43.8522,
-        41.1548
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.8522,
-            41.1548
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "GURCISTAN",
-          "time": "2026.04.02 00:07:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.02",
-      "date_hour": "00:07:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }

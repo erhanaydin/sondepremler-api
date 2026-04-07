@@ -1,5 +1,41 @@
 [
   {
+    "title": "İspir (Erzurum)",
+    "type": "İlksel",
+    "date": "2026-04-07 11:19:03",
+    "lat": 40.67417,
+    "lng": 41.23667,
+    "md": "-.-",
+    "ml": "1.1",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      41.23667,
+      40.67417
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.23667,
+          40.67417
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "İspir (Erzurum) (Erzurum)",
+        "time": 1775560743000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-04-07",
+    "date_hour": "11:19:03",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Erzurum"
+  },
+  {
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2026-04-07 10:59:03",
@@ -14722,77 +14758,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Van"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2026-04-04 11:51:43",
-    "lat": 39.24056,
-    "lng": 28.14528,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 11.55,
-    "coordinates": [
-      28.14528,
-      39.24056
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.14528,
-          39.24056
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1775303503000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-04-04",
-    "date_hour": "11:51:43",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
-  },
-  {
-    "title": "Aladağ (Adana)",
-    "type": "İlksel",
-    "date": "2026-04-04 11:51:27",
-    "lat": 37.6175,
-    "lng": 35.55306,
-    "md": "-.-",
-    "ml": "3.2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      35.55306,
-      37.6175
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.55306,
-          37.6175
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Aladağ (Adana) (Adana)",
-        "time": 1775303487000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-04-04",
-    "date_hour": "11:51:27",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Adana"
   }
 ]
