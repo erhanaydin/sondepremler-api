@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-04-08T20:34:49.529Z",
+  "lastUpdate": "2026-04-08T21:26:11.661Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.04.08 23:52:54",
+      "lat": 36.6463,
+      "lng": 25.7428,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "9.6",
+      "coordinates": [
+        25.7428,
+        36.6463
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.7428,
+            36.6463
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "EGE DENIZI",
+          "time": "2026.04.08 23:52:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.08",
+      "date_hour": "23:52:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "KOBAKLAR-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2026.04.08 23:22:26",
+      "lat": 39.1103,
+      "lng": 28.3782,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "10.1",
+      "coordinates": [
+        28.3782,
+        39.1103
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3782,
+            39.1103
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KOBAKLAR-GORDES (MANISA)",
+          "time": "2026.04.08 23:22:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.08",
+      "date_hour": "23:22:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "KOYUNEVI-AYVACIK (CANAKKALE)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "DARGIL-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2026.04.03 11:03:23",
-      "lat": 39.044,
-      "lng": 28.3385,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "12.2",
-      "coordinates": [
-        28.3385,
-        39.044
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3385,
-            39.044
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "DARGIL-GORDES (MANISA)",
-          "time": "2026.04.03 11:03:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.03",
-      "date_hour": "11:03:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
-    },
-    {
-      "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.04.03 11:01:28",
-      "lat": 39.1348,
-      "lng": 28.3385,
-      "md": "-.-",
-      "ml": "3.2",
-      "mw": "3.0",
-      "depth": "11.5",
-      "coordinates": [
-        28.3385,
-        39.1348
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3385,
-            39.1348
-          ]
-        },
-        "properties": {
-          "mag": "3.2",
-          "place": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
-          "time": "2026.04.03 11:01:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.03",
-      "date_hour": "11:01:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
