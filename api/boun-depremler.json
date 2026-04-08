@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-08T18:55:07.713Z",
+  "lastUpdate": "2026-04-08T19:54:17.718Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ELMALI-YEDISU (BINGOL)",
+      "type": "�lksel",
+      "date": "2026.04.08 22:05:07",
+      "lat": 39.3878,
+      "lng": 40.6618,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "1.7",
+      "coordinates": [
+        40.6618,
+        39.3878
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.6618,
+            39.3878
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "ELMALI-YEDISU (BINGOL)",
+          "time": "2026.04.08 22:05:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.08",
+      "date_hour": "22:05:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BINGOL"
+    },
     {
       "title": "MAHMUTLU-BULDAN (DENIZLI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YARPUZLU-SINCIK (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2026.04.03 10:14:24",
-      "lat": 38.0848,
-      "lng": 38.517,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "7.7",
-      "coordinates": [
-        38.517,
-        38.0848
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.517,
-            38.0848
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YARPUZLU-SINCIK (ADIYAMAN)",
-          "time": "2026.04.03 10:14:24"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.03",
-      "date_hour": "10:14:24",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
