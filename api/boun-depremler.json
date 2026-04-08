@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-08T09:36:55.722Z",
+  "lastUpdate": "2026-04-08T10:39:58.007Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "OZBOYNUINCELI-SILIFKE (MERSIN)",
+      "type": "�lksel",
+      "date": "2026.04.08 12:36:32",
+      "lat": 36.9728,
+      "lng": 33.7217,
+      "md": "-.-",
+      "ml": "3.0",
+      "mw": "-.-",
+      "depth": "10.8",
+      "coordinates": [
+        33.7217,
+        36.9728
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.7217,
+            36.9728
+          ]
+        },
+        "properties": {
+          "mag": "3.0",
+          "place": "OZBOYNUINCELI-SILIFKE (MERSIN)",
+          "time": "2026.04.08 12:36:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.08",
+      "date_hour": "12:36:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MERSIN"
+    },
     {
       "title": "CARIKLAR-GERMENCIK (AYDIN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "GOVDELI-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.04.03 02:07:12",
-      "lat": 38.0443,
-      "lng": 37.6318,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "6.8",
-      "coordinates": [
-        37.6318,
-        38.0443
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.6318,
-            38.0443
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "GOVDELI-DOGANSEHIR (MALATYA)",
-          "time": "2026.04.03 02:07:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.03",
-      "date_hour": "02:07:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
