@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-10T15:29:59.945Z",
+  "lastUpdate": "2026-04-10T16:28:39.498Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BEYOGLU-TURKOGLU (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.04.10 17:47:57",
+      "lat": 37.2882,
+      "lng": 36.8042,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "11.5",
+      "coordinates": [
+        36.8042,
+        37.2882
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8042,
+            37.2882
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "BEYOGLU-TURKOGLU (KAHRAMANMARAS)",
+          "time": "2026.04.10 17:47:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.10",
+      "date_hour": "17:47:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "YALOVA"
-    },
-    {
-      "title": "ULAS-MILAS (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.04.05 05:28:07",
-      "lat": 37.2187,
-      "lng": 27.8103,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "14.5",
-      "coordinates": [
-        27.8103,
-        37.2187
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.8103,
-            37.2187
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ULAS-MILAS (MUGLA)",
-          "time": "2026.04.05 05:28:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.05",
-      "date_hour": "05:28:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
