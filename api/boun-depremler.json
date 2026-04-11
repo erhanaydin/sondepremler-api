@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-04-11T20:41:38.198Z",
+  "lastUpdate": "2026-04-11T21:04:26.270Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.04.11 23:48:46",
+      "lat": 39.1825,
+      "lng": 28.986,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "12.6",
+      "coordinates": [
+        28.986,
+        39.1825
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.986,
+            39.1825
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2026.04.11 23:48:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.11",
+      "date_hour": "23:48:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "GELINDERE-SIVRICE (ELAZIG)",
+      "type": "�lksel",
+      "date": "2026.04.11 23:41:31",
+      "lat": 38.389,
+      "lng": 38.9333,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        38.9333,
+        38.389
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.9333,
+            38.389
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "GELINDERE-SIVRICE (ELAZIG)",
+          "time": "2026.04.11 23:41:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.11",
+      "date_hour": "23:41:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "ASLANYAKA-MILAS (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.04.07 09:45:06",
-      "lat": 37.2323,
-      "lng": 27.7925,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "7.4",
-      "coordinates": [
-        27.7925,
-        37.2323
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7925,
-            37.2323
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ASLANYAKA-MILAS (MUGLA)",
-          "time": "2026.04.07 09:45:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.07",
-      "date_hour": "09:45:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
-    },
-    {
-      "title": "BAGISLAR-(BOLU)",
-      "type": "�lksel",
-      "date": "2026.04.07 09:32:23",
-      "lat": 40.8423,
-      "lng": 31.7468,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "10.8",
-      "coordinates": [
-        31.7468,
-        40.8423
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.7468,
-            40.8423
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "BAGISLAR-(BOLU)",
-          "time": "2026.04.07 09:32:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.07",
-      "date_hour": "09:32:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BOLU"
     }
   ]
 }
