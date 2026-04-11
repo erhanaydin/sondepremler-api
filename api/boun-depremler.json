@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-11T08:51:54.020Z",
+  "lastUpdate": "2026-04-11T09:28:09.347Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEGIRMENDERE-ALANYA (ANTALYA)",
+      "type": "�lksel",
+      "date": "2026.04.11 11:57:47",
+      "lat": 36.5788,
+      "lng": 32.0485,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "2.9",
+      "coordinates": [
+        32.0485,
+        36.5788
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.0485,
+            36.5788
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "DEGIRMENDERE-ALANYA (ANTALYA)",
+          "time": "2026.04.11 11:57:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.11",
+      "date_hour": "11:57:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANTALYA"
+    },
     {
       "title": "TUZLA (ISTANBUL)",
       "type": "�lksel",
@@ -34,6 +70,42 @@
       "location_properties": "",
       "date_day": "2026.04.11",
       "date_hour": "10:59:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ISTANBUL"
+    },
+    {
+      "title": "TUZLA (ISTANBUL)",
+      "type": "�lksel",
+      "date": "2026.04.11 10:57:28",
+      "lat": 40.8285,
+      "lng": 29.2852,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "8.7",
+      "coordinates": [
+        29.2852,
+        40.8285
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.2852,
+            40.8285
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "TUZLA (ISTANBUL)",
+          "time": "2026.04.11 10:57:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.11",
+      "date_hour": "10:57:28",
       "timestamp": false,
       "location_tz": "",
       "city": "ISTANBUL"
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KUMBETLI-NIKSAR (TOKAT)",
-      "type": "�lksel",
-      "date": "2026.04.05 23:27:03",
-      "lat": 40.6153,
-      "lng": 36.7568,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "7.0",
-      "coordinates": [
-        36.7568,
-        40.6153
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.7568,
-            40.6153
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KUMBETLI-NIKSAR (TOKAT)",
-          "time": "2026.04.05 23:27:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.05",
-      "date_hour": "23:27:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TOKAT"
-    },
-    {
-      "title": "OCAKBASI-ERBAA (TOKAT)",
-      "type": "�lksel",
-      "date": "2026.04.05 23:12:42",
-      "lat": 40.6092,
-      "lng": 36.684,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        36.684,
-        40.6092
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.684,
-            40.6092
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "OCAKBASI-ERBAA (TOKAT)",
-          "time": "2026.04.05 23:12:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.05",
-      "date_hour": "23:12:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TOKAT"
     }
   ]
 }
