@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-04-12T18:32:10.252Z",
+  "lastUpdate": "2026-04-12T19:24:10.853Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.04.12 21:51:48",
+      "lat": 39.2435,
+      "lng": 28.9842,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "15.0",
+      "coordinates": [
+        28.9842,
+        39.2435
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9842,
+            39.2435
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2026.04.12 21:51:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.12",
+      "date_hour": "21:51:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2026.04.12 21:27:50",
+      "lat": 40.7547,
+      "lng": 27.6837,
+      "md": "-.-",
+      "ml": "0.3",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        27.6837,
+        40.7547
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.6837,
+            40.7547
+          ]
+        },
+        "properties": {
+          "mag": "0.3",
+          "place": "MARMARA DENIZI",
+          "time": "2026.04.12 21:27:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.12",
+      "date_hour": "21:27:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "DANAMANDIRA-SILIVRI (ISTANBUL)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.04.09 23:01:57",
-      "lat": 36.3372,
-      "lng": 24.2762,
-      "md": "-.-",
-      "ml": "2.9",
-      "mw": "-.-",
-      "depth": "12.0",
-      "coordinates": [
-        24.2762,
-        36.3372
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.2762,
-            36.3372
-          ]
-        },
-        "properties": {
-          "mag": "2.9",
-          "place": "EGE DENIZI",
-          "time": "2026.04.09 23:01:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.09",
-      "date_hour": "23:01:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "GOVDELI-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.04.09 22:58:44",
-      "lat": 38.037,
-      "lng": 37.593,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "3.0",
-      "coordinates": [
-        37.593,
-        38.037
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.593,
-            38.037
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "GOVDELI-DOGANSEHIR (MALATYA)",
-          "time": "2026.04.09 22:58:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.09",
-      "date_hour": "22:58:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
