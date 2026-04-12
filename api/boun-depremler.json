@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-12T17:17:37.242Z",
+  "lastUpdate": "2026-04-12T17:53:24.748Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.04.12 20:26:20",
+      "lat": 37.8852,
+      "lng": 36.4638,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "8.5",
+      "coordinates": [
+        36.4638,
+        37.8852
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.4638,
+            37.8852
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)",
+          "time": "2026.04.12 20:26:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.12",
+      "date_hour": "20:26:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "EGIRLER-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "EYUPLU-SAIMBEYLI (ADANA)",
-      "type": "�lksel",
-      "date": "2026.04.09 22:37:47",
-      "lat": 37.9027,
-      "lng": 36.1757,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        36.1757,
-        37.9027
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.1757,
-            37.9027
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "EYUPLU-SAIMBEYLI (ADANA)",
-          "time": "2026.04.09 22:37:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.09",
-      "date_hour": "22:37:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
