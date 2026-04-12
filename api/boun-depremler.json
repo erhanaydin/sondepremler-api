@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-12T22:56:38.323Z",
+  "lastUpdate": "2026-04-12T23:33:25.120Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -34,6 +34,42 @@
       "location_properties": "",
       "date_day": "2026.04.13",
       "date_hour": "01:35:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.04.13 01:24:35",
+      "lat": 39.249,
+      "lng": 29.0008,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "4.9",
+      "coordinates": [
+        29.0008,
+        39.249
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0008,
+            39.249
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2026.04.13 01:24:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.13",
+      "date_hour": "01:24:35",
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "DEMIRCILI-URLA (IZMIR)",
-      "type": "�lksel",
-      "date": "2026.04.10 01:44:18",
-      "lat": 38.199,
-      "lng": 26.6867,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "8.4",
-      "coordinates": [
-        26.6867,
-        38.199
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.6867,
-            38.199
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "DEMIRCILI-URLA (IZMIR)",
-          "time": "2026.04.10 01:44:18"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.10",
-      "date_hour": "01:44:18",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
