@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-12T23:33:25.120Z",
+  "lastUpdate": "2026-04-13T00:03:09.288Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIZILAGIL-(BOLU)",
+      "type": "�lksel",
+      "date": "2026.04.13 02:29:39",
+      "lat": 40.8258,
+      "lng": 31.5225,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        31.5225,
+        40.8258
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.5225,
+            40.8258
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "KIZILAGIL-(BOLU)",
+          "time": "2026.04.13 02:29:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.13",
+      "date_hour": "02:29:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BOLU"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -145,6 +181,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "KARADENIZ",
+      "type": "�lksel",
+      "date": "2026.04.13 00:53:13",
+      "lat": 43.2292,
+      "lng": 29.7325,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "30.2",
+      "coordinates": [
+        29.7325,
+        43.2292
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.7325,
+            43.2292
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "KARADENIZ",
+          "time": "2026.04.13 00:53:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.13",
+      "date_hour": "00:53:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "TUZLA (ISTANBUL)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.04.10 01:56:39",
-      "lat": 39.2508,
-      "lng": 29.0067,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "11.2",
-      "coordinates": [
-        29.0067,
-        39.2508
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0067,
-            39.2508
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2026.04.10 01:56:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.10",
-      "date_hour": "01:56:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "KARAHUYUK-PAZARCIK (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.04.10 01:52:21",
-      "lat": 37.2925,
-      "lng": 37.052,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "6.6",
-      "coordinates": [
-        37.052,
-        37.2925
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.052,
-            37.2925
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KARAHUYUK-PAZARCIK (KAHRAMANMARAS)",
-          "time": "2026.04.10 01:52:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.10",
-      "date_hour": "01:52:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
