@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-15T15:12:38.957Z",
+  "lastUpdate": "2026-04-15T16:14:42.218Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SEYITOREN-BOZOVA (SANLIURFA)",
+      "type": "�lksel",
+      "date": "2026.04.15 18:24:01",
+      "lat": 37.2987,
+      "lng": 38.5805,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "2.4",
+      "coordinates": [
+        38.5805,
+        37.2987
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.5805,
+            37.2987
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "SEYITOREN-BOZOVA (SANLIURFA)",
+          "time": "2026.04.15 18:24:01"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.15",
+      "date_hour": "18:24:01",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SANLIURFA"
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -73,6 +109,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
+    },
+    {
+      "title": "GURSU-CAMELI (DENIZLI)",
+      "type": "�lksel",
+      "date": "2026.04.15 17:02:37",
+      "lat": 36.9137,
+      "lng": 29.2995,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "6.9",
+      "coordinates": [
+        29.2995,
+        36.9137
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.2995,
+            36.9137
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "GURSU-CAMELI (DENIZLI)",
+          "time": "2026.04.15 17:02:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.15",
+      "date_hour": "17:02:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
     },
     {
       "title": "BAYRAMDERE ACIKLARI-BURSA (MARMARA DENIZI)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "HAMZABEY-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.04.11 20:44:43",
-      "lat": 39.214,
-      "lng": 28.9402,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "17.1",
-      "coordinates": [
-        28.9402,
-        39.214
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9402,
-            39.214
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "HAMZABEY-SIMAV (KUTAHYA)",
-          "time": "2026.04.11 20:44:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.11",
-      "date_hour": "20:44:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "KARABAYIR-CAMELI (DENIZLI)",
-      "type": "�lksel",
-      "date": "2026.04.11 20:42:14",
-      "lat": 36.9263,
-      "lng": 29.1047,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "7.5",
-      "coordinates": [
-        29.1047,
-        36.9263
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1047,
-            36.9263
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "KARABAYIR-CAMELI (DENIZLI)",
-          "time": "2026.04.11 20:42:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.11",
-      "date_hour": "20:42:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
