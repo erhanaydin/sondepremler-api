@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-17T19:13:37.430Z",
+  "lastUpdate": "2026-04-17T20:02:56.105Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2026.04.17 22:09:13",
+      "lat": 40.7942,
+      "lng": 28.1212,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "7.2",
+      "coordinates": [
+        28.1212,
+        40.7942
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1212,
+            40.7942
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "MARMARA DENIZI",
+          "time": "2026.04.17 22:09:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.17",
+      "date_hour": "22:09:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "ASLIHANTEPECIGI-(BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KUCUKLU-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.04.12 18:38:27",
-      "lat": 38.0168,
-      "lng": 37.6818,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "8.1",
-      "coordinates": [
-        37.6818,
-        38.0168
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.6818,
-            38.0168
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KUCUKLU-DOGANSEHIR (MALATYA)",
-          "time": "2026.04.12 18:38:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.12",
-      "date_hour": "18:38:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
