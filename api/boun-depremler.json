@@ -1,7 +1,115 @@
 {
-  "lastUpdate": "2026-04-18T10:07:21.500Z",
+  "lastUpdate": "2026-04-18T10:57:40.363Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAYNAR-(KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.04.18 13:29:06",
+      "lat": 37.772,
+      "lng": 36.6138,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "6.4",
+      "coordinates": [
+        36.6138,
+        37.772
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.6138,
+            37.772
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "KAYNAR-(KAHRAMANMARAS)",
+          "time": "2026.04.18 13:29:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.18",
+      "date_hour": "13:29:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.04.18 13:08:23",
+      "lat": 36.662,
+      "lng": 25.76,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "4.1",
+      "coordinates": [
+        25.76,
+        36.662
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.76,
+            36.662
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "EGE DENIZI",
+          "time": "2026.04.18 13:08:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.18",
+      "date_hour": "13:08:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "ISIKLAR-BIGADIC (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.04.18 12:59:06",
+      "lat": 39.4335,
+      "lng": 28.1243,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "9.1",
+      "coordinates": [
+        28.1243,
+        39.4335
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1243,
+            39.4335
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "ISIKLAR-BIGADIC (BALIKESIR)",
+          "time": "2026.04.18 12:59:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.18",
+      "date_hour": "12:59:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "AKDERE-SILIFKE (MERSIN)",
       "type": "�lksel",
@@ -37,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MERSIN"
+    },
+    {
+      "title": "KIBRIS-TUZLA",
+      "type": "�lksel",
+      "date": "2026.04.18 12:38:11",
+      "lat": 35.1663,
+      "lng": 33.8068,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "39.6",
+      "coordinates": [
+        33.8068,
+        35.1663
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.8068,
+            35.1663
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "KIBRIS-TUZLA",
+          "time": "2026.04.18 12:38:11"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.18",
+      "date_hour": "12:38:11",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "KUCUKCAMILI-BALA (ANKARA)",
@@ -145,6 +289,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "SIGIRLIHACI-CUBUK (ANKARA)",
+      "type": "�lksel",
+      "date": "2026.04.18 12:04:42",
+      "lat": 40.192,
+      "lng": 32.9772,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.9",
+      "coordinates": [
+        32.9772,
+        40.192
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.9772,
+            40.192
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "SIGIRLIHACI-CUBUK (ANKARA)",
+          "time": "2026.04.18 12:04:42"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.18",
+      "date_hour": "12:04:42",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
     },
     {
       "title": "AYDOGMUS-CAY (AFYONKARAHISAR)",
@@ -17821,186 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KUYUCAK-(MUGLA)",
-      "type": "�lksel",
-      "date": "2026.04.13 08:24:21",
-      "lat": 37.0703,
-      "lng": 28.279,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "10.2",
-      "coordinates": [
-        28.279,
-        37.0703
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.279,
-            37.0703
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KUYUCAK-(MUGLA)",
-          "time": "2026.04.13 08:24:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.13",
-      "date_hour": "08:24:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.04.13 08:16:06",
-      "lat": 39.2493,
-      "lng": 28.9975,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        28.9975,
-        39.2493
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9975,
-            39.2493
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2026.04.13 08:16:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.13",
-      "date_hour": "08:16:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "PIRAHMETLER-(BOLU)",
-      "type": "�lksel",
-      "date": "2026.04.13 07:51:36",
-      "lat": 40.763,
-      "lng": 31.5777,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        31.5777,
-        40.763
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.5777,
-            40.763
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "PIRAHMETLER-(BOLU)",
-          "time": "2026.04.13 07:51:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.13",
-      "date_hour": "07:51:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BOLU"
-    },
-    {
-      "title": "ONIKI ADALAR (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.04.13 07:42:10",
-      "lat": 36.0955,
-      "lng": 27.3072,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "9.5",
-      "coordinates": [
-        27.3072,
-        36.0955
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.3072,
-            36.0955
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "ONIKI ADALAR (EGE DENIZI)",
-          "time": "2026.04.13 07:42:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.13",
-      "date_hour": "07:42:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2026.04.13 07:22:14",
-      "lat": 35.8965,
-      "lng": 28.1215,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "9.1",
-      "coordinates": [
-        28.1215,
-        35.8965
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1215,
-            35.8965
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "AKDENIZ",
-          "time": "2026.04.13 07:22:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.13",
-      "date_hour": "07:22:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
