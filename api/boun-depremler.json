@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-19T19:05:18.171Z",
+  "lastUpdate": "2026-04-19T19:49:44.670Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -147,6 +147,42 @@
       "city": "KAHRAMANMARAS"
     },
     {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.04.19 19:42:53",
+      "lat": 36.7355,
+      "lng": 25.5907,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        25.5907,
+        36.7355
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.5907,
+            36.7355
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "EGE DENIZI",
+          "time": "2026.04.19 19:42:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.19",
+      "date_hour": "19:42:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
       "title": "AKDAMAR-TEKMAN (ERZURUM)",
       "type": "�lksel",
       "date": "2026.04.19 19:40:18",
@@ -253,6 +289,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.04.19 18:40:13",
+      "lat": 36.4298,
+      "lng": 24.2617,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "10.6",
+      "coordinates": [
+        24.2617,
+        36.4298
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.2617,
+            36.4298
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "EGE DENIZI",
+          "time": "2026.04.19 18:40:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.19",
+      "date_hour": "18:40:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "ATALAR-YESILYURT (MALATYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "BAYIRBASI-YESILOVA (BURDUR)",
-      "type": "�lksel",
-      "date": "2026.04.14 03:01:45",
-      "lat": 37.5017,
-      "lng": 29.818,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "2.9",
-      "depth": "12.5",
-      "coordinates": [
-        29.818,
-        37.5017
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.818,
-            37.5017
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "BAYIRBASI-YESILOVA (BURDUR)",
-          "time": "2026.04.14 03:01:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.14",
-      "date_hour": "03:01:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURDUR"
-    },
-    {
-      "title": "SAZLIPINAR-(ERZINCAN)",
-      "type": "�lksel",
-      "date": "2026.04.14 02:28:32",
-      "lat": 39.6425,
-      "lng": 39.6213,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "3.1",
-      "coordinates": [
-        39.6213,
-        39.6425
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.6213,
-            39.6425
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "SAZLIPINAR-(ERZINCAN)",
-          "time": "2026.04.14 02:28:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.14",
-      "date_hour": "02:28:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
     }
   ]
 }
