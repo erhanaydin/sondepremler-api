@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-04-20T22:02:20.531Z",
+  "lastUpdate": "2026-04-20T22:56:52.105Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKKOCALI-AKHISAR (MANISA)",
+      "type": "�lksel",
+      "date": "2026.04.21 01:13:56",
+      "lat": 39.1955,
+      "lng": 27.9843,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "12.6",
+      "coordinates": [
+        27.9843,
+        39.1955
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9843,
+            39.1955
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "AKKOCALI-AKHISAR (MANISA)",
+          "time": "2026.04.21 01:13:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.21",
+      "date_hour": "01:13:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
+    {
+      "title": "HASANLAR-HISARCIK (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.04.21 01:08:54",
+      "lat": 39.2765,
+      "lng": 29.206,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        29.206,
+        39.2765
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.206,
+            39.2765
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "HASANLAR-HISARCIK (KUTAHYA)",
+          "time": "2026.04.21 01:08:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.21",
+      "date_hour": "01:08:54",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "SAVRAN-GOLBASI (ADIYAMAN)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SANLIURFA"
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.04.15 00:25:52",
-      "lat": 39.2022,
-      "lng": 28.15,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "7.4",
-      "coordinates": [
-        28.15,
-        39.2022
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.15,
-            39.2022
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2026.04.15 00:25:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.15",
-      "date_hour": "00:25:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "KINIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.04.15 00:18:47",
-      "lat": 39.096,
-      "lng": 28.2073,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "12.1",
-      "coordinates": [
-        28.2073,
-        39.096
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2073,
-            39.096
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KINIK-SINDIRGI (BALIKESIR)",
-          "time": "2026.04.15 00:18:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.15",
-      "date_hour": "00:18:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
