@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-21T11:57:29.753Z",
+  "lastUpdate": "2026-04-21T13:42:48.861Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2026.04.21 14:11:33",
+      "lat": 34.9635,
+      "lng": 25.9352,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "2.1",
+      "coordinates": [
+        25.9352,
+        34.9635
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.9352,
+            34.9635
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2026.04.21 14:11:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.21",
+      "date_hour": "14:11:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "GOKDERE-ERZIN (HATAY)",
-      "type": "�lksel",
-      "date": "2026.04.15 14:24:25",
-      "lat": 37.009,
-      "lng": 36.223,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "15.4",
-      "coordinates": [
-        36.223,
-        37.009
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.223,
-            37.009
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "GOKDERE-ERZIN (HATAY)",
-          "time": "2026.04.15 14:24:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.15",
-      "date_hour": "14:24:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "HATAY"
     }
   ]
 }
