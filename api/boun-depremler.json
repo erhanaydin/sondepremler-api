@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-21T13:42:48.861Z",
+  "lastUpdate": "2026-04-21T15:00:49.367Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BOZTAHTA-KOZAN (ADANA)",
+      "type": "�lksel",
+      "date": "2026.04.21 17:05:06",
+      "lat": 37.6443,
+      "lng": 36.0102,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "8.3",
+      "coordinates": [
+        36.0102,
+        37.6443
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.0102,
+            37.6443
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "BOZTAHTA-KOZAN (ADANA)",
+          "time": "2026.04.21 17:05:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.21",
+      "date_hour": "17:05:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "GIRIT ADASI (AKDENIZ)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "KARAPURCEK-BIGA (CANAKKALE)",
-      "type": "�lksel",
-      "date": "2026.04.15 14:34:41",
-      "lat": 40.3798,
-      "lng": 27.1207,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "4.5",
-      "coordinates": [
-        27.1207,
-        40.3798
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1207,
-            40.3798
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KARAPURCEK-BIGA (CANAKKALE)",
-          "time": "2026.04.15 14:34:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.15",
-      "date_hour": "14:34:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "CANAKKALE"
     }
   ]
 }
