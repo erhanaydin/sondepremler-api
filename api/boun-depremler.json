@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-26T17:41:10.297Z",
+  "lastUpdate": "2026-04-26T18:27:34.412Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HUYUKLU-AFSIN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.04.26 21:16:14",
+      "lat": 38.1877,
+      "lng": 36.9003,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "1.4",
+      "coordinates": [
+        36.9003,
+        38.1877
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.9003,
+            38.1877
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "HUYUKLU-AFSIN (KAHRAMANMARAS)",
+          "time": "2026.04.26 21:16:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.26",
+      "date_hour": "21:16:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "YURTSEVEN-MALAZGIRT (MUS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2026.04.21 17:18:43",
-      "lat": 34.7855,
-      "lng": 25.9743,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "6.8",
-      "coordinates": [
-        25.9743,
-        34.7855
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.9743,
-            34.7855
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-          "time": "2026.04.21 17:18:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.21",
-      "date_hour": "17:18:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
