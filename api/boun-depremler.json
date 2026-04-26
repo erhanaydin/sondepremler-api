@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-04-26T11:54:13.315Z",
+  "lastUpdate": "2026-04-26T12:45:35.038Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MENTESE-HONAZ (DENIZLI)",
+      "type": "�lksel",
+      "date": "2026.04.26 14:50:10",
+      "lat": 37.7143,
+      "lng": 29.3213,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.0",
+      "coordinates": [
+        29.3213,
+        37.7143
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.3213,
+            37.7143
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "MENTESE-HONAZ (DENIZLI)",
+          "time": "2026.04.26 14:50:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.04.26",
+      "date_hour": "14:50:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AGRI"
-    },
-    {
-      "title": "KARALGAZI-KAZIMKARABEKIR (KARAMAN)",
-      "type": "�lksel",
-      "date": "2026.04.21 07:06:26",
-      "lat": 37.2713,
-      "lng": 33.0382,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "7.7",
-      "coordinates": [
-        33.0382,
-        37.2713
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.0382,
-            37.2713
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KARALGAZI-KAZIMKARABEKIR (KARAMAN)",
-          "time": "2026.04.21 07:06:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.21",
-      "date_hour": "07:06:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KARAMAN"
     }
   ]
 }
