@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-05-01T15:41:10.370Z",
+  "lastUpdate": "2026-05-01T16:38:02.131Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DOSTAL-ILIC (ERZINCAN)",
+      "type": "�lksel",
+      "date": "2026.05.01 18:52:26",
+      "lat": 39.4917,
+      "lng": 38.4462,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "24.4",
+      "coordinates": [
+        38.4462,
+        39.4917
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.4462,
+            39.4917
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "DOSTAL-ILIC (ERZINCAN)",
+          "time": "2026.05.01 18:52:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.01",
+      "date_hour": "18:52:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZINCAN"
+    },
+    {
+      "title": "KOZAN-(ADIYAMAN)",
+      "type": "�lksel",
+      "date": "2026.05.01 18:03:41",
+      "lat": 37.9307,
+      "lng": 38.3837,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "12.6",
+      "coordinates": [
+        38.3837,
+        37.9307
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.3837,
+            37.9307
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KOZAN-(ADIYAMAN)",
+          "time": "2026.05.01 18:03:41"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.01",
+      "date_hour": "18:03:41",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADIYAMAN"
+    },
     {
       "title": "MARMARA DENIZI",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.04.26 05:09:09",
-      "lat": 38.8132,
-      "lng": 26.3865,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "2.4",
-      "coordinates": [
-        26.3865,
-        38.8132
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.3865,
-            38.8132
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "EGE DENIZI",
-          "time": "2026.04.26 05:09:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.26",
-      "date_hour": "05:09:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2026.04.26 04:44:06",
-      "lat": 39.9297,
-      "lng": 23.8983,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "7.8",
-      "coordinates": [
-        23.8983,
-        39.9297
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            23.8983,
-            39.9297
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YUNANISTAN",
-          "time": "2026.04.26 04:44:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.26",
-      "date_hour": "04:44:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
