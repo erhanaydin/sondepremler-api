@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-01T21:35:36.574Z",
+  "lastUpdate": "2026-05-01T22:29:51.473Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -111,6 +111,42 @@
       "city": "BALIKESIR"
     },
     {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2026.05.01 23:29:38",
+      "lat": 40.294,
+      "lng": 24.1192,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "7.4",
+      "coordinates": [
+        24.1192,
+        40.294
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.1192,
+            40.294
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "YUNANISTAN",
+          "time": "2026.05.01 23:29:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.01",
+      "date_hour": "23:29:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
       "title": "KUMARLI-(KAHRAMANMARAS)",
       "type": "�lksel",
       "date": "2026.05.01 23:03:17",
@@ -145,6 +181,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "DUACI-KEPEZ (ANTALYA)",
+      "type": "�lksel",
+      "date": "2026.05.01 22:54:22",
+      "lat": 36.9812,
+      "lng": 30.6852,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "1.3",
+      "coordinates": [
+        30.6852,
+        36.9812
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6852,
+            36.9812
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "DUACI-KEPEZ (ANTALYA)",
+          "time": "2026.05.01 22:54:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.01",
+      "date_hour": "22:54:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANTALYA"
     },
     {
       "title": "ELMADALI-HINIS (ERZURUM)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BINGOL"
-    },
-    {
-      "title": "GUZGULU-YEDISU (BINGOL)",
-      "type": "�lksel",
-      "date": "2026.04.26 08:43:50",
-      "lat": 39.3937,
-      "lng": 40.4393,
-      "md": "-.-",
-      "ml": "3.2",
-      "mw": "3.3",
-      "depth": "4.7",
-      "coordinates": [
-        40.4393,
-        39.3937
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.4393,
-            39.3937
-          ]
-        },
-        "properties": {
-          "mag": "3.2",
-          "place": "GUZGULU-YEDISU (BINGOL)",
-          "time": "2026.04.26 08:43:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.26",
-      "date_hour": "08:43:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.04.26 08:41:42",
-      "lat": 39.1732,
-      "lng": 28.2543,
-      "md": "-.-",
-      "ml": "3.2",
-      "mw": "-.-",
-      "depth": "7.7",
-      "coordinates": [
-        28.2543,
-        39.1732
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2543,
-            39.1732
-          ]
-        },
-        "properties": {
-          "mag": "3.2",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2026.04.26 08:41:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.26",
-      "date_hour": "08:41:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
