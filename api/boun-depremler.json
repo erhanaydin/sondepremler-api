@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-05-01T14:44:20.474Z",
+  "lastUpdate": "2026-05-01T15:41:10.370Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2026.05.01 17:27:38",
+      "lat": 40.6977,
+      "lng": 28.6607,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        28.6607,
+        40.6977
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.6607,
+            40.6977
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "MARMARA DENIZI",
+          "time": "2026.05.01 17:27:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.01",
+      "date_hour": "17:27:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YOGUNBILEK-ARICAK (ELAZIG)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "YESILOVACIK-SILIFKE (MERSIN)",
-      "type": "�lksel",
-      "date": "2026.04.26 04:40:59",
-      "lat": 36.1395,
-      "lng": 33.6608,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "21.8",
-      "coordinates": [
-        33.6608,
-        36.1395
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.6608,
-            36.1395
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "YESILOVACIK-SILIFKE (MERSIN)",
-          "time": "2026.04.26 04:40:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.26",
-      "date_hour": "04:40:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
     }
   ]
 }
