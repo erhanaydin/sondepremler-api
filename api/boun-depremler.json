@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-05-02T12:58:06.678Z",
+  "lastUpdate": "2026-05-02T14:10:20.191Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2026.05.02 15:30:20",
+      "lat": 35.6193,
+      "lng": 25.714,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "10.9",
+      "coordinates": [
+        25.714,
+        35.6193
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.714,
+            35.6193
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2026.05.02 15:30:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.02",
+      "date_hour": "15:30:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "HATAY"
-    },
-    {
-      "title": "SIRADERE-BULANIK (MUS)",
-      "type": "�lksel",
-      "date": "2026.04.26 19:48:21",
-      "lat": 39.2808,
-      "lng": 42.1892,
-      "md": "-.-",
-      "ml": "4.1",
-      "mw": "4.1",
-      "depth": "5.0",
-      "coordinates": [
-        42.1892,
-        39.2808
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.1892,
-            39.2808
-          ]
-        },
-        "properties": {
-          "mag": "4.1",
-          "place": "SIRADERE-BULANIK (MUS)",
-          "time": "2026.04.26 19:48:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.26",
-      "date_hour": "19:48:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUS"
     }
   ]
 }
