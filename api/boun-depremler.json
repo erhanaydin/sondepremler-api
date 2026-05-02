@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-05-02T11:55:19.247Z",
+  "lastUpdate": "2026-05-02T12:58:06.678Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.05.02 15:26:28",
+      "lat": 35.7935,
+      "lng": 25.6988,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "8.5",
+      "coordinates": [
+        25.6988,
+        35.7935
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.6988,
+            35.7935
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "EGE DENIZI",
+          "time": "2026.05.02 15:26:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.02",
+      "date_hour": "15:26:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUS"
-    },
-    {
-      "title": "EYNIR-ARAPGIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.04.26 19:41:08",
-      "lat": 39.0647,
-      "lng": 38.3128,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "8.3",
-      "coordinates": [
-        38.3128,
-        39.0647
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.3128,
-            39.0647
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "EYNIR-ARAPGIR (MALATYA)",
-          "time": "2026.04.26 19:41:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.26",
-      "date_hour": "19:41:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
