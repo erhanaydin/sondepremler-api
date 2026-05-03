@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-05-03T21:06:12.499Z",
+  "lastUpdate": "2026-05-03T21:56:32.186Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GUNEY-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.05.04 00:21:39",
+      "lat": 39.1605,
+      "lng": 28.9252,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "16.7",
+      "coordinates": [
+        28.9252,
+        39.1605
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9252,
+            39.1605
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "GUNEY-SIMAV (KUTAHYA)",
+          "time": "2026.05.04 00:21:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.04",
+      "date_hour": "00:21:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.05.03 23:57:39",
+      "lat": 37.4737,
+      "lng": 37.1837,
+      "md": "-.-",
+      "ml": "3.0",
+      "mw": "3.0",
+      "depth": "4.6",
+      "coordinates": [
+        37.1837,
+        37.4737
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.1837,
+            37.4737
+          ]
+        },
+        "properties": {
+          "mag": "3.0",
+          "place": "DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS)",
+          "time": "2026.05.03 23:57:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.03",
+      "date_hour": "23:57:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "YUNANISTAN",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KARABAYIR-CAMELI (DENIZLI)",
-      "type": "�lksel",
-      "date": "2026.04.27 22:06:21",
-      "lat": 36.8905,
-      "lng": 29.1687,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "14.8",
-      "coordinates": [
-        29.1687,
-        36.8905
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1687,
-            36.8905
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KARABAYIR-CAMELI (DENIZLI)",
-          "time": "2026.04.27 22:06:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.27",
-      "date_hour": "22:06:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
-    },
-    {
-      "title": "MERDIVENLER-(MALATYA)",
-      "type": "�lksel",
-      "date": "2026.04.27 21:56:48",
-      "lat": 38.354,
-      "lng": 38.6257,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "10.1",
-      "coordinates": [
-        38.6257,
-        38.354
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.6257,
-            38.354
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "MERDIVENLER-(MALATYA)",
-          "time": "2026.04.27 21:56:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.27",
-      "date_hour": "21:56:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
