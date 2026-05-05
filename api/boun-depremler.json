@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-05-05T21:38:52.140Z",
+  "lastUpdate": "2026-05-05T22:35:01.689Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2026.05.06 00:35:19",
+      "lat": 34.8435,
+      "lng": 26.1153,
+      "md": "-.-",
+      "ml": "3.9",
+      "mw": "4.1",
+      "depth": "7.1",
+      "coordinates": [
+        26.1153,
+        34.8435
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.1153,
+            34.8435
+          ]
+        },
+        "properties": {
+          "mag": "3.9",
+          "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+          "time": "2026.05.06 00:35:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.06",
+      "date_hour": "00:35:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.04.29 11:18:58",
-      "lat": 36.5488,
-      "lng": 25.8783,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        25.8783,
-        36.5488
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.8783,
-            36.5488
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "EGE DENIZI",
-          "time": "2026.04.29 11:18:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.04.29",
-      "date_hour": "11:18:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
