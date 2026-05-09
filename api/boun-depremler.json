@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-05-09T10:40:25.189Z",
+  "lastUpdate": "2026-05-09T11:32:07.437Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TEKEDERESI-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.05.09 13:46:48",
+      "lat": 38.1417,
+      "lng": 38.5997,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "5.1",
+      "coordinates": [
+        38.5997,
+        38.1417
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.5997,
+            38.1417
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "TEKEDERESI-PUTURGE (MALATYA)",
+          "time": "2026.05.09 13:46:48"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.09",
+      "date_hour": "13:46:48",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "SAGRAKCI-AKHISAR (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "DEMIRCEVRE-(AFYONKARAHISAR)",
-      "type": "�lksel",
-      "date": "2026.05.04 04:52:25",
-      "lat": 38.8157,
-      "lng": 30.4142,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.1",
-      "coordinates": [
-        30.4142,
-        38.8157
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.4142,
-            38.8157
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "DEMIRCEVRE-(AFYONKARAHISAR)",
-          "time": "2026.05.04 04:52:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.04",
-      "date_hour": "04:52:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AFYONKARAHISAR"
     }
   ]
 }
