@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-05-09T14:01:04.010Z",
+  "lastUpdate": "2026-05-09T15:01:41.796Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CAMDERE-KOZAN (ADANA)",
+      "type": "�lksel",
+      "date": "2026.05.09 17:06:59",
+      "lat": 37.6253,
+      "lng": 35.8217,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "7.3",
+      "coordinates": [
+        35.8217,
+        37.6253
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.8217,
+            37.6253
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "CAMDERE-KOZAN (ADANA)",
+          "time": "2026.05.09 17:06:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.09",
+      "date_hour": "17:06:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "SAHILKILINCLI-KAS (ANTALYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.05.04 09:17:23",
-      "lat": 35.787,
-      "lng": 27.1142,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        27.1142,
-        35.787
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1142,
-            35.787
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "EGE DENIZI",
-          "time": "2026.05.04 09:17:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.04",
-      "date_hour": "09:17:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
