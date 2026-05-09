@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-05-09T22:23:21.348Z",
+  "lastUpdate": "2026-05-09T23:09:56.474Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.05.10 01:50:51",
+      "lat": 36.6073,
+      "lng": 25.6562,
+      "md": "-.-",
+      "ml": "3.2",
+      "mw": "3.0",
+      "depth": "17.6",
+      "coordinates": [
+        25.6562,
+        36.6073
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.6562,
+            36.6073
+          ]
+        },
+        "properties": {
+          "mag": "3.2",
+          "place": "EGE DENIZI",
+          "time": "2026.05.10 01:50:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.10",
+      "date_hour": "01:50:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KARAKOSE-SINCIK (ADIYAMAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KARAAGAC-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.05.04 18:46:38",
-      "lat": 39.2758,
-      "lng": 28.1572,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "13.4",
-      "coordinates": [
-        28.1572,
-        39.2758
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1572,
-            39.2758
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KARAAGAC-SINDIRGI (BALIKESIR)",
-          "time": "2026.05.04 18:46:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.04",
-      "date_hour": "18:46:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
