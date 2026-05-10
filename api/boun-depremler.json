@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-05-10T06:40:07.342Z",
+  "lastUpdate": "2026-05-10T08:28:30.016Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GAZIKOY-DARENDE (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.05.10 10:40:51",
+      "lat": 38.4443,
+      "lng": 37.3367,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "7.3",
+      "coordinates": [
+        37.3367,
+        38.4443
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.3367,
+            38.4443
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "GAZIKOY-DARENDE (MALATYA)",
+          "time": "2026.05.10 10:40:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.10",
+      "date_hour": "10:40:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "AGAKOY-BIGA (CANAKKALE)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YAKINCA-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.05.05 00:40:59",
-      "lat": 38.3018,
-      "lng": 38.2232,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "7.6",
-      "coordinates": [
-        38.2232,
-        38.3018
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.2232,
-            38.3018
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YAKINCA-YESILYURT (MALATYA)",
-          "time": "2026.05.05 00:40:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.05",
-      "date_hour": "00:40:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
