@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-05-10T11:48:08.857Z",
+  "lastUpdate": "2026-05-10T12:43:03.636Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.05.10 15:14:30",
+      "lat": 35.2513,
+      "lng": 32.0088,
+      "md": "-.-",
+      "ml": "3.0",
+      "mw": "2.9",
+      "depth": "24.0",
+      "coordinates": [
+        32.0088,
+        35.2513
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.0088,
+            35.2513
+          ]
+        },
+        "properties": {
+          "mag": "3.0",
+          "place": "AKDENIZ",
+          "time": "2026.05.10 15:14:30"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.10",
+      "date_hour": "15:14:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "GURCISTAN",
+      "type": "�lksel",
+      "date": "2026.05.10 14:46:45",
+      "lat": 41.6388,
+      "lng": 45.3268,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "3.5",
+      "coordinates": [
+        45.3268,
+        41.6388
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            45.3268,
+            41.6388
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "GURCISTAN",
+          "time": "2026.05.10 14:46:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.10",
+      "date_hour": "14:46:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YUNANISTAN",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "TEPEKOY-VARTO (MUS)",
-      "type": "�lksel",
-      "date": "2026.05.05 04:36:01",
-      "lat": 39.0598,
-      "lng": 41.509,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "14.9",
-      "coordinates": [
-        41.509,
-        39.0598
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            41.509,
-            39.0598
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "TEPEKOY-VARTO (MUS)",
-          "time": "2026.05.05 04:36:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.05",
-      "date_hour": "04:36:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUS"
-    },
-    {
-      "title": "ARPACIK-FETHIYE (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.05.05 04:20:16",
-      "lat": 36.815,
-      "lng": 29.1362,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.6",
-      "coordinates": [
-        29.1362,
-        36.815
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1362,
-            36.815
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ARPACIK-FETHIYE (MUGLA)",
-          "time": "2026.05.05 04:20:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.05",
-      "date_hour": "04:20:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
