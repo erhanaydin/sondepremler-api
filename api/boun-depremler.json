@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-05-16T13:57:07.256Z",
+  "lastUpdate": "2026-05-16T14:55:46.954Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GUNEY-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.05.16 17:16:35",
+      "lat": 39.1908,
+      "lng": 28.9292,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "19.3",
+      "coordinates": [
+        28.9292,
+        39.1908
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9292,
+            39.1908
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "GUNEY-SIMAV (KUTAHYA)",
+          "time": "2026.05.16 17:16:35"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.16",
+      "date_hour": "17:16:35",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.05.16 16:58:40",
+      "lat": 37.8427,
+      "lng": 26.8913,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.9",
+      "coordinates": [
+        26.8913,
+        37.8427
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.8913,
+            37.8427
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2026.05.16 16:58:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.16",
+      "date_hour": "16:58:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "KULU (KONYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2026.05.10 17:57:34",
-      "lat": 35.136,
-      "lng": 25.9838,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        25.9838,
-        35.136
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.9838,
-            35.136
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "GIRIT ADASI (AKDENIZ)",
-          "time": "2026.05.10 17:57:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.10",
-      "date_hour": "17:57:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
-    },
-    {
-      "title": "YENIKOY-BIGADIC (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.05.10 17:55:58",
-      "lat": 39.5187,
-      "lng": 28.1165,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "13.5",
-      "coordinates": [
-        28.1165,
-        39.5187
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1165,
-            39.5187
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "YENIKOY-BIGADIC (BALIKESIR)",
-          "time": "2026.05.10 17:55:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.10",
-      "date_hour": "17:55:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
