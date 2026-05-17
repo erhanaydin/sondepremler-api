@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-05-17T22:24:58.434Z",
+  "lastUpdate": "2026-05-17T23:27:43.259Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEDEYOLU-SIVRICE (ELAZIG)",
+      "type": "�lksel",
+      "date": "2026.05.18 01:28:37",
+      "lat": 38.4743,
+      "lng": 39.1778,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        39.1778,
+        38.4743
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.1778,
+            38.4743
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "DEDEYOLU-SIVRICE (ELAZIG)",
+          "time": "2026.05.18 01:28:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.18",
+      "date_hour": "01:28:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ELAZIG"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "CEMALOGLU-CEKEREK (YOZGAT)",
-      "type": "�lksel",
-      "date": "2026.05.11 18:38:21",
-      "lat": 39.9983,
-      "lng": 35.4963,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "6.7",
-      "coordinates": [
-        35.4963,
-        39.9983
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.4963,
-            39.9983
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "CEMALOGLU-CEKEREK (YOZGAT)",
-          "time": "2026.05.11 18:38:21"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.11",
-      "date_hour": "18:38:21",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "YOZGAT"
     }
   ]
 }
