@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-05-17T14:09:40.691Z",
+  "lastUpdate": "2026-05-17T15:15:53.293Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KINIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.05.17 17:00:08",
+      "lat": 39.1162,
+      "lng": 28.2252,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "15.6",
+      "coordinates": [
+        28.2252,
+        39.1162
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2252,
+            39.1162
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KINIK-SINDIRGI (BALIKESIR)",
+          "time": "2026.05.17 17:00:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.17",
+      "date_hour": "17:00:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "AKDENIZ",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.05.11 14:03:31",
-      "lat": 38.4293,
-      "lng": 25.3612,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "7.9",
-      "coordinates": [
-        25.3612,
-        38.4293
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.3612,
-            38.4293
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "EGE DENIZI",
-          "time": "2026.05.11 14:03:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.11",
-      "date_hour": "14:03:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
