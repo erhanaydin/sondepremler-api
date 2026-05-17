@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-05-17T11:43:15.961Z",
+  "lastUpdate": "2026-05-17T12:40:24.971Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.05.17 14:32:27",
+      "lat": 35.0727,
+      "lng": 27.9308,
+      "md": "-.-",
+      "ml": "3.0",
+      "mw": "3.0",
+      "depth": "67.4",
+      "coordinates": [
+        27.9308,
+        35.0727
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9308,
+            35.0727
+          ]
+        },
+        "properties": {
+          "mag": "3.0",
+          "place": "AKDENIZ",
+          "time": "2026.05.17 14:32:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.17",
+      "date_hour": "14:32:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "DIKYAMAC-KEMAH (ERZINCAN)",
       "type": "�lksel",
@@ -250,6 +286,42 @@
       "location_properties": "",
       "date_day": "2026.05.17",
       "date_hour": "13:04:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
+    {
+      "title": "DALAMAN ACIKLARI-MUGLA (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2026.05.17 13:01:40",
+      "lat": 36.636,
+      "lng": 28.801,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "20.3",
+      "coordinates": [
+        28.801,
+        36.636
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.801,
+            36.636
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "DALAMAN ACIKLARI-MUGLA (AKDENIZ)",
+          "time": "2026.05.17 13:01:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.17",
+      "date_hour": "13:01:40",
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "AHLATLICESME-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.05.11 13:37:10",
-      "lat": 39.1577,
-      "lng": 29.0413,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "8.9",
-      "coordinates": [
-        29.0413,
-        39.1577
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0413,
-            39.1577
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "AHLATLICESME-SIMAV (KUTAHYA)",
-          "time": "2026.05.11 13:37:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.11",
-      "date_hour": "13:37:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "ULUKOY-NALLIHAN (ANKARA)",
-      "type": "�lksel",
-      "date": "2026.05.11 13:25:15",
-      "lat": 40.147,
-      "lng": 31.6535,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "7.3",
-      "coordinates": [
-        31.6535,
-        40.147
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.6535,
-            40.147
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "ULUKOY-NALLIHAN (ANKARA)",
-          "time": "2026.05.11 13:25:15"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.11",
-      "date_hour": "13:25:15",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
