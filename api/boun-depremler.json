@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-05-19T19:19:40.469Z",
+  "lastUpdate": "2026-05-19T20:54:21.374Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "DEMIRCI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.05.19 22:29:47",
+      "lat": 39.1205,
+      "lng": 28.9253,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "15.7",
+      "coordinates": [
+        28.9253,
+        39.1205
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9253,
+            39.1205
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "DEMIRCI-SIMAV (KUTAHYA)",
+          "time": "2026.05.19 22:29:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.19",
+      "date_hour": "22:29:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "KARABAYIR-CAMELI (DENIZLI)",
+      "type": "�lksel",
+      "date": "2026.05.19 22:29:16",
+      "lat": 36.9118,
+      "lng": 29.1058,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "11.4",
+      "coordinates": [
+        29.1058,
+        36.9118
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1058,
+            36.9118
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KARABAYIR-CAMELI (DENIZLI)",
+          "time": "2026.05.19 22:29:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.19",
+      "date_hour": "22:29:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "KOZLU-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "KAZANDERE-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.05.13 05:36:40",
-      "lat": 37.9515,
-      "lng": 36.2978,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        36.2978,
-        37.9515
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.2978,
-            37.9515
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KAZANDERE-GOKSUN (KAHRAMANMARAS)",
-          "time": "2026.05.13 05:36:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.13",
-      "date_hour": "05:36:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "UCOLUK-GULNAR (MERSIN)",
-      "type": "�lksel",
-      "date": "2026.05.13 05:32:10",
-      "lat": 36.3813,
-      "lng": 33.3963,
-      "md": "-.-",
-      "ml": "0.7",
-      "mw": "-.-",
-      "depth": "3.2",
-      "coordinates": [
-        33.3963,
-        36.3813
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.3963,
-            36.3813
-          ]
-        },
-        "properties": {
-          "mag": "0.7",
-          "place": "UCOLUK-GULNAR (MERSIN)",
-          "time": "2026.05.13 05:32:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.13",
-      "date_hour": "05:32:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
     }
   ]
 }
