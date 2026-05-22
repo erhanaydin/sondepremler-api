@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-05-22T19:11:11.023Z",
+  "lastUpdate": "2026-05-22T20:47:02.254Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KURUCAOVA-(KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.05.22 22:33:44",
+      "lat": 37.9473,
+      "lng": 36.5422,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "9.9",
+      "coordinates": [
+        36.5422,
+        37.9473
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.5422,
+            37.9473
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KURUCAOVA-(KAHRAMANMARAS)",
+          "time": "2026.05.22 22:33:44"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.22",
+      "date_hour": "22:33:44",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SANLIURFA"
-    },
-    {
-      "title": "BOSTANBASI-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.05.16 14:46:12",
-      "lat": 38.3327,
-      "lng": 38.2533,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "2.6",
-      "coordinates": [
-        38.2533,
-        38.3327
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.2533,
-            38.3327
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "BOSTANBASI-YESILYURT (MALATYA)",
-          "time": "2026.05.16 14:46:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.16",
-      "date_hour": "14:46:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
