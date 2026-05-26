@@ -72,6 +72,42 @@
     "city": "Balıkesir"
   },
   {
+    "title": "Çubuk (Ankara)",
+    "type": "İlksel",
+    "date": "2026-05-26 21:34:15",
+    "lat": 40.51056,
+    "lng": 32.99167,
+    "md": "-.-",
+    "ml": "0.8",
+    "mw": "-.-",
+    "depth": 7.98,
+    "coordinates": [
+      32.99167,
+      40.51056
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.99167,
+          40.51056
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Çubuk (Ankara) (Ankara)",
+        "time": 1779831255000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-05-26",
+    "date_hour": "21:34:15",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Ankara"
+  },
+  {
     "title": "Merkez (Elazığ)",
     "type": "İlksel",
     "date": "2026-05-26 21:28:27",
@@ -14146,41 +14182,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Manisa"
-  },
-  {
-    "title": "Altıeylül (Balıkesir)",
-    "type": "İlksel",
-    "date": "2026-05-23 22:44:44",
-    "lat": 39.42333,
-    "lng": 27.93611,
-    "md": "-.-",
-    "ml": "1.3",
-    "mw": "-.-",
-    "depth": 16.54,
-    "coordinates": [
-      27.93611,
-      39.42333
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.93611,
-          39.42333
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Altıeylül (Balıkesir) (Balıkesir)",
-        "time": 1779576284000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-05-23",
-    "date_hour": "22:44:44",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
   }
 ]
