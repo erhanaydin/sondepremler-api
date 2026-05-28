@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-05-28T21:29:59.570Z",
+  "lastUpdate": "2026-05-28T22:53:31.243Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GUNBATMAZ-BULANIK (MUS)",
+      "type": "�lksel",
+      "date": "2026.05.29 00:58:06",
+      "lat": 38.9682,
+      "lng": 42.0095,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "7.9",
+      "coordinates": [
+        42.0095,
+        38.9682
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            42.0095,
+            38.9682
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "GUNBATMAZ-BULANIK (MUS)",
+          "time": "2026.05.29 00:58:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.29",
+      "date_hour": "00:58:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUS"
+    },
     {
       "title": "KAVAKLIDERE-PUTURGE (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2026.05.24 01:29:46",
-      "lat": 37.9608,
-      "lng": 23.316,
-      "md": "-.-",
-      "ml": "3.7",
-      "mw": "3.7",
-      "depth": "153.8",
-      "coordinates": [
-        23.316,
-        37.9608
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            23.316,
-            37.9608
-          ]
-        },
-        "properties": {
-          "mag": "3.7",
-          "place": "YUNANISTAN",
-          "time": "2026.05.24 01:29:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.24",
-      "date_hour": "01:29:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
