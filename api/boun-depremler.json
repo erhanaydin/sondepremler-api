@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-30T09:27:16.182Z",
+  "lastUpdate": "2026-05-30T10:56:03.067Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -75,6 +75,42 @@
       "city": "EDIRNE"
     },
     {
+      "title": "ARITAS-AFSIN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.05.30 11:32:07",
+      "lat": 38.3247,
+      "lng": 36.8305,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "28.5",
+      "coordinates": [
+        36.8305,
+        38.3247
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8305,
+            38.3247
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ARITAS-AFSIN (KAHRAMANMARAS)",
+          "time": "2026.05.30 11:32:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.30",
+      "date_hour": "11:32:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
+    {
       "title": "ISKENDERUN KORFEZI (AKDENIZ)",
       "type": "�lksel",
       "date": "2026.05.30 11:28:32",
@@ -106,6 +142,42 @@
       "location_properties": "",
       "date_day": "2026.05.30",
       "date_hour": "11:28:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
+    {
+      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2026.05.30 10:51:52",
+      "lat": 34.9318,
+      "lng": 26.0538,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "4.4",
+      "coordinates": [
+        26.0538,
+        34.9318
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.0538,
+            34.9318
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+          "time": "2026.05.30 10:51:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.30",
+      "date_hour": "10:51:52",
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANKARA"
-    },
-    {
-      "title": "ERDEK KORFEZI (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2026.05.25 04:00:27",
-      "lat": 40.4142,
-      "lng": 27.6135,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "27.0",
-      "coordinates": [
-        27.6135,
-        40.4142
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.6135,
-            40.4142
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "ERDEK KORFEZI (MARMARA DENIZI)",
-          "time": "2026.05.25 04:00:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.25",
-      "date_hour": "04:00:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "GUNDUZBEY-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.05.25 03:59:30",
-      "lat": 38.2967,
-      "lng": 38.29,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        38.29,
-        38.2967
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.29,
-            38.2967
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "GUNDUZBEY-YESILYURT (MALATYA)",
-          "time": "2026.05.25 03:59:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.25",
-      "date_hour": "03:59:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
