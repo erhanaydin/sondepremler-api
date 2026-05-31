@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-05-31T15:40:45.429Z",
+  "lastUpdate": "2026-05-31T16:44:47.246Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2026.05.31 19:10:06",
+      "lat": 35.4457,
+      "lng": 26.5445,
+      "md": "-.-",
+      "ml": "3.5",
+      "mw": "3.3",
+      "depth": "2.6",
+      "coordinates": [
+        26.5445,
+        35.4457
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.5445,
+            35.4457
+          ]
+        },
+        "properties": {
+          "mag": "3.5",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2026.05.31 19:10:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.05.31",
+      "date_hour": "19:10:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
     {
       "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "GAZIANTEP"
-    },
-    {
-      "title": "FEKE (ADANA)",
-      "type": "�lksel",
-      "date": "2026.05.26 06:18:02",
-      "lat": 37.8403,
-      "lng": 35.9577,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "12.3",
-      "coordinates": [
-        35.9577,
-        37.8403
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.9577,
-            37.8403
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "FEKE (ADANA)",
-          "time": "2026.05.26 06:18:02"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.26",
-      "date_hour": "06:18:02",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
