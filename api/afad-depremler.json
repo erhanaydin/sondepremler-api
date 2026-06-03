@@ -1,5 +1,77 @@
 [
   {
+    "title": "İnönü (Eskişehir)",
+    "type": "İlksel",
+    "date": "2026-06-03 14:42:40",
+    "lat": 39.77028,
+    "lng": 30.19806,
+    "md": "-.-",
+    "ml": "1.1",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      30.19806,
+      39.77028
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.19806,
+          39.77028
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "İnönü (Eskişehir) (Eskişehir)",
+        "time": 1780497760000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-06-03",
+    "date_hour": "14:42:40",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Eskişehir"
+  },
+  {
+    "title": "Akhisar (Manisa)",
+    "type": "İlksel",
+    "date": "2026-06-03 14:26:23",
+    "lat": 39.02833,
+    "lng": 27.9625,
+    "md": "-.-",
+    "ml": "1.7",
+    "mw": "-.-",
+    "depth": 4.57,
+    "coordinates": [
+      27.9625,
+      39.02833
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9625,
+          39.02833
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Akhisar (Manisa) (Manisa)",
+        "time": 1780496783000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-06-03",
+    "date_hour": "14:26:23",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Manisa"
+  },
+  {
     "title": "Nurdağı (Gaziantep)",
     "type": "İlksel",
     "date": "2026-06-03 13:49:32",
@@ -8458,185 +8530,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Adıyaman"
-  },
-  {
-    "title": "Doğanşehir (Malatya)",
-    "type": "İlksel",
-    "date": "2026-05-31 14:54:59",
-    "lat": 38.24333,
-    "lng": 37.84583,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 6.29,
-    "coordinates": [
-      37.84583,
-      38.24333
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.84583,
-          38.24333
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Doğanşehir (Malatya) (Malatya)",
-        "time": 1780239299000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-05-31",
-    "date_hour": "14:54:59",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
-  },
-  {
-    "title": "Doğanşehir (Malatya)",
-    "type": "İlksel",
-    "date": "2026-05-31 14:54:32",
-    "lat": 38.04944,
-    "lng": 38.08972,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7.03,
-    "coordinates": [
-      38.08972,
-      38.04944
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.08972,
-          38.04944
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Doğanşehir (Malatya) (Malatya)",
-        "time": 1780239272000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-05-31",
-    "date_hour": "14:54:32",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
-  },
-  {
-    "title": "Ege Denizi - [15.59 km] Ayvacık (Çanakkale)",
-    "type": "İlksel",
-    "date": "2026-05-31 14:49:20",
-    "lat": 39.49111,
-    "lng": 25.88528,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 7.18,
-    "coordinates": [
-      25.88528,
-      39.49111
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.88528,
-          39.49111
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi - [15.59 km] Ayvacık (Çanakkale) (Çanakkale)",
-        "time": 1780238960000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-05-31",
-    "date_hour": "14:49:20",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Çanakkale"
-  },
-  {
-    "title": "Ege Denizi - [18.48 km] Ayvacık (Çanakkale)",
-    "type": "İlksel",
-    "date": "2026-05-31 14:47:39",
-    "lat": 39.48444,
-    "lng": 25.85111,
-    "md": "-.-",
-    "ml": "2.3",
-    "mw": "-.-",
-    "depth": 10.67,
-    "coordinates": [
-      25.85111,
-      39.48444
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.85111,
-          39.48444
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi - [18.48 km] Ayvacık (Çanakkale) (Çanakkale)",
-        "time": 1780238859000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-05-31",
-    "date_hour": "14:47:39",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Çanakkale"
-  },
-  {
-    "title": "Akdeniz (Mersin)",
-    "type": "İlksel",
-    "date": "2026-05-31 14:43:58",
-    "lat": 36.82833,
-    "lng": 34.725,
-    "md": "-.-",
-    "ml": "1.8",
-    "mw": "-.-",
-    "depth": 7.1,
-    "coordinates": [
-      34.725,
-      36.82833
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.725,
-          36.82833
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akdeniz (Mersin) (Mersin)",
-        "time": 1780238638000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-05-31",
-    "date_hour": "14:43:58",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Mersin"
   }
 ]
