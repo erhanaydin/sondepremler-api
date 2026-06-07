@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-06-07T22:40:23.202Z",
+  "lastUpdate": "2026-06-07T23:43:05.445Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.06.08 01:32:28",
+      "lat": 36.679,
+      "lng": 26.4707,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "6.1",
+      "coordinates": [
+        26.4707,
+        36.679
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.4707,
+            36.679
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "EGE DENIZI",
+          "time": "2026.06.08 01:32:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.06.08",
+      "date_hour": "01:32:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "SAKIZ ADASI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "DARIYERI-DALAMAN (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.05.31 23:32:48",
-      "lat": 36.8947,
-      "lng": 29.1015,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "15.7",
-      "coordinates": [
-        29.1015,
-        36.8947
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1015,
-            36.8947
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "DARIYERI-DALAMAN (MUGLA)",
-          "time": "2026.05.31 23:32:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.05.31",
-      "date_hour": "23:32:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
