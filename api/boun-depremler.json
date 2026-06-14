@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-06-14T12:16:57.088Z",
+  "lastUpdate": "2026-06-14T14:32:50.625Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARABOGURTLEN-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.06.14 17:15:36",
+      "lat": 37.0542,
+      "lng": 28.5053,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "8.4",
+      "coordinates": [
+        28.5053,
+        37.0542
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.5053,
+            37.0542
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KARABOGURTLEN-ULA (MUGLA)",
+          "time": "2026.06.14 17:15:36"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.06.14",
+      "date_hour": "17:15:36",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "YENIKOY-(TEKIRDAG)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KURUCAOVA-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.06.07 17:02:09",
-      "lat": 37.9957,
-      "lng": 38.0818,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        38.0818,
-        37.9957
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.0818,
-            37.9957
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KURUCAOVA-DOGANSEHIR (MALATYA)",
-          "time": "2026.06.07 17:02:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.06.07",
-      "date_hour": "17:02:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
