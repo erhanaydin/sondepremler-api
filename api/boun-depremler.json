@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-06-23T15:22:28.689Z",
+  "lastUpdate": "2026-06-23T17:22:34.931Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CEVIRME-AKCADAG (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.06.23 19:45:24",
+      "lat": 38.2628,
+      "lng": 37.7722,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "14.7",
+      "coordinates": [
+        37.7722,
+        38.2628
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.7722,
+            38.2628
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "CEVIRME-AKCADAG (MALATYA)",
+          "time": "2026.06.23 19:45:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.06.23",
+      "date_hour": "19:45:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "ORTATEPE-ILIC (ERZINCAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAYSERI"
-    },
-    {
-      "title": "AKOLUK-FEKE (ADANA)",
-      "type": "�lksel",
-      "date": "2026.06.16 18:00:30",
-      "lat": 37.7772,
-      "lng": 36.0122,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "13.3",
-      "coordinates": [
-        36.0122,
-        37.7772
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.0122,
-            37.7772
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "AKOLUK-FEKE (ADANA)",
-          "time": "2026.06.16 18:00:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.06.16",
-      "date_hour": "18:00:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
