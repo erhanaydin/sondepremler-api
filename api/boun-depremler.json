@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-06-22T23:46:18.679Z",
+  "lastUpdate": "2026-06-23T01:48:33.290Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKUSAGI-KALE (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.06.23 03:29:50",
+      "lat": 38.3377,
+      "lng": 38.8215,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "2.2",
+      "coordinates": [
+        38.8215,
+        38.3377
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.8215,
+            38.3377
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "AKUSAGI-KALE (MALATYA)",
+          "time": "2026.06.23 03:29:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.06.23",
+      "date_hour": "03:29:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "SARIKIZ-MERAM (KONYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAYSERI"
-    },
-    {
-      "title": "UVECIK ACIKLARI-CANAKKALE (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.06.16 11:55:37",
-      "lat": 39.8992,
-      "lng": 26.0455,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.6",
-      "coordinates": [
-        26.0455,
-        39.8992
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.0455,
-            39.8992
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "UVECIK ACIKLARI-CANAKKALE (EGE DENIZI)",
-          "time": "2026.06.16 11:55:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.06.16",
-      "date_hour": "11:55:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
