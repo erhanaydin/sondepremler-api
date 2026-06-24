@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-06-24T11:28:55.670Z",
+  "lastUpdate": "2026-06-24T13:36:32.140Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2026.06.24 16:10:43",
+      "lat": 40.6158,
+      "lng": 27.595,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        27.595,
+        40.6158
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.595,
+            40.6158
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "MARMARA DENIZI",
+          "time": "2026.06.24 16:10:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.06.24",
+      "date_hour": "16:10:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "SILIFKE ACIKLARI-MERSIN (AKDENIZ)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SIVAS"
-    },
-    {
-      "title": "KARAOMER-GOKSUN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.06.17 10:47:14",
-      "lat": 38.1072,
-      "lng": 36.663,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "5.5",
-      "coordinates": [
-        36.663,
-        38.1072
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.663,
-            38.1072
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KARAOMER-GOKSUN (KAHRAMANMARAS)",
-          "time": "2026.06.17 10:47:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.06.17",
-      "date_hour": "10:47:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
