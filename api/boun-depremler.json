@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-06-27T22:42:52.593Z",
+  "lastUpdate": "2026-06-27T23:41:49.624Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2026.06.28 02:02:03",
+      "lat": 40.8302,
+      "lng": 28.3167,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.1",
+      "coordinates": [
+        28.3167,
+        40.8302
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3167,
+            40.8302
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "MARMARA DENIZI",
+          "time": "2026.06.28 02:02:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.06.28",
+      "date_hour": "02:02:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "AKCAKAYA-MILAS (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "TUNCELI"
-    },
-    {
-      "title": "GUZELYURT-PALANDOKEN (ERZURUM)",
-      "type": "�lksel",
-      "date": "2026.06.20 04:24:38",
-      "lat": 39.804,
-      "lng": 41.092,
-      "md": "-.-",
-      "ml": "3.2",
-      "mw": "3.4",
-      "depth": "5.0",
-      "coordinates": [
-        41.092,
-        39.804
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            41.092,
-            39.804
-          ]
-        },
-        "properties": {
-          "mag": "3.2",
-          "place": "GUZELYURT-PALANDOKEN (ERZURUM)",
-          "time": "2026.06.20 04:24:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.06.20",
-      "date_hour": "04:24:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZURUM"
     }
   ]
 }
