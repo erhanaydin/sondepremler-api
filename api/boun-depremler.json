@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-06-27T14:45:46.960Z",
+  "lastUpdate": "2026-06-27T15:53:36.025Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKCAOREN-(VAN)",
+      "type": "�lksel",
+      "date": "2026.06.27 17:57:53",
+      "lat": 38.74,
+      "lng": 43.482,
+      "md": "-.-",
+      "ml": "3.2",
+      "mw": "3.3",
+      "depth": "5.0",
+      "coordinates": [
+        43.482,
+        38.74
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.482,
+            38.74
+          ]
+        },
+        "properties": {
+          "mag": "3.2",
+          "place": "AKCAOREN-(VAN)",
+          "time": "2026.06.27 17:57:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.06.27",
+      "date_hour": "17:57:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "VAN"
+    },
     {
       "title": "MIDILLI ADASI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "SENLIK-LICE (DIYARBAKIR)",
-      "type": "�lksel",
-      "date": "2026.06.19 21:53:11",
-      "lat": 38.5135,
-      "lng": 40.4093,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "16.3",
-      "coordinates": [
-        40.4093,
-        38.5135
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.4093,
-            38.5135
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "SENLIK-LICE (DIYARBAKIR)",
-          "time": "2026.06.19 21:53:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.06.19",
-      "date_hour": "21:53:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DIYARBAKIR"
     }
   ]
 }
