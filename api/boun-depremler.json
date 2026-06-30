@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-06-30T21:46:55.827Z",
+  "lastUpdate": "2026-06-30T22:58:22.393Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SURIYE",
+      "type": "�lksel",
+      "date": "2026.07.01 01:14:58",
+      "lat": 34.9795,
+      "lng": 37.2468,
+      "md": "-.-",
+      "ml": "3.3",
+      "mw": "3.2",
+      "depth": "11.7",
+      "coordinates": [
+        37.2468,
+        34.9795
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.2468,
+            34.9795
+          ]
+        },
+        "properties": {
+          "mag": "3.3",
+          "place": "SURIYE",
+          "time": "2026.07.01 01:14:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.01",
+      "date_hour": "01:14:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "MIDILLI ADASI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.07.01 00:44:31",
+      "lat": 39.2938,
+      "lng": 26.2608,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "8.3",
+      "coordinates": [
+        26.2608,
+        39.2938
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.2608,
+            39.2938
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "MIDILLI ADASI (EGE DENIZI)",
+          "time": "2026.07.01 00:44:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.01",
+      "date_hour": "00:44:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "OTMANLAR-KOYCEGIZ (MUGLA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2026.06.24 03:11:15",
-      "lat": 35.21,
-      "lng": 26.6188,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "7.1",
-      "coordinates": [
-        26.6188,
-        35.21
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.6188,
-            35.21
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "GIRIT ADASI (AKDENIZ)",
-          "time": "2026.06.24 03:11:15"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.06.24",
-      "date_hour": "03:11:15",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
-    },
-    {
-      "title": "ESKIYASSIPINAR-PINARBASI (KAYSERI)",
-      "type": "�lksel",
-      "date": "2026.06.24 03:08:34",
-      "lat": 38.7828,
-      "lng": 36.5853,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "9.2",
-      "coordinates": [
-        36.5853,
-        38.7828
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.5853,
-            38.7828
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ESKIYASSIPINAR-PINARBASI (KAYSERI)",
-          "time": "2026.06.24 03:08:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.06.24",
-      "date_hour": "03:08:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAYSERI"
     }
   ]
 }
