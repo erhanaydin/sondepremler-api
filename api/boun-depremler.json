@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-07-01T04:50:55.830Z",
+  "lastUpdate": "2026-07-01T08:41:26.646Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKCABUK-CATAK (VAN)",
+      "type": "�lksel",
+      "date": "2026.07.01 09:31:46",
+      "lat": 38.0307,
+      "lng": 43.0622,
+      "md": "-.-",
+      "ml": "3.6",
+      "mw": "3.9",
+      "depth": "5.0",
+      "coordinates": [
+        43.0622,
+        38.0307
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.0622,
+            38.0307
+          ]
+        },
+        "properties": {
+          "mag": "3.6",
+          "place": "AKCABUK-CATAK (VAN)",
+          "time": "2026.07.01 09:31:46"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.01",
+      "date_hour": "09:31:46",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "VAN"
+    },
+    {
+      "title": "TOPARLAR-TIRE (IZMIR)",
+      "type": "�lksel",
+      "date": "2026.07.01 09:29:53",
+      "lat": 37.9918,
+      "lng": 27.751,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "7.3",
+      "coordinates": [
+        27.751,
+        37.9918
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.751,
+            37.9918
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "TOPARLAR-TIRE (IZMIR)",
+          "time": "2026.07.01 09:29:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.01",
+      "date_hour": "09:29:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
     {
       "title": "EVRI-PAZARCIK (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "SAKARYA"
-    },
-    {
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.06.24 07:56:33",
-      "lat": 39.1625,
-      "lng": 28.2108,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "11.7",
-      "coordinates": [
-        28.2108,
-        39.1625
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2108,
-            39.1625
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "AKTAS-SINDIRGI (BALIKESIR)",
-          "time": "2026.06.24 07:56:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.06.24",
-      "date_hour": "07:56:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "ELMALI-YEDISU (BINGOL)",
-      "type": "�lksel",
-      "date": "2026.06.24 07:24:52",
-      "lat": 39.3858,
-      "lng": 40.628,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "7.5",
-      "coordinates": [
-        40.628,
-        39.3858
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.628,
-            39.3858
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ELMALI-YEDISU (BINGOL)",
-          "time": "2026.06.24 07:24:52"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.06.24",
-      "date_hour": "07:24:52",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
