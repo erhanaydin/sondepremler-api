@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-07-02T22:51:46.607Z",
+  "lastUpdate": "2026-07-02T23:50:52.459Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.07.03 01:13:19",
+      "lat": 40.2225,
+      "lng": 25.1608,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.1",
+      "coordinates": [
+        25.1608,
+        40.2225
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.1608,
+            40.2225
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "EGE DENIZI",
+          "time": "2026.07.03 01:13:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.03",
+      "date_hour": "01:13:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
-    },
-    {
-      "title": "ATLIDERE-FETHIYE (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.06.25 22:41:41",
-      "lat": 36.693,
-      "lng": 29.3458,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "20.4",
-      "coordinates": [
-        29.3458,
-        36.693
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.3458,
-            36.693
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "ATLIDERE-FETHIYE (MUGLA)",
-          "time": "2026.06.25 22:41:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.06.25",
-      "date_hour": "22:41:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
