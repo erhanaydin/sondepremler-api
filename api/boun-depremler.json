@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-07-02T12:23:38.410Z",
+  "lastUpdate": "2026-07-02T14:34:26.914Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.07.02 15:44:09",
+      "lat": 35.8263,
+      "lng": 31.782,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        31.782,
+        35.8263
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.782,
+            35.8263
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "AKDENIZ",
+          "time": "2026.07.02 15:44:09"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.02",
+      "date_hour": "15:44:09",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "BUYUKKOMURCU-TIRE (IZMIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "BEYPINARI-SAIMBEYLI (ADANA)",
-      "type": "�lksel",
-      "date": "2026.06.25 13:40:41",
-      "lat": 38.0883,
-      "lng": 36.2587,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "15.4",
-      "coordinates": [
-        36.2587,
-        38.0883
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.2587,
-            38.0883
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "BEYPINARI-SAIMBEYLI (ADANA)",
-          "time": "2026.06.25 13:40:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.06.25",
-      "date_hour": "13:40:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
