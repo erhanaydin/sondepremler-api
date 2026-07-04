@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-07-04T15:16:17.703Z",
+  "lastUpdate": "2026-07-04T16:17:00.911Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.07.04 18:23:24",
+      "lat": 35.4502,
+      "lng": 29.9438,
+      "md": "-.-",
+      "ml": "3.3",
+      "mw": "3.4",
+      "depth": "8.9",
+      "coordinates": [
+        29.9438,
+        35.4502
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.9438,
+            35.4502
+          ]
+        },
+        "properties": {
+          "mag": "3.3",
+          "place": "AKDENIZ",
+          "time": "2026.07.04 18:23:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.04",
+      "date_hour": "18:23:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KARAOMER-GOKSUN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
-    },
-    {
-      "title": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-      "type": "�lksel",
-      "date": "2026.06.27 08:32:22",
-      "lat": 40.8845,
-      "lng": 28.7408,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "15.6",
-      "coordinates": [
-        28.7408,
-        40.8845
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7408,
-            40.8845
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-          "time": "2026.06.27 08:32:22"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.06.27",
-      "date_hour": "08:32:22",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MARMARA DENIZI"
     }
   ]
 }
