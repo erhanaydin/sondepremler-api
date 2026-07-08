@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-07-08T21:53:42.528Z",
+  "lastUpdate": "2026-07-08T22:55:16.719Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CORUS-ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.07.09 00:57:26",
+      "lat": 36.981,
+      "lng": 28.4815,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "4.0",
+      "coordinates": [
+        28.4815,
+        36.981
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.4815,
+            36.981
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "CORUS-ULA (MUGLA)",
+          "time": "2026.07.09 00:57:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.09",
+      "date_hour": "00:57:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "GUVEMCIK-BAYRAMIC (CANAKKALE)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KASTAMONU"
-    },
-    {
-      "title": "CANTIRLI-BEYPAZARI (ANKARA)",
-      "type": "�lksel",
-      "date": "2026.06.30 15:18:14",
-      "lat": 40.1453,
-      "lng": 31.7567,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "8.6",
-      "coordinates": [
-        31.7567,
-        40.1453
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.7567,
-            40.1453
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "CANTIRLI-BEYPAZARI (ANKARA)",
-          "time": "2026.06.30 15:18:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.06.30",
-      "date_hour": "15:18:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANKARA"
     }
   ]
 }
