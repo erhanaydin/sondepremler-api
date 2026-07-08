@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-07-08T12:54:06.077Z",
+  "lastUpdate": "2026-07-08T15:10:09.167Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2026.07.08 17:20:21",
+      "lat": 40.8157,
+      "lng": 27.8755,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "7.5",
+      "coordinates": [
+        27.8755,
+        40.8157
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.8755,
+            40.8157
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "MARMARA DENIZI",
+          "time": "2026.07.08 17:20:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.08",
+      "date_hour": "17:20:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "GUPLUCE-ELBISTAN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AFYONKARAHISAR"
-    },
-    {
-      "title": "AKCAKAYA-GOLBASI (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2026.06.30 10:13:25",
-      "lat": 37.8152,
-      "lng": 37.7148,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "2.8",
-      "depth": "5.0",
-      "coordinates": [
-        37.7148,
-        37.8152
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.7148,
-            37.8152
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "AKCAKAYA-GOLBASI (ADIYAMAN)",
-          "time": "2026.06.30 10:13:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.06.30",
-      "date_hour": "10:13:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
