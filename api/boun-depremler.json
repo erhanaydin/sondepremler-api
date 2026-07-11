@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-07-11T16:09:03.216Z",
+  "lastUpdate": "2026-07-11T17:13:11.398Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.07.11 19:41:51",
+      "lat": 39.251,
+      "lng": 28.9643,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "12.9",
+      "coordinates": [
+        28.9643,
+        39.251
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9643,
+            39.251
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YEMISLI-SIMAV (KUTAHYA)",
+          "time": "2026.07.11 19:41:51"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.11",
+      "date_hour": "19:41:51",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "KOZLU-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.07.11 19:01:58",
+      "lat": 39.2317,
+      "lng": 28.1013,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "14.9",
+      "coordinates": [
+        28.1013,
+        39.2317
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1013,
+            39.2317
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "KOZLU-SINDIRGI (BALIKESIR)",
+          "time": "2026.07.11 19:01:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.11",
+      "date_hour": "19:01:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "SEYITUSAGI-YESILYURT (MALATYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.07.03 22:29:45",
-      "lat": 38.812,
-      "lng": 25.703,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "12.7",
-      "coordinates": [
-        25.703,
-        38.812
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.703,
-            38.812
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "EGE DENIZI",
-          "time": "2026.07.03 22:29:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.03",
-      "date_hour": "22:29:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "DEDEYAZI-DOGANSEHIR (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.07.03 22:28:32",
-      "lat": 38.226,
-      "lng": 37.8052,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "7.8",
-      "coordinates": [
-        37.8052,
-        38.226
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.8052,
-            38.226
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "DEDEYAZI-DOGANSEHIR (MALATYA)",
-          "time": "2026.07.03 22:28:32"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.03",
-      "date_hour": "22:28:32",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
