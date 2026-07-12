@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-07-12T18:08:52.095Z",
+  "lastUpdate": "2026-07-12T19:21:42.285Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIZILAGIL-(BOLU)",
+      "type": "�lksel",
+      "date": "2026.07.12 21:24:57",
+      "lat": 40.8085,
+      "lng": 31.4928,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "10.2",
+      "coordinates": [
+        31.4928,
+        40.8085
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.4928,
+            40.8085
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KIZILAGIL-(BOLU)",
+          "time": "2026.07.12 21:24:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.12",
+      "date_hour": "21:24:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BOLU"
+    },
     {
       "title": "CEVIZLI-CAMELI (DENIZLI)",
       "type": "�lksel",
@@ -17962,42 +17998,6 @@
       "location_properties": "",
       "date_day": "2026.07.04",
       "date_hour": "21:39:29",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUS"
-    },
-    {
-      "title": "YAZBASI-BULANIK (MUS)",
-      "type": "�lksel",
-      "date": "2026.07.04 21:32:46",
-      "lat": 39.2835,
-      "lng": 42.2118,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "12.5",
-      "coordinates": [
-        42.2118,
-        39.2835
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.2118,
-            39.2835
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "YAZBASI-BULANIK (MUS)",
-          "time": "2026.07.04 21:32:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.04",
-      "date_hour": "21:32:46",
       "timestamp": false,
       "location_tz": "",
       "city": "MUS"
