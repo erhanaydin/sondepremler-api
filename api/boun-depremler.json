@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-07-16T14:46:54.923Z",
+  "lastUpdate": "2026-07-16T16:03:38.173Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.07.16 17:05:07",
+      "lat": 35.3498,
+      "lng": 27.1137,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "13.2",
+      "coordinates": [
+        27.1137,
+        35.3498
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.1137,
+            35.3498
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "AKDENIZ",
+          "time": "2026.07.16 17:05:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.16",
+      "date_hour": "17:05:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KARAGOL-CELIKHAN (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2026.07.09 04:35:40",
-      "lat": 38.0848,
-      "lng": 38.4077,
-      "md": "-.-",
-      "ml": "3.1",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        38.4077,
-        38.0848
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.4077,
-            38.0848
-          ]
-        },
-        "properties": {
-          "mag": "3.1",
-          "place": "KARAGOL-CELIKHAN (ADIYAMAN)",
-          "time": "2026.07.09 04:35:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.09",
-      "date_hour": "04:35:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
