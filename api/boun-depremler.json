@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-07-18T13:44:13.695Z",
+  "lastUpdate": "2026-07-18T14:39:45.122Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2026.07.18 17:10:52",
+      "lat": 40.4615,
+      "lng": 23.7947,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "8.7",
+      "coordinates": [
+        23.7947,
+        40.4615
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.7947,
+            40.4615
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "YUNANISTAN",
+          "time": "2026.07.18 17:10:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.18",
+      "date_hour": "17:10:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "YESILDERE-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.07.13 05:11:01",
-      "lat": 39.1967,
-      "lng": 28.1203,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "13.6",
-      "coordinates": [
-        28.1203,
-        39.1967
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1203,
-            39.1967
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "ORMANICI-SINDIRGI (BALIKESIR)",
-          "time": "2026.07.13 05:11:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.13",
-      "date_hour": "05:11:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
