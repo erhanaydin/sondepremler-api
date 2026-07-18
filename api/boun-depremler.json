@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-18T10:15:36.879Z",
+  "lastUpdate": "2026-07-18T11:18:46.444Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -37,6 +37,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "TOKAT"
+    },
+    {
+      "title": "KALEM-MILAS (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.07.18 12:50:00",
+      "lat": 37.0885,
+      "lng": 28.0058,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        28.0058,
+        37.0885
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0058,
+            37.0885
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "KALEM-MILAS (MUGLA)",
+          "time": "2026.07.18 12:50:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.18",
+      "date_hour": "12:50:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
     },
     {
       "title": "HACIHUSEYINEFENDI-SIMAV (KUTAHYA)",
@@ -145,6 +181,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZURUM"
+    },
+    {
+      "title": "CICEKALANI-PAZARCIK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.07.18 12:19:52",
+      "lat": 37.5222,
+      "lng": 37.2592,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        37.2592,
+        37.5222
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.2592,
+            37.5222
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "CICEKALANI-PAZARCIK (KAHRAMANMARAS)",
+          "time": "2026.07.18 12:19:52"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.18",
+      "date_hour": "12:19:52",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
     },
     {
       "title": "GIRIT ADASI (AKDENIZ)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "ONIKI ADALAR (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.07.13 03:00:42",
-      "lat": 36.6492,
-      "lng": 27.1507,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "8.5",
-      "coordinates": [
-        27.1507,
-        36.6492
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.1507,
-            36.6492
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "ONIKI ADALAR (EGE DENIZI)",
-          "time": "2026.07.13 03:00:42"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.13",
-      "date_hour": "03:00:42",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
-    },
-    {
-      "title": "KARAKESLI-ERDEMLI (MERSIN)",
-      "type": "�lksel",
-      "date": "2026.07.13 02:59:59",
-      "lat": 36.6988,
-      "lng": 34.1422,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "8.4",
-      "coordinates": [
-        34.1422,
-        36.6988
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.1422,
-            36.6988
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KARAKESLI-ERDEMLI (MERSIN)",
-          "time": "2026.07.13 02:59:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.13",
-      "date_hour": "02:59:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
     }
   ]
 }
