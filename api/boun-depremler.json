@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-07-20T23:16:23.632Z",
+  "lastUpdate": "2026-07-21T00:12:41.826Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.07.21 02:42:26",
+      "lat": 36.0583,
+      "lng": 29.014,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "7.7",
+      "coordinates": [
+        29.014,
+        36.0583
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.014,
+            36.0583
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "AKDENIZ",
+          "time": "2026.07.21 02:42:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.21",
+      "date_hour": "02:42:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "BASCIFTLIK (TOKAT)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "CAKILLIK (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.07.15 15:08:15",
-      "lat": 39.3832,
-      "lng": 27.8248,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "8.6",
-      "coordinates": [
-        27.8248,
-        39.3832
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.8248,
-            39.3832
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "CAKILLIK (BALIKESIR)",
-          "time": "2026.07.15 15:08:15"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.15",
-      "date_hour": "15:08:15",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
