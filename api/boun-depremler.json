@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-07-22T17:39:22.865Z",
+  "lastUpdate": "2026-07-22T18:45:50.254Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAAGIL-HISARCIK (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.07.22 20:41:25",
+      "lat": 39.2203,
+      "lng": 29.0807,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "10.1",
+      "coordinates": [
+        29.0807,
+        39.2203
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0807,
+            39.2203
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "KARAAGIL-HISARCIK (KUTAHYA)",
+          "time": "2026.07.22 20:41:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.22",
+      "date_hour": "20:41:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "GOZSUZLU-(AFYONKARAHISAR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "SAROS KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.07.17 00:52:11",
-      "lat": 40.4318,
-      "lng": 26.0948,
-      "md": "-.-",
-      "ml": "0.6",
-      "mw": "-.-",
-      "depth": "4.0",
-      "coordinates": [
-        26.0948,
-        40.4318
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.0948,
-            40.4318
-          ]
-        },
-        "properties": {
-          "mag": "0.6",
-          "place": "SAROS KORFEZI (EGE DENIZI)",
-          "time": "2026.07.17 00:52:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.17",
-      "date_hour": "00:52:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
