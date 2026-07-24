@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-07-24T18:44:51.487Z",
+  "lastUpdate": "2026-07-24T20:03:16.884Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.07.24 22:40:15",
+      "lat": 36.5855,
+      "lng": 25.4135,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "10.5",
+      "coordinates": [
+        25.4135,
+        36.5855
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.4135,
+            36.5855
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "EGE DENIZI",
+          "time": "2026.07.24 22:40:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.24",
+      "date_hour": "22:40:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "TOKAT-HISARCIK (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.07.24 22:30:13",
+      "lat": 39.1802,
+      "lng": 29.0915,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "11.7",
+      "coordinates": [
+        29.0915,
+        39.1802
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0915,
+            39.1802
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "TOKAT-HISARCIK (KUTAHYA)",
+          "time": "2026.07.24 22:30:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.24",
+      "date_hour": "22:30:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.07.18 04:20:14",
-      "lat": 39.2613,
-      "lng": 28.9257,
-      "md": "-.-",
-      "ml": "2.9",
-      "mw": "-.-",
-      "depth": "6.8",
-      "coordinates": [
-        28.9257,
-        39.2613
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9257,
-            39.2613
-          ]
-        },
-        "properties": {
-          "mag": "2.9",
-          "place": "KARAKOCA-SIMAV (KUTAHYA)",
-          "time": "2026.07.18 04:20:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.18",
-      "date_hour": "04:20:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "YAZIKOY-AFSIN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.07.18 04:12:07",
-      "lat": 38.156,
-      "lng": 36.7663,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.4",
-      "coordinates": [
-        36.7663,
-        38.156
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.7663,
-            38.156
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "YAZIKOY-AFSIN (KAHRAMANMARAS)",
-          "time": "2026.07.18 04:12:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.18",
-      "date_hour": "04:12:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
     }
   ]
 }
