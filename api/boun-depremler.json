@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-07-24T22:28:58.258Z",
+  "lastUpdate": "2026-07-24T23:33:47.261Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
+      "type": "�lksel",
+      "date": "2026.07.25 01:01:15",
+      "lat": 40.1867,
+      "lng": 31.741,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "11.0",
+      "coordinates": [
+        31.741,
+        40.1867
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.741,
+            40.1867
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "HIRKATEPE-BEYPAZARI (ANKARA)",
+          "time": "2026.07.25 01:01:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.25",
+      "date_hour": "01:01:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
+    },
+    {
+      "title": "GOKTEPE-MENEMEN (IZMIR)",
+      "type": "�lksel",
+      "date": "2026.07.25 00:57:04",
+      "lat": 38.6203,
+      "lng": 27.1515,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "13.4",
+      "coordinates": [
+        27.1515,
+        38.6203
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.1515,
+            38.6203
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "GOKTEPE-MENEMEN (IZMIR)",
+          "time": "2026.07.25 00:57:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.25",
+      "date_hour": "00:57:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
     {
       "title": "UCUYUK-ALTINTAS (KUTAHYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.07.18 06:08:44",
-      "lat": 38.3773,
-      "lng": 37.4005,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        37.4005,
-        38.3773
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.4005,
-            38.3773
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
-          "time": "2026.07.18 06:08:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.18",
-      "date_hour": "06:08:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "ANAMUR ACIKLARI-MERSIN (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2026.07.18 05:55:51",
-      "lat": 36.0102,
-      "lng": 32.4942,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "13.0",
-      "coordinates": [
-        32.4942,
-        36.0102
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.4942,
-            36.0102
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "ANAMUR ACIKLARI-MERSIN (AKDENIZ)",
-          "time": "2026.07.18 05:55:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.18",
-      "date_hour": "05:55:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
