@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-07-28T16:55:17.232Z",
+  "lastUpdate": "2026-07-28T18:08:19.237Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YENICEKENT-BULDAN (DENIZLI)",
+      "type": "�lksel",
+      "date": "2026.07.28 20:07:59",
+      "lat": 38.0732,
+      "lng": 28.9587,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "2.0",
+      "coordinates": [
+        28.9587,
+        38.0732
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9587,
+            38.0732
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "YENICEKENT-BULDAN (DENIZLI)",
+          "time": "2026.07.28 20:07:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.28",
+      "date_hour": "20:07:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
+    {
+      "title": "KOS ADASI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.07.28 19:58:50",
+      "lat": 36.7087,
+      "lng": 26.8568,
+      "md": "-.-",
+      "ml": "3.1",
+      "mw": "2.8",
+      "depth": "137.2",
+      "coordinates": [
+        26.8568,
+        36.7087
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.8568,
+            36.7087
+          ]
+        },
+        "properties": {
+          "mag": "3.1",
+          "place": "KOS ADASI (EGE DENIZI)",
+          "time": "2026.07.28 19:58:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.28",
+      "date_hour": "19:58:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "GULUMUSAGI-(MALATYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "KOCBASI-(AGRI)",
-      "type": "�lksel",
-      "date": "2026.07.21 07:13:08",
-      "lat": 39.91,
-      "lng": 43.281,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        43.281,
-        39.91
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            43.281,
-            39.91
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "KOCBASI-(AGRI)",
-          "time": "2026.07.21 07:13:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.21",
-      "date_hour": "07:13:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AGRI"
-    },
-    {
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.07.21 06:19:59",
-      "lat": 39.1792,
-      "lng": 28.1973,
-      "md": "-.-",
-      "ml": "3.2",
-      "mw": "-.-",
-      "depth": "9.8",
-      "coordinates": [
-        28.1973,
-        39.1792
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1973,
-            39.1792
-          ]
-        },
-        "properties": {
-          "mag": "3.2",
-          "place": "AKTAS-SINDIRGI (BALIKESIR)",
-          "time": "2026.07.21 06:19:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.21",
-      "date_hour": "06:19:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
