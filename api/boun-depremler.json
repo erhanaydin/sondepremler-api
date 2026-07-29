@@ -1,7 +1,403 @@
 {
-  "lastUpdate": "2026-07-29T01:09:05.993Z",
+  "lastUpdate": "2026-07-29T04:27:30.117Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.07.29 07:13:22",
+      "lat": 36.164,
+      "lng": 28.6,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "31.2",
+      "coordinates": [
+        28.6,
+        36.164
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.6,
+            36.164
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "AKDENIZ",
+          "time": "2026.07.29 07:13:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.29",
+      "date_hour": "07:13:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "YAGCILAR-URLA (IZMIR)",
+      "type": "�lksel",
+      "date": "2026.07.29 06:49:40",
+      "lat": 38.3162,
+      "lng": 26.6717,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "12.0",
+      "coordinates": [
+        26.6717,
+        38.3162
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.6717,
+            38.3162
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "YAGCILAR-URLA (IZMIR)",
+          "time": "2026.07.29 06:49:40"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.29",
+      "date_hour": "06:49:40",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "IZMIR"
+    },
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2026.07.29 06:45:10",
+      "lat": 40.3808,
+      "lng": 24.0343,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "5.3",
+      "coordinates": [
+        24.0343,
+        40.3808
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.0343,
+            40.3808
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "YUNANISTAN",
+          "time": "2026.07.29 06:45:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.29",
+      "date_hour": "06:45:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "CEVIRME-AKCADAG (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.07.29 05:45:37",
+      "lat": 38.2805,
+      "lng": 37.7625,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "14.4",
+      "coordinates": [
+        37.7625,
+        38.2805
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.7625,
+            38.2805
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "CEVIRME-AKCADAG (MALATYA)",
+          "time": "2026.07.29 05:45:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.29",
+      "date_hour": "05:45:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
+      "title": "MURATLI-(KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.07.29 05:37:43",
+      "lat": 37.4652,
+      "lng": 36.5235,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        36.5235,
+        37.4652
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.5235,
+            37.4652
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "MURATLI-(KAHRAMANMARAS)",
+          "time": "2026.07.29 05:37:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.29",
+      "date_hour": "05:37:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
+    {
+      "title": "TURKEVLERI-MILAS (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.07.29 05:16:32",
+      "lat": 36.9928,
+      "lng": 27.8875,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "15.0",
+      "coordinates": [
+        27.8875,
+        36.9928
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.8875,
+            36.9928
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "TURKEVLERI-MILAS (MUGLA)",
+          "time": "2026.07.29 05:16:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.29",
+      "date_hour": "05:16:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
+    {
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.07.29 05:12:14",
+      "lat": 36.9543,
+      "lng": 27.9142,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        27.9142,
+        36.9543
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9142,
+            36.9543
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "GOKOVA KORFEZI (EGE DENIZI)",
+          "time": "2026.07.29 05:12:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.29",
+      "date_hour": "05:12:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2026.07.29 05:06:55",
+      "lat": 35.6422,
+      "lng": 25.0588,
+      "md": "-.-",
+      "ml": "3.2",
+      "mw": "3.3",
+      "depth": "10.4",
+      "coordinates": [
+        25.0588,
+        35.6422
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.0588,
+            35.6422
+          ]
+        },
+        "properties": {
+          "mag": "3.2",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2026.07.29 05:06:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.29",
+      "date_hour": "05:06:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
+    {
+      "title": "ULASLAR-HISARCIK (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.07.29 04:54:39",
+      "lat": 39.1612,
+      "lng": 29.1358,
+      "md": "-.-",
+      "ml": "0.7",
+      "mw": "-.-",
+      "depth": "2.1",
+      "coordinates": [
+        29.1358,
+        39.1612
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1358,
+            39.1612
+          ]
+        },
+        "properties": {
+          "mag": "0.7",
+          "place": "ULASLAR-HISARCIK (KUTAHYA)",
+          "time": "2026.07.29 04:54:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.29",
+      "date_hour": "04:54:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "BAYRAMUSAGI-AKCADAG (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.07.29 04:32:34",
+      "lat": 38.3643,
+      "lng": 37.863,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "27.8",
+      "coordinates": [
+        37.863,
+        38.3643
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.863,
+            38.3643
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "BAYRAMUSAGI-AKCADAG (MALATYA)",
+          "time": "2026.07.29 04:32:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.29",
+      "date_hour": "04:32:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.07.29 04:09:34",
+      "lat": 39.1058,
+      "lng": 28.2985,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "16.3",
+      "coordinates": [
+        28.2985,
+        39.1058
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2985,
+            39.1058
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "time": "2026.07.29 04:09:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.29",
+      "date_hour": "04:09:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "YEMISLI-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17605,402 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
-    },
-    {
-      "title": "YUKARIDEMIRCI-KOVANCILAR (ELAZIG)",
-      "type": "�lksel",
-      "date": "2026.07.21 17:43:41",
-      "lat": 38.8865,
-      "lng": 40.1847,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "22.1",
-      "coordinates": [
-        40.1847,
-        38.8865
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.1847,
-            38.8865
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "YUKARIDEMIRCI-KOVANCILAR (ELAZIG)",
-          "time": "2026.07.21 17:43:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.21",
-      "date_hour": "17:43:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
-    },
-    {
-      "title": "CANDARLI KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.07.21 17:36:44",
-      "lat": 38.8227,
-      "lng": 26.8187,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "12.7",
-      "coordinates": [
-        26.8187,
-        38.8227
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.8187,
-            38.8227
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "CANDARLI KORFEZI (EGE DENIZI)",
-          "time": "2026.07.21 17:36:44"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.21",
-      "date_hour": "17:36:44",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2026.07.21 16:55:14",
-      "lat": 35.7782,
-      "lng": 32.74,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        32.74,
-        35.7782
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.74,
-            35.7782
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "AKDENIZ",
-          "time": "2026.07.21 16:55:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.21",
-      "date_hour": "16:55:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "SORKUN-GOLHISAR (BURDUR)",
-      "type": "�lksel",
-      "date": "2026.07.21 16:55:12",
-      "lat": 37.188,
-      "lng": 29.5807,
-      "md": "-.-",
-      "ml": "2.6",
-      "mw": "-.-",
-      "depth": "6.4",
-      "coordinates": [
-        29.5807,
-        37.188
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.5807,
-            37.188
-          ]
-        },
-        "properties": {
-          "mag": "2.6",
-          "place": "SORKUN-GOLHISAR (BURDUR)",
-          "time": "2026.07.21 16:55:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.21",
-      "date_hour": "16:55:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURDUR"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2026.07.21 16:37:50",
-      "lat": 35.7862,
-      "lng": 32.741,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "12.9",
-      "coordinates": [
-        32.741,
-        35.7862
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            32.741,
-            35.7862
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "AKDENIZ",
-          "time": "2026.07.21 16:37:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.21",
-      "date_hour": "16:37:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "BOSTANBASI-YESILYURT (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.07.21 16:30:54",
-      "lat": 38.3353,
-      "lng": 38.26,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "11.8",
-      "coordinates": [
-        38.26,
-        38.3353
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.26,
-            38.3353
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "BOSTANBASI-YESILYURT (MALATYA)",
-          "time": "2026.07.21 16:30:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.21",
-      "date_hour": "16:30:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
-    },
-    {
-      "title": "MIDILLI ADASI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.07.21 16:30:10",
-      "lat": 39.3222,
-      "lng": 26.0575,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "2.3",
-      "coordinates": [
-        26.0575,
-        39.3222
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.0575,
-            39.3222
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "MIDILLI ADASI (EGE DENIZI)",
-          "time": "2026.07.21 16:30:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.21",
-      "date_hour": "16:30:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
-    },
-    {
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.07.21 16:21:51",
-      "lat": 39.136,
-      "lng": 28.2658,
-      "md": "-.-",
-      "ml": "1.3",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        28.2658,
-        39.136
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2658,
-            39.136
-          ]
-        },
-        "properties": {
-          "mag": "1.3",
-          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
-          "time": "2026.07.21 16:21:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.21",
-      "date_hour": "16:21:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "MARMARA DENIZI",
-      "type": "�lksel",
-      "date": "2026.07.21 16:08:19",
-      "lat": 40.801,
-      "lng": 27.7677,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "11.2",
-      "coordinates": [
-        27.7677,
-        40.801
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7677,
-            40.801
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "MARMARA DENIZI",
-          "time": "2026.07.21 16:08:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.21",
-      "date_hour": "16:08:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "KIBRIS-ZUMRUTKOY",
-      "type": "�lksel",
-      "date": "2026.07.21 15:25:59",
-      "lat": 35.0493,
-      "lng": 33.1265,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "71.2",
-      "coordinates": [
-        33.1265,
-        35.0493
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.1265,
-            35.0493
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KIBRIS-ZUMRUTKOY",
-          "time": "2026.07.21 15:25:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.21",
-      "date_hour": "15:25:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "CANDARLI KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.07.21 14:53:40",
-      "lat": 38.8963,
-      "lng": 26.9265,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "8.8",
-      "coordinates": [
-        26.9265,
-        38.8963
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.9265,
-            38.8963
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "CANDARLI KORFEZI (EGE DENIZI)",
-          "time": "2026.07.21 14:53:40"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.21",
-      "date_hour": "14:53:40",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
