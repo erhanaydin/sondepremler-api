@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-07-31T14:37:12.820Z",
+  "lastUpdate": "2026-07-31T16:20:03.325Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HAMZABEY-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.07.31 17:35:38",
+      "lat": 39.2115,
+      "lng": 28.9318,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "17.1",
+      "coordinates": [
+        28.9318,
+        39.2115
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9318,
+            39.2115
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "HAMZABEY-SIMAV (KUTAHYA)",
+          "time": "2026.07.31 17:35:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.07.31",
+      "date_hour": "17:35:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KALEM-MILAS (MUGLA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADANA"
-    },
-    {
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.07.24 19:25:36",
-      "lat": 37.9018,
-      "lng": 26.9122,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        26.9122,
-        37.9018
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.9122,
-            37.9018
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KUSADASI KORFEZI (EGE DENIZI)",
-          "time": "2026.07.24 19:25:36"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.24",
-      "date_hour": "19:25:36",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
