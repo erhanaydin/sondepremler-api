@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-01T23:28:53.911Z",
+  "lastUpdate": "2026-08-02T01:07:02.508Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ORTAKOY-AKCADAG (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.08.02 03:42:21",
+      "lat": 38.3095,
+      "lng": 37.8313,
+      "md": "-.-",
+      "ml": "0.9",
+      "mw": "-.-",
+      "depth": "13.1",
+      "coordinates": [
+        37.8313,
+        38.3095
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.8313,
+            38.3095
+          ]
+        },
+        "properties": {
+          "mag": "0.9",
+          "place": "ORTAKOY-AKCADAG (MALATYA)",
+          "time": "2026.08.02 03:42:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.02",
+      "date_hour": "03:42:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "YESILDERE-SIMAV (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANKIRI"
-    },
-    {
-      "title": "YENICIFTLIK-TIRE (IZMIR)",
-      "type": "�lksel",
-      "date": "2026.07.26 14:49:26",
-      "lat": 38.1278,
-      "lng": 27.5088,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "29.8",
-      "coordinates": [
-        27.5088,
-        38.1278
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.5088,
-            38.1278
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YENICIFTLIK-TIRE (IZMIR)",
-          "time": "2026.07.26 14:49:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.26",
-      "date_hour": "14:49:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
