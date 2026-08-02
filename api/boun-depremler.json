@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-02T16:29:48.325Z",
+  "lastUpdate": "2026-08-02T17:34:00.030Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HIDIRKOY-(VAN)",
+      "type": "�lksel",
+      "date": "2026.08.02 17:50:37",
+      "lat": 38.7157,
+      "lng": 43.3855,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "8.3",
+      "coordinates": [
+        43.3855,
+        38.7157
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.3855,
+            38.7157
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "HIDIRKOY-(VAN)",
+          "time": "2026.08.02 17:50:37"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.02",
+      "date_hour": "17:50:37",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "VAN"
+    },
     {
       "title": "KUSADASI (AYDIN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "MIDILLI ADASI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.07.27 10:49:26",
-      "lat": 39.3448,
-      "lng": 26.0928,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "13.1",
-      "coordinates": [
-        26.0928,
-        39.3448
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.0928,
-            39.3448
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "MIDILLI ADASI (EGE DENIZI)",
-          "time": "2026.07.27 10:49:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.27",
-      "date_hour": "10:49:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
