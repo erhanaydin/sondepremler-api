@@ -1,5 +1,185 @@
 [
   {
+    "title": "Çivril (Denizli)",
+    "type": "İlksel",
+    "date": "2026-08-02 19:41:32",
+    "lat": 38.2755,
+    "lng": 30.05633,
+    "md": "-.-",
+    "ml": "0.9",
+    "mw": "-.-",
+    "depth": 6.96,
+    "coordinates": [
+      30.05633,
+      38.2755
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.05633,
+          38.2755
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Çivril (Denizli) (Denizli)",
+        "time": 1785699692000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-02",
+    "date_hour": "19:41:32",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Denizli"
+  },
+  {
+    "title": "Pütürge (Malatya)",
+    "type": "İlksel",
+    "date": "2026-08-02 19:36:09",
+    "lat": 38.20367,
+    "lng": 38.6215,
+    "md": "-.-",
+    "ml": "0.7",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      38.6215,
+      38.20367
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6215,
+          38.20367
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Pütürge (Malatya) (Malatya)",
+        "time": 1785699369000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-02",
+    "date_hour": "19:36:09",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Malatya"
+  },
+  {
+    "title": "Marmara Denizi - [10.23 km] Çınarcık (Yalova)",
+    "type": "İlksel",
+    "date": "2026-08-02 19:20:23",
+    "lat": 40.743,
+    "lng": 29.1345,
+    "md": "-.-",
+    "ml": "1.4",
+    "mw": "-.-",
+    "depth": 6.51,
+    "coordinates": [
+      29.1345,
+      40.743
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1345,
+          40.743
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Marmara Denizi - [10.23 km] Çınarcık (Yalova) (Yalova)",
+        "time": 1785698423000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-02",
+    "date_hour": "19:20:23",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Yalova"
+  },
+  {
+    "title": "Ege Denizi - Kuşadası Körfezi - [17.09 km] Seferihisar (İzmir)",
+    "type": "İlksel",
+    "date": "2026-08-02 19:04:21",
+    "lat": 37.91867,
+    "lng": 26.92633,
+    "md": "-.-",
+    "ml": "1",
+    "mw": "-.-",
+    "depth": 7.08,
+    "coordinates": [
+      26.92633,
+      37.91867
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.92633,
+          37.91867
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Ege Denizi - Kuşadası Körfezi - [17.09 km] Seferihisar (İzmir) (İzmir)",
+        "time": 1785697461000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-02",
+    "date_hour": "19:04:21",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "İzmir"
+  },
+  {
+    "title": "Tuzlukçu (Konya)",
+    "type": "İlksel",
+    "date": "2026-08-02 19:03:33",
+    "lat": 38.65333,
+    "lng": 31.6985,
+    "md": "-.-",
+    "ml": "0.7",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      31.6985,
+      38.65333
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6985,
+          38.65333
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Tuzlukçu (Konya) (Konya)",
+        "time": 1785697413000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-02",
+    "date_hour": "19:03:33",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Konya"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2026-08-02 18:57:18",
@@ -9034,41 +9214,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Diyarbakır"
-  },
-  {
-    "title": "Sincik (Adıyaman)",
-    "type": "İlksel",
-    "date": "2026-07-30 20:15:30",
-    "lat": 38.1285,
-    "lng": 38.45283,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 11.19,
-    "coordinates": [
-      38.45283,
-      38.1285
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.45283,
-          38.1285
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sincik (Adıyaman) (Adıyaman)",
-        "time": 1785442530000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-07-30",
-    "date_hour": "20:15:30",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Adıyaman"
   }
 ]
