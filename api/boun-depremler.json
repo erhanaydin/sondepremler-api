@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-03T18:18:50.303Z",
+  "lastUpdate": "2026-08-03T20:02:06.057Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SENLIK-LICE (DIYARBAKIR)",
+      "type": "�lksel",
+      "date": "2026.08.03 21:00:39",
+      "lat": 38.5377,
+      "lng": 40.4025,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "5.1",
+      "coordinates": [
+        40.4025,
+        38.5377
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.4025,
+            38.5377
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "SENLIK-LICE (DIYARBAKIR)",
+          "time": "2026.08.03 21:00:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.03",
+      "date_hour": "21:00:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DIYARBAKIR"
+    },
     {
       "title": "MIDILLI ADASI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
-      "type": "�lksel",
-      "date": "2026.07.28 06:19:01",
-      "lat": 38.7655,
-      "lng": 36.5715,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "9.6",
-      "coordinates": [
-        36.5715,
-        38.7655
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.5715,
-            38.7655
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
-          "time": "2026.07.28 06:19:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.28",
-      "date_hour": "06:19:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAYSERI"
     }
   ]
 }
