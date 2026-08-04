@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-04T11:40:05.487Z",
+  "lastUpdate": "2026-08-04T13:22:24.664Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ELDELEK-ELBISTAN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.08.04 14:52:33",
+      "lat": 38.2745,
+      "lng": 37.2742,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "8.4",
+      "coordinates": [
+        37.2742,
+        38.2745
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.2742,
+            38.2745
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "ELDELEK-ELBISTAN (KAHRAMANMARAS)",
+          "time": "2026.08.04 14:52:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.04",
+      "date_hour": "14:52:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "GUZELDERE-HINIS (ERZURUM)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "DENIZLI"
-    },
-    {
-      "title": "KOS ADASI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.07.28 19:58:50",
-      "lat": 36.7087,
-      "lng": 26.8568,
-      "md": "-.-",
-      "ml": "3.1",
-      "mw": "2.8",
-      "depth": "137.2",
-      "coordinates": [
-        26.8568,
-        36.7087
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.8568,
-            36.7087
-          ]
-        },
-        "properties": {
-          "mag": "3.1",
-          "place": "KOS ADASI (EGE DENIZI)",
-          "time": "2026.07.28 19:58:50"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.28",
-      "date_hour": "19:58:50",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
