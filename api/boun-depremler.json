@@ -1,39 +1,75 @@
 {
-  "lastUpdate": "2026-08-05T17:05:36.118Z",
+  "lastUpdate": "2026-08-05T18:44:05.391Z",
   "source": "Boğaziçi",
   "data": [
     {
-      "title": "DEDEYAZI-DOGANSEHIR (MALATYA)",
+      "title": "CANAKCI-KALE (MALATYA)",
       "type": "�lksel",
-      "date": "2026.08.05 19:28:53",
-      "lat": 38.2023,
-      "lng": 37.8215,
+      "date": "2026.08.05 20:13:30",
+      "lat": 38.3385,
+      "lng": 38.7877,
       "md": "-.-",
-      "ml": "1.5",
+      "ml": "1.4",
       "mw": "-.-",
-      "depth": "9.0",
+      "depth": "20.9",
       "coordinates": [
-        37.8215,
-        38.2023
+        38.7877,
+        38.3385
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            37.8215,
-            38.2023
+            38.7877,
+            38.3385
           ]
         },
         "properties": {
-          "mag": "1.5",
-          "place": "DEDEYAZI-DOGANSEHIR (MALATYA)",
-          "time": "2026.08.05 19:28:53"
+          "mag": "1.4",
+          "place": "CANAKCI-KALE (MALATYA)",
+          "time": "2026.08.05 20:13:30"
         }
       },
       "location_properties": "",
       "date_day": "2026.08.05",
-      "date_hour": "19:28:53",
+      "date_hour": "20:13:30",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
+    {
+      "title": "HANCERLI-AKCADAG (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.08.05 19:28:54",
+      "lat": 38.3193,
+      "lng": 37.8423,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "13.7",
+      "coordinates": [
+        37.8423,
+        38.3193
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.8423,
+            38.3193
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "HANCERLI-AKCADAG (MALATYA)",
+          "time": "2026.08.05 19:28:54"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.05",
+      "date_hour": "19:28:54",
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZINCAN"
-    },
-    {
-      "title": "YENIKOY-(DENIZLI)",
-      "type": "�lksel",
-      "date": "2026.07.29 15:55:01",
-      "lat": 37.9238,
-      "lng": 29.1617,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        29.1617,
-        37.9238
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1617,
-            37.9238
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YENIKOY-(DENIZLI)",
-          "time": "2026.07.29 15:55:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.29",
-      "date_hour": "15:55:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
     }
   ]
 }
