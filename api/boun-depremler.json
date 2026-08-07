@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-07T21:59:01.246Z",
+  "lastUpdate": "2026-08-07T22:40:16.893Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SAHINYURDU-GEMLIK (BURSA)",
+      "type": "�lksel",
+      "date": "2026.08.08 01:35:59",
+      "lat": 40.4685,
+      "lng": 29.2255,
+      "md": "-.-",
+      "ml": "0.6",
+      "mw": "-.-",
+      "depth": "8.3",
+      "coordinates": [
+        29.2255,
+        40.4685
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.2255,
+            40.4685
+          ]
+        },
+        "properties": {
+          "mag": "0.6",
+          "place": "SAHINYURDU-GEMLIK (BURSA)",
+          "time": "2026.08.08 01:35:59"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.08",
+      "date_hour": "01:35:59",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAYSERI"
-    },
-    {
-      "title": "TASTEPE-KINIK (IZMIR)",
-      "type": "�lksel",
-      "date": "2026.07.31 09:20:34",
-      "lat": 39.1048,
-      "lng": 27.4763,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        27.4763,
-        39.1048
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.4763,
-            39.1048
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "TASTEPE-KINIK (IZMIR)",
-          "time": "2026.07.31 09:20:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.31",
-      "date_hour": "09:20:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
