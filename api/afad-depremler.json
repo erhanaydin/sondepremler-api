@@ -1,5 +1,185 @@
 [
   {
+    "title": "Akdeniz",
+    "type": "İlksel",
+    "date": "2026-08-07 07:15:44",
+    "lat": 35.40133,
+    "lng": 32.71217,
+    "md": "-.-",
+    "ml": "1.9",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      32.71217,
+      35.40133
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.71217,
+          35.40133
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Akdeniz (Mersin)",
+        "time": 1786086944000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-07",
+    "date_hour": "07:15:44",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Mersin"
+  },
+  {
+    "title": "Akdeniz - [73.68 km] Marmaris (Muğla)",
+    "type": "İlksel",
+    "date": "2026-08-07 07:10:55",
+    "lat": 35.96883,
+    "lng": 28.06583,
+    "md": "-.-",
+    "ml": "4.1",
+    "mw": "-.-",
+    "depth": 10.86,
+    "coordinates": [
+      28.06583,
+      35.96883
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.06583,
+          35.96883
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Akdeniz - [73.68 km] Marmaris (Muğla) (Muğla)",
+        "time": 1786086655000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-07",
+    "date_hour": "07:10:55",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Muğla"
+  },
+  {
+    "title": "Menderes (İzmir)",
+    "type": "İlksel",
+    "date": "2026-08-07 07:06:13",
+    "lat": 38.07083,
+    "lng": 27.11483,
+    "md": "-.-",
+    "ml": "1.9",
+    "mw": "-.-",
+    "depth": 7.51,
+    "coordinates": [
+      27.11483,
+      38.07083
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.11483,
+          38.07083
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Menderes (İzmir) (İzmir)",
+        "time": 1786086373000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-07",
+    "date_hour": "07:06:13",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "İzmir"
+  },
+  {
+    "title": "Sındırgı (Balıkesir)",
+    "type": "İlksel",
+    "date": "2026-08-07 07:00:55",
+    "lat": 39.2205,
+    "lng": 28.104,
+    "md": "-.-",
+    "ml": "1.1",
+    "mw": "-.-",
+    "depth": 18.07,
+    "coordinates": [
+      28.104,
+      39.2205
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.104,
+          39.2205
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sındırgı (Balıkesir) (Balıkesir)",
+        "time": 1786086055000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-07",
+    "date_hour": "07:00:55",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Balıkesir"
+  },
+  {
+    "title": "İnönü (Eskişehir)",
+    "type": "İlksel",
+    "date": "2026-08-07 06:55:16",
+    "lat": 39.70267,
+    "lng": 30.16067,
+    "md": "-.-",
+    "ml": "1.1",
+    "mw": "-.-",
+    "depth": 6.98,
+    "coordinates": [
+      30.16067,
+      39.70267
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.16067,
+          39.70267
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "İnönü (Eskişehir) (Eskişehir)",
+        "time": 1786085716000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-07",
+    "date_hour": "06:55:16",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Eskişehir"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2026-08-07 06:15:54",
@@ -8923,114 +9103,6 @@
     "location_properties": "",
     "date_day": "2026-08-04",
     "date_hour": "08:04:52",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2026-08-04 07:48:35",
-    "lat": 39.16967,
-    "lng": 28.21033,
-    "md": "-.-",
-    "ml": "0.8",
-    "mw": "-.-",
-    "depth": 5.05,
-    "coordinates": [
-      28.21033,
-      39.16967
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.21033,
-          39.16967
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1785829715000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-04",
-    "date_hour": "07:48:35",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
-  },
-  {
-    "title": "Akçadağ (Malatya)",
-    "type": "İlksel",
-    "date": "2026-08-04 06:57:16",
-    "lat": 38.32383,
-    "lng": 38.09217,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      38.09217,
-      38.32383
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.09217,
-          38.32383
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akçadağ (Malatya) (Malatya)",
-        "time": 1785826636000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-04",
-    "date_hour": "06:57:16",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Malatya"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2026-08-04 06:37:51",
-    "lat": 39.1725,
-    "lng": 28.13306,
-    "md": "-.-",
-    "ml": "1.1",
-    "mw": "-.-",
-    "depth": 4.63,
-    "coordinates": [
-      28.13306,
-      39.1725
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.13306,
-          39.1725
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1785825471000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-04",
-    "date_hour": "06:37:51",
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"

@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-08-07T06:34:41.439Z",
+  "lastUpdate": "2026-08-07T07:53:41.989Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "RODOS ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2026.08.07 10:10:56",
+      "lat": 36.0882,
+      "lng": 28.0712,
+      "md": "-.-",
+      "ml": "3.5",
+      "mw": "3.5",
+      "depth": "1.4",
+      "coordinates": [
+        28.0712,
+        36.0882
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0712,
+            36.0882
+          ]
+        },
+        "properties": {
+          "mag": "3.5",
+          "place": "RODOS ADASI (AKDENIZ)",
+          "time": "2026.08.07 10:10:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.07",
+      "date_hour": "10:10:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.08.07 10:06:13",
+      "lat": 37.9603,
+      "lng": 27.0953,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "3.7",
+      "coordinates": [
+        27.0953,
+        37.9603
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.0953,
+            37.9603
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2026.08.07 10:06:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.07",
+      "date_hour": "10:06:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "YUNANISTAN",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "BARAKLI-EVCILER (AFYONKARAHISAR)",
-      "type": "�lksel",
-      "date": "2026.07.30 16:14:34",
-      "lat": 38.0807,
-      "lng": 29.9817,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        29.9817,
-        38.0807
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.9817,
-            38.0807
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "BARAKLI-EVCILER (AFYONKARAHISAR)",
-          "time": "2026.07.30 16:14:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.30",
-      "date_hour": "16:14:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AFYONKARAHISAR"
-    },
-    {
-      "title": "GUNLUCE ACIKLARI-MUGLA (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2026.07.30 15:44:26",
-      "lat": 36.725,
-      "lng": 28.3347,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "3.2",
-      "depth": "7.0",
-      "coordinates": [
-        28.3347,
-        36.725
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.3347,
-            36.725
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "GUNLUCE ACIKLARI-MUGLA (AKDENIZ)",
-          "time": "2026.07.30 15:44:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.30",
-      "date_hour": "15:44:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
