@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-07T18:02:19.543Z",
+  "lastUpdate": "2026-08-07T19:08:16.363Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAHASAN-MALAZGIRT (MUS)",
+      "type": "�lksel",
+      "date": "2026.08.07 20:57:39",
+      "lat": 38.9968,
+      "lng": 42.6553,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "18.4",
+      "coordinates": [
+        42.6553,
+        38.9968
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            42.6553,
+            38.9968
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KARAHASAN-MALAZGIRT (MUS)",
+          "time": "2026.08.07 20:57:39"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.07",
+      "date_hour": "20:57:39",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUS"
+    },
     {
       "title": "KARAAHMETLI-(MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADIYAMAN"
-    },
-    {
-      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.07.31 03:02:19",
-      "lat": 39.22,
-      "lng": 28.1185,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "7.8",
-      "coordinates": [
-        28.1185,
-        39.22
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1185,
-            39.22
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "BAYIRLI-SINDIRGI (BALIKESIR)",
-          "time": "2026.07.31 03:02:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.07.31",
-      "date_hour": "03:02:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
