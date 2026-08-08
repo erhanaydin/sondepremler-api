@@ -1,5 +1,41 @@
 [
   {
+    "title": "Horasan (Erzurum)",
+    "type": "İlksel",
+    "date": "2026-08-08 08:24:14",
+    "lat": 40.01267,
+    "lng": 42.22883,
+    "md": "-.-",
+    "ml": "1.8",
+    "mw": "-.-",
+    "depth": 16.55,
+    "coordinates": [
+      42.22883,
+      40.01267
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.22883,
+          40.01267
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Horasan (Erzurum) (Erzurum)",
+        "time": 1786177454000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-08",
+    "date_hour": "08:24:14",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Erzurum"
+  },
+  {
     "title": "Orhangazi (Bursa)",
     "type": "İlksel",
     "date": "2026-08-08 07:20:36",
@@ -9322,41 +9358,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kahramanmaraş"
-  },
-  {
-    "title": "Ege Denizi",
-    "type": "İlksel",
-    "date": "2026-08-05 08:05:55",
-    "lat": 36.74317,
-    "lng": 25.89117,
-    "md": "-.-",
-    "ml": "2.4",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      25.89117,
-      36.74317
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.89117,
-          36.74317
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Ege Denizi (Muğla)",
-        "time": 1785917155000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-05",
-    "date_hour": "08:05:55",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
   }
 ]
