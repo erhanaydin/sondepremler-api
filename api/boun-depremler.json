@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-08T17:17:02.716Z",
+  "lastUpdate": "2026-08-08T17:49:04.665Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "HANCERLI-AKCADAG (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.08.08 20:21:32",
+      "lat": 38.2867,
+      "lng": 37.8377,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "14.9",
+      "coordinates": [
+        37.8377,
+        38.2867
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.8377,
+            38.2867
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "HANCERLI-AKCADAG (MALATYA)",
+          "time": "2026.08.08 20:21:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.08",
+      "date_hour": "20:21:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "SOGUCAK-AFSIN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MERSIN"
-    },
-    {
-      "title": "BOZBURUN ACIKLARI-MUGLA (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2026.08.01 11:22:09",
-      "lat": 36.67,
-      "lng": 28.2482,
-      "md": "-.-",
-      "ml": "3.0",
-      "mw": "3.0",
-      "depth": "54.4",
-      "coordinates": [
-        28.2482,
-        36.67
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2482,
-            36.67
-          ]
-        },
-        "properties": {
-          "mag": "3.0",
-          "place": "BOZBURUN ACIKLARI-MUGLA (AKDENIZ)",
-          "time": "2026.08.01 11:22:09"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.01",
-      "date_hour": "11:22:09",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
