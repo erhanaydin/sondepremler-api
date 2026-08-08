@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-08-08T09:58:01.370Z",
+  "lastUpdate": "2026-08-08T10:34:32.822Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SAMLI-(BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.08.08 13:16:16",
+      "lat": 39.8252,
+      "lng": 27.8658,
+      "md": "-.-",
+      "ml": "0.9",
+      "mw": "-.-",
+      "depth": "16.3",
+      "coordinates": [
+        27.8658,
+        39.8252
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.8658,
+            39.8252
+          ]
+        },
+        "properties": {
+          "mag": "0.9",
+          "place": "SAMLI-(BALIKESIR)",
+          "time": "2026.08.08 13:16:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.08",
+      "date_hour": "13:16:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
+    {
+      "title": "BAYAT-SOMA (MANISA)",
+      "type": "�lksel",
+      "date": "2026.08.08 12:40:02",
+      "lat": 39.1995,
+      "lng": 27.7032,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        27.7032,
+        39.1995
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.7032,
+            39.1995
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "BAYAT-SOMA (MANISA)",
+          "time": "2026.08.08 12:40:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.08",
+      "date_hour": "12:40:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "SARICALAR-SELCUKLU (KONYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CAYUSTU-BIGADIC (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.08.01 07:25:26",
-      "lat": 39.3945,
-      "lng": 27.9963,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "10.2",
-      "coordinates": [
-        27.9963,
-        39.3945
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9963,
-            39.3945
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "CAYUSTU-BIGADIC (BALIKESIR)",
-          "time": "2026.08.01 07:25:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.01",
-      "date_hour": "07:25:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "KUCUKKOMARMUT-PINARBASI (KAYSERI)",
-      "type": "�lksel",
-      "date": "2026.08.01 07:24:10",
-      "lat": 38.6103,
-      "lng": 36.3365,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "12.5",
-      "coordinates": [
-        36.3365,
-        38.6103
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.3365,
-            38.6103
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "KUCUKKOMARMUT-PINARBASI (KAYSERI)",
-          "time": "2026.08.01 07:24:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.01",
-      "date_hour": "07:24:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAYSERI"
     }
   ]
 }
