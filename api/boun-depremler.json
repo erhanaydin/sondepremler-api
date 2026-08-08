@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-08T14:51:35.699Z",
+  "lastUpdate": "2026-08-08T15:14:43.642Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2026.08.08 17:43:43",
+      "lat": 40.0868,
+      "lng": 23.2087,
+      "md": "-.-",
+      "ml": "3.0",
+      "mw": "3.1",
+      "depth": "11.7",
+      "coordinates": [
+        23.2087,
+        40.0868
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.2087,
+            40.0868
+          ]
+        },
+        "properties": {
+          "mag": "3.0",
+          "place": "YUNANISTAN",
+          "time": "2026.08.08 17:43:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.08",
+      "date_hour": "17:43:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "CAVUSLU-DOGANSEHIR (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "PIRSULTANLI-DUZICI (OSMANIYE)",
-      "type": "�lksel",
-      "date": "2026.08.01 10:21:07",
-      "lat": 37.2978,
-      "lng": 36.3315,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "5.7",
-      "coordinates": [
-        36.3315,
-        37.2978
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.3315,
-            37.2978
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "PIRSULTANLI-DUZICI (OSMANIYE)",
-          "time": "2026.08.01 10:21:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.01",
-      "date_hour": "10:21:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "OSMANIYE"
     }
   ]
 }
