@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-08T16:51:28.880Z",
+  "lastUpdate": "2026-08-08T17:17:02.716Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SOGUCAK-AFSIN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.08.08 19:40:26",
+      "lat": 38.144,
+      "lng": 36.934,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        36.934,
+        38.144
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.934,
+            38.144
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "SOGUCAK-AFSIN (KAHRAMANMARAS)",
+          "time": "2026.08.08 19:40:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.08",
+      "date_hour": "19:40:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "KAVAKOZU-MUT (MERSIN)",
-      "type": "�lksel",
-      "date": "2026.08.01 11:15:23",
-      "lat": 36.8448,
-      "lng": 33.403,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "18.4",
-      "coordinates": [
-        33.403,
-        36.8448
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.403,
-            36.8448
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KAVAKOZU-MUT (MERSIN)",
-          "time": "2026.08.01 11:15:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.01",
-      "date_hour": "11:15:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
     }
   ]
 }
