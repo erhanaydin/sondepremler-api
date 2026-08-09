@@ -1,5 +1,41 @@
 [
   {
+    "title": "Yayladağı (Hatay)",
+    "type": "İlksel",
+    "date": "2026-08-09 14:58:08",
+    "lat": 35.98183,
+    "lng": 36.08917,
+    "md": "-.-",
+    "ml": "1.9",
+    "mw": "-.-",
+    "depth": 9.43,
+    "coordinates": [
+      36.08917,
+      35.98183
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.08917,
+          35.98183
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Yayladağı (Hatay) (Hatay)",
+        "time": 1786287488000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-09",
+    "date_hour": "14:58:08",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Hatay"
+  },
+  {
     "title": "Akçadağ (Malatya)",
     "type": "İlksel",
     "date": "2026-08-09 14:25:32",
@@ -9934,77 +9970,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Akdeniz",
-    "type": "İlksel",
-    "date": "2026-08-06 16:46:48",
-    "lat": 35.56267,
-    "lng": 35.24067,
-    "md": "-.-",
-    "ml": "2.6",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      35.24067,
-      35.56267
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.24067,
-          35.56267
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akdeniz (Hatay)",
-        "time": 1786034808000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-06",
-    "date_hour": "16:46:48",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Hatay"
-  },
-  {
-    "title": "Göksun (Kahramanmaraş)",
-    "type": "İlksel",
-    "date": "2026-08-06 16:32:58",
-    "lat": 38.1005,
-    "lng": 36.91533,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 6.96,
-    "coordinates": [
-      36.91533,
-      38.1005
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.91533,
-          38.1005
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Göksun (Kahramanmaraş) (Kahramanmaraş)",
-        "time": 1786033978000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-06",
-    "date_hour": "16:32:58",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kahramanmaraş"
   }
 ]
