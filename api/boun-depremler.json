@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-09T09:47:55.623Z",
+  "lastUpdate": "2026-08-09T10:16:36.956Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ALPUDERE-SULUSARAY (TOKAT)",
+      "type": "�lksel",
+      "date": "2026.08.09 12:59:00",
+      "lat": 40.0532,
+      "lng": 36.0737,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "3.8",
+      "coordinates": [
+        36.0737,
+        40.0532
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.0737,
+            40.0532
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "ALPUDERE-SULUSARAY (TOKAT)",
+          "time": "2026.08.09 12:59:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.09",
+      "date_hour": "12:59:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "TOKAT"
+    },
     {
       "title": "CIKRIK-YESILYURT (TOKAT)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "GULCIMEN-BULANIK (MUS)",
-      "type": "�lksel",
-      "date": "2026.08.02 05:28:05",
-      "lat": 39.0153,
-      "lng": 42.0672,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        42.0672,
-        39.0153
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.0672,
-            39.0153
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "GULCIMEN-BULANIK (MUS)",
-          "time": "2026.08.02 05:28:05"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.02",
-      "date_hour": "05:28:05",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUS"
     }
   ]
 }
