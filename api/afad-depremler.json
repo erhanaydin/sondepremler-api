@@ -1,5 +1,77 @@
 [
   {
+    "title": "Bahşili (Kırıkkale)",
+    "type": "İlksel",
+    "date": "2026-08-09 13:27:04",
+    "lat": 39.67183,
+    "lng": 33.3345,
+    "md": "-.-",
+    "ml": "0.9",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      33.3345,
+      39.67183
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3345,
+          39.67183
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Bahşili (Kırıkkale) (Kırıkkale)",
+        "time": 1786282024000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-09",
+    "date_hour": "13:27:04",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kırıkkale"
+  },
+  {
+    "title": "Sulusaray (Tokat)",
+    "type": "İlksel",
+    "date": "2026-08-09 13:07:10",
+    "lat": 40.03033,
+    "lng": 35.9815,
+    "md": "-.-",
+    "ml": "1.5",
+    "mw": "-.-",
+    "depth": 13.14,
+    "coordinates": [
+      35.9815,
+      40.03033
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9815,
+          40.03033
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sulusaray (Tokat) (Tokat)",
+        "time": 1786280830000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-09",
+    "date_hour": "13:07:10",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Tokat"
+  },
+  {
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2026-08-09 12:54:46",
@@ -10078,41 +10150,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Sincik (Adıyaman)",
-    "type": "İlksel",
-    "date": "2026-08-06 13:55:56",
-    "lat": 37.97667,
-    "lng": 38.4295,
-    "md": "-.-",
-    "ml": "1.8",
-    "mw": "-.-",
-    "depth": 4.59,
-    "coordinates": [
-      38.4295,
-      37.97667
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.4295,
-          37.97667
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sincik (Adıyaman) (Adıyaman)",
-        "time": 1786024556000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-06",
-    "date_hour": "13:55:56",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Adıyaman"
   }
 ]
