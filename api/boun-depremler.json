@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-10T22:54:37.758Z",
+  "lastUpdate": "2026-08-10T23:26:50.263Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SEYFE-SULUOVA (AMASYA)",
+      "type": "�lksel",
+      "date": "2026.08.11 01:44:20",
+      "lat": 40.8125,
+      "lng": 35.9117,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "10.6",
+      "coordinates": [
+        35.9117,
+        40.8125
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.9117,
+            40.8125
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "SEYFE-SULUOVA (AMASYA)",
+          "time": "2026.08.11 01:44:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.11",
+      "date_hour": "01:44:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AMASYA"
+    },
     {
       "title": "MIDILLI ADASI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AKDENIZ"
-    },
-    {
-      "title": "SARIBALTA-CEMISGEZEK (TUNCELI)",
-      "type": "�lksel",
-      "date": "2026.08.03 09:05:45",
-      "lat": 39.0088,
-      "lng": 38.9255,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "5.3",
-      "coordinates": [
-        38.9255,
-        39.0088
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.9255,
-            39.0088
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "SARIBALTA-CEMISGEZEK (TUNCELI)",
-          "time": "2026.08.03 09:05:45"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.03",
-      "date_hour": "09:05:45",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TUNCELI"
     }
   ]
 }
