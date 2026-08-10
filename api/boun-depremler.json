@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-10T10:06:09.920Z",
+  "lastUpdate": "2026-08-10T11:17:45.795Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CIGDEMLI-CAMELI (DENIZLI)",
+      "type": "�lksel",
+      "date": "2026.08.10 13:07:58",
+      "lat": 37.1535,
+      "lng": 29.4647,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "4.8",
+      "coordinates": [
+        29.4647,
+        37.1535
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.4647,
+            37.1535
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "CIGDEMLI-CAMELI (DENIZLI)",
+          "time": "2026.08.10 13:07:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.10",
+      "date_hour": "13:07:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DENIZLI"
+    },
     {
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "COPLER-ILIC (ERZINCAN)",
-      "type": "�lksel",
-      "date": "2026.08.02 21:44:39",
-      "lat": 39.4012,
-      "lng": 38.5238,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "11.5",
-      "coordinates": [
-        38.5238,
-        39.4012
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.5238,
-            39.4012
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "COPLER-ILIC (ERZINCAN)",
-          "time": "2026.08.02 21:44:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.02",
-      "date_hour": "21:44:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
     }
   ]
 }
