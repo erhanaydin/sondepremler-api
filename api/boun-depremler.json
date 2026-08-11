@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-11T21:50:50.198Z",
+  "lastUpdate": "2026-08-11T22:26:38.706Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.08.12 00:53:08",
+      "lat": 36.04,
+      "lng": 28.0863,
+      "md": "-.-",
+      "ml": "3.2",
+      "mw": "3.4",
+      "depth": "5.0",
+      "coordinates": [
+        28.0863,
+        36.04
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.0863,
+            36.04
+          ]
+        },
+        "properties": {
+          "mag": "3.2",
+          "place": "AKDENIZ",
+          "time": "2026.08.12 00:53:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.12",
+      "date_hour": "00:53:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ERZURUM"
-    },
-    {
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2026.08.04 14:09:16",
-      "lat": 35.1347,
-      "lng": 25.3097,
-      "md": "-.-",
-      "ml": "2.5",
-      "mw": "-.-",
-      "depth": "2.9",
-      "coordinates": [
-        25.3097,
-        35.1347
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.3097,
-            35.1347
-          ]
-        },
-        "properties": {
-          "mag": "2.5",
-          "place": "GIRIT ADASI (AKDENIZ)",
-          "time": "2026.08.04 14:09:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.04",
-      "date_hour": "14:09:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
