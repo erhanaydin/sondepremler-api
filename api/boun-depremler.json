@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-11T11:04:49.049Z",
+  "lastUpdate": "2026-08-11T11:52:20.941Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARAOMER-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.08.11 14:03:34",
+      "lat": 38.0933,
+      "lng": 36.6863,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "9.0",
+      "coordinates": [
+        36.6863,
+        38.0933
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.6863,
+            38.0933
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "KARAOMER-GOKSUN (KAHRAMANMARAS)",
+          "time": "2026.08.11 14:03:34"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.11",
+      "date_hour": "14:03:34",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "PIRINCCI-EYUP (ISTANBUL)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.08.04 02:11:48",
-      "lat": 36.0683,
-      "lng": 26.9153,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "11.6",
-      "coordinates": [
-        26.9153,
-        36.0683
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.9153,
-            36.0683
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "EGE DENIZI",
-          "time": "2026.08.04 02:11:48"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.04",
-      "date_hour": "02:11:48",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
