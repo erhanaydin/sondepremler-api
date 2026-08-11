@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-11T17:09:32.510Z",
+  "lastUpdate": "2026-08-11T18:04:55.025Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -289,6 +289,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ELAZIG"
+    },
+    {
+      "title": "YESILUZUMLU-FETHIYE (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.08.11 17:19:06",
+      "lat": 36.7163,
+      "lng": 29.2698,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "18.1",
+      "coordinates": [
+        29.2698,
+        36.7163
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.2698,
+            36.7163
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "YESILUZUMLU-FETHIYE (MUGLA)",
+          "time": "2026.08.11 17:19:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.11",
+      "date_hour": "17:19:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
     },
     {
       "title": "OMERALTI-MUSTAFAKEMALPASA (BURSA)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "MIDILLI ADASI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.08.04 09:27:43",
-      "lat": 39.0832,
-      "lng": 26.3558,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "18.2",
-      "coordinates": [
-        26.3558,
-        39.0832
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.3558,
-            39.0832
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "MIDILLI ADASI (EGE DENIZI)",
-          "time": "2026.08.04 09:27:43"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.04",
-      "date_hour": "09:27:43",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
