@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-12T12:08:10.243Z",
+  "lastUpdate": "2026-08-12T13:41:13.014Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOVDELI-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.08.12 15:20:14",
+      "lat": 38.0833,
+      "lng": 37.5483,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "17.0",
+      "coordinates": [
+        37.5483,
+        38.0833
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.5483,
+            38.0833
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "GOVDELI-DOGANSEHIR (MALATYA)",
+          "time": "2026.08.12 15:20:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.12",
+      "date_hour": "15:20:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "KIZILAGIL-(BOLU)",
       "type": "�lksel",
@@ -42,23 +78,23 @@
       "title": "AKDERE-SILIFKE (MERSIN)",
       "type": "�lksel",
       "date": "2026.08.12 12:29:51",
-      "lat": 36.2525,
-      "lng": 33.72,
+      "lat": 36.253,
+      "lng": 33.7214,
       "md": "-.-",
       "ml": "1.0",
       "mw": "-.-",
       "depth": "0.0",
       "coordinates": [
-        33.72,
-        36.2525
+        33.7214,
+        36.253
       ],
       "geojson": {
         "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            33.72,
-            36.2525
+            33.7214,
+            36.253
           ]
         },
         "properties": {
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "TOKAT"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.08.05 06:01:54",
-      "lat": 35.868,
-      "lng": 27.4762,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        27.4762,
-        35.868
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.4762,
-            35.868
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "EGE DENIZI",
-          "time": "2026.08.05 06:01:54"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.05",
-      "date_hour": "06:01:54",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
