@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-13T14:55:12.551Z",
+  "lastUpdate": "2026-08-13T15:53:02.643Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "PINARKOY-MILAS (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.08.13 17:27:24",
+      "lat": 37.0837,
+      "lng": 27.9825,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        27.9825,
+        37.0837
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.9825,
+            37.0837
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "PINARKOY-MILAS (MUGLA)",
+          "time": "2026.08.13 17:27:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.13",
+      "date_hour": "17:27:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "HORZUMSAZDERE-ALASEHIR (MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANKIRI"
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.08.07 05:21:37",
-      "lat": 39.233,
-      "lng": 28.9625,
-      "md": "-.-",
-      "ml": "2.9",
-      "mw": "-.-",
-      "depth": "6.3",
-      "coordinates": [
-        28.9625,
-        39.233
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9625,
-            39.233
-          ]
-        },
-        "properties": {
-          "mag": "2.9",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2026.08.07 05:21:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.07",
-      "date_hour": "05:21:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
