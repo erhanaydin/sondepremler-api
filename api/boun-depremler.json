@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-08-14T20:49:34.491Z",
+  "lastUpdate": "2026-08-14T21:10:57.724Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.08.15 00:01:23",
+      "lat": 38.801,
+      "lng": 25.685,
+      "md": "-.-",
+      "ml": "3.7",
+      "mw": "3.6",
+      "depth": "5.6",
+      "coordinates": [
+        25.685,
+        38.801
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.685,
+            38.801
+          ]
+        },
+        "properties": {
+          "mag": "3.7",
+          "place": "EGE DENIZI",
+          "time": "2026.08.15 00:01:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.15",
+      "date_hour": "00:01:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "KAVACIK-DALAMAN (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.08.14 23:06:26",
+      "lat": 36.865,
+      "lng": 29.013,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "9.3",
+      "coordinates": [
+        29.013,
+        36.865
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.013,
+            36.865
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "KAVACIK-DALAMAN (MUGLA)",
+          "time": "2026.08.14 23:06:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.14",
+      "date_hour": "23:06:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
     {
       "title": "POLAT-DOGANSEHIR (MALATYA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YENILER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.08.08 00:35:58",
-      "lat": 39.2482,
-      "lng": 28.9612,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "10.5",
-      "coordinates": [
-        28.9612,
-        39.2482
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9612,
-            39.2482
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YENILER-SIMAV (KUTAHYA)",
-          "time": "2026.08.08 00:35:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.08",
-      "date_hour": "00:35:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
-    },
-    {
-      "title": "KUSCIMENI-ADAKLI (BINGOL)",
-      "type": "�lksel",
-      "date": "2026.08.08 00:11:59",
-      "lat": 39.191,
-      "lng": 40.35,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "4.9",
-      "coordinates": [
-        40.35,
-        39.191
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.35,
-            39.191
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "KUSCIMENI-ADAKLI (BINGOL)",
-          "time": "2026.08.08 00:11:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.08",
-      "date_hour": "00:11:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
