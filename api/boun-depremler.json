@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-15T13:05:30.104Z",
+  "lastUpdate": "2026-08-15T13:38:07.038Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOCAKORU-MUSTAFAKEMALPASA (BURSA)",
+      "type": "�lksel",
+      "date": "2026.08.15 16:19:25",
+      "lat": 40.0428,
+      "lng": 28.6707,
+      "md": "-.-",
+      "ml": "3.3",
+      "mw": "-.-",
+      "depth": "7.6",
+      "coordinates": [
+        28.6707,
+        40.0428
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.6707,
+            40.0428
+          ]
+        },
+        "properties": {
+          "mag": "3.3",
+          "place": "KOCAKORU-MUSTAFAKEMALPASA (BURSA)",
+          "time": "2026.08.15 16:19:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.15",
+      "date_hour": "16:19:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "BARIS-NURHAK (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -109,6 +145,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
+    },
+    {
+      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2026.08.15 14:23:55",
+      "lat": 34.942,
+      "lng": 24.7705,
+      "md": "-.-",
+      "ml": "3.0",
+      "mw": "-.-",
+      "depth": "42.6",
+      "coordinates": [
+        24.7705,
+        34.942
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.7705,
+            34.942
+          ]
+        },
+        "properties": {
+          "mag": "3.0",
+          "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+          "time": "2026.08.15 14:23:55"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.15",
+      "date_hour": "14:23:55",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
     },
     {
       "title": "KALEBOGAZI-(AMASYA)",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MERSIN"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2026.08.08 09:39:35",
-      "lat": 39.3817,
-      "lng": 23.569,
-      "md": "-.-",
-      "ml": "2.1",
-      "mw": "-.-",
-      "depth": "5.6",
-      "coordinates": [
-        23.569,
-        39.3817
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            23.569,
-            39.3817
-          ]
-        },
-        "properties": {
-          "mag": "2.1",
-          "place": "YUNANISTAN",
-          "time": "2026.08.08 09:39:35"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.08",
-      "date_hour": "09:39:35",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "MALAZ-GORDES (MANISA)",
-      "type": "�lksel",
-      "date": "2026.08.08 09:39:16",
-      "lat": 39.0595,
-      "lng": 28.315,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "4.3",
-      "coordinates": [
-        28.315,
-        39.0595
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.315,
-            39.0595
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "MALAZ-GORDES (MANISA)",
-          "time": "2026.08.08 09:39:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.08",
-      "date_hour": "09:39:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
