@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-15T22:54:59.006Z",
+  "lastUpdate": "2026-08-15T23:13:22.073Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "NARLI-GEMLIK (BURSA)",
+      "type": "�lksel",
+      "date": "2026.08.16 01:51:20",
+      "lat": 40.4582,
+      "lng": 29.0158,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "2.4",
+      "coordinates": [
+        29.0158,
+        40.4582
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0158,
+            40.4582
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "NARLI-GEMLIK (BURSA)",
+          "time": "2026.08.16 01:51:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.16",
+      "date_hour": "01:51:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "ORTAKLI-AFSIN (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.08.08 13:19:12",
-      "lat": 36.3262,
-      "lng": 25.5035,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "12.1",
-      "coordinates": [
-        25.5035,
-        36.3262
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            25.5035,
-            36.3262
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "EGE DENIZI",
-          "time": "2026.08.08 13:19:12"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.08",
-      "date_hour": "13:19:12",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
