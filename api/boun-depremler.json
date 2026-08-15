@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-15T14:18:46.342Z",
+  "lastUpdate": "2026-08-15T14:42:08.243Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2026.08.15 17:06:03",
+      "lat": 40.3247,
+      "lng": 24.0962,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "8.9",
+      "coordinates": [
+        24.0962,
+        40.3247
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.0962,
+            40.3247
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "YUNANISTAN",
+          "time": "2026.08.15 17:06:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.15",
+      "date_hour": "17:06:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "KOCAKORU-MUSTAFAKEMALPASA (BURSA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "MILLI PARK-KUSADASI (AYDIN)",
-      "type": "�lksel",
-      "date": "2026.08.08 09:48:04",
-      "lat": 37.6922,
-      "lng": 27.0305,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "5.5",
-      "coordinates": [
-        27.0305,
-        37.6922
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.0305,
-            37.6922
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "MILLI PARK-KUSADASI (AYDIN)",
-          "time": "2026.08.08 09:48:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.08",
-      "date_hour": "09:48:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AYDIN"
     }
   ]
 }
