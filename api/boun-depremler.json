@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-15T13:38:07.038Z",
+  "lastUpdate": "2026-08-15T13:56:29.247Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOCAKORU-MUSTAFAKEMALPASA (BURSA)",
+      "type": "�lksel",
+      "date": "2026.08.15 16:32:00",
+      "lat": 40.0417,
+      "lng": 28.6603,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "7.3",
+      "coordinates": [
+        28.6603,
+        40.0417
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.6603,
+            40.0417
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KOCAKORU-MUSTAFAKEMALPASA (BURSA)",
+          "time": "2026.08.15 16:32:00"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.15",
+      "date_hour": "16:32:00",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "KOCAKORU-MUSTAFAKEMALPASA (BURSA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AYDIN"
-    },
-    {
-      "title": "IRMAKLI-MUT (MERSIN)",
-      "type": "�lksel",
-      "date": "2026.08.08 09:45:01",
-      "lat": 36.5678,
-      "lng": 33.4163,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "28.4",
-      "coordinates": [
-        33.4163,
-        36.5678
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            33.4163,
-            36.5678
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "IRMAKLI-MUT (MERSIN)",
-          "time": "2026.08.08 09:45:01"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.08",
-      "date_hour": "09:45:01",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MERSIN"
     }
   ]
 }
