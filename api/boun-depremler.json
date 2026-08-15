@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-15T05:29:39.603Z",
+  "lastUpdate": "2026-08-15T05:52:21.531Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.08.15 08:26:21",
+      "lat": 39.6425,
+      "lng": 25.7327,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "13.6",
+      "coordinates": [
+        25.7327,
+        39.6425
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.7327,
+            39.6425
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "EGE DENIZI",
+          "time": "2026.08.15 08:26:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.15",
+      "date_hour": "08:26:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
-    },
-    {
-      "title": "YENILER-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.08.08 06:20:53",
-      "lat": 39.2323,
-      "lng": 28.9498,
-      "md": "-.-",
-      "ml": "0.9",
-      "mw": "-.-",
-      "depth": "16.1",
-      "coordinates": [
-        28.9498,
-        39.2323
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9498,
-            39.2323
-          ]
-        },
-        "properties": {
-          "mag": "0.9",
-          "place": "YENILER-SIMAV (KUTAHYA)",
-          "time": "2026.08.08 06:20:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.08",
-      "date_hour": "06:20:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
