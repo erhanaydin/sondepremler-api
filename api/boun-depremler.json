@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-15T05:52:21.531Z",
+  "lastUpdate": "2026-08-15T06:14:52.286Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.08.15 08:50:18",
+      "lat": 39.9452,
+      "lng": 25.6105,
+      "md": "-.-",
+      "ml": "2.3",
+      "mw": "-.-",
+      "depth": "6.6",
+      "coordinates": [
+        25.6105,
+        39.9452
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.6105,
+            39.9452
+          ]
+        },
+        "properties": {
+          "mag": "2.3",
+          "place": "EGE DENIZI",
+          "time": "2026.08.15 08:50:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.15",
+      "date_hour": "08:50:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "DIKILI (IZMIR)",
-      "type": "�lksel",
-      "date": "2026.08.08 06:53:57",
-      "lat": 39.073,
-      "lng": 26.907,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "8.0",
-      "coordinates": [
-        26.907,
-        39.073
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.907,
-            39.073
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "DIKILI (IZMIR)",
-          "time": "2026.08.08 06:53:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.08",
-      "date_hour": "06:53:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "IZMIR"
     }
   ]
 }
