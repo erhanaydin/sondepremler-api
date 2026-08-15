@@ -1,5 +1,41 @@
 [
   {
+    "title": "Merkez (Çorum)",
+    "type": "İlksel",
+    "date": "2026-08-15 18:32:42",
+    "lat": 40.43767,
+    "lng": 34.86133,
+    "md": "-.-",
+    "ml": "1.2",
+    "mw": "-.-",
+    "depth": 12.01,
+    "coordinates": [
+      34.86133,
+      40.43767
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.86133,
+          40.43767
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Merkez (Çorum) (Çorum)",
+        "time": 1786818762000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-15",
+    "date_hour": "18:32:42",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Çorum"
+  },
+  {
     "title": "Dörtdivan (Bolu)",
     "type": "İlksel",
     "date": "2026-08-15 18:28:24",
@@ -8026,77 +8062,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Ordu"
-  },
-  {
-    "title": "Yunak (Konya)",
-    "type": "İlksel",
-    "date": "2026-08-12 19:20:15",
-    "lat": 38.68,
-    "lng": 31.66833,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      31.66833,
-      38.68
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.66833,
-          38.68
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Yunak (Konya) (Konya)",
-        "time": 1786562415000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-12",
-    "date_hour": "19:20:15",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Konya"
-  },
-  {
-    "title": "Sincik (Adıyaman)",
-    "type": "İlksel",
-    "date": "2026-08-12 19:07:19",
-    "lat": 38.11633,
-    "lng": 38.57717,
-    "md": "-.-",
-    "ml": "0.9",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      38.57717,
-      38.11633
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.57717,
-          38.11633
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sincik (Adıyaman) (Adıyaman)",
-        "time": 1786561639000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-12",
-    "date_hour": "19:07:19",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Adıyaman"
   }
 ]
