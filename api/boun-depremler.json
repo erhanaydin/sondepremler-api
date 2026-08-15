@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-15T02:43:06.706Z",
+  "lastUpdate": "2026-08-15T03:23:03.498Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.08.15 06:07:20",
+      "lat": 39.2085,
+      "lng": 28.1495,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "8.4",
+      "coordinates": [
+        28.1495,
+        39.2085
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1495,
+            39.2085
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
+          "time": "2026.08.15 06:07:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.15",
+      "date_hour": "06:07:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KINIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "AMASYA"
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2026.08.08 04:41:27",
-      "lat": 39.9348,
-      "lng": 24.3495,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "13.3",
-      "coordinates": [
-        24.3495,
-        39.9348
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.3495,
-            39.9348
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "YUNANISTAN",
-          "time": "2026.08.08 04:41:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.08",
-      "date_hour": "04:41:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
