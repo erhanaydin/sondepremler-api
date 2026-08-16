@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-16T17:35:45.670Z",
+  "lastUpdate": "2026-08-16T17:51:41.863Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOCAKORU-MUSTAFAKEMALPASA (BURSA)",
+      "type": "�lksel",
+      "date": "2026.08.16 20:40:10",
+      "lat": 40.0487,
+      "lng": 28.6717,
+      "md": "-.-",
+      "ml": "2.9",
+      "mw": "-.-",
+      "depth": "7.5",
+      "coordinates": [
+        28.6717,
+        40.0487
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.6717,
+            40.0487
+          ]
+        },
+        "properties": {
+          "mag": "2.9",
+          "place": "KOCAKORU-MUSTAFAKEMALPASA (BURSA)",
+          "time": "2026.08.16 20:40:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.16",
+      "date_hour": "20:40:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BURSA"
+    },
     {
       "title": "ILICA-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "CANAKKALE"
-    },
-    {
-      "title": "BAGLICAY-GURUN (SIVAS)",
-      "type": "�lksel",
-      "date": "2026.08.09 02:26:14",
-      "lat": 38.8315,
-      "lng": 37.478,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        37.478,
-        38.8315
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.478,
-            38.8315
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "BAGLICAY-GURUN (SIVAS)",
-          "time": "2026.08.09 02:26:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.09",
-      "date_hour": "02:26:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "SIVAS"
     }
   ]
 }
