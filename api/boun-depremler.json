@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-16T04:17:00.841Z",
+  "lastUpdate": "2026-08-16T04:52:28.044Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SEYHLER-GOYNUCEK (AMASYA)",
+      "type": "�lksel",
+      "date": "2026.08.16 07:25:50",
+      "lat": 40.4335,
+      "lng": 35.5527,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "7.9",
+      "coordinates": [
+        35.5527,
+        40.4335
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.5527,
+            40.4335
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "SEYHLER-GOYNUCEK (AMASYA)",
+          "time": "2026.08.16 07:25:50"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.16",
+      "date_hour": "07:25:50",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AMASYA"
+    },
     {
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "ISIKLAR-KIRKAGAC (MANISA)",
-      "type": "�lksel",
-      "date": "2026.08.08 17:10:53",
-      "lat": 39.1515,
-      "lng": 27.8487,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "7.4",
-      "coordinates": [
-        27.8487,
-        39.1515
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.8487,
-            39.1515
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ISIKLAR-KIRKAGAC (MANISA)",
-          "time": "2026.08.08 17:10:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.08",
-      "date_hour": "17:10:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
