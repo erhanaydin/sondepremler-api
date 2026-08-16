@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-16T09:10:17.435Z",
+  "lastUpdate": "2026-08-16T09:39:49.872Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KEKIKLI-OLUR (ERZURUM)",
+      "type": "�lksel",
+      "date": "2026.08.16 09:07:07",
+      "lat": 40.9833,
+      "lng": 41.9973,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "17.3",
+      "coordinates": [
+        41.9973,
+        40.9833
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.9973,
+            40.9833
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KEKIKLI-OLUR (ERZURUM)",
+          "time": "2026.08.16 09:07:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.16",
+      "date_hour": "09:07:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZURUM"
+    },
     {
       "title": "COMAKLI-CAN (CANAKKALE)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "YUKARIKARAGOZ-PINARBASI (KAYSERI)",
-      "type": "�lksel",
-      "date": "2026.08.08 19:01:27",
-      "lat": 38.7448,
-      "lng": 36.5108,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "11.2",
-      "coordinates": [
-        36.5108,
-        38.7448
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.5108,
-            38.7448
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "YUKARIKARAGOZ-PINARBASI (KAYSERI)",
-          "time": "2026.08.08 19:01:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.08",
-      "date_hour": "19:01:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAYSERI"
     }
   ]
 }
