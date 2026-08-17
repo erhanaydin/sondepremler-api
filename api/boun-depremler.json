@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-17T05:42:53.085Z",
+  "lastUpdate": "2026-08-17T06:04:53.524Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "SOGUTLU-PUTURGE (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.08.17 08:39:47",
+      "lat": 38.1965,
+      "lng": 38.6002,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "7.0",
+      "coordinates": [
+        38.6002,
+        38.1965
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.6002,
+            38.1965
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "SOGUTLU-PUTURGE (MALATYA)",
+          "time": "2026.08.17 08:39:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.17",
+      "date_hour": "08:39:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "DEDEYAZI-DOGANSEHIR (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANTALYA"
-    },
-    {
-      "title": "KOZLU (BOLU)",
-      "type": "�lksel",
-      "date": "2026.08.09 08:06:29",
-      "lat": 40.8212,
-      "lng": 31.5765,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "8.2",
-      "coordinates": [
-        31.5765,
-        40.8212
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.5765,
-            40.8212
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "KOZLU (BOLU)",
-          "time": "2026.08.09 08:06:29"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.09",
-      "date_hour": "08:06:29",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BOLU"
     }
   ]
 }
