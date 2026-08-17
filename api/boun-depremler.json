@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-08-17T17:11:48.991Z",
+  "lastUpdate": "2026-08-17T17:44:07.663Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MURATCA-INHISAR (BILECIK)",
+      "type": "�lksel",
+      "date": "2026.08.17 20:30:38",
+      "lat": 40.127,
+      "lng": 30.455,
+      "md": "-.-",
+      "ml": "2.2",
+      "mw": "-.-",
+      "depth": "8.6",
+      "coordinates": [
+        30.455,
+        40.127
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.455,
+            40.127
+          ]
+        },
+        "properties": {
+          "mag": "2.2",
+          "place": "MURATCA-INHISAR (BILECIK)",
+          "time": "2026.08.17 20:30:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.17",
+      "date_hour": "20:30:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BILECIK"
+    },
+    {
+      "title": "BABAKALE-AYVACIK (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2026.08.17 20:21:07",
+      "lat": 39.488,
+      "lng": 26.0712,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "15.1",
+      "coordinates": [
+        26.0712,
+        39.488
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.0712,
+            39.488
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "BABAKALE-AYVACIK (CANAKKALE)",
+          "time": "2026.08.17 20:21:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.17",
+      "date_hour": "20:21:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
     {
       "title": "CANTIRLI-BEYPAZARI (ANKARA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "AKSAZ-KUYUCAK (AYDIN)",
-      "type": "�lksel",
-      "date": "2026.08.09 21:39:27",
-      "lat": 37.8582,
-      "lng": 28.7233,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        28.7233,
-        37.8582
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7233,
-            37.8582
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "AKSAZ-KUYUCAK (AYDIN)",
-          "time": "2026.08.09 21:39:27"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.09",
-      "date_hour": "21:39:27",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AYDIN"
-    },
-    {
-      "title": "CANDARLI KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.08.09 21:19:26",
-      "lat": 38.839,
-      "lng": 26.8368,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "11.4",
-      "coordinates": [
-        26.8368,
-        38.839
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.8368,
-            38.839
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "CANDARLI KORFEZI (EGE DENIZI)",
-          "time": "2026.08.09 21:19:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.09",
-      "date_hour": "21:19:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
