@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-17T02:46:21.691Z",
+  "lastUpdate": "2026-08-17T03:34:42.579Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TORELI-GEVAS (VAN)",
+      "type": "�lksel",
+      "date": "2026.08.17 05:56:43",
+      "lat": 38.2335,
+      "lng": 42.7723,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "1.5",
+      "coordinates": [
+        42.7723,
+        38.2335
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            42.7723,
+            38.2335
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "TORELI-GEVAS (VAN)",
+          "time": "2026.08.17 05:56:43"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.17",
+      "date_hour": "05:56:43",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "VAN"
+    },
     {
       "title": "FETHIYE KORFEZI (AKDENIZ)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BOLU"
-    },
-    {
-      "title": "KOKPINAR-PUTURGE (MALATYA)",
-      "type": "�lksel",
-      "date": "2026.08.09 07:03:07",
-      "lat": 38.239,
-      "lng": 38.6882,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "13.2",
-      "coordinates": [
-        38.6882,
-        38.239
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.6882,
-            38.239
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KOKPINAR-PUTURGE (MALATYA)",
-          "time": "2026.08.09 07:03:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.09",
-      "date_hour": "07:03:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
