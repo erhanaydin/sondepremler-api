@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-17T11:33:40.525Z",
+  "lastUpdate": "2026-08-17T11:53:32.604Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKKOY-INHISAR (BILECIK) REVIZE01 (2026.08.17",
+      "type": "14:23:23)",
+      "date": "2026.08.17 14:23:23",
+      "lat": 40.0915,
+      "lng": 30.4595,
+      "md": "-.-",
+      "ml": "3.0",
+      "mw": "3.0",
+      "depth": "5.4",
+      "coordinates": [
+        30.4595,
+        40.0915
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4595,
+            40.0915
+          ]
+        },
+        "properties": {
+          "mag": "3.0",
+          "place": "AKKOY-INHISAR (BILECIK) REVIZE01 (2026.08.17",
+          "time": "2026.08.17 14:23:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.17",
+      "date_hour": "14:23:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BILECIK"
+    },
     {
       "title": "EGE DENIZI",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADIYAMAN"
-    },
-    {
-      "title": "ARMUTLU-PATNOS (AGRI)",
-      "type": "�lksel",
-      "date": "2026.08.09 18:26:00",
-      "lat": 38.977,
-      "lng": 42.9335,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "19.9",
-      "coordinates": [
-        42.9335,
-        38.977
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.9335,
-            38.977
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "ARMUTLU-PATNOS (AGRI)",
-          "time": "2026.08.09 18:26:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.09",
-      "date_hour": "18:26:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AGRI"
     }
   ]
 }
