@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-18T21:02:57.647Z",
+  "lastUpdate": "2026-08-18T21:32:15.821Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KESECIK-(HATAY)",
+      "type": "�lksel",
+      "date": "2026.08.19 00:03:57",
+      "lat": 36.2527,
+      "lng": 36.075,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "6.2",
+      "coordinates": [
+        36.075,
+        36.2527
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.075,
+            36.2527
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KESECIK-(HATAY)",
+          "time": "2026.08.19 00:03:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.19",
+      "date_hour": "00:03:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
     {
       "title": "ERMENISTAN",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "KOCYATAGI (ERZINCAN)",
-      "type": "�lksel",
-      "date": "2026.08.11 04:47:14",
-      "lat": 39.8747,
-      "lng": 39.2347,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "4.6",
-      "coordinates": [
-        39.2347,
-        39.8747
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.2347,
-            39.8747
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "KOCYATAGI (ERZINCAN)",
-          "time": "2026.08.11 04:47:14"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.11",
-      "date_hour": "04:47:14",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ERZINCAN"
     }
   ]
 }
