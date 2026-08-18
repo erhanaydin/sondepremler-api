@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-18T10:13:25.352Z",
+  "lastUpdate": "2026-08-18T10:46:55.524Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ADALAR (ISTANBUL)",
+      "type": "�lksel",
+      "date": "2026.08.18 13:01:10",
+      "lat": 40.829,
+      "lng": 29.1368,
+      "md": "-.-",
+      "ml": "0.9",
+      "mw": "-.-",
+      "depth": "13.3",
+      "coordinates": [
+        29.1368,
+        40.829
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1368,
+            40.829
+          ]
+        },
+        "properties": {
+          "mag": "0.9",
+          "place": "ADALAR (ISTANBUL)",
+          "time": "2026.08.18 13:01:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.18",
+      "date_hour": "13:01:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ISTANBUL"
+    },
     {
       "title": "KADIKOY-BALYA (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ISTANBUL"
-    },
-    {
-      "title": "ARPACIKARACAY-SULUSARAY (TOKAT)",
-      "type": "�lksel",
-      "date": "2026.08.10 18:03:55",
-      "lat": 40.0792,
-      "lng": 36.0478,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        36.0478,
-        40.0792
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.0478,
-            40.0792
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "ARPACIKARACAY-SULUSARAY (TOKAT)",
-          "time": "2026.08.10 18:03:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.10",
-      "date_hour": "18:03:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TOKAT"
     }
   ]
 }
