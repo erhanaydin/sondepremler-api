@@ -72,6 +72,42 @@
     "city": "Malatya"
   },
   {
+    "title": "Merkez (Kırklareli)",
+    "type": "İlksel",
+    "date": "2026-08-18 13:22:18",
+    "lat": 41.85183,
+    "lng": 27.31533,
+    "md": "-.-",
+    "ml": "0.8",
+    "mw": "-.-",
+    "depth": 5.05,
+    "coordinates": [
+      27.31533,
+      41.85183
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.31533,
+          41.85183
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Merkez (Kırklareli) (Kırklareli)",
+        "time": 1787059338000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-18",
+    "date_hour": "13:22:18",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kırklareli"
+  },
+  {
     "title": "Sındırgı (Balıkesir)",
     "type": "İlksel",
     "date": "2026-08-18 12:41:02",
@@ -8998,41 +9034,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kahramanmaraş"
-  },
-  {
-    "title": "Mustafakemalpaşa (Bursa)",
-    "type": "İlksel",
-    "date": "2026-08-15 14:34:37",
-    "lat": 40.04917,
-    "lng": 28.655,
-    "md": "-.-",
-    "ml": "1.8",
-    "mw": "-.-",
-    "depth": 10.22,
-    "coordinates": [
-      28.655,
-      40.04917
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.655,
-          40.04917
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Mustafakemalpaşa (Bursa) (Bursa)",
-        "time": 1786804477000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-15",
-    "date_hour": "14:34:37",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Bursa"
   }
 ]
