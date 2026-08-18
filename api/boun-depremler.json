@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-18T13:27:44.454Z",
+  "lastUpdate": "2026-08-18T14:05:37.136Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARATERZI-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.08.18 16:31:03",
+      "lat": 38.175,
+      "lng": 37.8982,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "10.3",
+      "coordinates": [
+        37.8982,
+        38.175
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.8982,
+            38.175
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "KARATERZI-DOGANSEHIR (MALATYA)",
+          "time": "2026.08.18 16:31:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.18",
+      "date_hour": "16:31:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "TAHTALI-GONEN (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "TUNCELI"
-    },
-    {
-      "title": "AKDENIZ",
-      "type": "�lksel",
-      "date": "2026.08.10 22:35:23",
-      "lat": 36.5175,
-      "lng": 28.7408,
-      "md": "-.-",
-      "ml": "3.5",
-      "mw": "3.2",
-      "depth": "28.8",
-      "coordinates": [
-        28.7408,
-        36.5175
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7408,
-            36.5175
-          ]
-        },
-        "properties": {
-          "mag": "3.5",
-          "place": "AKDENIZ",
-          "time": "2026.08.10 22:35:23"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.10",
-      "date_hour": "22:35:23",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
