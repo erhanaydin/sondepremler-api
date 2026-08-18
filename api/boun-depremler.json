@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-18T18:49:57.704Z",
+  "lastUpdate": "2026-08-18T19:17:01.225Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YANALERIK-KOZAN (ADANA)",
+      "type": "�lksel",
+      "date": "2026.08.18 22:00:58",
+      "lat": 37.6483,
+      "lng": 35.7812,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        35.7812,
+        37.6483
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.7812,
+            37.6483
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "YANALERIK-KOZAN (ADANA)",
+          "time": "2026.08.18 22:00:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.18",
+      "date_hour": "22:00:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ADANA"
+    },
     {
       "title": "OSMANKOSELI-HALKAPINAR (KONYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ADIYAMAN"
-    },
-    {
-      "title": "BOGAZYAYLA-SIRAN (GUMUSHANE)",
-      "type": "�lksel",
-      "date": "2026.08.11 03:35:47",
-      "lat": 40.0427,
-      "lng": 39.0355,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "19.3",
-      "coordinates": [
-        39.0355,
-        40.0427
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.0355,
-            40.0427
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "BOGAZYAYLA-SIRAN (GUMUSHANE)",
-          "time": "2026.08.11 03:35:47"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.11",
-      "date_hour": "03:35:47",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "GUMUSHANE"
     }
   ]
 }
