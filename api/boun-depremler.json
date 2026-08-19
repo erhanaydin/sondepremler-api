@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-08-19T13:56:25.383Z",
+  "lastUpdate": "2026-08-19T14:29:37.311Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "BADEMLI-DICLE (DIYARBAKIR)",
+      "type": "�lksel",
+      "date": "2026.08.19 17:09:18",
+      "lat": 38.3463,
+      "lng": 40.2695,
+      "md": "-.-",
+      "ml": "2.8",
+      "mw": "-.-",
+      "depth": "1.5",
+      "coordinates": [
+        40.2695,
+        38.3463
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.2695,
+            38.3463
+          ]
+        },
+        "properties": {
+          "mag": "2.8",
+          "place": "BADEMLI-DICLE (DIYARBAKIR)",
+          "time": "2026.08.19 17:09:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.19",
+      "date_hour": "17:09:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DIYARBAKIR"
+    },
+    {
+      "title": "ADALAR (ISTANBUL)",
+      "type": "�lksel",
+      "date": "2026.08.19 17:03:31",
+      "lat": 40.7717,
+      "lng": 29.1022,
+      "md": "-.-",
+      "ml": "2.5",
+      "mw": "-.-",
+      "depth": "12.3",
+      "coordinates": [
+        29.1022,
+        40.7717
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1022,
+            40.7717
+          ]
+        },
+        "properties": {
+          "mag": "2.5",
+          "place": "ADALAR (ISTANBUL)",
+          "time": "2026.08.19 17:03:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.19",
+      "date_hour": "17:03:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ISTANBUL"
+    },
     {
       "title": "ADALAR (ISTANBUL)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BURSA"
-    },
-    {
-      "title": "GUPLUCE-ELBISTAN (KAHRAMANMARAS)",
-      "type": "�lksel",
-      "date": "2026.08.11 17:05:19",
-      "lat": 38.1127,
-      "lng": 37.1442,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "12.3",
-      "coordinates": [
-        37.1442,
-        38.1127
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            37.1442,
-            38.1127
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "GUPLUCE-ELBISTAN (KAHRAMANMARAS)",
-          "time": "2026.08.11 17:05:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.11",
-      "date_hour": "17:05:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "TUNCBILEK-TAVSANLI (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.08.11 16:21:31",
-      "lat": 39.633,
-      "lng": 29.5068,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        29.5068,
-        39.633
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.5068,
-            39.633
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "TUNCBILEK-TAVSANLI (KUTAHYA)",
-          "time": "2026.08.11 16:21:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.11",
-      "date_hour": "16:21:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
