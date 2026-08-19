@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-19T12:15:15.911Z",
+  "lastUpdate": "2026-08-19T13:11:22.694Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI)",
+      "type": "�lksel",
+      "date": "2026.08.19 15:05:04",
+      "lat": 40.7692,
+      "lng": 29.093,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "20.5",
+      "coordinates": [
+        29.093,
+        40.7692
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.093,
+            40.7692
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI)",
+          "time": "2026.08.19 15:05:04"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.19",
+      "date_hour": "15:05:04",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARMARA DENIZI"
+    },
     {
       "title": "SERINCE-SINCIK (ADIYAMAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MERSIN"
-    },
-    {
-      "title": "KAPLIKAYA (ELAZIG)",
-      "type": "�lksel",
-      "date": "2026.08.11 13:26:03",
-      "lat": 38.7962,
-      "lng": 39.1938,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "4.2",
-      "coordinates": [
-        39.1938,
-        38.7962
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.1938,
-            38.7962
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KAPLIKAYA (ELAZIG)",
-          "time": "2026.08.11 13:26:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.11",
-      "date_hour": "13:26:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
