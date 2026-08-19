@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-08-19T20:58:04.826Z",
+  "lastUpdate": "2026-08-19T21:25:56.595Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOZLU-(BOLU)",
+      "type": "�lksel",
+      "date": "2026.08.20 00:11:08",
+      "lat": 40.786,
+      "lng": 31.582,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "5.2",
+      "coordinates": [
+        31.582,
+        40.786
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.582,
+            40.786
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "KOZLU-(BOLU)",
+          "time": "2026.08.20 00:11:08"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.20",
+      "date_hour": "00:11:08",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BOLU"
+    },
+    {
+      "title": "ADALAR (ISTANBUL)",
+      "type": "�lksel",
+      "date": "2026.08.19 23:45:15",
+      "lat": 40.7792,
+      "lng": 29.0863,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "8.0",
+      "coordinates": [
+        29.0863,
+        40.7792
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0863,
+            40.7792
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "ADALAR (ISTANBUL)",
+          "time": "2026.08.19 23:45:15"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.19",
+      "date_hour": "23:45:15",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ISTANBUL"
+    },
     {
       "title": "ADALAR (ISTANBUL)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "DENIZLER-CAL (DENIZLI)",
-      "type": "�lksel",
-      "date": "2026.08.12 03:30:38",
-      "lat": 37.9307,
-      "lng": 29.458,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "16.0",
-      "coordinates": [
-        29.458,
-        37.9307
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.458,
-            37.9307
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "DENIZLER-CAL (DENIZLI)",
-          "time": "2026.08.12 03:30:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.12",
-      "date_hour": "03:30:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "DENIZLI"
-    },
-    {
-      "title": "TATLIKUYU-CEYHAN (ADANA)",
-      "type": "�lksel",
-      "date": "2026.08.12 02:54:58",
-      "lat": 37.1215,
-      "lng": 35.7155,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "13.8",
-      "coordinates": [
-        35.7155,
-        37.1215
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.7155,
-            37.1215
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "TATLIKUYU-CEYHAN (ADANA)",
-          "time": "2026.08.12 02:54:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.12",
-      "date_hour": "02:54:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADANA"
     }
   ]
 }
