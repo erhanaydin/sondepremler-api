@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-19T09:35:04.074Z",
+  "lastUpdate": "2026-08-19T10:01:12.231Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIBRIS-BESPARMAK",
+      "type": "�lksel",
+      "date": "2026.08.19 11:57:14",
+      "lat": 35.3018,
+      "lng": 33.5677,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "15.7",
+      "coordinates": [
+        33.5677,
+        35.3018
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.5677,
+            35.3018
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KIBRIS-BESPARMAK",
+          "time": "2026.08.19 11:57:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.19",
+      "date_hour": "11:57:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "TANISIK-(MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "GAZIANTEP"
-    },
-    {
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.08.11 12:26:11",
-      "lat": 39.1817,
-      "lng": 28.1903,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "7.8",
-      "coordinates": [
-        28.1903,
-        39.1817
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1903,
-            39.1817
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "AKTAS-SINDIRGI (BALIKESIR)",
-          "time": "2026.08.11 12:26:11"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.11",
-      "date_hour": "12:26:11",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
