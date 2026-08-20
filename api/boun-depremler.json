@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-20T15:37:16.238Z",
+  "lastUpdate": "2026-08-20T16:02:22.016Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.08.20 18:39:53",
+      "lat": 39.2258,
+      "lng": 29.0328,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "11.2",
+      "coordinates": [
+        29.0328,
+        39.2258
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0328,
+            39.2258
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "EGIRLER-SIMAV (KUTAHYA)",
+          "time": "2026.08.20 18:39:53"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.20",
+      "date_hour": "18:39:53",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "KINIK-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "TANISIK-(MALATYA)",
-      "type": "�lksel",
-      "date": "2026.08.14 03:32:33",
-      "lat": 38.2553,
-      "lng": 38.5827,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "13.5",
-      "coordinates": [
-        38.5827,
-        38.2553
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.5827,
-            38.2553
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "TANISIK-(MALATYA)",
-          "time": "2026.08.14 03:32:33"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.14",
-      "date_hour": "03:32:33",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MALATYA"
     }
   ]
 }
