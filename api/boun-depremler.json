@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-20T19:33:38.227Z",
+  "lastUpdate": "2026-08-20T19:57:58.834Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KORU-CINARCIK (YALOVA)",
+      "type": "�lksel",
+      "date": "2026.08.20 22:27:38",
+      "lat": 40.753,
+      "lng": 29.1088,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "1.4",
+      "coordinates": [
+        29.1088,
+        40.753
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1088,
+            40.753
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "KORU-CINARCIK (YALOVA)",
+          "time": "2026.08.20 22:27:38"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.20",
+      "date_hour": "22:27:38",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "YALOVA"
+    },
     {
       "title": "ADALAR (ISTANBUL)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MANISA"
-    },
-    {
-      "title": "YASSIKISLA-GOYNUCEK (AMASYA)",
-      "type": "�lksel",
-      "date": "2026.08.14 09:24:19",
-      "lat": 40.4462,
-      "lng": 35.519,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        35.519,
-        40.4462
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            35.519,
-            40.4462
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "YASSIKISLA-GOYNUCEK (AMASYA)",
-          "time": "2026.08.14 09:24:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.14",
-      "date_hour": "09:24:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AMASYA"
     }
   ]
 }
