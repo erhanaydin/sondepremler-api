@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-20T05:16:26.054Z",
+  "lastUpdate": "2026-08-20T05:48:43.438Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ADALAR (ISTANBUL)",
+      "type": "�lksel",
+      "date": "2026.08.20 08:14:33",
+      "lat": 40.7772,
+      "lng": 29.0973,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "10.2",
+      "coordinates": [
+        29.0973,
+        40.7772
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0973,
+            40.7772
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "ADALAR (ISTANBUL)",
+          "time": "2026.08.20 08:14:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.20",
+      "date_hour": "08:14:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ISTANBUL"
+    },
     {
       "title": "CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "ARIKONAK-SINCIK (ADIYAMAN)",
-      "type": "�lksel",
-      "date": "2026.08.13 04:58:34",
-      "lat": 38.1213,
-      "lng": 38.5575,
-      "md": "-.-",
-      "ml": "0.8",
-      "mw": "-.-",
-      "depth": "19.4",
-      "coordinates": [
-        38.5575,
-        38.1213
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            38.5575,
-            38.1213
-          ]
-        },
-        "properties": {
-          "mag": "0.8",
-          "place": "ARIKONAK-SINCIK (ADIYAMAN)",
-          "time": "2026.08.13 04:58:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.13",
-      "date_hour": "04:58:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ADIYAMAN"
     }
   ]
 }
