@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-08-20T07:54:37.906Z",
+  "lastUpdate": "2026-08-20T08:27:50.251Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ULA (MUGLA)",
+      "type": "�lksel",
+      "date": "2026.08.20 10:47:13",
+      "lat": 37.0978,
+      "lng": 28.4077,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.9",
+      "coordinates": [
+        28.4077,
+        37.0978
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.4077,
+            37.0978
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "ULA (MUGLA)",
+          "time": "2026.08.20 10:47:13"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.20",
+      "date_hour": "10:47:13",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUGLA"
+    },
+    {
+      "title": "ADALAR (ISTANBUL)",
+      "type": "�lksel",
+      "date": "2026.08.20 10:46:22",
+      "lat": 40.7847,
+      "lng": 29.0942,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "11.5",
+      "coordinates": [
+        29.0942,
+        40.7847
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0942,
+            40.7847
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "ADALAR (ISTANBUL)",
+          "time": "2026.08.20 10:46:22"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.20",
+      "date_hour": "10:46:22",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ISTANBUL"
+    },
     {
       "title": "CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "BUZKOY-NIKSAR (TOKAT)",
-      "type": "�lksel",
-      "date": "2026.08.13 08:03:07",
-      "lat": 40.6398,
-      "lng": 36.8077,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "5.8",
-      "coordinates": [
-        36.8077,
-        40.6398
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.8077,
-            40.6398
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "BUZKOY-NIKSAR (TOKAT)",
-          "time": "2026.08.13 08:03:07"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.13",
-      "date_hour": "08:03:07",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TOKAT"
-    },
-    {
-      "title": "KOCYURDU-(OSMANIYE)",
-      "type": "�lksel",
-      "date": "2026.08.13 07:58:38",
-      "lat": 37.2282,
-      "lng": 36.0635,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "10.6",
-      "coordinates": [
-        36.0635,
-        37.2282
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            36.0635,
-            37.2282
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KOCYURDU-(OSMANIYE)",
-          "time": "2026.08.13 07:58:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.13",
-      "date_hour": "07:58:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "OSMANIYE"
     }
   ]
 }
