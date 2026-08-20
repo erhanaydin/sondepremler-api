@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-20T20:29:10.311Z",
+  "lastUpdate": "2026-08-20T20:56:51.003Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKPINAR-EKINOZU (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.08.20 23:49:07",
+      "lat": 38.0898,
+      "lng": 37.2367,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "4.7",
+      "coordinates": [
+        37.2367,
+        38.0898
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.2367,
+            38.0898
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "AKPINAR-EKINOZU (KAHRAMANMARAS)",
+          "time": "2026.08.20 23:49:07"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.20",
+      "date_hour": "23:49:07",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "KORU-CINARCIK (YALOVA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MALATYA"
-    },
-    {
-      "title": "KOZLUOREN-SOMA (MANISA)",
-      "type": "�lksel",
-      "date": "2026.08.14 09:40:26",
-      "lat": 39.2953,
-      "lng": 27.7315,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "1.1",
-      "coordinates": [
-        27.7315,
-        39.2953
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.7315,
-            39.2953
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KOZLUOREN-SOMA (MANISA)",
-          "time": "2026.08.14 09:40:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.14",
-      "date_hour": "09:40:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }
