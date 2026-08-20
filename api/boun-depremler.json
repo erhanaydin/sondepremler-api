@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-20T21:25:29.903Z",
+  "lastUpdate": "2026-08-20T21:51:55.367Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ECEMIS-LICE (DIYARBAKIR)",
+      "type": "�lksel",
+      "date": "2026.08.21 00:40:27",
+      "lat": 38.5895,
+      "lng": 40.4767,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "7.5",
+      "coordinates": [
+        40.4767,
+        38.5895
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.4767,
+            38.5895
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "ECEMIS-LICE (DIYARBAKIR)",
+          "time": "2026.08.21 00:40:27"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.21",
+      "date_hour": "00:40:27",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "DIYARBAKIR"
+    },
     {
       "title": "KASKOY-(ADIYAMAN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "KARAGI-AKSU (ISPARTA)",
-      "type": "�lksel",
-      "date": "2026.08.14 10:38:04",
-      "lat": 37.8292,
-      "lng": 31.1735,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "9.7",
-      "coordinates": [
-        31.1735,
-        37.8292
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.1735,
-            37.8292
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KARAGI-AKSU (ISPARTA)",
-          "time": "2026.08.14 10:38:04"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.14",
-      "date_hour": "10:38:04",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ISPARTA"
     }
   ]
 }
