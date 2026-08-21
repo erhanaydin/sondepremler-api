@@ -1,5 +1,41 @@
 [
   {
+    "title": "Hekimhan (Malatya)",
+    "type": "İlksel",
+    "date": "2026-08-21 15:35:37",
+    "lat": 39.053,
+    "lng": 37.93217,
+    "md": "-.-",
+    "ml": "1.7",
+    "mw": "-.-",
+    "depth": 10.46,
+    "coordinates": [
+      37.93217,
+      39.053
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.93217,
+          39.053
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Hekimhan (Malatya) (Malatya)",
+        "time": 1787326537000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-21",
+    "date_hour": "15:35:37",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Malatya"
+  },
+  {
     "title": "Yeşilyurt (Malatya)",
     "type": "İlksel",
     "date": "2026-08-21 15:17:00",
@@ -15730,77 +15766,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Manisa"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2026-08-18 16:30:34",
-    "lat": 39.14133,
-    "lng": 28.25717,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 5.08,
-    "coordinates": [
-      28.25717,
-      39.14133
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.25717,
-          39.14133
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1787070634000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-18",
-    "date_hour": "16:30:34",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
-  },
-  {
-    "title": "Kozan (Adana)",
-    "type": "İlksel",
-    "date": "2026-08-18 16:23:44",
-    "lat": 37.647,
-    "lng": 35.85333,
-    "md": "-.-",
-    "ml": "2.2",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      35.85333,
-      37.647
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.85333,
-          37.647
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Kozan (Adana) (Adana)",
-        "time": 1787070224000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-18",
-    "date_hour": "16:23:44",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Adana"
   }
 ]
