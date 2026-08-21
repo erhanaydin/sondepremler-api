@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-21T19:15:40.119Z",
+  "lastUpdate": "2026-08-21T19:39:36.796Z",
   "source": "Boğaziçi",
   "data": [
     {
@@ -73,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
+    },
+    {
+      "title": "MESEICI-BULANIK (MUS)",
+      "type": "�lksel",
+      "date": "2026.08.21 21:06:24",
+      "lat": 39.1235,
+      "lng": 41.9047,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "22.9",
+      "coordinates": [
+        41.9047,
+        39.1235
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.9047,
+            39.1235
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "MESEICI-BULANIK (MUS)",
+          "time": "2026.08.21 21:06:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.21",
+      "date_hour": "21:06:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MUS"
     },
     {
       "title": "ADALAR (ISTANBUL)",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "TUNCELI"
-    },
-    {
-      "title": "ALTINSAC-GEVAS (VAN)",
-      "type": "�lksel",
-      "date": "2026.08.16 04:07:28",
-      "lat": 38.4133,
-      "lng": 42.876,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        42.876,
-        38.4133
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.876,
-            38.4133
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ALTINSAC-GEVAS (VAN)",
-          "time": "2026.08.16 04:07:28"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.16",
-      "date_hour": "04:07:28",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "VAN"
     }
   ]
 }
