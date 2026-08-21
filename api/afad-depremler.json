@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sarıkamış (Kars)",
+    "type": "İlksel",
+    "date": "2026-08-21 18:33:43",
+    "lat": 40.23,
+    "lng": 42.61528,
+    "md": "-.-",
+    "ml": "3",
+    "mw": "-.-",
+    "depth": 7.1,
+    "coordinates": [
+      42.61528,
+      40.23
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.61528,
+          40.23
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Sarıkamış (Kars) (Kars)",
+        "time": 1787337223000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-21",
+    "date_hour": "18:33:43",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Kars"
+  },
+  {
     "title": "Ekinözü (Kahramanmaraş)",
     "type": "İlksel",
     "date": "2026-08-21 17:28:49",
@@ -15622,77 +15658,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Adana"
-  },
-  {
-    "title": "Akdeniz - [126.70 km] Marmaris (Muğla)",
-    "type": "İlksel",
-    "date": "2026-08-18 18:41:03",
-    "lat": 35.53889,
-    "lng": 27.70222,
-    "md": "-.-",
-    "ml": "1.8",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      27.70222,
-      35.53889
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.70222,
-          35.53889
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Akdeniz - [126.70 km] Marmaris (Muğla) (Muğla)",
-        "time": 1787078463000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-18",
-    "date_hour": "18:41:03",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Muğla"
-  },
-  {
-    "title": "Simav (Kütahya)",
-    "type": "İlksel",
-    "date": "2026-08-18 18:16:18",
-    "lat": 39.25417,
-    "lng": 29.01483,
-    "md": "-.-",
-    "ml": "0.9",
-    "mw": "-.-",
-    "depth": 15.6,
-    "coordinates": [
-      29.01483,
-      39.25417
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.01483,
-          39.25417
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Simav (Kütahya) (Kütahya)",
-        "time": 1787076978000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-18",
-    "date_hour": "18:16:18",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Kütahya"
   }
 ]
