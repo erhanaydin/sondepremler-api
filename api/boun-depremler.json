@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-22T21:08:22.119Z",
+  "lastUpdate": "2026-08-22T21:33:06.546Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KIZILOZ-GOKSUN (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.08.23 00:08:17",
+      "lat": 38.0223,
+      "lng": 36.6835,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "8.8",
+      "coordinates": [
+        36.6835,
+        38.0223
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.6835,
+            38.0223
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "KIZILOZ-GOKSUN (KAHRAMANMARAS)",
+          "time": "2026.08.23 00:08:17"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.23",
+      "date_hour": "00:08:17",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "GUVEMCETMI-BIGADIC (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "FETHIYE KORFEZI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2026.08.17 10:47:00",
-      "lat": 36.5492,
-      "lng": 28.9165,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        28.9165,
-        36.5492
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9165,
-            36.5492
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "FETHIYE KORFEZI (AKDENIZ)",
-          "time": "2026.08.17 10:47:00"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.17",
-      "date_hour": "10:47:00",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
     }
   ]
 }
