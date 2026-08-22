@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-22T15:02:20.705Z",
+  "lastUpdate": "2026-08-22T15:29:21.863Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAGITHANE (ISTANBUL)",
+      "type": "�lksel",
+      "date": "2026.08.22 17:45:31",
+      "lat": 41.1153,
+      "lng": 28.9668,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "0.0",
+      "coordinates": [
+        28.9668,
+        41.1153
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9668,
+            41.1153
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "KAGITHANE (ISTANBUL)",
+          "time": "2026.08.22 17:45:31"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.22",
+      "date_hour": "17:45:31",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ISTANBUL"
+    },
     {
       "title": "KIZILGUR-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "KARACAOREN-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.08.17 01:56:06",
-      "lat": 39.1952,
-      "lng": 29.0247,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "5.8",
-      "coordinates": [
-        29.0247,
-        39.1952
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.0247,
-            39.1952
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "KARACAOREN-SIMAV (KUTAHYA)",
-          "time": "2026.08.17 01:56:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.17",
-      "date_hour": "01:56:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
