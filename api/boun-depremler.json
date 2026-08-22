@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-08-22T11:01:22.883Z",
+  "lastUpdate": "2026-08-22T11:28:10.978Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CAMKOY-CAN (CANAKKALE)",
+      "type": "�lksel",
+      "date": "2026.08.22 12:41:05",
+      "lat": 39.9933,
+      "lng": 26.8272,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        26.8272,
+        39.9933
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.8272,
+            39.9933
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "CAMKOY-CAN (CANAKKALE)",
+          "time": "2026.08.22 12:41:05"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.22",
+      "date_hour": "12:41:05",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "CANAKKALE"
+    },
+    {
+      "title": "HAYRANLAR-MENGEN (BOLU)",
+      "type": "�lksel",
+      "date": "2026.08.22 12:19:02",
+      "lat": 40.8888,
+      "lng": 31.8235,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "3.5",
+      "coordinates": [
+        31.8235,
+        40.8888
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.8235,
+            40.8888
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "HAYRANLAR-MENGEN (BOLU)",
+          "time": "2026.08.22 12:19:02"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.22",
+      "date_hour": "12:19:02",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BOLU"
+    },
     {
       "title": "BAYIRKOY-MILAS (MUGLA)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "BEYARSLAN-SARAY (VAN)",
-      "type": "�lksel",
-      "date": "2026.08.16 22:11:30",
-      "lat": 38.5842,
-      "lng": 44.2965,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        44.2965,
-        38.5842
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            44.2965,
-            38.5842
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "BEYARSLAN-SARAY (VAN)",
-          "time": "2026.08.16 22:11:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.16",
-      "date_hour": "22:11:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "VAN"
-    },
-    {
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.08.16 22:08:58",
-      "lat": 39.128,
-      "lng": 28.2903,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "10.7",
-      "coordinates": [
-        28.2903,
-        39.128
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.2903,
-            39.128
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "YUREGIL-SINDIRGI (BALIKESIR)",
-          "time": "2026.08.16 22:08:58"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.16",
-      "date_hour": "22:08:58",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
