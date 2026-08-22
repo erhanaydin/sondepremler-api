@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-22T01:42:06.734Z",
+  "lastUpdate": "2026-08-22T02:40:08.047Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KAPIDERE-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.08.22 05:10:10",
+      "lat": 37.9618,
+      "lng": 37.689,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "9.0",
+      "coordinates": [
+        37.689,
+        37.9618
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.689,
+            37.9618
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "KAPIDERE-DOGANSEHIR (MALATYA)",
+          "time": "2026.08.22 05:10:10"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.22",
+      "date_hour": "05:10:10",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "AKPINAR-EKINOZU (KAHRAMANMARAS)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "CIFTEVI-ORTAKOY (AKSARAY)",
-      "type": "�lksel",
-      "date": "2026.08.16 14:24:26",
-      "lat": 38.8437,
-      "lng": 34.0527,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "6.1",
-      "coordinates": [
-        34.0527,
-        38.8437
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            34.0527,
-            38.8437
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "CIFTEVI-ORTAKOY (AKSARAY)",
-          "time": "2026.08.16 14:24:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.16",
-      "date_hour": "14:24:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKSARAY"
     }
   ]
 }
