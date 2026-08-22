@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-22T04:41:54.221Z",
+  "lastUpdate": "2026-08-22T05:04:17.320Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.08.22 07:34:24",
+      "lat": 39.1738,
+      "lng": 28.082,
+      "md": "-.-",
+      "ml": "1.2",
+      "mw": "-.-",
+      "depth": "15.9",
+      "coordinates": [
+        28.082,
+        39.1738
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.082,
+            39.1738
+          ]
+        },
+        "properties": {
+          "mag": "1.2",
+          "place": "KERTIL-SINDIRGI (BALIKESIR)",
+          "time": "2026.08.22 07:34:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.22",
+      "date_hour": "07:34:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "DUZLEN-(MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "GAZIANTEP"
-    },
-    {
-      "title": "KIZILAGIL-(BOLU)",
-      "type": "�lksel",
-      "date": "2026.08.16 18:47:31",
-      "lat": 40.7652,
-      "lng": 31.5293,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "12.7",
-      "coordinates": [
-        31.5293,
-        40.7652
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            31.5293,
-            40.7652
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KIZILAGIL-(BOLU)",
-          "time": "2026.08.16 18:47:31"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.16",
-      "date_hour": "18:47:31",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BOLU"
     }
   ]
 }
