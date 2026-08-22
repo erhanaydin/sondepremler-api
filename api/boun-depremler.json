@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-22T16:32:33.047Z",
+  "lastUpdate": "2026-08-22T16:53:37.889Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YUNANISTAN",
+      "type": "�lksel",
+      "date": "2026.08.22 19:19:12",
+      "lat": 40.3695,
+      "lng": 23.6705,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "5.8",
+      "coordinates": [
+        23.6705,
+        40.3695
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.6705,
+            40.3695
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "YUNANISTAN",
+          "time": "2026.08.22 19:19:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.22",
+      "date_hour": "19:19:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
     {
       "title": "TEKKEKOY-SARAYKOY (DENIZLI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": ""
-    },
-    {
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "type": "�lksel",
-      "date": "2026.08.17 03:46:59",
-      "lat": 39.2403,
-      "lng": 28.9893,
-      "md": "-.-",
-      "ml": "2.3",
-      "mw": "-.-",
-      "depth": "5.7",
-      "coordinates": [
-        28.9893,
-        39.2403
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.9893,
-            39.2403
-          ]
-        },
-        "properties": {
-          "mag": "2.3",
-          "place": "YEMISLI-SIMAV (KUTAHYA)",
-          "time": "2026.08.17 03:46:59"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.17",
-      "date_hour": "03:46:59",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "KUTAHYA"
     }
   ]
 }
