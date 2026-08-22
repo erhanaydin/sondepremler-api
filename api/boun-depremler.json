@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-22T11:59:49.373Z",
+  "lastUpdate": "2026-08-22T12:51:14.889Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CIMEN-CIHANBEYLI (KONYA)",
+      "type": "�lksel",
+      "date": "2026.08.22 13:29:03",
+      "lat": 39.0205,
+      "lng": 32.5425,
+      "md": "-.-",
+      "ml": "2.1",
+      "mw": "-.-",
+      "depth": "8.4",
+      "coordinates": [
+        32.5425,
+        39.0205
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.5425,
+            39.0205
+          ]
+        },
+        "properties": {
+          "mag": "2.1",
+          "place": "CIMEN-CIHANBEYLI (KONYA)",
+          "time": "2026.08.22 13:29:03"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.22",
+      "date_hour": "13:29:03",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KONYA"
+    },
     {
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.08.16 22:39:10",
-      "lat": 39.2093,
-      "lng": 28.0527,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "9.5",
-      "coordinates": [
-        28.0527,
-        39.2093
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0527,
-            39.2093
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "SAHINKAYA-SINDIRGI (BALIKESIR)",
-          "time": "2026.08.16 22:39:10"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.16",
-      "date_hour": "22:39:10",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
