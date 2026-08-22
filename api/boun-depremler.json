@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-22T09:58:11.313Z",
+  "lastUpdate": "2026-08-22T10:25:15.264Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KABAKOZ-GORDES (MANISA)",
+      "type": "�lksel",
+      "date": "2026.08.22 11:06:32",
+      "lat": 39.006,
+      "lng": 28.2273,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "3.7",
+      "coordinates": [
+        28.2273,
+        39.006
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.2273,
+            39.006
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "KABAKOZ-GORDES (MANISA)",
+          "time": "2026.08.22 11:06:32"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.22",
+      "date_hour": "11:06:32",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MANISA"
+    },
     {
       "title": "OGUZELI (GAZIANTEP)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KUTAHYA"
-    },
-    {
-      "title": "KARCI-GENC (BINGOL)",
-      "type": "�lksel",
-      "date": "2026.08.16 20:46:20",
-      "lat": 38.674,
-      "lng": 40.4733,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "5.1",
-      "coordinates": [
-        40.4733,
-        38.674
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            40.4733,
-            38.674
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "KARCI-GENC (BINGOL)",
-          "time": "2026.08.16 20:46:20"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.16",
-      "date_hour": "20:46:20",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BINGOL"
     }
   ]
 }
