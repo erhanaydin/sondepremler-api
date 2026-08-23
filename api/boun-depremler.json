@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-23T16:22:25.197Z",
+  "lastUpdate": "2026-08-23T16:46:39.071Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KOS ADASI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.08.23 19:18:14",
+      "lat": 36.6717,
+      "lng": 26.821,
+      "md": "-.-",
+      "ml": "2.6",
+      "mw": "2.7",
+      "depth": "114.3",
+      "coordinates": [
+        26.821,
+        36.6717
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.821,
+            36.6717
+          ]
+        },
+        "properties": {
+          "mag": "2.6",
+          "place": "KOS ADASI (EGE DENIZI)",
+          "time": "2026.08.23 19:18:14"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.23",
+      "date_hour": "19:18:14",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "OLUKKOYAGI-TARSUS (MERSIN)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "SUSUZ-PATNOS (AGRI)",
-      "type": "�lksel",
-      "date": "2026.08.18 09:25:30",
-      "lat": 39.252,
-      "lng": 42.7665,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "21.3",
-      "coordinates": [
-        42.7665,
-        39.252
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            42.7665,
-            39.252
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "SUSUZ-PATNOS (AGRI)",
-          "time": "2026.08.18 09:25:30"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.18",
-      "date_hour": "09:25:30",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AGRI"
     }
   ]
 }
