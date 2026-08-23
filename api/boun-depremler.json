@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-08-23T23:47:22.823Z",
+  "lastUpdate": "2026-08-23T23:59:57.455Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "MARMARA DENIZI",
+      "type": "�lksel",
+      "date": "2026.08.24 01:54:20",
+      "lat": 40.5185,
+      "lng": 27.1803,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "11.5",
+      "coordinates": [
+        27.1803,
+        40.5185
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.1803,
+            40.5185
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "MARMARA DENIZI",
+          "time": "2026.08.24 01:54:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.24",
+      "date_hour": "01:54:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "HARMANLI-KARAPURCEK (SAKARYA)",
+      "type": "�lksel",
+      "date": "2026.08.24 01:51:47",
+      "lat": 40.6708,
+      "lng": 30.5837,
+      "md": "-.-",
+      "ml": "1.9",
+      "mw": "-.-",
+      "depth": "7.7",
+      "coordinates": [
+        30.5837,
+        40.6708
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5837,
+            40.6708
+          ]
+        },
+        "properties": {
+          "mag": "1.9",
+          "place": "HARMANLI-KARAPURCEK (SAKARYA)",
+          "time": "2026.08.24 01:51:47"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.24",
+      "date_hour": "01:51:47",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "SAKARYA"
+    },
     {
       "title": "GOKOVA KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUS"
-    },
-    {
-      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-      "type": "�lksel",
-      "date": "2026.08.18 14:50:51",
-      "lat": 34.6887,
-      "lng": 26.029,
-      "md": "-.-",
-      "ml": "2.9",
-      "mw": "2.9",
-      "depth": "12.3",
-      "coordinates": [
-        26.029,
-        34.6887
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.029,
-            34.6887
-          ]
-        },
-        "properties": {
-          "mag": "2.9",
-          "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-          "time": "2026.08.18 14:50:51"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.18",
-      "date_hour": "14:50:51",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "AKDENIZ"
-    },
-    {
-      "title": "ERIKLICE-SARKOY (TEKIRDAG)",
-      "type": "�lksel",
-      "date": "2026.08.18 14:37:53",
-      "lat": 40.6152,
-      "lng": 27.2107,
-      "md": "-.-",
-      "ml": "1.0",
-      "mw": "-.-",
-      "depth": "9.4",
-      "coordinates": [
-        27.2107,
-        40.6152
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.2107,
-            40.6152
-          ]
-        },
-        "properties": {
-          "mag": "1.0",
-          "place": "ERIKLICE-SARKOY (TEKIRDAG)",
-          "time": "2026.08.18 14:37:53"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.18",
-      "date_hour": "14:37:53",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "TEKIRDAG"
     }
   ]
 }
