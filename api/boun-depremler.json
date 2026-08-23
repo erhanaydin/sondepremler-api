@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-23T21:47:24.220Z",
+  "lastUpdate": "2026-08-23T21:59:59.316Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "YALOVA ACIKLARI (MARMARA DENIZI)",
+      "type": "�lksel",
+      "date": "2026.08.24 00:44:12",
+      "lat": 40.7682,
+      "lng": 29.2362,
+      "md": "-.-",
+      "ml": "1.0",
+      "mw": "-.-",
+      "depth": "4.8",
+      "coordinates": [
+        29.2362,
+        40.7682
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.2362,
+            40.7682
+          ]
+        },
+        "properties": {
+          "mag": "1.0",
+          "place": "YALOVA ACIKLARI (MARMARA DENIZI)",
+          "time": "2026.08.24 00:44:12"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.24",
+      "date_hour": "00:44:12",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MARMARA DENIZI"
+    },
     {
       "title": "ADALAR (ISTANBUL)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ISTANBUL"
-    },
-    {
-      "title": "KAPLIKAYA-(ELAZIG)",
-      "type": "�lksel",
-      "date": "2026.08.18 13:05:25",
-      "lat": 38.774,
-      "lng": 39.1742,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "11.6",
-      "coordinates": [
-        39.1742,
-        38.774
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.1742,
-            38.774
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "KAPLIKAYA-(ELAZIG)",
-          "time": "2026.08.18 13:05:25"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.18",
-      "date_hour": "13:05:25",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
     }
   ]
 }
