@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-23T19:58:38.491Z",
+  "lastUpdate": "2026-08-23T20:26:21.509Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "FINDIKKOY-DOGANSEHIR (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.08.23 23:07:33",
+      "lat": 38.1158,
+      "lng": 37.739,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "8.3",
+      "coordinates": [
+        37.739,
+        38.1158
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.739,
+            38.1158
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "FINDIKKOY-DOGANSEHIR (MALATYA)",
+          "time": "2026.08.23 23:07:33"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.23",
+      "date_hour": "23:07:33",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "IBILLER-SINDIRGI (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MERSIN"
-    },
-    {
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.08.18 12:10:19",
-      "lat": 39.1653,
-      "lng": 28.234,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "10.4",
-      "coordinates": [
-        28.234,
-        39.1653
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.234,
-            39.1653
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-          "time": "2026.08.18 12:10:19"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.18",
-      "date_hour": "12:10:19",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
