@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-23T23:01:53.826Z",
+  "lastUpdate": "2026-08-23T23:29:02.750Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "ADALAR (ISTANBUL)",
+      "type": "�lksel",
+      "date": "2026.08.24 00:56:24",
+      "lat": 40.7923,
+      "lng": 29.1358,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "4.8",
+      "coordinates": [
+        29.1358,
+        40.7923
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1358,
+            40.7923
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "ADALAR (ISTANBUL)",
+          "time": "2026.08.24 00:56:24"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.24",
+      "date_hour": "00:56:24",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ISTANBUL"
+    },
     {
       "title": "YALOVA ACIKLARI (MARMARA DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "BALIKESIR"
-    },
-    {
-      "title": "KURTDOGMUS-PENDIK (ISTANBUL)",
-      "type": "�lksel",
-      "date": "2026.08.18 13:40:34",
-      "lat": 41.0387,
-      "lng": 29.3252,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        29.3252,
-        41.0387
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.3252,
-            41.0387
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "KURTDOGMUS-PENDIK (ISTANBUL)",
-          "time": "2026.08.18 13:40:34"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.18",
-      "date_hour": "13:40:34",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ISTANBUL"
     }
   ]
 }
