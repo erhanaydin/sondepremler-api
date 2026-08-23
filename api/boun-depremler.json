@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-23T13:21:48.783Z",
+  "lastUpdate": "2026-08-23T13:49:18.635Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GECITLI-SEREFLIKOCHISAR (ANKARA)",
+      "type": "�lksel",
+      "date": "2026.08.23 16:25:21",
+      "lat": 39.1268,
+      "lng": 33.6378,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        33.6378,
+        39.1268
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.6378,
+            39.1268
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "GECITLI-SEREFLIKOCHISAR (ANKARA)",
+          "time": "2026.08.23 16:25:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.23",
+      "date_hour": "16:25:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ANKARA"
+    },
     {
       "title": "YAHSIBEY-DIKILI (IZMIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MARMARA DENIZI"
-    },
-    {
-      "title": "ADALAR (ISTANBUL)",
-      "type": "�lksel",
-      "date": "2026.08.18 09:00:26",
-      "lat": 40.7828,
-      "lng": 29.1293,
-      "md": "-.-",
-      "ml": "1.8",
-      "mw": "-.-",
-      "depth": "11.2",
-      "coordinates": [
-        29.1293,
-        40.7828
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1293,
-            40.7828
-          ]
-        },
-        "properties": {
-          "mag": "1.8",
-          "place": "ADALAR (ISTANBUL)",
-          "time": "2026.08.18 09:00:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.18",
-      "date_hour": "09:00:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ISTANBUL"
     }
   ]
 }
