@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "2026-08-22T23:49:09.564Z",
+  "lastUpdate": "2026-08-23T00:00:46.525Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AKDENIZ",
+      "type": "�lksel",
+      "date": "2026.08.23 02:41:57",
+      "lat": 34.4717,
+      "lng": 33.0265,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "5.0",
+      "coordinates": [
+        33.0265,
+        34.4717
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.0265,
+            34.4717
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "AKDENIZ",
+          "time": "2026.08.23 02:41:57"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.23",
+      "date_hour": "02:41:57",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "ONIKI ADALAR (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.08.23 02:39:28",
+      "lat": 36.2307,
+      "lng": 27.4065,
+      "md": "-.-",
+      "ml": "3.5",
+      "mw": "3.5",
+      "depth": "15.8",
+      "coordinates": [
+        27.4065,
+        36.2307
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.4065,
+            36.2307
+          ]
+        },
+        "properties": {
+          "mag": "3.5",
+          "place": "ONIKI ADALAR (EGE DENIZI)",
+          "time": "2026.08.23 02:39:28"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.23",
+      "date_hour": "02:39:28",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "GOKSEKI-REFAHIYE (ERZINCAN)",
       "type": "�lksel",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KIRIKKALE"
-    },
-    {
-      "title": "BALIKESIR (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.08.17 16:27:46",
-      "lat": 39.6552,
-      "lng": 27.8658,
-      "md": "-.-",
-      "ml": "1.2",
-      "mw": "-.-",
-      "depth": "5.2",
-      "coordinates": [
-        27.8658,
-        39.6552
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.8658,
-            39.6552
-          ]
-        },
-        "properties": {
-          "mag": "1.2",
-          "place": "BALIKESIR (BALIKESIR)",
-          "time": "2026.08.17 16:27:46"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.17",
-      "date_hour": "16:27:46",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.08.17 15:31:41",
-      "lat": 35.5205,
-      "lng": 26.6363,
-      "md": "-.-",
-      "ml": "2.7",
-      "mw": "-.-",
-      "depth": "13.1",
-      "coordinates": [
-        26.6363,
-        35.5205
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.6363,
-            35.5205
-          ]
-        },
-        "properties": {
-          "mag": "2.7",
-          "place": "EGE DENIZI",
-          "time": "2026.08.17 15:31:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.17",
-      "date_hour": "15:31:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
