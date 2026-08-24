@@ -1,5 +1,41 @@
 [
   {
+    "title": "Varto (Muş)",
+    "type": "İlksel",
+    "date": "2026-08-24 22:52:04",
+    "lat": 39.20983,
+    "lng": 41.5505,
+    "md": "-.-",
+    "ml": "1.3",
+    "mw": "-.-",
+    "depth": 6.97,
+    "coordinates": [
+      41.5505,
+      39.20983
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.5505,
+          39.20983
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Varto (Muş) (Muş)",
+        "time": 1787611924000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-24",
+    "date_hour": "22:52:04",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Muş"
+  },
+  {
     "title": "Kağızman (Kars)",
     "type": "İlksel",
     "date": "2026-08-24 22:27:24",
@@ -8962,77 +8998,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Sındırgı (Balıkesir)",
-    "type": "İlksel",
-    "date": "2026-08-21 23:10:19",
-    "lat": 39.329,
-    "lng": 28.07667,
-    "md": "-.-",
-    "ml": "1.2",
-    "mw": "-.-",
-    "depth": 7.01,
-    "coordinates": [
-      28.07667,
-      39.329
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.07667,
-          39.329
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sındırgı (Balıkesir) (Balıkesir)",
-        "time": 1787353819000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-21",
-    "date_hour": "23:10:19",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Balıkesir"
-  },
-  {
-    "title": "Yavuzeli (Gaziantep)",
-    "type": "İlksel",
-    "date": "2026-08-21 23:04:44",
-    "lat": 37.36917,
-    "lng": 37.49983,
-    "md": "-.-",
-    "ml": "1.1",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      37.49983,
-      37.36917
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.49983,
-          37.36917
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Yavuzeli (Gaziantep) (Gaziantep)",
-        "time": 1787353484000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-21",
-    "date_hour": "23:04:44",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Gaziantep"
   }
 ]
