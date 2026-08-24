@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-24T16:43:56.925Z",
+  "lastUpdate": "2026-08-24T17:15:54.856Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "IZMIR KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.08.24 20:05:16",
+      "lat": 38.5665,
+      "lng": 26.8088,
+      "md": "-.-",
+      "ml": "1.4",
+      "mw": "-.-",
+      "depth": "12.8",
+      "coordinates": [
+        26.8088,
+        38.5665
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.8088,
+            38.5665
+          ]
+        },
+        "properties": {
+          "mag": "1.4",
+          "place": "IZMIR KORFEZI (EGE DENIZI)",
+          "time": "2026.08.24 20:05:16"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.24",
+      "date_hour": "20:05:16",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "BAHCELI-DIKILI (IZMIR)",
       "type": "�lksel",
@@ -37,6 +73,42 @@
       "timestamp": false,
       "location_tz": "",
       "city": "IZMIR"
+    },
+    {
+      "title": "EGE DENIZI",
+      "type": "�lksel",
+      "date": "2026.08.24 18:34:25",
+      "lat": 35.7345,
+      "lng": 25.8847,
+      "md": "-.-",
+      "ml": "2.4",
+      "mw": "-.-",
+      "depth": "26.9",
+      "coordinates": [
+        25.8847,
+        35.7345
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.8847,
+            35.7345
+          ]
+        },
+        "properties": {
+          "mag": "2.4",
+          "place": "EGE DENIZI",
+          "time": "2026.08.24 18:34:25"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.24",
+      "date_hour": "18:34:25",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
     },
     {
       "title": "YUNANISTAN",
@@ -17929,78 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "KAHRAMANMARAS"
-    },
-    {
-      "title": "CUMHURIYETCI-MADEN (ELAZIG)",
-      "type": "�lksel",
-      "date": "2026.08.19 05:28:57",
-      "lat": 38.5298,
-      "lng": 39.6248,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "7.3",
-      "coordinates": [
-        39.6248,
-        38.5298
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.6248,
-            38.5298
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "CUMHURIYETCI-MADEN (ELAZIG)",
-          "time": "2026.08.19 05:28:57"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.19",
-      "date_hour": "05:28:57",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ELAZIG"
-    },
-    {
-      "title": "AKKOCALI-AKHISAR (MANISA)",
-      "type": "�lksel",
-      "date": "2026.08.19 04:52:26",
-      "lat": 39.1893,
-      "lng": 27.9618,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "9.0",
-      "coordinates": [
-        27.9618,
-        39.1893
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.9618,
-            39.1893
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "AKKOCALI-AKHISAR (MANISA)",
-          "time": "2026.08.19 04:52:26"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.19",
-      "date_hour": "04:52:26",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MANISA"
     }
   ]
 }

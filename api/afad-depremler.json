@@ -1,5 +1,41 @@
 [
   {
+    "title": "Dikili (İzmir)",
+    "type": "İlksel",
+    "date": "2026-08-24 16:34:11",
+    "lat": 39.18933,
+    "lng": 26.8335,
+    "md": "-.-",
+    "ml": "2.2",
+    "mw": "-.-",
+    "depth": 9.63,
+    "coordinates": [
+      26.8335,
+      39.18933
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8335,
+          39.18933
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Dikili (İzmir) (İzmir)",
+        "time": 1787589251000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-24",
+    "date_hour": "16:34:11",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "İzmir"
+  },
+  {
     "title": "Ege Denizi - [135.87 km] Datça (Muğla)",
     "type": "İlksel",
     "date": "2026-08-24 15:34:27",
@@ -9250,77 +9286,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kahramanmaraş"
-  },
-  {
-    "title": "Sumbas (Osmaniye)",
-    "type": "İlksel",
-    "date": "2026-08-21 17:11:48",
-    "lat": 37.699,
-    "lng": 36.10683,
-    "md": "-.-",
-    "ml": "1.7",
-    "mw": "-.-",
-    "depth": 6.97,
-    "coordinates": [
-      36.10683,
-      37.699
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.10683,
-          37.699
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Sumbas (Osmaniye) (Osmaniye)",
-        "time": 1787332308000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-21",
-    "date_hour": "17:11:48",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Osmaniye"
-  },
-  {
-    "title": "Büyükorhan (Bursa)",
-    "type": "İlksel",
-    "date": "2026-08-21 17:07:48",
-    "lat": 39.7315,
-    "lng": 29.01217,
-    "md": "-.-",
-    "ml": "1.4",
-    "mw": "-.-",
-    "depth": 7,
-    "coordinates": [
-      29.01217,
-      39.7315
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.01217,
-          39.7315
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Büyükorhan (Bursa) (Bursa)",
-        "time": 1787332068000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-21",
-    "date_hour": "17:07:48",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Bursa"
   }
 ]
