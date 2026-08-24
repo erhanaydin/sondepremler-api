@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-24T18:16:18.228Z",
+  "lastUpdate": "2026-08-24T19:02:27.930Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KARBASAN-HISARCIK (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.08.24 21:47:21",
+      "lat": 39.1967,
+      "lng": 29.4052,
+      "md": "-.-",
+      "ml": "2.0",
+      "mw": "-.-",
+      "depth": "5.5",
+      "coordinates": [
+        29.4052,
+        39.1967
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.4052,
+            39.1967
+          ]
+        },
+        "properties": {
+          "mag": "2.0",
+          "place": "KARBASAN-HISARCIK (KUTAHYA)",
+          "time": "2026.08.24 21:47:21"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.24",
+      "date_hour": "21:47:21",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
     {
       "title": "IZMIR KORFEZI (EGE DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MERSIN"
-    },
-    {
-      "title": "YELTEN-KORKUTELI (ANTALYA)",
-      "type": "�lksel",
-      "date": "2026.08.19 05:38:37",
-      "lat": 37.1845,
-      "lng": 30.2265,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "61.9",
-      "coordinates": [
-        30.2265,
-        37.1845
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            30.2265,
-            37.1845
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "YELTEN-KORKUTELI (ANTALYA)",
-          "time": "2026.08.19 05:38:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.19",
-      "date_hour": "05:38:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "ANTALYA"
     }
   ]
 }
