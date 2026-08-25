@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-25T00:25:04.064Z",
+  "lastUpdate": "2026-08-25T01:57:48.042Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "GOZENE-YESILYURT (MALATYA)",
+      "type": "�lksel",
+      "date": "2026.08.25 03:30:45",
+      "lat": 38.1848,
+      "lng": 38.0267,
+      "md": "-.-",
+      "ml": "2.7",
+      "mw": "-.-",
+      "depth": "5.4",
+      "coordinates": [
+        38.0267,
+        38.1848
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.0267,
+            38.1848
+          ]
+        },
+        "properties": {
+          "mag": "2.7",
+          "place": "GOZENE-YESILYURT (MALATYA)",
+          "time": "2026.08.25 03:30:45"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.25",
+      "date_hour": "03:30:45",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "MALATYA"
+    },
     {
       "title": "BELENARDIC-AKKOY (DENIZLI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ISTANBUL"
-    },
-    {
-      "title": "SAHINYURDU-GEMLIK (BURSA)",
-      "type": "�lksel",
-      "date": "2026.08.19 16:24:39",
-      "lat": 40.4898,
-      "lng": 29.1977,
-      "md": "-.-",
-      "ml": "1.1",
-      "mw": "-.-",
-      "depth": "0.0",
-      "coordinates": [
-        29.1977,
-        40.4898
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            29.1977,
-            40.4898
-          ]
-        },
-        "properties": {
-          "mag": "1.1",
-          "place": "SAHINYURDU-GEMLIK (BURSA)",
-          "time": "2026.08.19 16:24:39"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.19",
-      "date_hour": "16:24:39",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BURSA"
     }
   ]
 }
