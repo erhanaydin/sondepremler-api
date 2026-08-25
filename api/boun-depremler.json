@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-25T15:38:52.255Z",
+  "lastUpdate": "2026-08-25T16:17:03.344Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "AVCILARSUYU-ARSUZ (HATAY)",
+      "type": "�lksel",
+      "date": "2026.08.25 17:50:19",
+      "lat": 36.3298,
+      "lng": 35.9278,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "8.2",
+      "coordinates": [
+        35.9278,
+        36.3298
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.9278,
+            36.3298
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "AVCILARSUYU-ARSUZ (HATAY)",
+          "time": "2026.08.25 17:50:19"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.25",
+      "date_hour": "17:50:19",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "HATAY"
+    },
     {
       "title": "DUZLEN-(MANISA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ISTANBUL"
-    },
-    {
-      "title": "TURGUT-ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.08.19 21:59:08",
-      "lat": 37.1553,
-      "lng": 28.7262,
-      "md": "-.-",
-      "ml": "1.7",
-      "mw": "-.-",
-      "depth": "4.4",
-      "coordinates": [
-        28.7262,
-        37.1553
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.7262,
-            37.1553
-          ]
-        },
-        "properties": {
-          "mag": "1.7",
-          "place": "TURGUT-ULA (MUGLA)",
-          "time": "2026.08.19 21:59:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.19",
-      "date_hour": "21:59:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
