@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-08-26T13:06:15.126Z",
+  "lastUpdate": "2026-08-26T14:00:22.736Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "type": "�lksel",
+      "date": "2026.08.26 16:10:18",
+      "lat": 37.746,
+      "lng": 27.1672,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "6.4",
+      "coordinates": [
+        27.1672,
+        37.746
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.1672,
+            37.746
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "KUSADASI KORFEZI (EGE DENIZI)",
+          "time": "2026.08.26 16:10:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.08.26",
+      "date_hour": "16:10:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "EGE DENIZI"
+    },
     {
       "title": "SALKONAK-YESILYURT (MALATYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ISTANBUL"
-    },
-    {
-      "title": "ULA (MUGLA)",
-      "type": "�lksel",
-      "date": "2026.08.20 10:47:13",
-      "lat": 37.0978,
-      "lng": 28.4077,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "7.9",
-      "coordinates": [
-        28.4077,
-        37.0978
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.4077,
-            37.0978
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "ULA (MUGLA)",
-          "time": "2026.08.20 10:47:13"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.20",
-      "date_hour": "10:47:13",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "MUGLA"
     }
   ]
 }
