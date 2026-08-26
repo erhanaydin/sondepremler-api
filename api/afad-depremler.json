@@ -1,5 +1,41 @@
 [
   {
+    "title": "Orhangazi (Bursa)",
+    "type": "İlksel",
+    "date": "2026-08-26 05:54:39",
+    "lat": 40.5075,
+    "lng": 29.30633,
+    "md": "-.-",
+    "ml": "1.2",
+    "mw": "-.-",
+    "depth": 7.4,
+    "coordinates": [
+      29.30633,
+      40.5075
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.30633,
+          40.5075
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Orhangazi (Bursa) (Bursa)",
+        "time": 1787723679000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-26",
+    "date_hour": "05:54:39",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Bursa"
+  },
+  {
     "title": "Simav (Kütahya)",
     "type": "İlksel",
     "date": "2026-08-26 05:32:23",
@@ -37,25 +73,25 @@
   },
   {
     "title": "Simav (Kütahya)",
-    "type": "İlksel",
+    "type": "Güncellenmiş",
     "date": "2026-08-26 05:17:41",
-    "lat": 39.24367,
-    "lng": 28.964,
+    "lat": 39.23833,
+    "lng": 28.96467,
     "md": "-.-",
     "ml": "1.9",
     "mw": "-.-",
-    "depth": 10.61,
+    "depth": 10.38,
     "coordinates": [
-      28.964,
-      39.24367
+      28.96467,
+      39.23833
     ],
     "geojson": {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.964,
-          39.24367
+          28.96467,
+          39.23833
         ]
       },
       "properties": {
@@ -70,6 +106,42 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Kütahya"
+  },
+  {
+    "title": "Menteşe (Muğla)",
+    "type": "İlksel",
+    "date": "2026-08-26 05:08:43",
+    "lat": 37.15817,
+    "lng": 28.4365,
+    "md": "-.-",
+    "ml": "1.6",
+    "mw": "-.-",
+    "depth": 7,
+    "coordinates": [
+      28.4365,
+      37.15817
+    ],
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4365,
+          37.15817
+        ]
+      },
+      "properties": {
+        "mag": 0,
+        "place": "Menteşe (Muğla) (Muğla)",
+        "time": 1787720923000
+      }
+    },
+    "location_properties": "",
+    "date_day": "2026-08-26",
+    "date_hour": "05:08:43",
+    "timestamp": false,
+    "location_tz": "",
+    "city": "Muğla"
   },
   {
     "title": "Merkez (Bolu)",
@@ -9250,77 +9322,5 @@
     "timestamp": false,
     "location_tz": "",
     "city": "Balıkesir"
-  },
-  {
-    "title": "Yığılca (Düzce)",
-    "type": "İlksel",
-    "date": "2026-08-23 05:56:25",
-    "lat": 40.80983,
-    "lng": 31.42933,
-    "md": "-.-",
-    "ml": "1.5",
-    "mw": "-.-",
-    "depth": 16.3,
-    "coordinates": [
-      31.42933,
-      40.80983
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.42933,
-          40.80983
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Yığılca (Düzce) (Düzce)",
-        "time": 1787464585000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-23",
-    "date_hour": "05:56:25",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Düzce"
-  },
-  {
-    "title": "Gelendost (Isparta)",
-    "type": "İlksel",
-    "date": "2026-08-23 05:43:56",
-    "lat": 38.04617,
-    "lng": 30.97,
-    "md": "-.-",
-    "ml": "1.9",
-    "mw": "-.-",
-    "depth": 6.78,
-    "coordinates": [
-      30.97,
-      38.04617
-    ],
-    "geojson": {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.97,
-          38.04617
-        ]
-      },
-      "properties": {
-        "mag": 0,
-        "place": "Gelendost (Isparta) (Isparta)",
-        "time": 1787463836000
-      }
-    },
-    "location_properties": "",
-    "date_day": "2026-08-23",
-    "date_hour": "05:43:56",
-    "timestamp": false,
-    "location_tz": "",
-    "city": "Isparta"
   }
 ]
