@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-09-05T15:02:10.940Z",
+  "lastUpdate": "2026-09-05T17:15:12.004Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "TATLAR-NURHAK (KAHRAMANMARAS)",
+      "type": "�lksel",
+      "date": "2026.09.05 19:16:06",
+      "lat": 38.0165,
+      "lng": 37.5308,
+      "md": "-.-",
+      "ml": "1.6",
+      "mw": "-.-",
+      "depth": "9.3",
+      "coordinates": [
+        37.5308,
+        38.0165
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.5308,
+            38.0165
+          ]
+        },
+        "properties": {
+          "mag": "1.6",
+          "place": "TATLAR-NURHAK (KAHRAMANMARAS)",
+          "time": "2026.09.05 19:16:06"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.09.05",
+      "date_hour": "19:16:06",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KAHRAMANMARAS"
+    },
     {
       "title": "KARAPINAR-SAVASTEPE (BALIKESIR)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "MUGLA"
-    },
-    {
-      "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.08.29 05:32:55",
-      "lat": 39.2233,
-      "lng": 28.0102,
-      "md": "-.-",
-      "ml": "1.5",
-      "mw": "-.-",
-      "depth": "12.1",
-      "coordinates": [
-        28.0102,
-        39.2233
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.0102,
-            39.2233
-          ]
-        },
-        "properties": {
-          "mag": "1.5",
-          "place": "SAHINKAYA-SINDIRGI (BALIKESIR)",
-          "time": "2026.08.29 05:32:55"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.08.29",
-      "date_hour": "05:32:55",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
     }
   ]
 }
