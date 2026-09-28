@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-09-28T13:09:53.365Z",
+  "lastUpdate": "2026-09-28T20:06:11.067Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CALTI-GELENDOST (ISPARTA)",
+      "type": "�lksel",
+      "date": "2026.09.28 16:58:18",
+      "lat": 38.2163,
+      "lng": 31.0463,
+      "md": "-.-",
+      "ml": "1.7",
+      "mw": "-.-",
+      "depth": "15.0",
+      "coordinates": [
+        31.0463,
+        38.2163
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.0463,
+            38.2163
+          ]
+        },
+        "properties": {
+          "mag": "1.7",
+          "place": "CALTI-GELENDOST (ISPARTA)",
+          "time": "2026.09.28 16:58:18"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.09.28",
+      "date_hour": "16:58:18",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ISPARTA"
+    },
     {
       "title": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "ANTALYA"
-    },
-    {
-      "title": "CANDARLI KORFEZI (EGE DENIZI)",
-      "type": "�lksel",
-      "date": "2026.09.21 17:30:08",
-      "lat": 38.7942,
-      "lng": 26.8563,
-      "md": "-.-",
-      "ml": "1.6",
-      "mw": "-.-",
-      "depth": "16.1",
-      "coordinates": [
-        26.8563,
-        38.7942
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.8563,
-            38.7942
-          ]
-        },
-        "properties": {
-          "mag": "1.6",
-          "place": "CANDARLI KORFEZI (EGE DENIZI)",
-          "time": "2026.09.21 17:30:08"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.09.21",
-      "date_hour": "17:30:08",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "EGE DENIZI"
     }
   ]
 }
