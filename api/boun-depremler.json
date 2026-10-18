@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-10-18T13:10:13.127Z",
+  "lastUpdate": "2026-10-18T16:30:09.736Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "CALTILI-SINDIRGI (BALIKESIR)",
+      "type": "�lksel",
+      "date": "2026.10.18 17:19:58",
+      "lat": 39.2437,
+      "lng": 28.222,
+      "md": "-.-",
+      "ml": "1.5",
+      "mw": "-.-",
+      "depth": "7.5",
+      "coordinates": [
+        28.222,
+        39.2437
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.222,
+            39.2437
+          ]
+        },
+        "properties": {
+          "mag": "1.5",
+          "place": "CALTILI-SINDIRGI (BALIKESIR)",
+          "time": "2026.10.18 17:19:58"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.10.18",
+      "date_hour": "17:19:58",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "BALIKESIR"
+    },
     {
       "title": "KATRANDAGI-EMET (KUTAHYA)",
       "type": "�lksel",
@@ -17965,42 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "TUNCELI"
-    },
-    {
-      "title": "TURKIYE-IRAN SINIR BOLGESI",
-      "type": "�lksel",
-      "date": "2026.10.12 07:15:37",
-      "lat": 38.9662,
-      "lng": 44.7272,
-      "md": "-.-",
-      "ml": "2.8",
-      "mw": "-.-",
-      "depth": "10.6",
-      "coordinates": [
-        44.7272,
-        38.9662
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            44.7272,
-            38.9662
-          ]
-        },
-        "properties": {
-          "mag": "2.8",
-          "place": "TURKIYE-IRAN SINIR BOLGESI",
-          "time": "2026.10.12 07:15:37"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.10.12",
-      "date_hour": "07:15:37",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
