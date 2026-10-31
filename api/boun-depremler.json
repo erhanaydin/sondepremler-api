@@ -1,7 +1,187 @@
 {
-  "lastUpdate": "2026-10-31T13:48:27.438Z",
+  "lastUpdate": "2026-10-31T17:58:26.511Z",
   "source": "Boğaziçi",
   "data": [
+    {
+      "title": "INLICE-SIMAV (KUTAHYA)",
+      "type": "�lksel",
+      "date": "2026.10.31 20:43:20",
+      "lat": 39.1267,
+      "lng": 29.1488,
+      "md": "-.-",
+      "ml": "1.1",
+      "mw": "-.-",
+      "depth": "11.0",
+      "coordinates": [
+        29.1488,
+        39.1267
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1488,
+            39.1267
+          ]
+        },
+        "properties": {
+          "mag": "1.1",
+          "place": "INLICE-SIMAV (KUTAHYA)",
+          "time": "2026.10.31 20:43:20"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.10.31",
+      "date_hour": "20:43:20",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "KUTAHYA"
+    },
+    {
+      "title": "KIBRIS-ZUMRUTKOY",
+      "type": "�lksel",
+      "date": "2026.10.31 19:47:56",
+      "lat": 35.0168,
+      "lng": 32.9998,
+      "md": "-.-",
+      "ml": "0.4",
+      "mw": "-.-",
+      "depth": "27.7",
+      "coordinates": [
+        32.9998,
+        35.0168
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.9998,
+            35.0168
+          ]
+        },
+        "properties": {
+          "mag": "0.4",
+          "place": "KIBRIS-ZUMRUTKOY",
+          "time": "2026.10.31 19:47:56"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.10.31",
+      "date_hour": "19:47:56",
+      "timestamp": false,
+      "location_tz": "",
+      "city": ""
+    },
+    {
+      "title": "ESKIYOL-KELKIT (GUMUSHANE)",
+      "type": "�lksel",
+      "date": "2026.10.31 18:15:26",
+      "lat": 39.9793,
+      "lng": 39.5762,
+      "md": "-.-",
+      "ml": "3.2",
+      "mw": "3.2",
+      "depth": "7.2",
+      "coordinates": [
+        39.5762,
+        39.9793
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.5762,
+            39.9793
+          ]
+        },
+        "properties": {
+          "mag": "3.2",
+          "place": "ESKIYOL-KELKIT (GUMUSHANE)",
+          "time": "2026.10.31 18:15:26"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.10.31",
+      "date_hour": "18:15:26",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "GUMUSHANE"
+    },
+    {
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "type": "�lksel",
+      "date": "2026.10.31 18:03:23",
+      "lat": 35.6078,
+      "lng": 25.8402,
+      "md": "-.-",
+      "ml": "1.3",
+      "mw": "-.-",
+      "depth": "20.6",
+      "coordinates": [
+        25.8402,
+        35.6078
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.8402,
+            35.6078
+          ]
+        },
+        "properties": {
+          "mag": "1.3",
+          "place": "GIRIT ADASI (AKDENIZ)",
+          "time": "2026.10.31 18:03:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.10.31",
+      "date_hour": "18:03:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "AKDENIZ"
+    },
+    {
+      "title": "CALIKLAR-KEMAH (ERZINCAN)",
+      "type": "�lksel",
+      "date": "2026.10.31 17:37:23",
+      "lat": 39.8582,
+      "lng": 39.0763,
+      "md": "-.-",
+      "ml": "1.8",
+      "mw": "-.-",
+      "depth": "13.6",
+      "coordinates": [
+        39.0763,
+        39.8582
+      ],
+      "geojson": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.0763,
+            39.8582
+          ]
+        },
+        "properties": {
+          "mag": "1.8",
+          "place": "CALIKLAR-KEMAH (ERZINCAN)",
+          "time": "2026.10.31 17:37:23"
+        }
+      },
+      "location_properties": "",
+      "date_day": "2026.10.31",
+      "date_hour": "17:37:23",
+      "timestamp": false,
+      "location_tz": "",
+      "city": "ERZINCAN"
+    },
     {
       "title": "GUNDOGDU-MARMARA (BALIKESIR)",
       "type": "�lksel",
@@ -17821,186 +18001,6 @@
       "timestamp": false,
       "location_tz": "",
       "city": "EGE DENIZI"
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.10.24 18:39:03",
-      "lat": 35.9802,
-      "lng": 26.9417,
-      "md": "-.-",
-      "ml": "2.4",
-      "mw": "-.-",
-      "depth": "15.5",
-      "coordinates": [
-        26.9417,
-        35.9802
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            26.9417,
-            35.9802
-          ]
-        },
-        "properties": {
-          "mag": "2.4",
-          "place": "EGE DENIZI",
-          "time": "2026.10.24 18:39:03"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.10.24",
-      "date_hour": "18:39:03",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "EGE DENIZI",
-      "type": "�lksel",
-      "date": "2026.10.24 16:46:41",
-      "lat": 35.932,
-      "lng": 27.3303,
-      "md": "-.-",
-      "ml": "2.2",
-      "mw": "-.-",
-      "depth": "19.5",
-      "coordinates": [
-        27.3303,
-        35.932
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            27.3303,
-            35.932
-          ]
-        },
-        "properties": {
-          "mag": "2.2",
-          "place": "EGE DENIZI",
-          "time": "2026.10.24 16:46:41"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.10.24",
-      "date_hour": "16:46:41",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "YUNANISTAN",
-      "type": "�lksel",
-      "date": "2026.10.24 15:44:06",
-      "lat": 41.674,
-      "lng": 24.8183,
-      "md": "-.-",
-      "ml": "1.4",
-      "mw": "-.-",
-      "depth": "7.7",
-      "coordinates": [
-        24.8183,
-        41.674
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.8183,
-            41.674
-          ]
-        },
-        "properties": {
-          "mag": "1.4",
-          "place": "YUNANISTAN",
-          "time": "2026.10.24 15:44:06"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.10.24",
-      "date_hour": "15:44:06",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
-    },
-    {
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "type": "�lksel",
-      "date": "2026.10.24 15:30:16",
-      "lat": 39.1973,
-      "lng": 28.1773,
-      "md": "-.-",
-      "ml": "1.9",
-      "mw": "-.-",
-      "depth": "8.0",
-      "coordinates": [
-        28.1773,
-        39.1973
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.1773,
-            39.1973
-          ]
-        },
-        "properties": {
-          "mag": "1.9",
-          "place": "YAYLACIK-SINDIRGI (BALIKESIR)",
-          "time": "2026.10.24 15:30:16"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.10.24",
-      "date_hour": "15:30:16",
-      "timestamp": false,
-      "location_tz": "",
-      "city": "BALIKESIR"
-    },
-    {
-      "title": "MUGLA",
-      "type": "�lksel",
-      "date": "2026.10.24 14:36:38",
-      "lat": 37.2252,
-      "lng": 28.33,
-      "md": "-.-",
-      "ml": "2.0",
-      "mw": "-.-",
-      "depth": "5.0",
-      "coordinates": [
-        28.33,
-        37.2252
-      ],
-      "geojson": {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            28.33,
-            37.2252
-          ]
-        },
-        "properties": {
-          "mag": "2.0",
-          "place": "MUGLA",
-          "time": "2026.10.24 14:36:38"
-        }
-      },
-      "location_properties": "",
-      "date_day": "2026.10.24",
-      "date_hour": "14:36:38",
-      "timestamp": false,
-      "location_tz": "",
-      "city": ""
     }
   ]
 }
